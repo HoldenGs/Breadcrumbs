@@ -1,9 +1,10 @@
 import {createBrowserRouter, RouterProvider} from "react-router-dom"
+import Quarter from "./components/Quarter"
 
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <div>Hello World!</div>,
+    element: <Quarter></Quarter>,
     errorElement: <div>Error!</div>
   }
 ])
