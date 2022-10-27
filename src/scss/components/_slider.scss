@@ -1,0 +1,38 @@
+.horizontal-slider {
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+}
+.example-thumb {
+    cursor: pointer;
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    z-index: 100;
+    background: #ffffff;
+    border: 3px solid #3774ff;
+    border-radius: 100%;
+    display: block;
+    box-shadow: 0 0 2px 0 rgb(0 0 0 / 44%);
+}
+.example-thumb.active {
+    background-color: grey;
+}
+.example-track {
+    top: 0px;
+    position: relative;
+    background: #ddd;
+}
+.example-track.example-track-0 {
+    background: #83a9ff;
+}
+.horizontal-slider .example-track {
+    top: 20px;
+    height: 4px;
+}
+
+.horizontal-slider .example-thumb {
+    top: 15px;
+    outline: none;
+    line-height: 38px;
+}
