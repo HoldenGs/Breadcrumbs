@@ -1,14 +1,10 @@
 import React from 'react'
 
-export default function UserInfo() {
+export default function UserInfo({name, highlightedReview}) {
 
-    let name = 'Nathan Fielder'
-
-    let highlightedReview = 'Tried the latest professor for 35L. He makes some GREAT jokes in-class.'
     return (
-        <div><div className='name'>{name}</div>
-        <br></br>
-        <div className='firstReview'>{highlightedReview}</div>
+        <div className='user-info'><div className='user-info__name'>{name}</div>
+        <div className='user-info__review'>{highlightedReview}</div>
         </div>
     )
 }
