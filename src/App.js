@@ -1,9 +1,10 @@
 import {createBrowserRouter, RouterProvider} from "react-router-dom"
+import CourseCard from "./components/CourseCard"
 
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <div>Hello World!</div>,
+    element: <CourseCard></CourseCard>,
     errorElement: <div>Error!</div>
   }
 ])
