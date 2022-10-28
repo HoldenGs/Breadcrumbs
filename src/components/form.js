@@ -1,5 +1,5 @@
 import React from "react"
-import "./scss/components/form.css"
+import "../scss/components/form.css"
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom"
 import Profile from "./profile"
 
