@@ -1,13 +1,12 @@
-import {createBrowserRouter, RouterProvider} from "react-router-dom"
+import React from "react"
+import Form from "./form"
+function App() {
+  return (
+<Form>
 
-const router = createBrowserRouter([
-  {
-    path: "/",
-    element: <div>Hello World!</div>,
-    errorElement: <div>Error!</div>
-  }
-])
+</Form>
 
-export default function App() {
-  return <RouterProvider router={router} />
+  )
 }
+
+export default App
