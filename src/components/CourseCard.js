@@ -1,7 +1,9 @@
 import React from 'react'
 
-export default function CourseCard() {
+export default function CourseCard({ courseName }) {
   return (
-    <div className='course-card'>CourseCard</div>
+    <div className='course-card'>
+      <div>{courseName}</div>
+    </div>
   )
 }
