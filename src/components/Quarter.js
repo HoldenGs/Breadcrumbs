@@ -1,7 +1,9 @@
 import React from 'react'
 
-export default function Quarter() {
+export default function Quarter({ quarterName }) {
   return (
-    <div>Quarter</div>
+    <div className="quarter">
+      <div>{quarterName}</div>
+    </div>
   )
 }

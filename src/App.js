@@ -4,7 +4,7 @@ import Quarter from "./components/Quarter"
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <Quarter></Quarter>,
+    element: <Quarter quarterName="Fall 2021"></Quarter>,
     errorElement: <div>Error!</div>
   }
 ])
