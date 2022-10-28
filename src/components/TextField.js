@@ -6,10 +6,10 @@ export default function TextField({ startingText, placeholder }) {
 	const [ text, setText ] = useState(startingText || '')
 
 	return (
-		<div className='textfield'>
+		<div className='text-field'>
 			<input
 				type='text'
-				className='textfield__text'
+				className='text-field__input'
 				placeholder={placeholder || ''}
 				onChange={event => setText(event.target.value)}
 				value={text}
