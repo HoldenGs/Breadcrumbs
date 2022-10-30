@@ -1,0 +1,71 @@
+.update-profile {
+  &__body {
+    background-color: #ffd277;
+  }
+  &__a {
+    float: left; 
+    left: 65%;  
+    position: relative;
+    color: #ffa500;
+    margin: auto; 
+    padding: 10px 12px;
+    
+  }
+  &__form {
+    padding: 40px 30px;
+    background-color:white;
+    border-color: #ffd277;
+    border : 5px dashed #ffa500;
+
+   // border-radius: 20px;
+    margin: auto; 
+    width:800px;
+    float: right; 
+    left: 50%;  
+    position: relative;
+    font-family: "Arial";
+  
+  }
+  &__input {
+    width: 100%;
+   padding: 12px 20px;
+   background-color: white;
+   border-color: #ffdab9;
+   margin: 8px 0;
+   box-sizing: border-box;
+   border-radius: 7px;     
+   }
+   &__label {
+   }
+   &__fieldset {
+    background-color:white;
+    border-color: #ffd277;
+    padding:16px;	
+    
+   }
+   &__textarea {
+     font-family: "Arial";
+   }
+    &__button {
+        width: 100%;
+        background-color: #ffd277;
+        padding: 12px 20px;
+        margin: 8px 0;
+        box-sizing: border-box;
+        border-color: #ffd277;
+      //  border-radius: 15px;
+      color: #d2691e;
+    }
+
+}
+body {
+  background-color: #ffdab9;
+}
+
+label {
+  color: grey;
+}
+
+legend {
+  color: grey;
+}
