@@ -13,10 +13,22 @@ export default function CourseCard() {
       <Select
         placeholder='Course'
         searchable
-        data={['31 - Introduction to Computer Science I',
-        '32 - Introduction to Computer Science II',
-        '33 - Introduction to Computer Organization',
-        '35L - Software Construction']}
+        data={[
+          '31 - Introduction to Computer Science I',
+          '32 - Introduction to Computer Science II',
+          '33 - Introduction to Computer Organization',
+          '35L - Software Construction'
+        ]}
+      ></Select>
+      <Select
+        placeholder='Professor'
+        searchable
+        data={[
+          'Smallberg, D.A.',
+          'Nachenberg, C.S.',
+          'Nowatzki, A.J.',
+          'Eggert, P.R.'
+        ]}
       ></Select>
       <Rating count={10} />
       <textarea
