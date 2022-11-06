@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import { Select } from '@mantine/core';
 
 export default function CourseCard({ courseName }) {
@@ -6,16 +6,23 @@ export default function CourseCard({ courseName }) {
     <div className='course-card'>
       <div>{courseName}</div>
       <Select
-        label="Your favorite framework/library"
-        placeholder="Pick one"
-        data={[
-          { value: 'react', label: 'React' },
-          { value: 'ng', label: 'Angular' },
-          { value: 'svelte', label: 'Svelte' },
-          { value: 'vue', label: 'Vue' },
-        ]}
+        placeholder='Department'
+        searchable
+        data={['COM SCI', 'MATH', 'PHYSICS', 'PSYCH']}
       ></Select>
-      <textarea rows='4' cols='36'></textarea>
+      <Select
+        placeholder='Course'
+        searchable
+        data={['31 - Introduction to Computer Science I',
+        '32 - Introduction to Computer Science II',
+        '33 - Introduction to Computer Organization',
+        '35L - Software Construction']}
+      ></Select>
+      <textarea
+        placeholder = 'Express your feelings for the course here...'
+        rows='4'
+        cols='36'
+      ></textarea>
     </div>
-  )
+  );
 }
