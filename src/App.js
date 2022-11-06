@@ -4,7 +4,7 @@ import CourseCard from './components/CourseCard'
 const router = createBrowserRouter([
   {
     path: '/',
-    element: <CourseCard courseName='COM SCI 35L'></CourseCard>,
+    element: <CourseCard></CourseCard>,
     errorElement: <div>Error!</div>
   }
 ])

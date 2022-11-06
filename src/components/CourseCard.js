@@ -1,10 +1,10 @@
 import React from 'react';
-import { Select } from '@mantine/core';
+import { Select, Rating } from '@mantine/core';
 
-export default function CourseCard({ courseName }) {
+export default function CourseCard() {
   return (
     <div className='course-card'>
-      <div>{courseName}</div>
+      <div>New review</div>
       <Select
         placeholder='Department'
         searchable
@@ -18,6 +18,7 @@ export default function CourseCard({ courseName }) {
         '33 - Introduction to Computer Organization',
         '35L - Software Construction']}
       ></Select>
+      <Rating count={10} />
       <textarea
         placeholder = 'Express your feelings for the course here...'
         rows='4'
