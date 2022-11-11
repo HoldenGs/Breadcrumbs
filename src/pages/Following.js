@@ -18,7 +18,7 @@ export default function Following({ db }) {
     if (!users) {
         return (
             <div>
-                <Loader />
+                <Loader color="yellow" />
             </div>
         )
     } else {
