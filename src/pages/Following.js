@@ -2,17 +2,23 @@ import React, { useEffect, useState } from 'react'
 import UserInfo from '../components/UserInfo'
 import { collection, getDocs } from 'firebase/firestore'
 import { Loader } from '@mantine/core'
+import { useRef } from 'react'
 
 
 export default function Following({ db }) {
 
     const [users, setUsers] = useState(null);
+    const refreshUsers = useRef(true);
 
     useEffect(() => {
-        const usersCol = collection(db, 'user')
-        getDocs(usersCol).then((snapshot) => {
-                setUsers(snapshot.docs.map((doc) => doc.data()))
-            })
+        if (refreshUsers.current) {
+            const userID = ""
+            const usersCol = collection(db, 'user')
+            getDocs(usersCol).then((snapshot) => {
+                    setUsers(snapshot.docs.map((doc) => doc.data()))
+                })
+        }
+        refreshUsers.current = false
     })
 
     if (!users) {
