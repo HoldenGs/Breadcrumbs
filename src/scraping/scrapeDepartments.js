@@ -1,6 +1,6 @@
-const axios = require('axios');
-
-axios.defaults.baseURL = 'https://sa.ucla.edu/ro/public/soc';
+const axios = require('axios').create({
+	baseURL: 'https://sa.ucla.edu/ro/public/soc'
+});
 
 const dropdownRegex = /SearchPanelSetup\('(\[.+\])',/;
 

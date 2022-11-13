@@ -1,10 +1,10 @@
-const axios = require('axios');
+const axios = require('axios').create({
+	baseURL: 'https://sa.ucla.edu/ro/public/soc/Results'
+});
 
-axios.defaults.baseURL = 'https://sa.ucla.edu/ro/public/soc';
-
-const firstPageAddend = '/Results?sBy=subject'; // ?t=22F&subj=COM+SCI
-const nextPageAddend = '/Results/CourseTitlesView?search_by=subject';
-const classDataAddend = '/Results/GetCourseSummary'
+const firstPageAddend = '?sBy=subject'; // ?t=22F&subj=COM+SCI
+const nextPageAddend = '/CourseTitlesView?search_by=subject';
+const classDataAddend = '/GetCourseSummary'
 
 const pageRegex = /<input type="hidden" name="pageCount" id="pageCount" value="(\d+)" \/>/;
 
@@ -234,7 +234,8 @@ function getProfessors(model) {
 
 
 const prettifiedQuarters = {
-	'1': 'Summer',
+	'1': 'Summer Sessions',
+	'2': 'Summer', // grad courses lol
 	'F': 'Fall',
 	'W': 'Winter',
 	'S': 'Spring'
