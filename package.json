@@ -19,7 +19,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "scrape": "node src/scraping/scrape.js"
+    "scrape": "node src/scraping"
   },
   "eslintConfig": {
     "extends": [
