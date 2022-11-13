@@ -47,7 +47,7 @@ const baseModel = { // need subj_area_cd (e.g. COM SCI) and term_cd (e.g. 22F)
  * @param {string} term term of classes searching in (e.g. 22F for Fall 2022).
  * 		note that summer uses "1"; 221 means Summer 2022 (by MyUCLA convention lol)
  * @param {string} subject subject: short version of subject (e.g. COM SCI)
- * @returns {Array<Object>} Array<Class> where Class is an object with fields:
+ * @returns {Promise<Array<Object>>} Array<Class> where Class is an object with fields:
  * 		quarter: string (e.g. "Fall 2022")
  *		department: string (e.g. "COM SCI" -- same as input subject)
  * 		code: string (e.g. "35L")

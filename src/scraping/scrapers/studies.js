@@ -6,6 +6,7 @@ const majorsAddend = '/majors';
 const minorsAddend = '/minors';
 
 const linkRegex = /<p><a href=".+">(.+)<\/a>/g;
+const weirdCharRegex = /\u00a0/g;
 
 const majorsRegex = /(.+) \(B\.[ASM]\.(\/ B\.S\.)?\)/;
 
@@ -93,7 +94,7 @@ function retrieveLinkNames(data, startText, endText) {
 
 	const matches = data.matchAll(linkRegex);
 
-	const text = [ ...matches ].map(match => match[1]);
+	const text = [ ...matches ].map(match => match[1].replace(weirdCharRegex, ' '));
 
 	return text;
 }

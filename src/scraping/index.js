@@ -3,10 +3,21 @@ const getDepartments = require('./scrapers/departments');
 const { getStudies, getMajors, getMinors } = require('./scrapers/studies');
 
 const fs = require('fs');
+const { promises: fsp } = fs;
 const path = require('path');
 const { exit } = require('process');
 
 const configPath = path.join(__dirname, 'config.json');
+const dataPath = path.join(__dirname, 'data');
+
+const studiesPath = path.join(dataPath, 'studies');
+const majorsPath = path.join(studiesPath, 'majors.json');
+const minorsPath = path.join(studiesPath, 'minors.json');
+
+const departmentsPath = path.join(dataPath, 'departments.json');
+const quartersPath = path.join(dataPath, 'quarters.json');
+
+const classesPath = path.join(dataPath, 'classes');
 
 const defaultConfig = {
 	scrape: { // items to scrape and (over)write to JSON.
@@ -27,7 +38,7 @@ const defaultConfig = {
 			department: 'COM SCI' // optional. a specific department's classes to upload.
 		}
 	}
-}
+};
 
 /*
 	data directory structure:
@@ -50,9 +61,9 @@ const defaultConfig = {
 //        MAIN SCRIPT
 // =========================
 
-(async function() {
-	let config;
-	
+let config;
+
+(async () => {
 	if (fs.existsSync(configPath)) {
 		try {
 			config = JSON.parse(fs.readFileSync(configPath, 'utf-8'));
@@ -71,6 +82,12 @@ const defaultConfig = {
 	
 		config = JSON.parse(JSON.stringify(defaultConfig));
 	
+		console.log('Done.');
+	}
+
+	if (!fs.existsSync(dataPath)) {
+		console.log('No data directory found. Creating one...');
+		fs.mkdirSync(dataPath);
 		console.log('Done.');
 	}
 	
@@ -98,23 +115,120 @@ async function scrape() {
 		return;
 	}
 
-	if (scrape.studies) {
-		let studies;
+	if (scrape.studies)
+		await scrapeStudies();
 
-		try {
-			studies = await getStudies();
-		} catch (error) {
-			console.error('Error while scraping studies!');
-			console.error(error);
-			console.error('\nAborting.');
-			exit();
-		}
-	}
+	if (scrape.departments)
+		await scrapeDepartments();
+
+	if (scrape.classes)
+		await scrapeClasses();
 }
+
+async function scrapeStudies() {
+	console.log('---> Scraping studies\n')
+		
+	try {
+		if (!fs.existsSync(studiesPath))
+			fs.mkdirSync(studiesPath);
+
+		console.log('Scraping from webpage...');
+		let { majors, minors } = await getStudies();
+		console.log('Done.');
+
+		console.log('Saving majors and minors to studies/*.json files...');
+
+		await Promise.all([
+			fsp.writeFile(majorsPath, JSON.stringify(majors, null, '\t')),
+			fsp.writeFile(minorsPath, JSON.stringify(minors, null, '\t'))
+		]);
+		console.log('Done.');
+	} catch (error) {
+		console.error('Error while scraping studies!');
+		console.error(error);
+		console.log('\nAborting.');
+		exit();
+	}
+
+	console.log();
+}
+
+async function scrapeDepartments() {
+	console.log('---> Scraping departments\n')
+	
+	try {
+		console.log('Scraping from webpage...');
+		let departments = await getDepartments();
+		console.log('Done.');
+
+		console.log('Saving departments to departments.json...');
+		await fsp.writeFile(departmentsPath, JSON.stringify(departments, null, '\t'));
+		console.log('Done.');
+	} catch (error) {
+		console.error('Error while scraping departments!');
+		console.error(error);
+		console.log('\nAborting.');
+		exit();
+	}
+	
+	console.log();
+}
+
+async function scrapeClasses() {
+	const { term, delay = 5000, department } = config.scrape.classes;
+	const termPath = path.join(classesPath, term);	
+
+	console.log(`---> Scraping classes for ${term}\n`);
+	
+	try {
+		if (!fs.existsSync(classesPath))
+			fs.mkdirSync(classesPath);
+
+		if (!fs.existsSync(termPath))
+			fs.mkdirSync(termPath);
+
+		let departments = [];
+
+		if (department)
+			departments = [ department ];
+		else
+			departments = await JSON.parse(fsp.readFile(departmentsPath, 'utf-8'));
+
+		for (let i = 0; i < departments.length;) {
+			const department = departments[i];
+
+			console.log(`Fetching classes in the ${department} department...`);
+			const classes = await getAllClassesBySubject(term, department);
+			console.log('Done.');
+
+			console.log(`Saving classes to classes/${term}/${department}.json...`);
+			await fsp.writeFile(path.join(termPath, department + '.json'), JSON.stringify(classes, null, '\t'));
+			console.log('Done.');
+
+			if (++i < departments.length)
+				await wait(delay);
+		}
+	} catch (error) {
+		console.error('Error while scraping classes!');
+		console.error(error);
+		console.log('\nAborting.');
+		exit();
+	}
+	
+	console.log();
+}
+
+// ======================================
+//        BEGIN UPLOADING SECTION
+// ======================================
 
 function upload() {
 
 }
+
+// ======================================
+//        BEGIN HELPER FUNCTIONS
+// ======================================
 
 function printConfigTasks() {
 	console.log('With the currently loaded config, the following tasks will be performed:\n');
@@ -178,7 +292,15 @@ function affirmAndWait(seconds) {
 	return new Promise((resolve) => {
 		console.log(`Are you sure you would like to do all this? Tasks will begin in ${seconds} seconds if the program is not terminated.`);
 
-		setTimeout(resolve, seconds * 1000);
+		wait(1000 * seconds).then(resolve);
+	});
+}
+
+
+
+function wait(ms) {
+	return new Promise((resolve) => {
+		setTimeout(resolve, ms);
 	});
 }
 
