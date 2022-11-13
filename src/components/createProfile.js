@@ -55,12 +55,6 @@ export default function CreateProfile() {
     }
 
     function handleSubmit() {
-        // nameFirst = formData.firstName
-        // nameLast = formData.lastName
-        // major = formData.major
-        // username = formData.username
-        // minor = formData.minor
-        // bio = formData.bio
         const usersColRef = collection(db, 'user')
         if(document.querySelector('input[name="year"]:checked')!=null)
             formData.year = document.querySelector('input[name="year"]:checked').value
@@ -94,12 +88,7 @@ export default function CreateProfile() {
             followers: arrayUnion(),
         }).then(function(docRef) {
             console.log("Document written with ID: ", docRef.id);
-            // db.collection("user").doc(docRef.id.toString()).update({
-            //     userID: docRef.id,
-            // });
             formData.save = docRef.id.toString();
-            console.log("wtf");
-            console.log(formData.save);
         })
 
     }
@@ -263,7 +252,7 @@ export default function CreateProfile() {
             <Link to={`/profile/${userName}`} state={{from: {userName}}}>
             <br />
                 <button className="create-profile__button" onClick={handleSubmit}>
-                    Save
+                    Create profile
                 </button>
                 </Link>
 
