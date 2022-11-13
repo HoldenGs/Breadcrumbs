@@ -1,10 +1,10 @@
 const axios = require('axios');
 
-axios.defaults.baseURL = 'https://sa.ucla.edu/ro/public/soc/Results';
+axios.defaults.baseURL = 'https://sa.ucla.edu/ro/public/soc';
 
-const firstPageAddend = '?sBy=subject'; // ?t=22F&subj=COM+SCI
-const nextPageAddend = '/CourseTitlesView?search_by=subject';
-const classDataAddend = '/GetCourseSummary'
+const firstPageAddend = '/Results?sBy=subject'; // ?t=22F&subj=COM+SCI
+const nextPageAddend = '/Results/CourseTitlesView?search_by=subject';
+const classDataAddend = '/Results/GetCourseSummary'
 
 const pageRegex = /<input type="hidden" name="pageCount" id="pageCount" value="(\d+)" \/>/;
 

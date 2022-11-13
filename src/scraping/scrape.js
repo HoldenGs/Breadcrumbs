@@ -1,3 +1,5 @@
 const getAllClassesBySubject = require('./scrapeClasses');
+const getDepartments = require('./scrapeDepartments');
 
-getAllClassesBySubject('22F', 'ASTR').then(console.log);
+getDepartments().then(console.log);
+getAllClassesBySubject('22F', 'ESL').then(console.log);
