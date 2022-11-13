@@ -1,9 +1,15 @@
 import { default as useAuth } from "./authContext"
 import { Link } from "react-router-dom"
-import {useState} from "react"
+import {useEffect, useInsertionEffect, useState} from "react"
 import {db} from "../firebase"
 import "../scss/components/_login.scss"
 import {serverTimestamp} from "firebase/firestore"
+import { collection, getDocs } from "firebase/firestore";
+import Profile from "./Profile"
+
+export let userName = [];
+export let actualname;
+export let rows = [];
 
 export default function Login() {
   const { login } = useAuth()
@@ -11,22 +17,29 @@ export default function Login() {
 
   const [formData, setFormData] = useState(
     {
-        firstName: "", 
-        lastName: "", 
         email: "", 
-        year: "",
-        username: "",
         password: "",
-        major: "",
-        minor: "",
-        bio: "",
-        finished: false,
-        userID: 0,
-        saveMe: "",
     }
 )
 
-  function handleSubmit() {
+const [username, setUsername] = useState([])
+
+useEffect(() => {
+    if(currentUser!=null) {
+    setUsername("")
+    db
+      .collection("user")
+      .where("userID", "==", currentUser.uid.toString())
+      .get()
+      .then((results) => {
+        results.forEach((doc) => {
+          setUsername(doc.data().username)
+          })
+        });  
+    }
+  }, [])
+
+function handleSubmit() {
 
     try {
       login(formData.email, formData.password)
@@ -40,7 +53,7 @@ export default function Login() {
             db.collection("user").doc(doc.id.toString()).update({
                     loggedIn: serverTimestamp(),
                 });
-
+        setUsername(doc.data().username)
         });
     })
     .catch(function(error) {
@@ -50,6 +63,7 @@ export default function Login() {
   }
 
   function handleChange(event) {
+    //console.log(event.target.value)
     const {name, value, type, checked} = event.target
     setFormData(prevFormData => {
         return {
@@ -57,6 +71,31 @@ export default function Login() {
             [name]: type === "checkbox" ? checked : value
         }
     })
+
+}
+
+function handleChangePassword(event) {
+    const {name, value, type, checked} = event.target
+    setFormData(prevFormData => {
+        return {
+            ...prevFormData,
+            [name]: type === "checkbox" ? checked : value
+        }
+    })
+    try {
+        login(formData.email, event.target.value)
+        db.collection("user").where("userID", "==", currentUser.uid.toString())
+        .get()
+        .then(function(querySnapshot) {
+            querySnapshot.forEach(function(doc) {
+                setUsername(doc.data().username)
+            });
+        })
+        .catch(function(error) {
+            console.log("Error getting documents: ", error);
+        });
+      } catch {
+      } 
 
 }
 
@@ -75,13 +114,13 @@ export default function Login() {
                 type="text"
                 id="message"
                 placeholder="Leave blank to keep the same"
-                onChange={handleChange}
+                onChange={handleChangePassword}
                 name="password"
                 value={formData.password}
             />
             <br />
              
-                <Link to="/profile">
+                <Link to={`/profile/${username}`} state={{from: {username}}} >
                 <br />
                 <button className="login__button" onClick={handleSubmit}>
                     Login
