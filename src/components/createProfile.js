@@ -4,7 +4,8 @@ import Profile from "./Profile"
 import { Link, useHistory } from "react-router-dom"
 import {createBrowserRouter, RouterProvider} from "react-router-dom"
 import {db, auth} from "../firebase"
-import {collection, addDoc, serverTimestamp, getDocs,getFirestore, doc, getDoc, setDoc } from "firebase/firestore"
+import {collection, addDoc, serverTimestamp, arrayUnion, getDocs,getFirestore, doc, getDoc, setDoc } from "firebase/firestore"
+
 
 export default function CreateProfile() {
     const [formData, setFormData] = useState(
@@ -27,10 +28,11 @@ export default function CreateProfile() {
             minor3: "",               
         }
     )
+    const [userName, setUserName] = useState([])
 
     
     function handleChange(event) {
-        //console.log(event.target.value)
+        // console.log(event.target.value)
         const {name, value, type, checked} = event.target
         setFormData(prevFormData => {
             return {
@@ -41,10 +43,29 @@ export default function CreateProfile() {
 
     }
 
+    function handleChangeUsername(event) {
+        const {name, value, type, checked} = event.target
+        setFormData(prevFormData => {
+            return {
+                ...prevFormData,
+                [name]: type === "checkbox" ? checked : value
+            }
+        })
+        setUserName(event.target.value)
+    }
+
     function handleSubmit() {
+        // nameFirst = formData.firstName
+        // nameLast = formData.lastName
+        // major = formData.major
+        // username = formData.username
+        // minor = formData.minor
+        // bio = formData.bio
         const usersColRef = collection(db, 'user')
         if(document.querySelector('input[name="year"]:checked')!=null)
             formData.year = document.querySelector('input[name="year"]:checked').value
+
+        //auth.createUserWithEmailAndPassword(formData.email, formData.password)
 
         auth.createUserWithEmailAndPassword(formData.email, formData.password)
    .then(data => {  
@@ -54,8 +75,7 @@ export default function CreateProfile() {
             userID: data.user.uid,   
         });
    })
-   console.log("then onto addDoc");
-   console.log(formData.major2)
+  
         addDoc(usersColRef, {
             firstName: formData.firstName,
             lastName: formData.lastName,
@@ -71,9 +91,14 @@ export default function CreateProfile() {
             major2: formData.major2,
             major3: formData.major3,
             loggedIn: serverTimestamp(),
+            followers: arrayUnion(),
         }).then(function(docRef) {
             console.log("Document written with ID: ", docRef.id);
+            // db.collection("user").doc(docRef.id.toString()).update({
+            //     userID: docRef.id,
+            // });
             formData.save = docRef.id.toString();
+            console.log("wtf");
             console.log(formData.save);
         })
 
@@ -104,7 +129,7 @@ export default function CreateProfile() {
             <label> Username </label><input className="create-profile__input"
                 type="text"
                 id="message"
-                onChange={handleChange}
+                onChange={handleChangeUsername}
                 placeholder="Username"
                 name="username"
                 value={formData.username}
@@ -234,9 +259,9 @@ export default function CreateProfile() {
                 placeholder="Briefly describe any additional academic and/or extracurricular commitment you'd like to share."
                onChange={handleChange}
             />
-             
-<Link to="/profile">
-<br />
+
+            <Link to={`/profile/${userName}`} state={{from: {userName}}}>
+            <br />
                 <button className="create-profile__button" onClick={handleSubmit}>
                     Save
                 </button>
@@ -245,6 +270,5 @@ export default function CreateProfile() {
             </form>
             <br />
             </body>
-
     )
 }
