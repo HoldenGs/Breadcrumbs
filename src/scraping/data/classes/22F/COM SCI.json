@@ -1,0 +1,3474 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "1",
+		"title": "Freshman Computer Science Seminar",
+		"professor": "Millstein, T.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "30",
+		"title": "Principles and Practices of Computing",
+		"professor": "Millstein, T.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "31",
+		"title": "Introduction to Computer Science I",
+		"professor": "Smallberg, D.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "33",
+		"title": "Introduction to Computer Organization",
+		"professor": "Nowatzki, A.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "35L",
+		"title": "Software Construction",
+		"professor": "Eggert, P.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M51A",
+		"title": "Logic Design of Digital Systems",
+		"professor": "Korf, R.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M51A",
+		"title": "Logic Design of Digital Systems",
+		"professor": "Abari, O."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "111",
+		"title": "Operating Systems Principles",
+		"professor": "Eggert, P.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "118",
+		"title": "Computer Network Fundamentals",
+		"professor": "Varghese, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M119",
+		"title": "Fundamentals of Embedded Networked Systems",
+		"professor": "Chen, X."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "130",
+		"title": "Software Engineering",
+		"professor": "Kim, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "131",
+		"title": "Programming Languages",
+		"professor": "Nachenberg, C.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M146",
+		"title": "Introduction to Machine Learning",
+		"professor": "Chang, K.; Monajatipoor, M.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M151B",
+		"title": "Computer Systems Architecture",
+		"professor": "Sehatbakhsh, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M152A",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Wallin, J.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M152A",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Anbumani, A.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M152A",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Patel, S.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M152A",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Shah, P.R.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M152A",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Parab, S.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M152A",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Sahu, D.R.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "152B",
+		"title": "Digital Design Project Laboratory",
+		"professor": "Ershadi, G.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "161",
+		"title": "Fundamentals of Artificial Intelligence",
+		"professor": "Van den Broeck, G.; Dang, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "174A",
+		"title": "Introduction to Computer Graphics",
+		"professor": "Law, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "180",
+		"title": "Introduction to Algorithms and Complexity",
+		"professor": "Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "181",
+		"title": "Introduction to Formal Languages and Automata Theory",
+		"professor": "Meka, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M182",
+		"title": "Dynamic Biosystem Modeling and Simulation Methodology",
+		"professor": "Distefano, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M184",
+		"title": "Introduction to Computational and Systems Biology",
+		"professor": "Rakocz, N.; Eskin, E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "188",
+		"title": "Special Courses in Computer Science: Natural Language Processing",
+		"professor": "Peng, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "192",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Shaked, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M192A",
+		"title": "Introduction to Collaborative Learning Theory and Practice",
+		"professor": "Shaked, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "201",
+		"title": "Computer Science Seminar",
+		"professor": "Gu, Q."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "211",
+		"title": "Network Protocol and Systems Software Design for Wireless and Mobile",
+		"professor": "Lu, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M213A",
+		"title": "Embedded Systems",
+		"professor": "Srivastava, M.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "217A",
+		"title": "Internet Architecture and Protocols",
+		"professor": "Zhang, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M226",
+		"title": "Machine Learning in Bioinformatics",
+		"professor": "Sankararaman, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M238",
+		"title": "Quantum Programming",
+		"professor": "Palsberg, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "245",
+		"title": "Big Data Analytics",
+		"professor": "Wang, W.; Jiang, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "249",
+		"title": "Current Topics in Data Structures: Lecture 80  ",
+		"professor": "Shirani-Mehr, H.; Lu, P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "251A",
+		"title": "Advanced Computer Architecture",
+		"professor": "Tamir, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M258A",
+		"title": "Design of VLSI Circuits and Systems",
+		"professor": "Markovic, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "260",
+		"title": "Machine Learning Algorithms",
+		"professor": "Gu, Q."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "260D",
+		"title": "Large-Scale Machine Learning",
+		"professor": "Mirzasoleiman, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "264A",
+		"title": "Automated Reasoning: Theory and Applications",
+		"professor": "Darwiche, A.Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "264A",
+		"title": "Automated Reasoning: Theory and Applications",
+		"professor": "Darwiche, A.Y.; Chen, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "269",
+		"title": "Seminar: Current Topics in Artificial Intelligence: Adversarial Robustness of Machine Learning Models",
+		"professor": "Hsieh, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "269",
+		"title": "Seminar: Current Topics in Artificial Intelligence: Artificial Intelligence and Climate Change",
+		"professor": "Grover, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "269",
+		"title": "Seminar: Current Topics in Artificial Intelligence: Reinforcement Learning",
+		"professor": "Zhou, B.; Peng, Z."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M276A",
+		"title": "Pattern Recognition and Machine Learning",
+		"professor": "No instructors"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M282A",
+		"title": "Cryptography",
+		"professor": "Ostrovsky, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "285CC",
+		"title": "Communication Complexity",
+		"professor": "Sherstov, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Abari, O."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Afanasyev, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Chang, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Cho, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Cong, J.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Darwiche, A.Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Distefano, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Eggert, P.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Ernst, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Eskin, E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Fletcher, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Gafni, E.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Grover, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Gu, Q."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Halperin, E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Heckerman, D.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Hsieh, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Jacobson, V."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Kadambi, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Kay, A.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Kim, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Kleinrock, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Korf, R.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Lu, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Meka, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Millstein, T.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Mirzasoleiman, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Nachenberg, C.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Nowatzki, A.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Osher, S.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Ostrovsky, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Palsberg, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Pau, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Pearl, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Peng, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Potkonjak, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Ramezani, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Reiher, P.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Reinman, G.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Sahai, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Sankararaman, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Scalzo, F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Sherstov, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Smallberg, D.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Soatto, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Srivastava, M.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Sun, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Tamir, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Terzopoulos, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Van den Broeck, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Van der Schaar, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Varghese, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Wang, W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Xu, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Zhang, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Zhou, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "298",
+		"title": "Research Seminar: Computer Science",
+		"professor": "Zhu, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Abari, O."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Chang, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Cho, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Darwiche, A.Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Distefano, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Eggert, P.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Eskin, E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Grover, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Gu, Q."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Hsieh, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Kim, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Korf, R.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Law, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Lu, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Meka, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Millstein, T.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Mirzasoleiman, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Nachenberg, C.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Nowatzki, A.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Ostrovsky, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Palsberg, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Peng, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Sankararaman, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Sherstov, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Smallberg, D.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Soatto, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Tamir, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Van den Broeck, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Varghese, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Zhang, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Zhou, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "495",
+		"title": "Teaching Assistant Training Seminar",
+		"professor": "Korf, R.E.; Hirth, A.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Abari, O."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Afanasyev, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Chang, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Cong, J.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Darwiche, A.Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Distefano, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Eggert, P.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Ernst, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Eskin, E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Fletcher, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Gafni, E.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Grover, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Gu, Q."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Halperin, E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Heckerman, D.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Hsieh, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Jacobson, V."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Kadambi, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Kay, A.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Kim, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Kleinrock, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Korf, R.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Lu, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Meka, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Millstein, T.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Mirzasoleiman, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Nachenberg, C.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Netravali, R.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Nowatzki, A.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Osher, S.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Ostrovsky, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Palsberg, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Pau, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Pearl, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Peng, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Potkonjak, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Ramezani, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Reiher, P.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Reinman, G.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Sahai, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Sankararaman, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Scalzo, F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Sherstov, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Smallberg, D.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Soatto, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Srivastava, M.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Sun, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Tamir, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Terzopoulos, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Van den Broeck, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Van der Schaar, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Varghese, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Wang, W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Xu, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Zaniolo, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Zhang, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Zhou, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Zhu, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "596",
+		"title": "Directed Individual or Tutorial Studies",
+		"professor": "Watson, D.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Abari, O."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Afanasyev, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Chang, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Cong, J.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Darwiche, A.Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Distefano, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Eggert, P.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Ernst, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Eskin, E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Fletcher, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Gafni, E.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Grover, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Gu, Q."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Halperin, E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Heckerman, D.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Hsieh, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Jacobson, V."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Kadambi, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Kay, A.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Kim, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Kleinrock, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Korf, R.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Lu, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Meka, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Millstein, T.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Mirzasoleiman, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Nachenberg, C.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Netravali, R.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Nowatzki, A.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Osher, S.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Ostrovsky, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Palsberg, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Pau, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Pearl, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Peng, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Potkonjak, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Ramezani, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Reiher, P.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Reinman, G.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Sahai, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Sankararaman, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Scalzo, F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Sherstov, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Smallberg, D.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Soatto, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Srivastava, M.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Sun, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Tamir, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Terzopoulos, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Van den Broeck, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Van der Schaar, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Varghese, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Wang, W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Xu, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Zaniolo, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Zhang, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Zhou, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597A",
+		"title": "Preparation for MS Comprehensive Examination",
+		"professor": "Zhu, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Abari, O."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Afanasyev, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Chang, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Cong, J.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Darwiche, A.Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Distefano, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Eggert, P.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Ernst, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Eskin, E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Fletcher, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Gafni, E.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Grover, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Gu, Q."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Halperin, E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Heckerman, D.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Hsieh, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Jacobson, V."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Kadambi, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Kay, A.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Kim, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Kleinrock, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Korf, R.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Lu, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Meka, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Millstein, T.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Mirzasoleiman, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Nachenberg, C.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Netravali, R.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Nowatzki, A.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Osher, S.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Ostrovsky, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Palsberg, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Pau, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Pearl, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Peng, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Potkonjak, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Ramezani, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Reiher, P.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Reinman, G.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Sahai, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Sankararaman, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Scalzo, F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Sherstov, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Smallberg, D.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Soatto, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Srivastava, M.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Sun, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Tamir, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Terzopoulos, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "The Staff"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Van den Broeck, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Van der Schaar, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Varghese, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Wang, W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Xu, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Zaniolo, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Zhang, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Zhou, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597B",
+		"title": "Preparation for PhD Preliminary Examination",
+		"professor": "Zhu, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Abari, O."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Afanasyev, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Chang, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Cong, J.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Darwiche, A.Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Distefano, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Eggert, P.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Ernst, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Eskin, E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Fletcher, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Gafni, E.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Grover, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Gu, Q."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Halperin, E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Heckerman, D.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Hsieh, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Jacobson, V."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Kadambi, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Kay, A.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Kim, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Kleinrock, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Korf, R.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Lu, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Meka, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Millstein, T.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Mirzasoleiman, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Nachenberg, C.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Netravali, R.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Nowatzki, A.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Osher, S.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Ostrovsky, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Palsberg, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Pau, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Pearl, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Peng, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Potkonjak, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Ramezani, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Reiher, P.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Reinman, G.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Sahai, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Sankararaman, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Sherstov, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Smallberg, D.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Soatto, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Srivastava, M.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Sun, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Tamir, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Terzopoulos, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Van den Broeck, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Van der Schaar, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Varghese, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Wang, W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Xu, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Zaniolo, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Zhang, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Zhou, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "597C",
+		"title": "Preparation for PhD Oral Qualifying Examination",
+		"professor": "Zhu, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Abari, O."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Afanasyev, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Chang, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Cong, J.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Darwiche, A.Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Distefano, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Eggert, P.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Ernst, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Eskin, E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Fletcher, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Gafni, E.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Grover, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Gu, Q."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Halperin, E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Heckerman, D.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Hsieh, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Jacobson, V."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Kadambi, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Kay, A.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Kim, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Korf, R.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Lu, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Meka, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Millstein, T.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Mirzasoleiman, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Nachenberg, C.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Netravali, R.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Nowatzki, A.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Osher, S.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Ostrovsky, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Palsberg, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Pau, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Pearl, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Peng, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Potkonjak, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Ramezani, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Reiher, P.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Reinman, G.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Sahai, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Sankararaman, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Scalzo, F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Sherstov, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Smallberg, D.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Soatto, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Srivastava, M.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Sun, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Tamir, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Terzopoulos, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Van den Broeck, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Van der Schaar, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Varghese, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Wang, W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Xu, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Zhang, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Zhou, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Zhu, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "598",
+		"title": "Research for and Preparation of MS Thesis",
+		"professor": "Zaniolo, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Abari, O."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Afanasyev, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Chang, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Cong, J.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Darwiche, A.Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Distefano, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Eggert, P.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Ernst, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Eskin, E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Fletcher, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Gafni, E.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Grover, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Gu, Q."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Halperin, E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Heckerman, D.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Hsieh, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Jacobson, V."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Kadambi, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Kay, A.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Kim, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Kleinrock, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Korf, R.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Lu, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Meka, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Millstein, T.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Mirzasoleiman, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Nachenberg, C.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Netravali, R.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Nowatzki, A.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Osher, S.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Ostrovsky, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Palsberg, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Pau, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Pearl, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Peng, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Potkonjak, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Ramezani, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Reiher, P.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Reinman, G.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Sahai, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Sankararaman, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Scalzo, F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Sherstov, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Smallberg, D.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Soatto, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Srivastava, M.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Sun, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Tamir, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Terzopoulos, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "The Staff"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Van den Broeck, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Van der Schaar, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Varghese, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Wang, W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Xu, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Zaniolo, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Zhang, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Zhou, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Zhu, S."
+	}
+]
