@@ -52,9 +52,9 @@ export default function CourseCard() {
             onChange={setRating}
           />
           <textarea
-            // placeholder = 'Express your feelings for the course here...'
-            // rows='4'
-            // cols='36'
+            placeholder = 'Express your feelings for the course here...'
+            rows='4'
+            cols='36'
             value={feelings}
             onChange={(event) => setFeelings(event.target.value)}
           />
