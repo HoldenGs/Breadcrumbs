@@ -1,0 +1,11 @@
+.nav-button {
+	background-color: #6d6da5;
+	padding: 15px;
+	border: 2px solid gray;
+	text-align: center;
+	margin: 5px;
+
+	&.active {
+		background-color: #4e4ebc;
+	}
+}
