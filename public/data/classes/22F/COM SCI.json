@@ -1,0 +1,352 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "1",
+		"title": "Freshman Computer Science Seminar",
+		"professor": "Millstein, T.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "30",
+		"title": "Principles and Practices of Computing",
+		"professor": "Millstein, T.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "31",
+		"title": "Introduction to Computer Science I",
+		"professor": "Smallberg, D.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "33",
+		"title": "Introduction to Computer Organization",
+		"professor": "Nowatzki, A.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "35L",
+		"title": "Software Construction",
+		"professor": "Eggert, P.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M51A",
+		"title": "Logic Design of Digital Systems",
+		"professor": "Korf, R.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M51A",
+		"title": "Logic Design of Digital Systems",
+		"professor": "Abari, O."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "111",
+		"title": "Operating Systems Principles",
+		"professor": "Eggert, P.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "118",
+		"title": "Computer Network Fundamentals",
+		"professor": "Varghese, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M119",
+		"title": "Fundamentals of Embedded Networked Systems",
+		"professor": "Chen, X."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "130",
+		"title": "Software Engineering",
+		"professor": "Kim, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "131",
+		"title": "Programming Languages",
+		"professor": "Nachenberg, C.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M146",
+		"title": "Introduction to Machine Learning",
+		"professor": "Chang, K.; Monajatipoor, M.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M151B",
+		"title": "Computer Systems Architecture",
+		"professor": "Sehatbakhsh, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M152A",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Wallin, J.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M152A",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Anbumani, A.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M152A",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Patel, S.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M152A",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Shah, P.R.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M152A",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Parab, S.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M152A",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Sahu, D.R.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "152B",
+		"title": "Digital Design Project Laboratory",
+		"professor": "Ershadi, G.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "161",
+		"title": "Fundamentals of Artificial Intelligence",
+		"professor": "Van den Broeck, G.; Dang, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "174A",
+		"title": "Introduction to Computer Graphics",
+		"professor": "Law, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "180",
+		"title": "Introduction to Algorithms and Complexity",
+		"professor": "Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "181",
+		"title": "Introduction to Formal Languages and Automata Theory",
+		"professor": "Meka, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M182",
+		"title": "Dynamic Biosystem Modeling and Simulation Methodology",
+		"professor": "Distefano, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M184",
+		"title": "Introduction to Computational and Systems Biology",
+		"professor": "Rakocz, N.; Eskin, E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "188",
+		"title": "Special Courses in Computer Science: Natural Language Processing",
+		"professor": "Peng, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "192",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Shaked, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M192A",
+		"title": "Introduction to Collaborative Learning Theory and Practice",
+		"professor": "Shaked, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "201",
+		"title": "Computer Science Seminar",
+		"professor": "Gu, Q."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "211",
+		"title": "Network Protocol and Systems Software Design for Wireless and Mobile",
+		"professor": "Lu, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M213A",
+		"title": "Embedded Systems",
+		"professor": "Srivastava, M.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "217A",
+		"title": "Internet Architecture and Protocols",
+		"professor": "Zhang, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M226",
+		"title": "Machine Learning in Bioinformatics",
+		"professor": "Sankararaman, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M238",
+		"title": "Quantum Programming",
+		"professor": "Palsberg, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "245",
+		"title": "Big Data Analytics",
+		"professor": "Wang, W.; Jiang, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "249",
+		"title": "Current Topics in Data Structures: Lecture 80  ",
+		"professor": "Shirani-Mehr, H.; Lu, P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "251A",
+		"title": "Advanced Computer Architecture",
+		"professor": "Tamir, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M258A",
+		"title": "Design of VLSI Circuits and Systems",
+		"professor": "Markovic, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "260",
+		"title": "Machine Learning Algorithms",
+		"professor": "Gu, Q."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "260D",
+		"title": "Large-Scale Machine Learning",
+		"professor": "Mirzasoleiman, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "264A",
+		"title": "Automated Reasoning: Theory and Applications",
+		"professor": "Darwiche, A.Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "264A",
+		"title": "Automated Reasoning: Theory and Applications",
+		"professor": "Darwiche, A.Y.; Chen, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "269",
+		"title": "Seminar: Current Topics in Artificial Intelligence: Adversarial Robustness of Machine Learning Models",
+		"professor": "Hsieh, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "269",
+		"title": "Seminar: Current Topics in Artificial Intelligence: Artificial Intelligence and Climate Change",
+		"professor": "Grover, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "269",
+		"title": "Seminar: Current Topics in Artificial Intelligence: Reinforcement Learning",
+		"professor": "Zhou, B.; Peng, Z."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M276A",
+		"title": "Pattern Recognition and Machine Learning",
+		"professor": "No instructors"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "M282A",
+		"title": "Cryptography",
+		"professor": "Ostrovsky, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COM SCI",
+		"code": "285CC",
+		"title": "Communication Complexity",
+		"professor": "Sherstov, A."
+	}
+]

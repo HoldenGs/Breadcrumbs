@@ -76,6 +76,13 @@ function getAllClassesBySubject(term, subject) {
 				});
 			}
 
+			classes = classes.filter(c => {
+				const model = JSON.parse(c.model);
+				const code = model.CatalogNumber.slice(0, 4);
+
+				return parseInt(code) <= 297;
+			});
+
 			let toFetch = [];
 
 			for (let i = 0; i < classes.length; ++i) {

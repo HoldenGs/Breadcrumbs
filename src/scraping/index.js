@@ -1,6 +1,6 @@
 const getAllClassesBySubject = require('./scrapers/classes');
 const getDepartments = require('./scrapers/departments');
-const { getStudies, getMajors, getMinors } = require('./scrapers/studies');
+const { getStudies } = require('./scrapers/studies');
 
 const fs = require('fs');
 const { promises: fsp } = fs;
@@ -8,7 +8,7 @@ const path = require('path');
 const { exit } = require('process');
 
 const configPath = path.join(__dirname, 'config.json');
-const dataPath = path.join(__dirname, 'data');
+const dataPath = path.join(__dirname, '..', '..', 'public', 'data');
 
 const studiesPath = path.join(dataPath, 'studies');
 const majorsPath = path.join(studiesPath, 'majors.json');
@@ -92,7 +92,7 @@ let config;
 	}
 	
 	printConfigTasks();
-	await affirmAndWait(10);
+	await affirmAndWait(3);
 	
 	console.log('\n======> BEGIN SCRAPING TASKS\n');
 	
