@@ -21,6 +21,7 @@ const router = createBrowserRouter([
   {
     path: "/",
     element: <Following db={db} />,
+
     errorElement: <div>Error!</div>
   }
 ])

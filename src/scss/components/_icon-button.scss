@@ -1,0 +1,13 @@
+.icon-button {
+	display: inline-block;
+	margin: 10px;
+	padding: 5px;
+	border: 2px solid #5e5e5e;
+	border-radius: 5px;
+	background-color: #d0d0d0;
+
+	&__image {
+		height: 40px;
+		width: 40px;
+	}
+}
