@@ -3,7 +3,7 @@
 // disabled prop, optional, whether button is disabled
 // type, optional, type of button (defaults to 1, a primary button) -- for styling
 export default function Button({ text, onClick, disabled = false, type = 1 }) {
-	const className = `button-${type}`
+	const className = `button--${type}`
 
 	return <button
 		onClick={onClick}
