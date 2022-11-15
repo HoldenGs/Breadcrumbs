@@ -1,5 +1,4 @@
 import {createBrowserRouter, RouterProvider} from 'react-router-dom'
-import Following from './pages/Following'
 import { initializeApp } from 'firebase/app'
 import { getFirestore } from 'firebase/firestore'
 import CourseCard from './components/CourseCard'
