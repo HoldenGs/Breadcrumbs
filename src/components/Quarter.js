@@ -11,6 +11,7 @@ export default function Quarter({ quarterName }) {
     feelings: "This class is hmmmmmm.",
   }
 
+  const [editable, setEditable] = useState(false)
   const [coursesTaken, setCoursesTaken] = useState([])
 
   function addCourseCard() {
@@ -22,14 +23,15 @@ export default function Quarter({ quarterName }) {
   return (
     <div className="quarter">
       <div>{quarterName}</div>
+      <button onClick={() => setEditable(!editable)}>{editable ? "Save" : "Edit"}</button>
       {coursesTaken.length !== 0 ? (
         coursesTaken.map((course, idx) => (
-          <CourseCard key={idx} courseName={course.courseCode + " - " + course.courseTitle}></CourseCard>
+          <CourseCard editable={editable} />
         )) 
       ) : (
         <div>No courses taken this quarter.</div>
       )}
-      <button onClick={addCourseCard}>Add course</button>
+      {editable && <button onClick={addCourseCard}>Add course</button>}
     </div>
   )
 }

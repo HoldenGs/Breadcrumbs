@@ -1,8 +1,7 @@
 import React, { useState } from 'react';
 import { Select, Rating } from '@mantine/core';
 
-export default function CourseCard() {
-  const [editable, setEditable] = useState(false)
+export default function CourseCard({ editable }) {
   const [department, setDepartment] = useState("")
   const [course, setCourse] = useState("")
   const [professor, setProfessor] = useState("")
@@ -11,8 +10,6 @@ export default function CourseCard() {
 
   return (
     <div className='course-card'>
-      <button onClick={() => setEditable(!editable)}>{editable ? "Save" : "Edit"}</button>
-      <div>New review</div>
       {editable ? (
         <>
           <Select
