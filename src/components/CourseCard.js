@@ -21,7 +21,7 @@ export default function CourseCard() {
             value={department}
             onChange={setDepartment}
             data={['COM SCI', 'MATH', 'PHYSICS', 'PSYCH']}
-          ></Select>
+          />
           <Select
             placeholder='Course'
             searchable
@@ -33,7 +33,7 @@ export default function CourseCard() {
               '33 - Introduction to Computer Organization',
               '35L - Software Construction'
             ]}
-          ></Select>
+          />
           <Select
             placeholder='Professor'
             searchable
@@ -45,7 +45,7 @@ export default function CourseCard() {
               'Nowatzki, A.J.',
               'Eggert, P.R.'
             ]}
-          ></Select>
+          />
           <Rating
             count={10}
             value={rating}
