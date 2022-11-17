@@ -1,11 +1,10 @@
 .nav-button {
-	background-color: #6d6da5;
-	padding: 15px;
-	border: 2px solid gray;
+	padding: 0.2rem 0.4rem;
+	font-size: 1.25rem;
 	text-align: center;
-	margin: 5px;
+	color: var(--crust);
 
 	&.active {
-		background-color: #4e4ebc;
+		font-weight: 700;
 	}
 }
