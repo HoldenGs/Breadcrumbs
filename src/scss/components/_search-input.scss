@@ -2,18 +2,8 @@
 	position: relative;
 	width: fit-content;
 
-	&__input {
-		height: 2.6rem;
-		padding-left: 0.5rem;
+	& text-input {
 		padding-right: 3rem;
-		background-color: var(--dough);
-		border: 0.2rem solid var(--jet);
-		border-radius: 3px;
-		font-size: 1rem;
-	}
-
-	&__input:focus {
-		outline: none;
 	}
 
 	& .icon-button {

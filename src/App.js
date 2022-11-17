@@ -1,11 +1,11 @@
 import {createBrowserRouter, RouterProvider} from 'react-router-dom'
 
-import Header from './components/Header'
+import Login from './pages/Login'
 
 const router = createBrowserRouter([
   {
     path: '/',
-    element: <Header />,
+    element: <Login />,
     errorElement: <div>Error!</div>
   }
 ])

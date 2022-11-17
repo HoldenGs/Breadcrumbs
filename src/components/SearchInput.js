@@ -1,15 +1,15 @@
 import IconButton from './IconButton'
 import PropTypes from 'prop-types'
 
+import TextInput from './TextInput'
+
 export default function SearchInput({value, handleChange, handleClick}) {
   return (
     <div className='search-input'>
-      <input
-        type='text'
-        className='search-input__input'
+      <TextInput
         placeholder='Search'
         value={value}
-        onChange={handleChange}
+        handleChange={handleChange}
       />
       {value && (
         <IconButton
@@ -23,7 +23,7 @@ export default function SearchInput({value, handleChange, handleClick}) {
 }
 
 SearchInput.propTypes = {
-  value: PropTypes.string,
+  value: PropTypes.string.isRequired,
   handleChange: PropTypes.func.isRequired,
   handleClick: PropTypes.func.isRequired
 }
