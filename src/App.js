@@ -1,4 +1,6 @@
 import {createBrowserRouter, RouterProvider} from 'react-router-dom'
+import {initializeApp} from 'firebase/app'
+import {getFirestore} from 'firebase/firestore'
 
 import SearchInput from './components/SearchInput'
 
