@@ -13,7 +13,7 @@ export default function SearchInput({value, handleChange, handleClick}) {
       />
       {value && (
         <IconButton
-          iconURL='/icons/magnifying-glass-solid.svg'
+          iconURL='/icons/search.svg'
           alt='Search'
           onClick={handleClick}
         />

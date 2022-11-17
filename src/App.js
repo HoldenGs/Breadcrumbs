@@ -1,13 +1,11 @@
 import {createBrowserRouter, RouterProvider} from 'react-router-dom'
-import {initializeApp} from 'firebase/app'
-import {getFirestore} from 'firebase/firestore'
 
-import SearchInput from './components/SearchInput'
+import Header from './components/Header'
 
 const router = createBrowserRouter([
   {
     path: '/',
-    element: <SearchInput />,
+    element: <Header />,
     errorElement: <div>Error!</div>
   }
 ])
