@@ -1,0 +1,51 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "ARMENIA",
+		"code": "101A",
+		"title": "Elementary Modern Western Armenian",
+		"professor": "Kouloujian, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ARMENIA",
+		"code": "102A",
+		"title": "Intermediate Modern Western Armenian",
+		"professor": "Kouloujian, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ARMENIA",
+		"code": "104A",
+		"title": "Elementary Modern Eastern Armenian",
+		"professor": "Hovhannisyan, T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ARMENIA",
+		"code": "106A",
+		"title": "Armenian Society and Culture",
+		"professor": "Hovhannisyan, T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ARMENIA",
+		"code": "M134",
+		"title": "Introduction to Armenian Music",
+		"professor": "Bilal, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ARMENIA",
+		"code": "171",
+		"title": "Variable Topics in Armenian Studies: Language in Action: Creating in Armenian in Diaspora",
+		"professor": "Kouloujian, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ARMENIA",
+		"code": "197",
+		"title": "Individual Studies in Armenian",
+		"professor": "Kouloujian, H."
+	}
+]

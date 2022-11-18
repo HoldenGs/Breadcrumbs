@@ -1,0 +1,65 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "MOL BIO",
+		"code": "235",
+		"title": "Rigor and Reproducibility",
+		"professor": "Sinsheimer, J.S.; Dreier, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MOL BIO",
+		"code": "254A",
+		"title": "Concepts in Molecular Biosciences: Cell Biology of Interorganelle Contacts and Their Roles in  Disease",
+		"professor": "Van der Bliek, A.M; Bertholet, A.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MOL BIO",
+		"code": "254A",
+		"title": "Concepts in Molecular Biosciences: Molecular Biology of Genome and Chromatin",
+		"professor": "Kurdistani, S.K.; Vondriska, T.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MOL BIO",
+		"code": "254A",
+		"title": "Concepts in Molecular Biosciences: Omics Approaches to Understand Transcription, Translation, and Protein Degradation",
+		"professor": "Wohlschlegel, J.A.; Backus, K.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MOL BIO",
+		"code": "254A",
+		"title": "Concepts in Molecular Biosciences: Structure, Function, and Dynamics of Macromolecular Assemblies",
+		"professor": "Eisenberg, D.S.; Guo, F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MOL BIO",
+		"code": "254B",
+		"title": "Concepts in Molecular Biosciences: Cancer Metabolism",
+		"professor": "Goldstein, A.; Shackelford, D.B.; Christofk, H.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MOL BIO",
+		"code": "254B",
+		"title": "Concepts in Molecular Biosciences: Cell Biological Mechanisms of Neurodegenerative Disease",
+		"professor": "Dreier, L.; Schweizer, F.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MOL BIO",
+		"code": "254B",
+		"title": "Concepts in Molecular Biosciences: Mechanical Forces in Cell Biology",
+		"professor": "Hu, J.K.; Mack, J.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MOL BIO",
+		"code": "254B",
+		"title": "Concepts in Molecular Biosciences: Pluripotent Stem Cell Biology",
+		"professor": "Plath, K.; Pyle, A.D."
+	}
+]

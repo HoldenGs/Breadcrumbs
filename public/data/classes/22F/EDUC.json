@@ -1,0 +1,499 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "10",
+		"title": "Introduction to Educational Issues and Scholarship",
+		"professor": "Mancevice, N.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "35",
+		"title": "Introduction to Inquiry and Research in Education",
+		"professor": "Martinez-Fernandez"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "101C",
+		"title": "History of Higher Education",
+		"professor": "Purdy, W.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "M102",
+		"title": "Mexican Americans and Schools",
+		"professor": "Garcia, D.G.; Corona Valencia, G"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "M103",
+		"title": "Asian American Education and Schooling",
+		"professor": "Teranishi, R.T.; Gogue, D.T.; Trinh, M.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "105C",
+		"title": "Comparative Educational Policies and Practices",
+		"professor": "Omwami, E.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "109A",
+		"title": "Globalization and Learning",
+		"professor": "Desjardins, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "120",
+		"title": "Early Childhood Development",
+		"professor": "Blackstock-Bernste; Seyarto, M.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "M121",
+		"title": "Introduction to Media Literacies",
+		"professor": "Share, J.; Anderson, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "123",
+		"title": "Teaching Profession",
+		"professor": "Share, J.; Goral, D.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "123",
+		"title": "Teaching Profession",
+		"professor": "Share, J.; Kinnard, L.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "123",
+		"title": "Teaching Profession",
+		"professor": "Share, J.; Krishna, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "130BX",
+		"title": "Instructional Apprenticeship in Teaching and Learning at UCLA Partner Schools",
+		"professor": "Bang, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "130CX",
+		"title": "Instructional Apprenticeship in Teaching and Learning at UCLA Community Schools",
+		"professor": "Shen, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "138",
+		"title": "Cognitive Development and Schooling",
+		"professor": "Blackstock-Bernste"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "M142",
+		"title": "Introduction to Arts Education for Multiple Publics: Theory and Practice",
+		"professor": "Sykes, M.M.; Park, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "150",
+		"title": "Quantitative Research in Education: Claims and Evidence",
+		"professor": "Markowitz, A.J.; Kimura, A.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "156",
+		"title": "Introduction to Qualitative Research in Education for Social Transformation",
+		"professor": "Mancevice, N.A.; Diaz Montejano, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "165",
+		"title": "Educational Program Evaluation",
+		"professor": "Alkin, M.C.; Hansen, M.P.; Stephen, N.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "M177",
+		"title": "Creating Safe and Welcoming Schools",
+		"professor": "Astor, R.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "180",
+		"title": "Orientation to Community Engagement",
+		"professor": "Dorio, J.; Hadjeris, F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "181",
+		"title": "Capstone in Education and Social Transformation",
+		"professor": "Yokota, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "195CE",
+		"title": "Community or Corporate Internships in Education",
+		"professor": "McKeiver, D.T.; Dorio, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "195CE",
+		"title": "Community or Corporate Internships in Education",
+		"professor": "Maharramli, B.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "196R",
+		"title": "Research Apprenticeship in Education",
+		"professor": "Bailey, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "196R",
+		"title": "Research Apprenticeship in Education",
+		"professor": "Chung, G.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "200B",
+		"title": "Survey Research Methods in Education",
+		"professor": "Martinez-Fernandez; Mistry, R.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "204A",
+		"title": "Introduction to Education and Social Sciences",
+		"professor": "Teranishi, R.T.; Kurland, W.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "204A",
+		"title": "Introduction to Education and Social Sciences",
+		"professor": "Blackstock-Bernste; Luo, J.; Damacio, B.; Anderson, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "204B",
+		"title": "Introduction to Comparative Education",
+		"professor": "Omwami, E.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "209A",
+		"title": "History of Higher Education",
+		"professor": "Cole, E.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "222A",
+		"title": "Introduction to Qualitative Methods and Design Issues in Educational Research",
+		"professor": "McCarty, T.L.; Graham, F.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "222A",
+		"title": "Introduction to Qualitative Methods and Design Issues in Educational Research",
+		"professor": "Garcia Sanchez, I.; Zempleni, F.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "222A",
+		"title": "Introduction to Qualitative Methods and Design Issues in Educational Research",
+		"professor": "Gomez, K.; Otis, B.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "225A",
+		"title": "Issues in Education of Exceptional Individuals",
+		"professor": "Kasari, C.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "229",
+		"title": "Seminar: Special Topics in Urban Schooling: Politics of Urban Education",
+		"professor": "Cooper, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "230A",
+		"title": "Introduction to Research Design and Statistics",
+		"professor": "Webb, N.M.; Hoskins, J.E.; Fernandez Smits, M; Bigsby, M.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "231A",
+		"title": "Toolkit for Quantitative Methods Research",
+		"professor": "Cai, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "231D",
+		"title": "Advanced Quantitative Models in Nonexperimental Research: Multilevel Analysis",
+		"professor": "Seltzer, M.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "234",
+		"title": "Critical Perspectives on Economic Approaches to Education",
+		"professor": "Desjardins, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "241",
+		"title": "Conceptual Frameworks for Research in Urban Education",
+		"professor": "Raia, F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "249",
+		"title": "Theories and Methods in Developmental Science",
+		"professor": "Markowitz, A.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "250A",
+		"title": "Fundamentals of U.S Higher Education System",
+		"professor": "Hurtado, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "250A",
+		"title": "Fundamentals of U.S Higher Education System",
+		"professor": "Eagan, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "M253A",
+		"title": "Seminar: Current Problems in Comparative Education: Seminar 1  ",
+		"professor": "Torres, C.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "260A",
+		"title": "Introduction to Programming and Data Management",
+		"professor": "Jaquette, O.; Nguy, J.; Lopez-Salgado, X.V; Mora Covos, F.; Berwald, R.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "261F",
+		"title": "Seminar: Cognitive and Personal Development of College Students",
+		"professor": "Cobb, R.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 1  ",
+		"professor": "Alkin, M.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 10  ",
+		"professor": "Kasari, C.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 11  ",
+		"professor": "Teranishi, R.T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 12  ",
+		"professor": "Guillen, L.I."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 13  ",
+		"professor": "Christie, C.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 14  ",
+		"professor": "Torres, C.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 15  ",
+		"professor": "Allen, W.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 17  ",
+		"professor": "Solorzano, D.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 19  ",
+		"professor": "Raia, F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 2  ",
+		"professor": "Gomez, K.; Gomez, L.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 22  ",
+		"professor": "Chang, M.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 23  ",
+		"professor": "Martinez-Fernandez"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 28  ",
+		"professor": "Quartz, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 29  ",
+		"professor": "Garcia, D.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 3  ",
+		"professor": "Bailey, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 31  ",
+		"professor": "Jeon, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 32  ",
+		"professor": "Marin, A.M.; Garcia Sanchez, I."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 33  ",
+		"professor": "Morrison, C.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 4  ",
+		"professor": "Mistry, R.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 5  ",
+		"professor": "Omwami, E.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 7  ",
+		"professor": "Graham, S.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 8  ",
+		"professor": "Sax, L.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 80  ",
+		"professor": "Eagan, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 9  ",
+		"professor": "Wood, J.J."
+	}
+]

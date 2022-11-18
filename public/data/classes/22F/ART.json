@@ -1,0 +1,282 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "1A",
+		"title": "Drawing",
+		"professor": "Lowe, N.R.; Maestu, Z.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "1B",
+		"title": "Sculpture",
+		"professor": "Roy, D.A.; Strand, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "11A",
+		"title": "Painting",
+		"professor": "Estrada, V.R.; Feliz, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "11A",
+		"title": "Painting",
+		"professor": "Estrada, V.R.; Boyland, J.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "11B",
+		"title": "Photography",
+		"professor": "Kaur, S.S.; Azim, Z."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "11D",
+		"title": "New Genres",
+		"professor": "Rios, M.T.; Ross, J.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "11E",
+		"title": "Ceramics",
+		"professor": "Morgin, K.L.; Farrag, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "21A",
+		"title": "Production: Photographic Print",
+		"professor": "Sprague, S.J.; Cruz, A.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "31A",
+		"title": "Rise of Modernism in Global Context",
+		"professor": "Vikram, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "130",
+		"title": "Advanced Drawing",
+		"professor": "Weissman, B.; Gao, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "133",
+		"title": "Advanced Painting",
+		"professor": "Olson, A.K.; Green, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "133",
+		"title": "Advanced Painting",
+		"professor": "Wedgeworth, L.D.; Fallahpisheh, Z.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "137",
+		"title": "Advanced New Genres: Studio 1  ",
+		"professor": "Khoshgozaran, G.; Rogers, L.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "140",
+		"title": "Advanced Printmaking",
+		"professor": "Taylor, C.; Cisneros, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "145",
+		"title": "Advanced Sculpture",
+		"professor": "Lupo, N.M.; Marder, Z."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "147",
+		"title": "Advanced Photography",
+		"professor": "Cadet, W.; Baden, S.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "148",
+		"title": "Advanced Ceramics: Reproducible Image as Object",
+		"professor": "Lin, C.C.; Friedman-Pappas, S"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "148",
+		"title": "Advanced Ceramics: Studio 1  ",
+		"professor": "Santana, T.L.; Issa, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "150",
+		"title": "Senior Studio",
+		"professor": "Queenland, M.; Emenaker, R.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "M184",
+		"title": "Chicana Art and Artists",
+		"professor": "Lopez Gaspar de Al; Cruz Amaya, K.W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "190",
+		"title": "Studio/Research Colloquia in Art",
+		"professor": "Friedman-Pappas, S; Lin, C.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "195",
+		"title": "Community Internships in Art",
+		"professor": "McMillian, R.T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "198",
+		"title": "Honors Research in Art",
+		"professor": "Wickman, P.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "271",
+		"title": "Graduate Painting",
+		"professor": "Morris, R.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "271",
+		"title": "Graduate Painting",
+		"professor": "Wickman, P.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "271",
+		"title": "Graduate Painting",
+		"professor": "Whyte, C.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "271",
+		"title": "Graduate Painting",
+		"professor": "English, D.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "273",
+		"title": "Graduate Sculpture",
+		"professor": "McMillian, R.T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "273",
+		"title": "Graduate Sculpture",
+		"professor": "Roy, D.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "274",
+		"title": "Graduate Photography",
+		"professor": "Opie, C.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "274",
+		"title": "Graduate Photography",
+		"professor": "Cadet, W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "275",
+		"title": "Graduate New Genres",
+		"professor": "Jugdeo, V."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "275",
+		"title": "Graduate New Genres",
+		"professor": "Ruperto, M.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "276",
+		"title": "Graduate Group Critique",
+		"professor": "Hawkins, R.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "277",
+		"title": "Graduate Ceramics",
+		"professor": "Lin, C.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "277",
+		"title": "Graduate Ceramics",
+		"professor": "Morgin, K.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "278",
+		"title": "Interdisciplinary Studio",
+		"professor": "Fraser, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "278",
+		"title": "Interdisciplinary Studio",
+		"professor": "Smith, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "C280",
+		"title": "Seminar: Art: On Time",
+		"professor": "Khoshgozaran, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ART",
+		"code": "C283",
+		"title": "Special Topics in Art",
+		"professor": "Esposito, P.C."
+	}
+]

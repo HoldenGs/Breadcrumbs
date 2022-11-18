@@ -331,13 +331,6 @@
 	{
 		"quarter": "Fall 2022",
 		"department": "COM SCI",
-		"code": "M276A",
-		"title": "Pattern Recognition and Machine Learning",
-		"professor": "No instructors"
-	},
-	{
-		"quarter": "Fall 2022",
-		"department": "COM SCI",
 		"code": "M282A",
 		"title": "Cryptography",
 		"professor": "Ostrovsky, R."

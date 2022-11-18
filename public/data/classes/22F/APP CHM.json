@@ -1,0 +1,30 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "APP CHM",
+		"code": "201A",
+		"title": "Modern Analytical Methods in Chemistry",
+		"professor": "Loo, J.A.; Le, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "APP CHM",
+		"code": "201A",
+		"title": "Modern Analytical Methods in Chemistry",
+		"professor": "Loo, J.A.; Zhao, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "APP CHM",
+		"code": "202",
+		"title": "Data Management in Science",
+		"professor": "Liu, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "APP CHM",
+		"code": "205A",
+		"title": "Careers in Chemistry",
+		"professor": "Diaconescu, P.L."
+	}
+]

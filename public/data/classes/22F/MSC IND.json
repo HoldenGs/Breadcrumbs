@@ -1,0 +1,72 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "MSC IND",
+		"code": "70",
+		"title": "Apprenticeship in Music Industry",
+		"professor": "Fink, R.W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MSC IND",
+		"code": "102",
+		"title": "Music Industry Fundamentals",
+		"professor": "Borg, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MSC IND",
+		"code": "M103",
+		"title": "Music, Mind, and Brain",
+		"professor": "Srinivasan, S.; Tramo, M.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MSC IND",
+		"code": "107A",
+		"title": "Audio Technology for Musicians I",
+		"professor": "Beard, J.R.; Apostolou, A.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MSC IND",
+		"code": "111",
+		"title": "Rock/Pop Studio Ensemble",
+		"professor": "Madeloni, L.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MSC IND",
+		"code": "112A",
+		"title": "Introduction to Songwriting",
+		"professor": "Kuney, A.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MSC IND",
+		"code": "114",
+		"title": "Concerts and Venues: Producing Special Events and Live Concerts",
+		"professor": "Edgren, S.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MSC IND",
+		"code": "115",
+		"title": "The Art of Music Production",
+		"professor": "Moseley, A.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MSC IND",
+		"code": "188",
+		"title": "Special Courses in Music Industry: Culture Flow: Role of Influence in History and Development of Musical Works",
+		"professor": "Chieffo, M.C.; Brancato, A.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MSC IND",
+		"code": "195",
+		"title": "Community or Corporate Internships in Music Industry and Technology",
+		"professor": "Fink, R.W."
+	}
+]

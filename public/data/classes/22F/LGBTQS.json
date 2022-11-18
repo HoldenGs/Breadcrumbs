@@ -1,0 +1,30 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "LGBTQS",
+		"code": "M114",
+		"title": "Introduction to Lesbian, Gay, Bisexual, Transgender, and Queer Studies",
+		"professor": "Hunter, M.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LGBTQS",
+		"code": "M135",
+		"title": "Bilingual Writing Workshop",
+		"professor": "Gaspar de Alba, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LGBTQS",
+		"code": "183",
+		"title": "Variable Topics in Queer Subjectivities/Theories/History: Queer Public Policy: Urban Planning and Queer Lives",
+		"professor": "Guy, T.J.; Guzman, J.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LGBTQS",
+		"code": "M191E",
+		"title": "Topics in Gender and Sexuality: Queer Indigenous Literature",
+		"professor": "Mo'e'hahne, H."
+	}
+]

@@ -1,0 +1,23 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "INDO",
+		"code": "1",
+		"title": "Introductory Indonesian",
+		"professor": "Wijaya, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "INDO",
+		"code": "4",
+		"title": "Intermediate Indonesian",
+		"professor": "Wijaya, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "INDO",
+		"code": "100A",
+		"title": "Advanced Indonesian",
+		"professor": "Wijaya, J."
+	}
+]

@@ -1,0 +1,72 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "GERMAN",
+		"code": "1",
+		"title": "Elementary German",
+		"professor": "Tarnawska Senel, M"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GERMAN",
+		"code": "1",
+		"title": "Elementary German",
+		"professor": "Kopczewski, N.; Tarnawska Senel, M"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GERMAN",
+		"code": "1",
+		"title": "Elementary German",
+		"professor": "Brungardt, A.S.; Tarnawska Senel, M"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GERMAN",
+		"code": "1",
+		"title": "Elementary German",
+		"professor": "Tovey, C.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GERMAN",
+		"code": "2",
+		"title": "Elementary German",
+		"professor": "Truper, L.S.; Tarnawska Senel, M"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GERMAN",
+		"code": "3",
+		"title": "Elementary German",
+		"professor": "Seyfert, A.; Tarnawska Senel, M"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GERMAN",
+		"code": "4",
+		"title": "Intermediate German",
+		"professor": "Saupe, W.; Tarnawska Senel, M"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GERMAN",
+		"code": "6",
+		"title": "Intermediate German",
+		"professor": "Tovey, C.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GERMAN",
+		"code": "140",
+		"title": "Language and Linguistics",
+		"professor": "Stevens, C.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GERMAN",
+		"code": "152",
+		"title": "Conversation and Composition on Contemporary German Culture and Society I",
+		"professor": "Stevens, C.M."
+	}
+]

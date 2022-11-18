@@ -1,0 +1,18 @@
+{
+	"scrape": {
+		"studies": false,
+		"departments": false,
+		"classes": {
+			"term": "22F"
+		}
+	},
+	"upload": {
+		"studies": false,
+		"departments": false,
+		"quarterDates": false,
+		"classes": {
+			"term": "22F",
+			"department": "COM SCI"
+		}
+	}
+}

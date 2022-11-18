@@ -1,0 +1,51 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "ASIAN",
+		"code": "100",
+		"title": "Methods in Asian Linguistics",
+		"professor": "Tao, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ASIAN",
+		"code": "135",
+		"title": "Asian Foodways across Borders",
+		"professor": "Jung-Kim, J.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ASIAN",
+		"code": "188SA",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Berry, M.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ASIAN",
+		"code": "188SA",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Mahajan, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ASIAN",
+		"code": "200",
+		"title": "Research Methods in East Asian Linguistics",
+		"professor": "Tao, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ASIAN",
+		"code": "204A",
+		"title": "Issues and Practices in Teaching Asian Languages",
+		"professor": "Sohn, S.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ASIAN",
+		"code": "206A",
+		"title": "Issues in Teaching Asian Languages and Classroom Practices",
+		"professor": "Jeon, S."
+	}
+]

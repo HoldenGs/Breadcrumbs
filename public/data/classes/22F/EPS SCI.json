@@ -1,0 +1,177 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "EPS SCI",
+		"code": "1",
+		"title": "Introduction to Earth Science",
+		"professor": "Coffey, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPS SCI",
+		"code": "3",
+		"title": "Astrobiology",
+		"professor": "Treude, T.I.; Margot, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPS SCI",
+		"code": "8",
+		"title": "Earthquakes",
+		"professor": "Meng, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPS SCI",
+		"code": "9",
+		"title": "Solar System and Planets",
+		"professor": "Young, E.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPS SCI",
+		"code": "51",
+		"title": "Mineralogy: Earth and Planetary Materials",
+		"professor": "Stixrude, L.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPS SCI",
+		"code": "61",
+		"title": "Geologic Maps",
+		"professor": "Coffey, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPS SCI",
+		"code": "M71",
+		"title": "Introduction to Computing for Geoscientists",
+		"professor": "Aurnou, J.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPS SCI",
+		"code": "103B",
+		"title": "Sedimentary Petrology",
+		"professor": "Day, M.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPS SCI",
+		"code": "M118",
+		"title": "Advanced Paleontology",
+		"professor": "Schopf, J.W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPS SCI",
+		"code": "150",
+		"title": "Remote Sensing for Earth Sciences",
+		"professor": "Peltzer, G.F.; Miller, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPS SCI",
+		"code": "152",
+		"title": "Physics of Earth",
+		"professor": "Beghein, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPS SCI",
+		"code": "165",
+		"title": "Tectonic Geomorphology",
+		"professor": "Moon, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPS SCI",
+		"code": "CM173",
+		"title": "Earth Process and Evolutionary History",
+		"professor": "Jacobs, D.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPS SCI",
+		"code": "193A",
+		"title": "Current Research in Earth, Planetary, and Space Sciences",
+		"professor": "Tripati, A.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPS SCI",
+		"code": "C194",
+		"title": "Research Topics in Earth, Planetary, and Space Sciences",
+		"professor": "Schauble, E.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPS SCI",
+		"code": "C194",
+		"title": "Research Topics in Earth, Planetary, and Space Sciences",
+		"professor": "Tripati, A.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPS SCI",
+		"code": "198",
+		"title": "Honors Research in Earth, Planetary, and Space Sciences",
+		"professor": "Tripati, A.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPS SCI",
+		"code": "235A",
+		"title": "Current Research in Geochemistry",
+		"professor": "Schauble, E.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPS SCI",
+		"code": "CM273",
+		"title": "Earth Process and Evolutionary History",
+		"professor": "Jacobs, D.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPS SCI",
+		"code": "286A",
+		"title": "Current Research in Planetary Sciences",
+		"professor": "Jewitt, D.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPS SCI",
+		"code": "M288A",
+		"title": "Current Research in Space Physics",
+		"professor": "Angelopoulos, V."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPS SCI",
+		"code": "295A",
+		"title": "Current Research in Earth, Planetary, and Space Sciences",
+		"professor": "Tripati, A.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPS SCI",
+		"code": "C296",
+		"title": "Research Topics in Earth, Planetary, and Space Sciences",
+		"professor": "Schauble, E.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPS SCI",
+		"code": "C296",
+		"title": "Research Topics in Earth, Planetary, and Space Sciences",
+		"professor": "Manning, C.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPS SCI",
+		"code": "C296",
+		"title": "Research Topics in Earth, Planetary, and Space Sciences",
+		"professor": "Tripati, A.K."
+	}
+]

@@ -1,0 +1,114 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "ARCH&UD",
+		"code": "30",
+		"title": "Introduction to Architectural Studies",
+		"professor": "Svehla, R.; Osman, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ARCH&UD",
+		"code": "122",
+		"title": "Studio II",
+		"professor": "Barkan, K.R.; Matsubara, M.; Pearson, C.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ARCH&UD",
+		"code": "141",
+		"title": "Technology I: Projections",
+		"professor": "Freyinger, C.P.; Rancourt, C.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ARCH&UD",
+		"code": "M201",
+		"title": "Theories of Architecture",
+		"professor": "Osman, M.; Rovner, M.A.; Gurumoorthy, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ARCH&UD",
+		"code": "221",
+		"title": "Architectural Mediation I",
+		"professor": "Koerner-Al-Rawi, J; Copp, M.S.; Hornung, B.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ARCH&UD",
+		"code": "221",
+		"title": "Architectural Mediation I",
+		"professor": "Ayata, A.; Ricciardi, G.; Merecicky, S.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ARCH&UD",
+		"code": "289",
+		"title": "Special Topics in Architecture and Urban Design",
+		"professor": "Elimam, S.; Ashkanani, D.; Walcott, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ARCH&UD",
+		"code": "289",
+		"title": "Special Topics in Architecture and Urban Design",
+		"professor": "Hearne, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ARCH&UD",
+		"code": "289",
+		"title": "Special Topics in Architecture and Urban Design",
+		"professor": "Leclerc, G.; Rodriguez, D.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ARCH&UD",
+		"code": "289",
+		"title": "Special Topics in Architecture and Urban Design",
+		"professor": "Denari, N.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ARCH&UD",
+		"code": "289",
+		"title": "Special Topics in Architecture and Urban Design",
+		"professor": "Su, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ARCH&UD",
+		"code": "289",
+		"title": "Special Topics in Architecture and Urban Design",
+		"professor": "Van Leuwen-Hall, T"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ARCH&UD",
+		"code": "289",
+		"title": "Special Topics in Architecture and Urban Design",
+		"professor": "Michelon, L.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ARCH&UD",
+		"code": "289",
+		"title": "Special Topics in Architecture and Urban Design",
+		"professor": "Batliner, C.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ARCH&UD",
+		"code": "290",
+		"title": "Special Topics in Critical Studies in Architectural Culture",
+		"professor": "Cuff, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ARCH&UD",
+		"code": "291",
+		"title": "Theory of Architectural Programming",
+		"professor": "Cuff, D.; Pelzer, K.P.; Tanridag, S."
+	}
+]

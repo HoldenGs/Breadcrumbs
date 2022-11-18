@@ -1,0 +1,58 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "MED",
+		"code": "19",
+		"title": "Awakening Ancient Egypt: Power of Heart in Healing",
+		"professor": "Saby, A.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MED",
+		"code": "19",
+		"title": "Eat, Drink, and be Wary: Introduction to Food- and Water-Borne Parasites",
+		"professor": "Panosian, C.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MED",
+		"code": "M160A",
+		"title": "Health Outreach and Education for At-Risk Populations",
+		"professor": "Esdin, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MED",
+		"code": "M160B",
+		"title": "Health Outreach and Education for At-Risk Populations",
+		"professor": "Esdin, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MED",
+		"code": "188SA",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Ranganath, V.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MED",
+		"code": "M260A",
+		"title": "Methodology in Clinical Research I",
+		"professor": "Tseng, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MED",
+		"code": "M260C",
+		"title": "Methodology in Clinical Research III",
+		"professor": "Shaheen, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MED",
+		"code": "M261",
+		"title": "Responsible Conduct of Research Involving Humans",
+		"professor": "Korenman, S.G.; Kosakowski, T.A."
+	}
+]

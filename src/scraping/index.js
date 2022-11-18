@@ -29,7 +29,7 @@ const defaultConfig = {
 			department: 'COM SCI' // optional, what department to scrape classes from (defaults to all)
 		}
 	},
-	upload: { // items to read from JSON and upload to Firestore
+	upload: { // items to read from JSON and upload to Firestore (no longer uploading! for now.)
 		studies: false,
 		departments: false,
 		quarterDates: false,
@@ -222,7 +222,7 @@ async function scrapeClasses() {
 		}
 
 		console.log('\nFinished scraping.');
-		
+
 		if (errors.length !== 0) {
 			console.log(`Error summary (${errors.length} errors total):`);
 			errors.forEach(err => console.log(err));
