@@ -116,11 +116,6 @@ export default function Login() {
 				<button className='login__button' onClick={handleSubmit} type="button">
 					Login
 				</button>
-				{/* <Link to={`/profile/${userName}`} onClick={handleSubmit}>
-					<button className='login__button'>
-						Login
-					</button>
-				</Link> */}
 
 				<center>
 					<h3>or</h3>

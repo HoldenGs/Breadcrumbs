@@ -32,9 +32,7 @@ export function AuthProvider({ children }) {
   function logout() {
     return 
   }
-
-  // STOP HERE
-
+  
   function resetPassword(email) {
     return auth.sendPasswordResetEmail(email)
   }
