@@ -1,5 +1,5 @@
 import {useState} from "react"
-import "../scss/components/_create-profile.scss"
+//import "../scss/components/_create-profile.scss"
 import Profile from "./Profile"
 import { Link, useHistory } from "react-router-dom"
 import {createBrowserRouter, RouterProvider} from "react-router-dom"

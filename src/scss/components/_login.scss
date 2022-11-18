@@ -1,7 +1,7 @@
 .login {
-    &__body {
-      background-color: #ffd277;
-    }
+    // &__body {
+    //   background-color: #ffd277;
+    // }
     &__a {
       float: left; 
       left: 65%;  
@@ -9,22 +9,21 @@
       color: #ffa500;
       margin: auto; 
       padding: 10px 12px;
-      
     }
     &__form {
       padding: 40px 30px;
       background-color:white;
       border-color: #ffd277;
+      border-radius: 12px;
       border : 5px dashed #ffa500;
   
      // border-radius: 20px;
       margin: auto; 
       width:800px;
-      float: right; 
-      left: 50%;  
+      //float: left; 
+      //left: 25%;  
       position: relative;
       font-family: "Arial";
-    
     }
     &__input {
       width: 100%;
@@ -38,8 +37,7 @@
      &__fieldset {
       background-color:white;
       border-color: #ffd277;
-      padding:16px;	
-      
+      padding:16px;
      }
      &__textarea {
        font-family: "Arial";
