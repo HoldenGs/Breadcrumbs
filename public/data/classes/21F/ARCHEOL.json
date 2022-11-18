@@ -1,0 +1,16 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "ARCHEOL",
+		"code": "M201A",
+		"title": "Graduate Core Seminar: Archaeology",
+		"professor": "Smith, M.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARCHEOL",
+		"code": "M205A",
+		"title": "Selected Laboratory Topics in Archaeology: Experimental Archaeology",
+		"professor": "Wake, T.A."
+	}
+]

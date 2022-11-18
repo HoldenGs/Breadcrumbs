@@ -1,0 +1,30 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "I E STD",
+		"code": "205",
+		"title": "Indo-European Phonology",
+		"professor": "Lundquist, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "I E STD",
+		"code": "M222A",
+		"title": "Vedic",
+		"professor": "Jamison, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "I E STD",
+		"code": "M230A",
+		"title": "Old Iranian",
+		"professor": "Shayegan, M.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "I E STD",
+		"code": "280A",
+		"title": "Seminar: Indo-European Linguistics: Linguistics Research Forum",
+		"professor": "Vine, B.H.; Jamison, S.; Goldstein, D.M."
+	}
+]

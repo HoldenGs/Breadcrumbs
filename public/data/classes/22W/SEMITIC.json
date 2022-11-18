@@ -1,0 +1,23 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "SEMITIC",
+		"code": "140B",
+		"title": "Elementary Akkadian",
+		"professor": "Cifola, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SEMITIC",
+		"code": "230",
+		"title": "Seminar: Northwest Semitic Languages and Literatures",
+		"professor": "Schniedewind, W.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SEMITIC",
+		"code": "240",
+		"title": "Seminar: Akkadian Language",
+		"professor": "Konstantopoulos, G"
+	}
+]

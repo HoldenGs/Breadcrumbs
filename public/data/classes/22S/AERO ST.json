@@ -1,0 +1,23 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "AERO ST",
+		"code": "A",
+		"title": "Leadership Laboratory",
+		"professor": "Jones, T.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "AERO ST",
+		"code": "1C",
+		"title": "Heritage and Values",
+		"professor": "Jones, T.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "AERO ST",
+		"code": "130C",
+		"title": "Air Force Leadership Studies",
+		"professor": "Nuuhiwa, K."
+	}
+]

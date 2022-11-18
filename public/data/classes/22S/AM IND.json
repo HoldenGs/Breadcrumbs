@@ -1,0 +1,44 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "AM IND",
+		"code": "M18",
+		"title": "Leadership and Student-Initiated Retention",
+		"professor": "Avila, E.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "AM IND",
+		"code": "M161",
+		"title": "Comparative American Indian Societies",
+		"professor": "Small-Rodriguez, D"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "AM IND",
+		"code": "187",
+		"title": "Special Topics in American Indian Studies: Directed Writing and Reflection",
+		"professor": "Akee, R.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "AM IND",
+		"code": "M203",
+		"title": "Advanced Historiography: American Indian Peoples",
+		"professor": "Mays, K.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "AM IND",
+		"code": "C222XP",
+		"title": "Working in Tribal Communities: Community-Engaged Learning",
+		"professor": "Aplin, T.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "AM IND",
+		"code": "261",
+		"title": "Comparative Indigenous Societies",
+		"professor": "Small-Rodriguez, D"
+	}
+]

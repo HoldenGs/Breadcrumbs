@@ -1,0 +1,352 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "2",
+		"title": "Archaeology: Introduction",
+		"professor": "Schachner, G.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "3",
+		"title": "Culture and Society",
+		"professor": "Kalyanaraman, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "4",
+		"title": "Culture and Communication",
+		"professor": "Alim, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "19",
+		"title": "Everyday Lives of Middle-Class Families in Los Angeles",
+		"professor": "Garro, L.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "19",
+		"title": "Native Americans Live Today",
+		"professor": "Kroskrity, P.V."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "19",
+		"title": "Philippine Cuisines and Cultural Identities",
+		"professor": "Acabado, S.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "19",
+		"title": "Why am I Crying over These Kittens?",
+		"professor": "Fiske, A.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "110",
+		"title": "Principles of Archaeology",
+		"professor": "Brantingham, P.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "113P",
+		"title": "Archaeology of North America",
+		"professor": "Neubauer, F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "116Q",
+		"title": "Selected Topics in Archaeology of China",
+		"professor": "Li, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "C117",
+		"title": "Selected Laboratory Topics in Archaeology: Experimental Archaeology",
+		"professor": "Wake, T.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "118R",
+		"title": "Religion and Urbanism",
+		"professor": "Smith, M.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "124S",
+		"title": "Evolution of Human Sexual Behavior",
+		"professor": "Fessler, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "128P",
+		"title": "Primate Behavior Nonhuman to Human",
+		"professor": "Perry, S.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "M128T",
+		"title": "Amazon in Anthropocene",
+		"professor": "Lynch, J.W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "129",
+		"title": "Selected Topics in Biological Anthropology: Forensic Anthropology",
+		"professor": "Rashidi, J.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "130",
+		"title": "Study of Culture",
+		"professor": "Boum, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "138P",
+		"title": "Field Methods in Cultural Anthropology",
+		"professor": "Fiske, A.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "139",
+		"title": "Selected Topics in Cultural Anthropology: Ethnographic Film for Psychological Anthropology",
+		"professor": "Lemelson, R.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "139",
+		"title": "Selected Topics in Cultural Anthropology: Medical Anthropology",
+		"professor": "Garro, L.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "141",
+		"title": "Careers in Anthropology",
+		"professor": "Loyd, H.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "M145P",
+		"title": "Marriage, Family, and Kinship",
+		"professor": "Levine, N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "151",
+		"title": "Ethnography of Everyday Speech",
+		"professor": "Thomson, A.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "155",
+		"title": "Native American Languages and Their Speakers",
+		"professor": "Kroskrity, P.V."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "M166Q",
+		"title": "Culture Area of Maghrib (North Africa)",
+		"professor": "Boum, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Wake, T.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Neubauer, F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Brantingham, P.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Kroskrity, P.V."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "191HC",
+		"title": "Data Analysis",
+		"professor": "Miyake, L.R.; Yakal, M.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "194",
+		"title": "Research Group Seminars: Anthropology",
+		"professor": "Fessler, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "197",
+		"title": "Individual Studies in Anthropology",
+		"professor": "Acabado, S.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "197",
+		"title": "Individual Studies in Anthropology",
+		"professor": "Li, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "200",
+		"title": "Anthropology Graduate Proseminar",
+		"professor": "Barrett, H.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "M201A",
+		"title": "Graduate Core Seminar: Archaeology",
+		"professor": "Smith, M.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "202A",
+		"title": "Core Seminar: Biological Anthropology Colloquium",
+		"professor": "Perry, S.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "203A",
+		"title": "Core Seminar: Sociocultural Anthropology--Historical and Philosophical Foundations of Anthropology",
+		"professor": "Yan, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "204A",
+		"title": "Core Seminar: Linguistic Anthropology",
+		"professor": "Duranti, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "M216",
+		"title": "Topics in Asian Archaeology: Seminar 1  ",
+		"professor": "Von Falkenhausen,"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "CM217",
+		"title": "Selected Laboratory Topics in Archaeology: Experimental Archaeology",
+		"professor": "Wake, T.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "219",
+		"title": "Selected Topics in Anthropological/Archaeological Theory: Time, History, and Religion in Formative-Period Mesoamerica",
+		"professor": "Lesure, R.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "221",
+		"title": "Behavior, Evolution, and Culture",
+		"professor": "Wood, B.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "223",
+		"title": "Experimental Biological Anthropology",
+		"professor": "Barrett, H.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "229",
+		"title": "Current Problems in Biological Anthropology: Seminar 1  ",
+		"professor": "Hauser, B.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "234",
+		"title": "Mind, Medicine, and Culture",
+		"professor": "Hollan, D.W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "M237",
+		"title": "Psychological Anthropology: Seminar 1  ",
+		"professor": "Fiske, A.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "241",
+		"title": "Culture, Power, Social Change",
+		"professor": "Cattelino, J.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "249",
+		"title": "Selected Topics in Social Anthropology: Seminar 2  ",
+		"professor": "Aciksoz, S.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "249",
+		"title": "Selected Topics in Social Anthropology: Seminar 3  ",
+		"professor": "Mankekar, P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ANTHRO",
+		"code": "254",
+		"title": "Discourse Laboratory",
+		"professor": "Debenport, E.K."
+	}
+]

@@ -1,0 +1,177 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "STATS",
+		"code": "10",
+		"title": "Introduction to Statistical Reasoning",
+		"professor": "Wu, G."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "STATS",
+		"code": "10",
+		"title": "Introduction to Statistical Reasoning",
+		"professor": "Chen, M.S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "STATS",
+		"code": "10",
+		"title": "Introduction to Statistical Reasoning",
+		"professor": "Tsiang, M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "STATS",
+		"code": "13",
+		"title": "Introduction to Statistical Methods for Life and Health Sciences",
+		"professor": "Paik Schoenberg, F"
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "STATS",
+		"code": "13",
+		"title": "Introduction to Statistical Methods for Life and Health Sciences",
+		"professor": "Almohalwas, A.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "STATS",
+		"code": "20",
+		"title": "Introduction to Statistical Programming with R",
+		"professor": "Tsiang, M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "STATS",
+		"code": "100A",
+		"title": "Introduction to Probability",
+		"professor": "Sanchez, J."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "STATS",
+		"code": "100A",
+		"title": "Introduction to Probability",
+		"professor": "Wu, Y."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "STATS",
+		"code": "100B",
+		"title": "Introduction to Mathematical Statistics",
+		"professor": "Christou, N."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "STATS",
+		"code": "100C",
+		"title": "Linear Models",
+		"professor": "Christou, N."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "STATS",
+		"code": "101A",
+		"title": "Introduction to Data Analysis and Regression",
+		"professor": "Almohalwas, A.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "STATS",
+		"code": "101B",
+		"title": "Introduction to Design and Analysis of Experiment",
+		"professor": "Almohalwas, A.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "STATS",
+		"code": "101C",
+		"title": "Introduction to Statistical Models and Data Mining",
+		"professor": "Chen, M.S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "STATS",
+		"code": "102A",
+		"title": "Introduction to Computational Statistics with R",
+		"professor": "Wu, G."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "STATS",
+		"code": "102B",
+		"title": "Introduction to Computation and Optimization for Statistics",
+		"professor": "Chen, M.S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "STATS",
+		"code": "102C",
+		"title": "Introduction to Monte Carlo Methods",
+		"professor": "Wu, Y."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "STATS",
+		"code": "195",
+		"title": "Community or Corporate Internships in Statistics",
+		"professor": "Wang, B."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "STATS",
+		"code": "195",
+		"title": "Community or Corporate Internships in Statistics",
+		"professor": "Chen, M.S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "STATS",
+		"code": "195",
+		"title": "Community or Corporate Internships in Statistics",
+		"professor": "Tsiang, M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "STATS",
+		"code": "195",
+		"title": "Community or Corporate Internships in Statistics",
+		"professor": "Gould, R.L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "STATS",
+		"code": "195",
+		"title": "Community or Corporate Internships in Statistics",
+		"professor": "Almohalwas, A.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "STATS",
+		"code": "195",
+		"title": "Community or Corporate Internships in Statistics",
+		"professor": "Wu, G."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "STATS",
+		"code": "195",
+		"title": "Community or Corporate Internships in Statistics",
+		"professor": "Christou, N."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "STATS",
+		"code": "195",
+		"title": "Community or Corporate Internships in Statistics",
+		"professor": "Lew, V."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "STATS",
+		"code": "195",
+		"title": "Community or Corporate Internships in Statistics",
+		"professor": "Spaas, P."
+	}
+]

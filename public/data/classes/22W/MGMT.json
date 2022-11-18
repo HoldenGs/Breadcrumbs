@@ -1,0 +1,317 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "1A",
+		"title": "Principles of Accounting",
+		"professor": "Gardner Treloar, J"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "1B",
+		"title": "Principles of Accounting",
+		"professor": "Woo, E.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "108",
+		"title": "Business Law",
+		"professor": "Guerin, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "108",
+		"title": "Business Law",
+		"professor": "Boss, M.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "120A",
+		"title": "Intermediate Financial Accounting I",
+		"professor": "Woo, E.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "120B",
+		"title": "Intermediate Financial Accounting II",
+		"professor": "Klein, G.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "121",
+		"title": "Ethical Leadership in Accounting",
+		"professor": "Borman, C.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "122",
+		"title": "Management Accounting",
+		"professor": "Kumar, N.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "127A",
+		"title": "Tax Principles and Policy",
+		"professor": "Gardner Treloar, J"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "127A",
+		"title": "Tax Principles and Policy",
+		"professor": "Klein, G.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "127B",
+		"title": "Corporate and Partnership Taxation",
+		"professor": "Klein, G.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "142B",
+		"title": "Analytics in Accounting II",
+		"professor": "Ravetch, D.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "159",
+		"title": "Foundations of Business and Entrepreneurship",
+		"professor": "Nathanson, D.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "160",
+		"title": "Entrepreneurship and Venture Initiation",
+		"professor": "Grimm, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "160",
+		"title": "Entrepreneurship and Venture Initiation",
+		"professor": "Nazar, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "161",
+		"title": "Business Plan Development",
+		"professor": "Yi, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "165",
+		"title": "Marketing Principles for Entrepreneurs",
+		"professor": "Zhang, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "167",
+		"title": "Social Entrepreneurship",
+		"professor": "Northrop, G.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "168",
+		"title": "Personal Financial Health: Theory and Practice",
+		"professor": "Ravetch, D.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "169",
+		"title": "Entrepreneurial Leadership and Practical Experience",
+		"professor": "Wilson, N.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "170",
+		"title": "Real Estate Finance and Investments",
+		"professor": "Karlan, M.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "180",
+		"title": "Special Topics in Management: Entrepreneurial Strategy and Law",
+		"professor": "Weinhaus, E.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "201A",
+		"title": "Business Forecasting: Turning Numbers into Knowledge",
+		"professor": "Feler, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "220",
+		"title": "Corporate Financial Reporting",
+		"professor": "Sussman, E.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "222",
+		"title": "Corporate Decision Making and Incentives",
+		"professor": "Michaeli, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "224",
+		"title": "Business Law for Managers and Entrepreneurs",
+		"professor": "Guerin, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "231D",
+		"title": "Takeovers, Restructuring, and Corporate Governance",
+		"professor": "Greene, S.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "235",
+		"title": "Venture Capital and Private Equity",
+		"professor": "Garmaise, M.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "241A",
+		"title": "Technology Management",
+		"professor": "Kramer, T.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "250D",
+		"title": "Patterns of Problem Solving",
+		"professor": "Firstenberg, I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "254",
+		"title": "Incentives and Motivation in Organizations",
+		"professor": "Bendersky, C.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "260A",
+		"title": "Customer Assessment and Analytics",
+		"professor": "Hristakeva, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "260B",
+		"title": "Marketing Strategy and Planning",
+		"professor": "Terech, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "262",
+		"title": "Price Policies",
+		"professor": "Honka, E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "264B",
+		"title": "Data Analytics for Marketing and Finance",
+		"professor": "Spiller, S.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "273",
+		"title": "Current Topics in Entertainment, Media, and Sports: Entertainment Finance",
+		"professor": "Hendry, S.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "277A",
+		"title": "Real Estate Finance Law: Lecture 1  ",
+		"professor": "Nelson, G.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "278A",
+		"title": "Urban Real Estate Financing and Investing",
+		"professor": "Habibi, P.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "279A",
+		"title": "Cases in Real Estate Investments",
+		"professor": "Sussman, E.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "281B",
+		"title": "People in Organizations",
+		"professor": "Culbert, S.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "282",
+		"title": "Optimizing Team Performance",
+		"professor": "Bendersky, C.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "284C",
+		"title": "Managing Entrepreneurial Organizations",
+		"professor": "Ullmen, J.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "295A",
+		"title": "Entrepreneurship and Venture Initiation",
+		"professor": "Sorenson, O.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "295A",
+		"title": "Entrepreneurship and Venture Initiation",
+		"professor": "Alderton, D.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMT",
+		"code": "295D",
+		"title": "Business Plan Development",
+		"professor": "Labran, R.E."
+	}
+]

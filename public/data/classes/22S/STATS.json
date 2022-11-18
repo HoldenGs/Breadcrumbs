@@ -1,0 +1,282 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "10",
+		"title": "Introduction to Statistical Reasoning",
+		"professor": "Cha, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "10",
+		"title": "Introduction to Statistical Reasoning",
+		"professor": "Wang, B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "10",
+		"title": "Introduction to Statistical Reasoning",
+		"professor": "Zes, D.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "12",
+		"title": "Introduction to Statistical Methods for Geography and Environmental Studies",
+		"professor": "Zanontian, L.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "13",
+		"title": "Introduction to Statistical Methods for Life and Health Sciences",
+		"professor": "Almohalwas, A.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "19",
+		"title": "Hold &#39;em or Fold &#39;em: Poker and Probability",
+		"professor": "Paik Schoenberg, F"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "20",
+		"title": "Introduction to Statistical Programming with R",
+		"professor": "Lew, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "20",
+		"title": "Introduction to Statistical Programming with R",
+		"professor": "Tsiang, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "21",
+		"title": "Python and Other Technologies for Data Science",
+		"professor": "Lew, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "89HC",
+		"title": "Honors Contracts",
+		"professor": "Tsiang, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "100A",
+		"title": "Introduction to Probability",
+		"professor": "Cheng, G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "100A",
+		"title": "Introduction to Probability",
+		"professor": "Sanchez, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "100B",
+		"title": "Introduction to Mathematical Statistics",
+		"professor": "Li, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "100C",
+		"title": "Linear Models",
+		"professor": "Madrid Padilla, O."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "100C",
+		"title": "Linear Models",
+		"professor": "Christou, N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "100C",
+		"title": "Linear Models",
+		"professor": "Tsiang, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "101A",
+		"title": "Introduction to Data Analysis and Regression",
+		"professor": "Gould, R.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "101B",
+		"title": "Introduction to Design and Analysis of Experiment",
+		"professor": "Shi, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "101B",
+		"title": "Introduction to Design and Analysis of Experiment",
+		"professor": "Vazquez Alcocer, A"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "102B",
+		"title": "Introduction to Computation and Optimization for Statistics",
+		"professor": "Wu, G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "102B",
+		"title": "Introduction to Computation and Optimization for Statistics",
+		"professor": "Chen, M.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "102B",
+		"title": "Introduction to Computation and Optimization for Statistics",
+		"professor": "Sanchez, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "141XP",
+		"title": "Practice of Statistical Consulting",
+		"professor": "Esfandiari, M.M.; Hwangbo, N.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "C161",
+		"title": "Introduction to Pattern Recognition and Machine Learning",
+		"professor": "Wu, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "C183",
+		"title": "Statistical Models in Finance",
+		"professor": "Christou, N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "195",
+		"title": "Community or Corporate Internships in Statistics",
+		"professor": "Lew, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "195",
+		"title": "Community or Corporate Internships in Statistics",
+		"professor": "Tsiang, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "195",
+		"title": "Community or Corporate Internships in Statistics",
+		"professor": "Wu, G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "195",
+		"title": "Community or Corporate Internships in Statistics",
+		"professor": "Zes, D.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "200C",
+		"title": "High Dimensional Statistics",
+		"professor": "Amini, A.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "201C",
+		"title": "Advanced Modeling and Inference",
+		"professor": "Zhou, Q."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "202C",
+		"title": "Monte Carlo Methods for Optimization",
+		"professor": "McKinnon, K.; McGovern, I.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "231C",
+		"title": "Theories of Machine Learning",
+		"professor": "Amini, A.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "M235",
+		"title": "Modern Environmental Statistics",
+		"professor": "McKinnon, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "256",
+		"title": "Causality",
+		"professor": "Hazlett, C.J.; Rohde, A.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "C261",
+		"title": "Introduction to Pattern Recognition and Machine Learning",
+		"professor": "Wu, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "C283",
+		"title": "Statistical Models in Finance",
+		"professor": "Christou, N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "285",
+		"title": "Seminar: Research Topics in Statistics",
+		"professor": "Li, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "285",
+		"title": "Seminar: Research Topics in Statistics",
+		"professor": "Zhou, Q."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "STATS",
+		"code": "290",
+		"title": "Current Literature in Statistics",
+		"professor": "Montufar Cuartas,"
+	}
+]

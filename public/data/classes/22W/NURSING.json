@@ -1,0 +1,226 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "3",
+		"title": "Human Physiology for Healthcare Providers",
+		"professor": "Carpenter, C.L.; Smeltzer, J.; Kim, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "20",
+		"title": "Introduction to Nursing and Social Justice II",
+		"professor": "Salem, B.E.; Anyanwu, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "115",
+		"title": "Pharmacology and Therapeutics",
+		"professor": "Gylys, K.H.; Anderson, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "150B",
+		"title": "Fundamentals of Professional Nursing II",
+		"professor": "Bralock, A.R.; Totten, G.G.; Gusan, A.; Abatay, V.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "162A",
+		"title": "Foundational Concepts for Tertiary Prevention and Care of Medical-Surgical Patients and Families",
+		"professor": "Studer, K.M.; Totten, G.G.; Gutierrez, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "168",
+		"title": "Advanced Leadership and Role Integration",
+		"professor": "Cuenca, E.L.; Lin, A.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "171",
+		"title": "Public Health Nursing",
+		"professor": "Skrine Jeffers, K.; Ono, T.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "M172",
+		"title": "Care Work: Disability Justice and Health Care",
+		"professor": "Clark, L.; Watts, C.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "M172XP",
+		"title": "Care Work: Disability Justice and Health Care",
+		"professor": "Clark, L.; Watts, C.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "196",
+		"title": "Research Apprenticeship in Nursing",
+		"professor": "Salem, B.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "205A",
+		"title": "Introduction to Qualitative Methods in Research",
+		"professor": "Pieters, H.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "205C",
+		"title": "Advanced Qualitative Research: Grounded Theory Methodology II",
+		"professor": "Heilemann, M.V.; Buen, K.I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "206A",
+		"title": "Nursing Concept Development",
+		"professor": "Lee, E.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "209",
+		"title": "Human Diversity in Health and Illness",
+		"professor": "Hodge, F.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "210B",
+		"title": "State of Science in Nursing: Critical Synthesis of Literature",
+		"professor": "Salem, B.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "211",
+		"title": "Women&#39;s Health Primary Care",
+		"professor": "Keenan, C.K.; Turkson, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "216A",
+		"title": "Adult/Gerontology Concepts for Advanced Practice Registered Nurses in Acute Care I",
+		"professor": "Gawlinski, A.F.; Lei, F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "223",
+		"title": "Childhood Development: Research and Application to Nursing",
+		"professor": "Westphaln, K.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "224",
+		"title": "Advanced Pharmacology for Advanced Practice Registered Nurses",
+		"professor": "Lazar, J.; Kwan, K.; Saiki, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "225A",
+		"title": "Advanced Pharmacology I",
+		"professor": "Sokolow, S.; Roca, R.E.; Furtick, L.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "229C",
+		"title": "System-Based Healthcare III",
+		"professor": "Baker, K.G.; Ruiz, M.; Stuber, M.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "229C",
+		"title": "System-Based Healthcare III",
+		"professor": "Lazar, J.; Stuber, M.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "229C",
+		"title": "System-Based Healthcare III",
+		"professor": "Ruiz, M.; Stuber, M.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "230B",
+		"title": "Advanced Pathophysiology II",
+		"professor": "Bates-Jensen, B.M.; Dillard, A.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "232",
+		"title": "Human Responses to Aging and Chronic Illness",
+		"professor": "Song, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "237B",
+		"title": "Assessment and Management in Pediatric Acute Care II",
+		"professor": "Pike, N.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "238A",
+		"title": "Assessment and Management in Pediatric Primary Care",
+		"professor": "Lohmann, A.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "239A",
+		"title": "Adult/Gerontology Primary Healthcare for Advanced Practice Registered Nurses I",
+		"professor": "Choi, S.E.; Alkhaifi, S.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "252A",
+		"title": "Health Promotion: Growth and Development in Culturally Diverse Populations",
+		"professor": "Choi, K.R.; Ayisire, B.O."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "252B",
+		"title": "Health Promotion: Nutrition",
+		"professor": "Carpenter, C.L.; Parnell, M.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "264",
+		"title": "Professional Role Issues in Advanced Practice Registered Nursing",
+		"professor": "Thomas, E.A.; Love-Bibbero, L.A.; Ruiz, M.; Guerra, C.L.; Kokozian, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NURSING",
+		"code": "295B",
+		"title": "Grant Writing II: Scientific Proposal Development",
+		"professor": "Devon, H.A."
+	}
+]

@@ -1,0 +1,177 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ECON",
+		"code": "1",
+		"title": "Principles of Economics",
+		"professor": "Osei Twumasi, O.I."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ECON",
+		"code": "2",
+		"title": "Principles of Economics",
+		"professor": "Osei Twumasi, O.I."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ECON",
+		"code": "11",
+		"title": "Microeconomic Theory",
+		"professor": "Yoo, J.; McDevitt, E.P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ECON",
+		"code": "11",
+		"title": "Microeconomic Theory",
+		"professor": "Flores Peregrina,; McDevitt, E.P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ECON",
+		"code": "41",
+		"title": "Probability and Statistics for Economists",
+		"professor": "Boswell, K.S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ECON",
+		"code": "101",
+		"title": "Microeconomic Theory",
+		"professor": "Perez, D.; McDevitt, E.P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ECON",
+		"code": "101",
+		"title": "Microeconomic Theory",
+		"professor": "Cho, S.; McDevitt, E.P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ECON",
+		"code": "102",
+		"title": "Macroeconomic Theory",
+		"professor": "Batista, J.A.; McDevitt, E.P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ECON",
+		"code": "102",
+		"title": "Macroeconomic Theory",
+		"professor": "McDevitt, E.P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ECON",
+		"code": "103",
+		"title": "Introduction to Econometrics",
+		"professor": "Zhang, L.; McDevitt, E.P.; Zhai, J."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ECON",
+		"code": "103",
+		"title": "Introduction to Econometrics",
+		"professor": "Navjeevan, M.; McDevitt, E.P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ECON",
+		"code": "103L",
+		"title": "Econometrics Laboratory",
+		"professor": "Zhang, L.; Zhai, J."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ECON",
+		"code": "103L",
+		"title": "Econometrics Laboratory",
+		"professor": "Navjeevan, M.; McDevitt, E.P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ECON",
+		"code": "104",
+		"title": "Data Science for Economists",
+		"professor": "Rojas, R.R.; Han, S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ECON",
+		"code": "104L",
+		"title": "Data Science for Economists Laboratory",
+		"professor": "Rojas, R.R.; Han, S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ECON",
+		"code": "106F",
+		"title": "Finance",
+		"professor": "Convery, P.D."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ECON",
+		"code": "122",
+		"title": "International Finance",
+		"professor": "McDevitt, E.P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ECON",
+		"code": "134",
+		"title": "Environmental Economics",
+		"professor": "McDevitt, E.P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ECON",
+		"code": "160",
+		"title": "Money and Banking",
+		"professor": "Batista, J.A.; McDevitt, E.P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ECON",
+		"code": "195A",
+		"title": "Community or Corporate Internships in Economics I",
+		"professor": "McGarry, K.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ECON",
+		"code": "195C",
+		"title": "Community and Corporate Internships in Economics",
+		"professor": "McDevitt, E.P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ECON",
+		"code": "195C",
+		"title": "Community and Corporate Internships in Economics",
+		"professor": "McGarry, K.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ECON",
+		"code": "199A",
+		"title": "Directed Research in Economics",
+		"professor": "Lleras-Muney, A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ECON",
+		"code": "199A",
+		"title": "Directed Research in Economics",
+		"professor": "Haanwinckel Junque"
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ECON",
+		"code": "199A",
+		"title": "Directed Research in Economics",
+		"professor": "Meyer-Ter-Vehn, M."
+	}
+]

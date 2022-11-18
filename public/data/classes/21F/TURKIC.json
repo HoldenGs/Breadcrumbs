@@ -1,0 +1,16 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "TURKIC",
+		"code": "101A",
+		"title": "Elementary Turkish",
+		"professor": "Lorenz, B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "TURKIC",
+		"code": "102A",
+		"title": "Advanced Turkish",
+		"professor": "Lorenz, B."
+	}
+]

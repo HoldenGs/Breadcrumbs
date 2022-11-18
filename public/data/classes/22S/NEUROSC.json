@@ -1,0 +1,450 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "17",
+		"title": "Science of Music",
+		"professor": "Tramo, M.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "19",
+		"title": "Shall We Dance? How Brain Controls Movement in Health and Disease",
+		"professor": "Chandler, S.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "M101C",
+		"title": "Neuroscience: From Molecules to Mind--Behavioral and Cognitive Neuroscience",
+		"professor": "Adhikari, A.; Suthana, N.A.; Wassum, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "M119L",
+		"title": "Human Neuropsychology",
+		"professor": "Zaidel, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "M119N",
+		"title": "Visual System",
+		"professor": "Schein, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "C151",
+		"title": "Computational Neuroscience for Interdisciplinary Scientists",
+		"professor": "Venugopal, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "179",
+		"title": "Clinical Neuroscience: New Concepts in Neurological Disorders",
+		"professor": "Cepeda, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "181",
+		"title": "Cellular and Molecular Mechanisms of Learning and Memory",
+		"professor": "Babiec, W.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "186",
+		"title": "Neural Stem Cells: Biology, Diseases, and Therapies",
+		"professor": "Kornblum, H.I.; Le Belle, J.; Ge, W."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "M187",
+		"title": "Neurobiology of Bias and Discrimination",
+		"professor": "Poe, G.R.; Evans, C.J.; Rissman, J.A.; Walters, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Wassum, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Suthana, N.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Cepeda, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "192BX",
+		"title": "Project Brainstorm: Neuroscience K-12 Outreach",
+		"professor": "Babiec, W.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "192CX",
+		"title": "Drug Abuse and Society: Conveying Concepts to High School Students",
+		"professor": "Evans, C.J.; Romero, R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "198A",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Harris, N.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "198B",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Frye, M.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "198B",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Golshani, P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "198B",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Yee-Bradbury, C.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "198B",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Levy-Storms, L.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "198B",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Lai, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "198B",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Venugopal, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "198B",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Micevych, P.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "198B",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Andrews, A.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "198B",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Donlea, J.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "198B",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Ghiani, C.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "198B",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Silva, A.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "198B",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Staba, R.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "198B",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Green, S.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "198B",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Kornblum, H.I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "198B",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Rissman, J.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "198B",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Mehta, M.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "198B",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Silverman, D.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "198B",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Harper, R.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "198B",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Geschwind, D.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "198B",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Dapretto, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "198B",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Carmichael, S.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "198B",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Schweizer, F.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "199A",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Bookheimer, S.Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "199A",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Mathews, P.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "199A",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Wilke, L.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "199A",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Dapretto, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "199A",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Kuhn, T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "199A",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Golshani, P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "199A",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Yang, X.W."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "199A",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Kornblum, H.I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "199A",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Harris, N.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "199B",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Bilder, R.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "199B",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Babiec, W.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "199B",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Blaisdell, A.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "199B",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Cahill, C.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "199B",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Sharpe, M.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "199B",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Wassum, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "199B",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Wilke, S.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "199B",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Di Carlo, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "199B",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Gupta, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "199B",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Edgerton, V.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "199B",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Harris, N.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "199B",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Colwell, C.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "199B",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Buonomano, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "199B",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Trachtenberg, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "199B",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Donlea, J.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "199C",
+		"title": "Continued Directed Research in Neuroscience",
+		"professor": "Lu, D.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEUROSC",
+		"code": "199C",
+		"title": "Continued Directed Research in Neuroscience",
+		"professor": "London, E.D."
+	}
+]

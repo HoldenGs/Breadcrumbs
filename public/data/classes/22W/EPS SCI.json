@@ -1,0 +1,261 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "1",
+		"title": "Introduction to Earth Science",
+		"professor": "Coffey, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "8",
+		"title": "Earthquakes",
+		"professor": "Beghein, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "10",
+		"title": "Exploring Mars, Red Planet",
+		"professor": "Paige, D.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "15",
+		"title": "Blue Planet: Introduction to Oceanography",
+		"professor": "Treude, T.I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "16",
+		"title": "Major Events in History of Life",
+		"professor": "Schopf, J.W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "101",
+		"title": "Earth&#39;s Energy: Diminishing Fossil Resources and Prospects for Sustainable Future",
+		"professor": "Paige, D.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "103A",
+		"title": "Igneous Petrology",
+		"professor": "Manning, C.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "C109",
+		"title": "Isotope Geochemistry",
+		"professor": "McKeegan, K.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "112",
+		"title": "Structural Geology",
+		"professor": "Coffey, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "116",
+		"title": "Paleontology",
+		"professor": "Brown, C.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "136A",
+		"title": "Applied Geophysics",
+		"professor": "Meng, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "139",
+		"title": "Engineering and Environmental Geology",
+		"professor": "Ahdi, S.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "M140",
+		"title": "Introduction to Fluid Dynamics",
+		"professor": "Kavner, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "C143",
+		"title": "Advanced Physical Sedimentology",
+		"professor": "Day, M.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "154",
+		"title": "Solar Terrestrial Physics",
+		"professor": "Russell, C.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "155",
+		"title": "Planetary Physics",
+		"professor": "Schlichting, H.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "C162",
+		"title": "Application of Remote Sensing in Field",
+		"professor": "Peltzer, G.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "165",
+		"title": "Tectonic Geomorphology",
+		"professor": "Moon, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "171",
+		"title": "Advanced Computing in Geosciences",
+		"professor": "Young, E.D.; Lithgow-Bertelloni"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "M187",
+		"title": "Careers in Earth System, Environment, and Space Sciences",
+		"professor": "Fu, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "188SB",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Treude, T.I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "193B",
+		"title": "Current Research in Earth, Planetary, and Space Sciences",
+		"professor": "Margot, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "C194",
+		"title": "Research Topics in Earth, Planetary, and Space Sciences",
+		"professor": "Schauble, E.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "198",
+		"title": "Honors Research in Earth, Planetary, and Space Sciences",
+		"professor": "Mitchell, J.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "198",
+		"title": "Honors Research in Earth, Planetary, and Space Sciences",
+		"professor": "Tripati, A.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "200C",
+		"title": "Introduction to Geophysics and Space Physics III: Plasmas --Aeronomy and Interplanetary Medium",
+		"professor": "Russell, C.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "C209",
+		"title": "Isotope Geochemistry",
+		"professor": "McKeegan, K.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "225",
+		"title": "Physics and Chemistry of Planetary Interiors",
+		"professor": "Stixrude, L.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "M229",
+		"title": "Planetary Atmospheres and Climates",
+		"professor": "Mitchell, J.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "235B",
+		"title": "Current Research in Geochemistry",
+		"professor": "McKeegan, K.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "C243",
+		"title": "Advanced Physical Sedimentology",
+		"professor": "Day, M.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "C262",
+		"title": "Application of Remote Sensing in Field",
+		"professor": "Peltzer, G.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "M288B",
+		"title": "Current Research in Space Physics",
+		"professor": "Angelopoulos, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "293B",
+		"title": "Space Physics Journal Club",
+		"professor": "Angelopoulos, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "295B",
+		"title": "Current Research in Earth, Planetary, and Space Sciences",
+		"professor": "Margot, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "C296",
+		"title": "Research Topics in Earth, Planetary, and Space Sciences",
+		"professor": "Schauble, E.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPS SCI",
+		"code": "C296",
+		"title": "Research Topics in Earth, Planetary, and Space Sciences",
+		"professor": "Manning, C.E."
+	}
+]

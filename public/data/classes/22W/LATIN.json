@@ -1,0 +1,58 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "LATIN",
+		"code": "1",
+		"title": "Elementary Latin",
+		"professor": "Callahan, P.L.; Beckelhymer, S.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LATIN",
+		"code": "2",
+		"title": "Elementary Latin",
+		"professor": "Beckelhymer, S.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LATIN",
+		"code": "2",
+		"title": "Elementary Latin",
+		"professor": "Radcliffe, B.A.; Beckelhymer, S.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LATIN",
+		"code": "2",
+		"title": "Elementary Latin",
+		"professor": "Akiyama-Kim, J.A.; Beckelhymer, S.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LATIN",
+		"code": "100",
+		"title": "Intermediate Latin: Introduction to Reading Latin",
+		"professor": "Richlin, A.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LATIN",
+		"code": "105A",
+		"title": "Beginning Vergil: Selections from Aeneid I-VI",
+		"professor": "Gurval, R.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LATIN",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Richlin, A.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LATIN",
+		"code": "200B",
+		"title": "History of Latin Literature",
+		"professor": "Goldberg, S.M."
+	}
+]

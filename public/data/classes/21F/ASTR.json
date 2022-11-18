@@ -1,0 +1,114 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "ASTR",
+		"code": "3",
+		"title": "Nature of Universe",
+		"professor": "Larkin, J.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ASTR",
+		"code": "3",
+		"title": "Nature of Universe",
+		"professor": "Turner, J.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ASTR",
+		"code": "5",
+		"title": "Life in Universe",
+		"professor": "Treu, T.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ASTR",
+		"code": "180",
+		"title": "Astrophysics Laboratory",
+		"professor": "Do, T.H.; Ferraro, N.G.; Gibbs, A.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ASTR",
+		"code": "271",
+		"title": "Electromagnetic Radiation in Astrophysics",
+		"professor": "Furlanetto, S.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ASTR",
+		"code": "277A",
+		"title": "Astronomy Research Project",
+		"professor": "Fitzgerald, M.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ASTR",
+		"code": "277A",
+		"title": "Astronomy Research Project",
+		"professor": "Ghez, A.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ASTR",
+		"code": "277A",
+		"title": "Astronomy Research Project",
+		"professor": "Petigura, E.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ASTR",
+		"code": "277A",
+		"title": "Astronomy Research Project",
+		"professor": "Schlichting, H.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ASTR",
+		"code": "277A",
+		"title": "Astronomy Research Project",
+		"professor": "Treu, T.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ASTR",
+		"code": "277A",
+		"title": "Astronomy Research Project",
+		"professor": "Naoz, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ASTR",
+		"code": "277A",
+		"title": "Astronomy Research Project",
+		"professor": "Turner, J.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ASTR",
+		"code": "279",
+		"title": "Seminar: Current Astronomical Research",
+		"professor": "Shapley, A.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ASTR",
+		"code": "280",
+		"title": "Fluid Dynamics in Astrophysics",
+		"professor": "Naoz, S.; Hoang, B.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ASTR",
+		"code": "284",
+		"title": "Order of Magnitude Astrophysics",
+		"professor": "Hansen, B.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ASTR",
+		"code": "297",
+		"title": "Practice of Scientific Presentations in Astronomy",
+		"professor": "Shapley, A.E.; Hansen, B.M."
+	}
+]

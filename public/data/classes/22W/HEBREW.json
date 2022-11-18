@@ -1,0 +1,30 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "HEBREW",
+		"code": "1B",
+		"title": "Elementary Hebrew",
+		"professor": "Birnbaum, S.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HEBREW",
+		"code": "102B",
+		"title": "Intermediate Hebrew",
+		"professor": "Birnbaum, S.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HEBREW",
+		"code": "110B",
+		"title": "Introduction to Biblical Hebrew: Readings of Biblical Prose Texts",
+		"professor": "Smoak, J.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HEBREW",
+		"code": "230",
+		"title": "Rabbinic Hebrew Literature",
+		"professor": "Bakhos, C.A."
+	}
+]

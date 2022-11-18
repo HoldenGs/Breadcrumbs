@@ -1,0 +1,51 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "PBMED",
+		"code": "200A",
+		"title": "Physics and Chemistry of Nuclear Medicine",
+		"professor": "Dahlbom, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PBMED",
+		"code": "202C",
+		"title": "Applications of Medical Physics to Clinical Problems: Radiation Therapy",
+		"professor": "Agazaryan, N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PBMED",
+		"code": "204",
+		"title": "Introductory Radiation Biology",
+		"professor": "Iwamoto, K.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PBMED",
+		"code": "210",
+		"title": "Computer Vision in Medical Imaging",
+		"professor": "Brown, M.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PBMED",
+		"code": "217",
+		"title": "Statistics and Data Analysis in Biomedical Physics",
+		"professor": "Kim, G.J.; McNitt-Gray, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PBMED",
+		"code": "M219",
+		"title": "Principles and Applications of Magnetic Resonance Imaging",
+		"professor": "Sung, K.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PBMED",
+		"code": "260B",
+		"title": "Seminar: Biomedical Physics",
+		"professor": "McNitt-Gray, M."
+	}
+]

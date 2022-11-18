@@ -1,0 +1,93 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "COMPTNG",
+		"code": "10A",
+		"title": "Introduction to Programming",
+		"professor": "Lin, A.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COMPTNG",
+		"code": "10A",
+		"title": "Introduction to Programming",
+		"professor": "Chu, W."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COMPTNG",
+		"code": "10A",
+		"title": "Introduction to Programming",
+		"professor": "Cai, H.; Blasius, D.M.; Andrews, M.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COMPTNG",
+		"code": "10A",
+		"title": "Introduction to Programming",
+		"professor": "Maldague, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COMPTNG",
+		"code": "10B",
+		"title": "Intermediate Programming",
+		"professor": "Cai, H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COMPTNG",
+		"code": "10B",
+		"title": "Intermediate Programming",
+		"professor": "Andrews, M.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COMPTNG",
+		"code": "10C",
+		"title": "Advanced Programming",
+		"professor": "Lindstrom, M.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COMPTNG",
+		"code": "16A",
+		"title": "Python with Applications I",
+		"professor": "Burnett, S.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COMPTNG",
+		"code": "16A",
+		"title": "Python with Applications I",
+		"professor": "Hester, E.W."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COMPTNG",
+		"code": "16A",
+		"title": "Python with Applications I",
+		"professor": "Murray, M.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COMPTNG",
+		"code": "16B",
+		"title": "Python with Applications II",
+		"professor": "Lee, H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COMPTNG",
+		"code": "20A",
+		"title": "Principles of Java Language with Applications",
+		"professor": "Pham, M.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COMPTNG",
+		"code": "40A",
+		"title": "Introduction to Programming for Internet",
+		"professor": "Lindstrom, M.R."
+	}
+]

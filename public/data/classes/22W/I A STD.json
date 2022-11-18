@@ -1,0 +1,51 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "I A STD",
+		"code": "1",
+		"title": "Introduction to International and Area Studies",
+		"professor": "Moore, A.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "I A STD",
+		"code": "M6B",
+		"title": "Elementary Amharic",
+		"professor": "Adhanom, A.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "I A STD",
+		"code": "M7B",
+		"title": "Elementary Yoruba",
+		"professor": "Adegbola, M.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "I A STD",
+		"code": "33",
+		"title": "Introduction to East Asia",
+		"professor": "Jung-Kim, J.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "I A STD",
+		"code": "50",
+		"title": "Introduction to Latin America",
+		"professor": "Taub, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "I A STD",
+		"code": "191",
+		"title": "Variable Topics Senior Research Seminars: International and Area Studies: Chocolate in Americas: Bittersweet Bliss",
+		"professor": "Taub, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "I A STD",
+		"code": "198B",
+		"title": "Honors Research in International and Area Studies",
+		"professor": "Stein, S.A."
+	}
+]

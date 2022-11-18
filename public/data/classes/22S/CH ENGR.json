@@ -1,0 +1,149 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "CH ENGR",
+		"code": "19",
+		"title": "Evolution: Animals and Molecules",
+		"professor": "Chen, I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CH ENGR",
+		"code": "88S",
+		"title": "Everything on Energy: Solutions of Today and Tomorrow",
+		"professor": "Taing, B.; Zhang, J.; Li, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CH ENGR",
+		"code": "101C",
+		"title": "Mass Transfer",
+		"professor": "Srivastava, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CH ENGR",
+		"code": "102B",
+		"title": "Thermodynamics II",
+		"professor": "Sautet, P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CH ENGR",
+		"code": "103",
+		"title": "Separation Processes",
+		"professor": "Monbouquette, H.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CH ENGR",
+		"code": "104A",
+		"title": "Chemical and Biomolecular Engineering Laboratory I",
+		"professor": "Simonetti, D.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CH ENGR",
+		"code": "104B",
+		"title": "Chemical and Biomolecular Engineering Laboratory II",
+		"professor": "Simonetti, D.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CH ENGR",
+		"code": "104C",
+		"title": "Semiconductor Processing",
+		"professor": "Chang, J.P.; Smith, T.G.; Watkins, O.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CH ENGR",
+		"code": "104CL",
+		"title": "Semiconductor Processing Laboratory",
+		"professor": "Chang, J.P.; Watkins, O.H.; Smith, T.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CH ENGR",
+		"code": "104D",
+		"title": "Molecular Biotechnology Laboratory: From Gene to Product",
+		"professor": "Chen, I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CH ENGR",
+		"code": "108B",
+		"title": "Chemical Process Computer-Aided Design and Analysis",
+		"professor": "Morales Guio, C.G.; Li, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CH ENGR",
+		"code": "C118",
+		"title": "Multimedia Environmental Assessment",
+		"professor": "Cohen, Y.; Chen, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CH ENGR",
+		"code": "C125",
+		"title": "Bioseparations and Bioprocess Engineering",
+		"professor": "Annabi, N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CH ENGR",
+		"code": "C128",
+		"title": "Hydrogen",
+		"professor": "Manousiouthakis, V"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CH ENGR",
+		"code": "188SC",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Li, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CH ENGR",
+		"code": "194",
+		"title": "Research Group Seminars: Chemical Engineering",
+		"professor": "Manousiouthakis, V"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CH ENGR",
+		"code": "C218",
+		"title": "Multimedia Environmental Assessment",
+		"professor": "Cohen, Y.; Chen, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CH ENGR",
+		"code": "CM225",
+		"title": "Bioseparations and Bioprocess Engineering",
+		"professor": "Annabi, N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CH ENGR",
+		"code": "C228",
+		"title": "Hydrogen",
+		"professor": "Manousiouthakis, V"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CH ENGR",
+		"code": "246",
+		"title": "Systems Biology: Intracellular Network Identification and Analysis",
+		"professor": "Park, J.; Law, R.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CH ENGR",
+		"code": "M280C",
+		"title": "Optimal Control",
+		"professor": "Speyer, J.L."
+	}
+]

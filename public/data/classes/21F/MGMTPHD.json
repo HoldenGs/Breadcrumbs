@@ -1,0 +1,93 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMTPHD",
+		"code": "201A",
+		"title": "Probability, Statistics, and Computational Methods for Econometrics",
+		"professor": "Rossi, P.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMTPHD",
+		"code": "202A",
+		"title": "Accounting Workshop",
+		"professor": "Kimgina, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMTPHD",
+		"code": "204A",
+		"title": "Finance Workshop",
+		"professor": "Herskovic, B.; Wang, X."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMTPHD",
+		"code": "205A",
+		"title": "Seminar: Decisions, Operations, and Technology Management Systems",
+		"professor": "Bravo Plaza, F.; Misic, V."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMTPHD",
+		"code": "206A",
+		"title": "Research Seminar: Management and Organizational Behavior",
+		"professor": "Devoe, S.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMTPHD",
+		"code": "207A",
+		"title": "Workshop: Marketing",
+		"professor": "Rossi, P.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMTPHD",
+		"code": "208A",
+		"title": "Global Economics and Management Workshop",
+		"professor": "Wasserman, M.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMTPHD",
+		"code": "209A",
+		"title": "Management Strategy and Policy Workshop",
+		"professor": "Lieberman, M.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMTPHD",
+		"code": "237",
+		"title": "Introduction to Financial Economics",
+		"professor": "Longstaff, F.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMTPHD",
+		"code": "239",
+		"title": "Empirical Asset Pricing",
+		"professor": "Chernov, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMTPHD",
+		"code": "246",
+		"title": "Theory in Marketing",
+		"professor": "Zeithammer, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMTPHD",
+		"code": "261",
+		"title": "Judgment and Decision Making",
+		"professor": "Fox, C.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMTPHD",
+		"code": "262",
+		"title": "Applied Analysis for Behavioral Research",
+		"professor": "Spiller, S.A."
+	}
+]

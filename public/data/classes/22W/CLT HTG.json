@@ -1,0 +1,44 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "CLT HTG",
+		"code": "222",
+		"title": "Conservation and Community",
+		"professor": "Pearlstein, E.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CLT HTG",
+		"code": "234",
+		"title": "Conservation Laboratory: Metals I",
+		"professor": "Wharton, G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CLT HTG",
+		"code": "M244",
+		"title": "Collection Management for Archives, Libraries, and Museums",
+		"professor": "Pearlstein, E.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CLT HTG",
+		"code": "290",
+		"title": "Conservation Program Internship",
+		"professor": "Fischer, C.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CLT HTG",
+		"code": "290",
+		"title": "Conservation Program Internship",
+		"professor": "Kakoulli, I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CLT HTG",
+		"code": "290",
+		"title": "Conservation Program Internship",
+		"professor": "Pearlstein, E.J."
+	}
+]

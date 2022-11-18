@@ -1,0 +1,30 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "ISLM ST",
+		"code": "M20",
+		"title": "Introduction to Islam",
+		"professor": "Sayeed, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ISLM ST",
+		"code": "151",
+		"title": "Islamic Thought",
+		"professor": "Yarbrough, L.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ISLM ST",
+		"code": "200",
+		"title": "Introduction to Islamic Studies",
+		"professor": "Sayeed, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ISLM ST",
+		"code": "291A",
+		"title": "Variable Topics in Islamic Studies: Seminar 1  ",
+		"professor": "Yarbrough, L.B."
+	}
+]

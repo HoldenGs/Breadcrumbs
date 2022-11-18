@@ -1,0 +1,23 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "DGT HUM",
+		"code": "101",
+		"title": "Introduction to Digital Humanities",
+		"professor": "Sanders, A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "DGT HUM",
+		"code": "110",
+		"title": "User Experience and Design",
+		"professor": "Cho, S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "DGT HUM",
+		"code": "150",
+		"title": "Advanced Topics in Digital Humanities: Machine Learning for Humanists",
+		"professor": "Winjum, B.J."
+	}
+]

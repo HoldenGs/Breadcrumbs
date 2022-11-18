@@ -1,0 +1,37 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "JEWISH",
+		"code": "19",
+		"title": "Foundations of Jewish Ethics: How Shall We Live?",
+		"professor": "Zasloff, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "JEWISH",
+		"code": "M82",
+		"title": "Music and Holocaust: Individual Experience",
+		"professor": "Black, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "JEWISH",
+		"code": "M142",
+		"title": "Modern Israel: Politics, Society, Culture",
+		"professor": "Talshir, G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "JEWISH",
+		"code": "M181",
+		"title": "Topics in Jewish History: Lecture 1  ",
+		"professor": "Tam, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "JEWISH",
+		"code": "M182A",
+		"title": "Ancient Jewish History",
+		"professor": "Smoak, J.D."
+	}
+]

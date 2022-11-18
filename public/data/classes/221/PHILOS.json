@@ -1,0 +1,93 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHILOS",
+		"code": "3",
+		"title": "Historical Introduction to Philosophy",
+		"professor": "Maurizio, P.; Rescorla, M.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHILOS",
+		"code": "6",
+		"title": "Introduction to Political Philosophy",
+		"professor": "Zeytinoglu, N.; Rescorla, M.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHILOS",
+		"code": "7",
+		"title": "Introduction to Philosophy of Mind",
+		"professor": "Gugumcu, S.; Rescorla, M.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHILOS",
+		"code": "7",
+		"title": "Introduction to Philosophy of Mind",
+		"professor": "Cardwell, T.S.; Rescorla, M.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHILOS",
+		"code": "22",
+		"title": "Introduction to Ethical Theory",
+		"professor": "Scott, K.H.; Rescorla, M.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHILOS",
+		"code": "31",
+		"title": "Logic, First Course",
+		"professor": "de Leon, C.M.; Rescorla, M.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHILOS",
+		"code": "C119",
+		"title": "Topics in History of Philosophy: Aristotle and Kant on Friendship",
+		"professor": "Retkwa, M.A.; Rescorla, M.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHILOS",
+		"code": "C119",
+		"title": "Topics in History of Philosophy: History of Logic and Reasoning",
+		"professor": "Kardosh, J.M.; Rescorla, M.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHILOS",
+		"code": "129",
+		"title": "Philosophy of Psychology: Lecture 1  ",
+		"professor": "Hochman, C.P.; Rescorla, M.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHILOS",
+		"code": "152A",
+		"title": "Topics in Moral Philosophy: Friendship",
+		"professor": "Flynn, A.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHILOS",
+		"code": "155A",
+		"title": "Medical Ethics: Lecture 1  ",
+		"professor": "Pederson, D.J.; Rescorla, M.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHILOS",
+		"code": "177A",
+		"title": "Existentialism: Authenticity and Inauthenticity",
+		"professor": "Shirvanian, V.; Rescorla, M.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHILOS",
+		"code": "M187",
+		"title": "Topics in Feminist Philosophy: Metaphysics and Epistemology: Knowledge and Mutual Understanding in an Unjust World",
+		"professor": "Choe, J.W.; Rescorla, M.A."
+	}
+]

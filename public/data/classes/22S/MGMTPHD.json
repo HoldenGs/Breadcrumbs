@@ -1,0 +1,86 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMTPHD",
+		"code": "202C",
+		"title": "Accounting Workshop",
+		"professor": "Kimgina, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMTPHD",
+		"code": "204C",
+		"title": "Finance Workshop",
+		"professor": "Herskovic, B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMTPHD",
+		"code": "205C",
+		"title": "Seminar: Decisions, Operations, and Technology Management Systems",
+		"professor": "Bravo Plaza, F.; Misic, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMTPHD",
+		"code": "206C",
+		"title": "Research Seminar: Management and Organizational Behavior",
+		"professor": "Devoe, S.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMTPHD",
+		"code": "207C",
+		"title": "Workshop: Marketing",
+		"professor": "Spiller, S.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMTPHD",
+		"code": "208C",
+		"title": "Global Economics and Management Workshop",
+		"professor": "Wasserman, M.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMTPHD",
+		"code": "209C",
+		"title": "Management Strategy and Policy Workshop",
+		"professor": "Lieberman, M.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMTPHD",
+		"code": "235",
+		"title": "Empirical Research in Accounting",
+		"professor": "Friedman, H.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMTPHD",
+		"code": "248",
+		"title": "Quantitative Research in Marketing",
+		"professor": "Hollenbeck, B.W."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMTPHD",
+		"code": "253",
+		"title": "Field Research in Organizations and Management",
+		"professor": "Dai, H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMTPHD",
+		"code": "255",
+		"title": "Information and Trading in Financial Markets",
+		"professor": "Subrahmanyam, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMTPHD",
+		"code": "260",
+		"title": "Behavioral Economics: Individuals, Organizations, and Markets",
+		"professor": "Chen, K."
+	}
+]

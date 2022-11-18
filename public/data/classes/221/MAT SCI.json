@@ -1,0 +1,23 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MAT SCI",
+		"code": "104",
+		"title": "Science of Engineering Materials",
+		"professor": "Goorsky, M.S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MAT SCI",
+		"code": "250B",
+		"title": "Advanced Composite Materials",
+		"professor": "Yang, J.; Lin, Y."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MAT SCI",
+		"code": "252",
+		"title": "Organic Polymer Electronic Materials",
+		"professor": "Pei, Q.; Wu, J."
+	}
+]

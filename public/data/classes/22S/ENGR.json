@@ -1,0 +1,191 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "ENGR",
+		"code": "2",
+		"title": "Technology and Society",
+		"professor": "O'Neal, A.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENGR",
+		"code": "24",
+		"title": "Finding Undergraduate Research Opportunity",
+		"professor": "Herrera, W.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENGR",
+		"code": "95",
+		"title": "Internship Studies in Engineering",
+		"professor": "Herrera, W.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENGR",
+		"code": "96A",
+		"title": "Introduction to Engineering Design: 3D Pharmaceuticals",
+		"professor": "Schmidt, J.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENGR",
+		"code": "96A",
+		"title": "Introduction to Engineering Design: Autonomous Rover",
+		"professor": "Schmidt, J.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENGR",
+		"code": "96A",
+		"title": "Introduction to Engineering Design: Combat Robotics",
+		"professor": "Schmidt, J.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENGR",
+		"code": "96A",
+		"title": "Introduction to Engineering Design: Design of Coffee",
+		"professor": "Schmidt, J.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENGR",
+		"code": "96A",
+		"title": "Introduction to Engineering Design: Drones",
+		"professor": "Schmidt, J.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENGR",
+		"code": "96C",
+		"title": "Cybernetics: Introduction to Robotic Control Systems",
+		"professor": "Kaiser, W.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENGR",
+		"code": "96E",
+		"title": "Introduction to Engineering Design: Electrocardiogram",
+		"professor": "Schmidt, J.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENGR",
+		"code": "96G",
+		"title": "Introduction to Engineering Design: Go-Karts",
+		"professor": "Schmidt, J.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENGR",
+		"code": "96R",
+		"title": "Introduction to Engineering Design: Rockets",
+		"professor": "Schmidt, J.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENGR",
+		"code": "M103",
+		"title": "Environmental Nanotechnology: Implications and Applications",
+		"professor": "Mahendra, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENGR",
+		"code": "110",
+		"title": "Introduction to Technology Management and Economics for Engineers",
+		"professor": "Bulu-Taciroglu, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENGR",
+		"code": "112",
+		"title": "Laboratory to Market, Entrepreneurship for Engineers",
+		"professor": "Grimm, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENGR",
+		"code": "170",
+		"title": "Project-Based Technology Bootcamp for Social Impact",
+		"professor": "Simonian, R.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENGR",
+		"code": "180",
+		"title": "Engineering of Complex Systems",
+		"professor": "Kung, K.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENGR",
+		"code": "183EW",
+		"title": "Engineering and Society",
+		"professor": "Weltman, G.; Browne, D.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENGR",
+		"code": "188",
+		"title": "Special Courses in Engineering: Seminar 82  ",
+		"professor": "Rostamian, F.D.; Yang, J.; Lazoryshynets, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENGR",
+		"code": "188EW",
+		"title": "Experimental Courses in Engineering Writing: Lecture 1  ",
+		"professor": "Browne, D.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENGR",
+		"code": "192",
+		"title": "Fundamentals of Engineering Mentorship",
+		"professor": "Schmidt, J.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENGR",
+		"code": "195",
+		"title": "Internship Studies in Engineering",
+		"professor": "Herrera, W.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENGR",
+		"code": "202",
+		"title": "Reliability, Maintainability, and Supportability",
+		"professor": "Hecht, M.J.; Li, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENGR",
+		"code": "202",
+		"title": "Reliability, Maintainability, and Supportability",
+		"professor": "Hecht, M.J.; Aleman, A.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENGR",
+		"code": "210",
+		"title": "Operations and Supply Chain Management",
+		"professor": "Rostamian, F.D.; Murali, N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENGR",
+		"code": "210",
+		"title": "Operations and Supply Chain Management",
+		"professor": "Rostamian, F.D.; Agrawal, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENGR",
+		"code": "212",
+		"title": "Intellectual Property Law and Strategy",
+		"professor": "Lichtman, D.G.; Adler, C."
+	}
+]

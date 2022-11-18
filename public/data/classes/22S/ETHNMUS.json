@@ -1,0 +1,380 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "5",
+		"title": "Music Around World",
+		"professor": "Rees, H.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "M6C",
+		"title": "Introduction to Musicianship",
+		"professor": "Depinna, N.; Tchaykov, A.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "M6C",
+		"title": "Introduction to Musicianship",
+		"professor": "Depinna, N.; Schipper, I.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "M6C",
+		"title": "Introduction to Musicianship",
+		"professor": "Depinna, N.; Reynolds, M.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "M6C",
+		"title": "Introduction to Musicianship",
+		"professor": "Depinna, N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "M12B",
+		"title": "African American Musical Heritage",
+		"professor": "Keyes, C.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "20A",
+		"title": "Musical Cultures of World: Europe and Americas",
+		"professor": "Reigle, R.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "45",
+		"title": "Music of Bollywood and Beyond",
+		"professor": "Catlin, A.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "68A",
+		"title": "World Music Specializations: Music of China--Ensemble",
+		"professor": "Li, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "68C",
+		"title": "World Music Specializations: Music of China--Chinese Folk Dance",
+		"professor": "Li, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "68F",
+		"title": "World Music Specializations: Music of India--Ensemble",
+		"professor": "Neuman, R.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "68F",
+		"title": "World Music Specializations: Music of India--Ensemble",
+		"professor": "Kaushal, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "91B",
+		"title": "World Music Performance Organizations: Music of Bali",
+		"professor": "Wenten, I.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "91E",
+		"title": "World Music Performance Organizations: Music and Dance of Ghana",
+		"professor": "Awe, F.P.; Brooks, T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "91H",
+		"title": "World Music Performance Organizations: Music of Java",
+		"professor": "Khanmohamed, K.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "91J",
+		"title": "World Music Performance Organizations: Music of Korea: Activity 1  ",
+		"professor": "Kang, G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "91K",
+		"title": "World Music Performance Organizations: Music of Mexico",
+		"professor": "Guzman, J.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "91Z",
+		"title": "World Music Performance Organizations: Open Ensemble: Armenian Music Ensemble",
+		"professor": "Adamian, A.M.; Pogossian, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "91Z",
+		"title": "World Music Performance Organizations: Open Ensemble: Cultures in Musical Dialog: Creative Performance, Improvisation, and Composing",
+		"professor": "Kang, G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "91Z",
+		"title": "World Music Performance Organizations: Open Ensemble: Klezmer Music Ensemble",
+		"professor": "Black, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "91Z",
+		"title": "World Music Performance Organizations: Open Ensemble: Music of Thailand Ensemble",
+		"professor": "Adler, S.I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "91Z",
+		"title": "World Music Performance Organizations: Open Ensemble: Music of Turkey Ensemble",
+		"professor": "Beken, M.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "91Z",
+		"title": "World Music Performance Organizations: Open Ensemble: Old-Time String Band Ensemble",
+		"professor": "Bragger, D.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "92",
+		"title": "Private Instruction in Music",
+		"professor": "Taylor, T.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "106B",
+		"title": "Contemporary North American Indian Music",
+		"professor": "Browner, T.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "147",
+		"title": "Survey of Classical Music in India",
+		"professor": "Morcom, A.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "161B",
+		"title": "Advanced World Music Performance Organizations: Music of Bali",
+		"professor": "Wenten, I.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "161E",
+		"title": "Advanced World Music Performance Organizations: Music and Dance of Ghana",
+		"professor": "Awe, F.P.; Brooks, T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "161H",
+		"title": "Advanced World Music Performance Organizations: Music of Java",
+		"professor": "Khanmohamed, K.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "161K",
+		"title": "Advanced World Music Performance Organizations: Music of Mexico",
+		"professor": "Guzman, J.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "161M",
+		"title": "Advanced World Music Performance Organizations: Music of Thailand",
+		"professor": "Adler, S.I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "161P",
+		"title": "Advanced World Music Performance Organizations: African American Music Ensemble",
+		"professor": "White-Clayton, D.L"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "161Z",
+		"title": "Advanced World Music Performance Organizations: Open Ensemble: Cultures in Musical Dialog: Creative Performance, Improvisation, and Composing",
+		"professor": "Kang, G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "161Z",
+		"title": "Advanced World Music Performance Organizations: Open Ensemble: Klezmer Music Ensemble",
+		"professor": "Black, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "161Z",
+		"title": "Advanced World Music Performance Organizations: Open Ensemble: Music of Turkey Ensemble",
+		"professor": "Beken, M.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "161Z",
+		"title": "Advanced World Music Performance Organizations: Open Ensemble: Old-Time String Band Ensemble",
+		"professor": "Bragger, D.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "162",
+		"title": "Advanced Private Instruction in Music",
+		"professor": "Taylor, T.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "168A",
+		"title": "Advanced World Music Specializations: Music of China--Ensemble",
+		"professor": "Li, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "168C",
+		"title": "Advanced World Music Specializations: Music of China--Qin",
+		"professor": "Li, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "168F",
+		"title": "Advanced World Music Specializations: Music of India--Ensemble",
+		"professor": "Neuman, R.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "168F",
+		"title": "Advanced World Music Specializations: Music of India--Ensemble",
+		"professor": "Kaushal, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "186",
+		"title": "Senior Recital or Project",
+		"professor": "Savage, R.W."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "186",
+		"title": "Senior Recital or Project",
+		"professor": "Beken, M.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "186",
+		"title": "Senior Recital or Project",
+		"professor": "Loza, S.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "186",
+		"title": "Senior Recital or Project",
+		"professor": "Lee, K.I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "186",
+		"title": "Senior Recital or Project",
+		"professor": "Taylor, T.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "188",
+		"title": "Special Courses in Ethnomusicology: Global Perspective for Singer-Songwriter",
+		"professor": "White-Clayton, D.L"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "188",
+		"title": "Special Courses in Ethnomusicology: Iranian Popular Music in Diaspora",
+		"professor": "Amoozegar-Fassaie,"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "188",
+		"title": "Special Courses in Ethnomusicology: Mode in Western and Non-Western Musical Traditions",
+		"professor": "Beken, M.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "188",
+		"title": "Special Courses in Ethnomusicology: Music and Intersectionality in the Mediterranean",
+		"professor": "Bilal, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "208",
+		"title": "Seminar: Latin American Music",
+		"professor": "Loza, S.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "292A",
+		"title": "Seminar: Special Topics in Ethnomusicology: Art of Puppetry in Asia and Europe",
+		"professor": "Adler, S.I.; Rees, H.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "292B",
+		"title": "Seminar: Special Topics in Ethnomusicology: Oral Histories of UCLA Ethnomusicology",
+		"professor": "Russell, M.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ETHNMUS",
+		"code": "292C",
+		"title": "Seminar: Special Topics in Ethnomusicology: Indo-Persian Musical Confluence",
+		"professor": "Mohammadi, M."
+	}
+]

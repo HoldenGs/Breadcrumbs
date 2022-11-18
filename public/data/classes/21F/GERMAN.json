@@ -1,0 +1,86 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "GERMAN",
+		"code": "1",
+		"title": "Elementary German",
+		"professor": "Tarnawska Senel, M"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GERMAN",
+		"code": "1",
+		"title": "Elementary German",
+		"professor": "Saupe, W.; Tarnawska Senel, M"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GERMAN",
+		"code": "1",
+		"title": "Elementary German",
+		"professor": "Truper, L.S.; Tarnawska Senel, M"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GERMAN",
+		"code": "1",
+		"title": "Elementary German",
+		"professor": "Rosen, K.B.; Tarnawska Senel, M"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GERMAN",
+		"code": "2",
+		"title": "Elementary German",
+		"professor": "Brungardt, A.S.; Tarnawska Senel, M"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GERMAN",
+		"code": "3",
+		"title": "Elementary German",
+		"professor": "Fuchs, R.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GERMAN",
+		"code": "4",
+		"title": "Intermediate German",
+		"professor": "Fuchs, R.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GERMAN",
+		"code": "6",
+		"title": "Intermediate German",
+		"professor": "Fuchs, R.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GERMAN",
+		"code": "104",
+		"title": "German Film in Cultural Context, 1945 to Present",
+		"professor": "Michell, K.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GERMAN",
+		"code": "110",
+		"title": "Special Topics in Modern Literature and Culture: Nation and Migration: Germany",
+		"professor": "Yildiz, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GERMAN",
+		"code": "152",
+		"title": "Conversation and Composition on Contemporary German Culture and Society I",
+		"professor": "Tarnawska Senel, M"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GERMAN",
+		"code": "213",
+		"title": "Topics in Literature and Film",
+		"professor": "Michell, K.B."
+	}
+]

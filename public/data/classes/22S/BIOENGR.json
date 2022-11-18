@@ -1,0 +1,289 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "88S",
+		"title": "Tissue Engineering: Our Future of Medicine",
+		"professor": "Pedroncelli, N.G.; Li, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "C102",
+		"title": "Human Physiological Systems for Bioengineering I",
+		"professor": "Wilson, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "110",
+		"title": "Biotransport and Bioreaction Processes",
+		"professor": "Kamei, D.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "121",
+		"title": "Introduction to Microcontrollers",
+		"professor": "Schmidt, J.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "C139B",
+		"title": "Biomolecular Materials Science II",
+		"professor": "Wong, G.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "C147",
+		"title": "Applied Tissue Engineering: Clinical and Industrial Perspective",
+		"professor": "Tawil, N.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "C166",
+		"title": "Wearable Bioelectronics",
+		"professor": "Chen, J.; Chen, G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "167L",
+		"title": "Bioengineering Laboratory",
+		"professor": "Creixell, M.; Meyer, A.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "176",
+		"title": "Principles of Biocompatibility",
+		"professor": "Wu, B.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "180L",
+		"title": "System Integration in Biology, Engineering, and Medicine I Laboratory",
+		"professor": "Hsiai, T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "CM186",
+		"title": "Computational Systems Biology: Modeling and Simulation of Biological Systems",
+		"professor": "Distefano, J.; Zheng, D.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "CM187",
+		"title": "Research Communication in Computational and Systems Biology",
+		"professor": "Pellegrini, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "188",
+		"title": "Special Courses in Bioengineering: Stem Cell Engineering",
+		"professor": "Li, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "188SC",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Li, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "C202",
+		"title": "Human Physiological Systems for Bioengineering I",
+		"professor": "Wilson, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "224B",
+		"title": "Advances in Imaging Informatics",
+		"professor": "Speier, W.F.; Arnold, C.W."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "M225",
+		"title": "Bioseparations and Bioprocess Engineering",
+		"professor": "Annabi, N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "M226",
+		"title": "Medical Knowledge Representation",
+		"professor": "Taira, R.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "M229",
+		"title": "Advanced Topics in Magnetic Resonance Imaging",
+		"professor": "Sung, K.; Wu, H.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "C239B",
+		"title": "Biomolecular Materials Science II",
+		"professor": "Wong, G.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "C247",
+		"title": "Applied Tissue Engineering: Clinical and Industrial Perspective",
+		"professor": "Tawil, N.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "M248",
+		"title": "Introduction to Biological Imaging",
+		"professor": "Hadjioannou, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "M252",
+		"title": "Microelectromechanical Systems (MEMS) Device Physics and Design",
+		"professor": "Candler, R.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "C266",
+		"title": "Wearable Bioelectronics",
+		"professor": "Chen, J.; Chen, G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "271",
+		"title": "Biotechnology of Cellular Therapies",
+		"professor": "Di Carlo, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "281",
+		"title": "Advanced Bioconjugate Design and Methods",
+		"professor": "Deming, T.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "CM286",
+		"title": "Computational Systems Biology: Modeling and Simulation of Biological Systems",
+		"professor": "Distefano, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "CM287",
+		"title": "Research Communication in Computational and Systems Biology",
+		"professor": "Pellegrini, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "295A",
+		"title": "Seminar: Research Topics in Bioengineering--Biomaterial Research",
+		"professor": "Kasko, A.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "295B",
+		"title": "Seminar: Research Topics in Bioengineering--Biomaterials and Tissue Engineering Research",
+		"professor": "Wu, B.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "295D",
+		"title": "Seminar: Research Topics in Bioengineering--Hybrid Device Research",
+		"professor": "Schmidt, J.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "295E",
+		"title": "Seminar: Research Topics in Bioengineering--Molecular Cell Bioengineering Research",
+		"professor": "Kamei, D.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "295F",
+		"title": "Seminar: Research Topics in Bioengineering--Biopolymer Materials and Chemistry",
+		"professor": "Deming, T.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "295G",
+		"title": "Seminar: Research Topics in Bioengineering--Biomicrofluidics and Bionanotechnology Research",
+		"professor": "Di Carlo, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "295H",
+		"title": "Seminar: Research Topics in Bioengineering--Biomimetic System Research",
+		"professor": "Liu, W."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "295K",
+		"title": "Seminar: Research Topics in Bioengineering--Research in Synthetic Immunology and Microbiology",
+		"professor": "Wong, G.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "295L",
+		"title": "Seminar: Research Topics in Bioengineering--Cell and Tissue Engineering",
+		"professor": "Li, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "295M",
+		"title": "Seminar: Research Topics in Bioengineering--Research in Biological Systems Engineering",
+		"professor": "Meyer, A.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "295N",
+		"title": "Seminar: Research Topics in Bioengineering--Research in Biophotonics",
+		"professor": "Gao, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "295O",
+		"title": "Seminar: Research Topics in Bioengineering--Research in Modeling of Drug Effects",
+		"professor": "Wilson, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOENGR",
+		"code": "295P",
+		"title": "Seminar: Research Topics in Bioengineering--Research in Wearable Bioelectronics for Personalized Health Care",
+		"professor": "Chen, J."
+	}
+]

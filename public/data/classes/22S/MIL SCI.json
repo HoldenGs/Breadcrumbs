@@ -1,0 +1,37 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "MIL SCI",
+		"code": "Z",
+		"title": "Leadership Laboratory",
+		"professor": "Martinez, K.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MIL SCI",
+		"code": "13",
+		"title": "Leadership Development",
+		"professor": "Kete, L.R.; Rivera, C.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MIL SCI",
+		"code": "23",
+		"title": "Subordinate Development and Army Organization",
+		"professor": "Kete, L.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MIL SCI",
+		"code": "133",
+		"title": "Leadership and Problem Solving",
+		"professor": "Coyle, C.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MIL SCI",
+		"code": "143",
+		"title": "Officership: Professional Military Leadership",
+		"professor": "Toms, K.E."
+	}
+]

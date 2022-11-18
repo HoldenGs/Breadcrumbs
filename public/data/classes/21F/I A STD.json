@@ -1,0 +1,44 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "I A STD",
+		"code": "M6A",
+		"title": "Elementary Amharic",
+		"professor": "Adhanom, A.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "I A STD",
+		"code": "M7A",
+		"title": "Elementary Yoruba",
+		"professor": "Adegbola, M.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "I A STD",
+		"code": "19",
+		"title": "U.S. Values versus U.S. Interests in Greater Middle East Diplomacy",
+		"professor": "Kerr, A.Z."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "I A STD",
+		"code": "191",
+		"title": "Variable Topics Senior Research Seminars: International and Area Studies: China in World: Environment and Politics",
+		"professor": "Lee, Y.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "I A STD",
+		"code": "198A",
+		"title": "Honors Research in International and Area Studies",
+		"professor": "Stein, S.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "I A STD",
+		"code": "198A",
+		"title": "Honors Research in International and Area Studies",
+		"professor": "Rigby, D.L."
+	}
+]

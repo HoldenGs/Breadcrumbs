@@ -1,0 +1,310 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "1A",
+		"title": "Principles of Accounting",
+		"professor": "Woo, E.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "1B",
+		"title": "Principles of Accounting",
+		"professor": "Gardner Treloar, J"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "19",
+		"title": "How COVID-19 Affected Public Finances, from Local to Global Level",
+		"professor": "Friedman, H.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "108",
+		"title": "Business Law",
+		"professor": "Guerin, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "108",
+		"title": "Business Law",
+		"professor": "Klein, G.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "120A",
+		"title": "Intermediate Financial Accounting I",
+		"professor": "Lu, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "120B",
+		"title": "Intermediate Financial Accounting II",
+		"professor": "Lu, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "120B",
+		"title": "Intermediate Financial Accounting II",
+		"professor": "Klein, G.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "121",
+		"title": "Ethical Leadership in Accounting",
+		"professor": "Borman, C.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "122",
+		"title": "Management Accounting",
+		"professor": "Kumar, N.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "123",
+		"title": "Auditing",
+		"professor": "Gardner Treloar, J"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "124",
+		"title": "Advanced Accounting",
+		"professor": "Woo, E.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "126",
+		"title": "Financial Statement Analysis",
+		"professor": "Borman, C.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "127A",
+		"title": "Tax Principles and Policy",
+		"professor": "Berges, T.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "127A",
+		"title": "Tax Principles and Policy",
+		"professor": "Klein, G.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "127B",
+		"title": "Corporate and Partnership Taxation",
+		"professor": "Gardner Treloar, J"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "142A",
+		"title": "Information Technology in Accounting",
+		"professor": "Ravetch, D.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "159",
+		"title": "Foundations of Business and Entrepreneurship",
+		"professor": "Nathanson, D.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "160",
+		"title": "Entrepreneurship and Venture Initiation",
+		"professor": "Wilson, N.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "161",
+		"title": "Business Plan Development",
+		"professor": "Wilson, N.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "163",
+		"title": "Entrepreneurship and New Product Development",
+		"professor": "Rostamian, F.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "164",
+		"title": "Entrepreneurial Finance and Accounting",
+		"professor": "Borman, C.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "168",
+		"title": "Personal Financial Health: Theory and Practice",
+		"professor": "Patt, S.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "170",
+		"title": "Real Estate Finance and Investments",
+		"professor": "Karlan, M.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "180",
+		"title": "Special Topics in Management: Entrepreneurial Strategy and Law",
+		"professor": "Weinhaus, E.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "194",
+		"title": "Anderson School of Management Research Group Seminar",
+		"professor": "Goldstein, N.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "195",
+		"title": "Community or Corporate Internships in Management",
+		"professor": "Wilson, N.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "224",
+		"title": "Business Law for Managers and Entrepreneurs",
+		"professor": "Guerin, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "228",
+		"title": "Financial Statement Analysis",
+		"professor": "Caskey, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "231C",
+		"title": "Corporate Valuation",
+		"professor": "Santikian, L.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "231E",
+		"title": "Managing Finance and Financing Emerging Enterprises",
+		"professor": "Cockrum, W.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "232D",
+		"title": "Option Markets",
+		"professor": "Panageas, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "250D",
+		"title": "Patterns of Problem Solving",
+		"professor": "Firstenberg, I."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "264A",
+		"title": "Market Research",
+		"professor": "Esteves-Sorenson,"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "266A",
+		"title": "New Product Development",
+		"professor": "Terech, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "266B",
+		"title": "Advertising and Marketing Communications",
+		"professor": "Nelson, B.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "275",
+		"title": "Current Topics in Emerging Technologies and Markets: Technological Innovations in Media and Entertainment",
+		"professor": "Montgomery, M.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "278A",
+		"title": "Urban Real Estate Financing and Investing",
+		"professor": "Habibi, P.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "279C",
+		"title": "Real Estate Economics, Capital Markets, and Securitization",
+		"professor": "Gabriel, S.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "281B",
+		"title": "People in Organizations",
+		"professor": "Culbert, S.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "286",
+		"title": "Negotiations Behavior",
+		"professor": "Whitson, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "293C",
+		"title": "Ethical Considerations in Business",
+		"professor": "Cockrum, W.M.; Farrell, B.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "295D",
+		"title": "Business Plan Development",
+		"professor": "Nathanson, D.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MGMT",
+		"code": "295D",
+		"title": "Business Plan Development",
+		"professor": "Labran, R.E."
+	}
+]

@@ -1,0 +1,219 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "7A",
+		"title": "Cell and Molecular Biology",
+		"professor": "Maloy, J.P.; Braybrook, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "7B",
+		"title": "Genetics, Evolution, and Ecology",
+		"professor": "Pires, D.B.; Kremer, C.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "7B",
+		"title": "Genetics, Evolution, and Ecology",
+		"professor": "Pires, D.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "7B",
+		"title": "Genetics, Evolution, and Ecology",
+		"professor": "Pham, H.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "7B",
+		"title": "Genetics, Evolution, and Ecology",
+		"professor": "Marcot, J.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "7C",
+		"title": "Physiology and Human Biology",
+		"professor": "Esdin, J.; Cooper, R.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "7C",
+		"title": "Physiology and Human Biology",
+		"professor": "Khankan, R.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "15",
+		"title": "Life: Concepts and Issues",
+		"professor": "Phelan, J.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "23L",
+		"title": "Introduction to Laboratory and Scientific Methodology",
+		"professor": "Pfluegl, G.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "30B",
+		"title": "Mathematics for Life Scientists",
+		"professor": "Keranen, J.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "30B",
+		"title": "Mathematics for Life Scientists",
+		"professor": "Shevtsov, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "30B",
+		"title": "Mathematics for Life Scientists",
+		"professor": "Mc Cully, K.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "40",
+		"title": "Statistics of Biological Systems",
+		"professor": "Tingley, M.W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "107",
+		"title": "Genetics",
+		"professor": "Laski, F.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "107",
+		"title": "Genetics",
+		"professor": "Pham, H.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "110",
+		"title": "Career Exploration in Life Sciences",
+		"professor": "Kennison, R.L.; Pereznegron, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "M192A",
+		"title": "Introduction to Collaborative Learning Theory and Practice",
+		"professor": "Shaked, S.; Wisherop, C.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "192B",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Shaked, S.; Pearce, C.; Corado Perez, B.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "192B",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Maloy, J.P.; Pires, D.B.; Khankan, R.R.; Mulji, A.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "192B",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Pfluegl, G.M.; Sarambale, H.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "192B",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Shevtsov, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "192C",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Shaked, S.; Turba de Paula, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "192C",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Maloy, J.P.; Pires, D.B.; Khankan, R.R.; Mulji, A.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "192C",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Pfluegl, G.M.; Sarambale, H.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "192C",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Shevtsov, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "192D",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Shaked, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "192D",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Maloy, J.P.; Pires, D.B.; Khankan, R.R.; Mulji, A.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "192D",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Pfluegl, G.M.; Sarambale, H.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "192D",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Shevtsov, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "192E",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Shaked, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "LIFESCI",
+		"code": "192G",
+		"title": "Collaborative Learning Theory and Practice: Anti-Racism Discourse",
+		"professor": "Shaked, S.; Leong, N.K."
+	}
+]

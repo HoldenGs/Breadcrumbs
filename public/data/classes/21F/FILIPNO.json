@@ -1,0 +1,30 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "FILIPNO",
+		"code": "1",
+		"title": "Introductory Filipino",
+		"professor": "Domingo, N.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "FILIPNO",
+		"code": "4",
+		"title": "Intermediate Filipino",
+		"professor": "Domingo, N.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "FILIPNO",
+		"code": "170",
+		"title": "People, Society, and Culture of Philippines",
+		"professor": "Paredes, O."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "FILIPNO",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Paredes, O."
+	}
+]

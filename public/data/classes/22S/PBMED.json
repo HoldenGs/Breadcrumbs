@@ -1,0 +1,65 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "PBMED",
+		"code": "202B",
+		"title": "Applications of Medical Physics to Clinical Problems: Mammography",
+		"professor": "Oshiro, T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PBMED",
+		"code": "202C",
+		"title": "Applications of Medical Physics to Clinical Problems: Radiation Therapy",
+		"professor": "Agazaryan, N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PBMED",
+		"code": "203",
+		"title": "Physics of Radiation Therapy",
+		"professor": "Agazaryan, N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PBMED",
+		"code": "207",
+		"title": "Monte Carlo Methods with Applications for Radiological Sciences",
+		"professor": "Yang, Y.; Lamb, J.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PBMED",
+		"code": "223",
+		"title": "Seminar: Radiation Biology",
+		"professor": "Cacalano, N.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PBMED",
+		"code": "225",
+		"title": "Contrast Mechanisms and Quantification in Magnetic Resonance Imaging",
+		"professor": "Ellingson, B.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PBMED",
+		"code": "M229",
+		"title": "Advanced Topics in Magnetic Resonance Imaging",
+		"professor": "Sung, K.; Wu, H.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PBMED",
+		"code": "M248",
+		"title": "Introduction to Biological Imaging",
+		"professor": "Hadjioannou, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PBMED",
+		"code": "260C",
+		"title": "Seminar: Biomedical Physics",
+		"professor": "McNitt-Gray, M."
+	}
+]

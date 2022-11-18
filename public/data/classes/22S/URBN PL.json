@@ -1,0 +1,191 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "URBN PL",
+		"code": "CM151",
+		"title": "Parking and City",
+		"professor": "Shoup, D.C.; Gray, M.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "URBN PL",
+		"code": "195",
+		"title": "Community Internships in Urban Planning",
+		"professor": "Ong, P.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "URBN PL",
+		"code": "202B",
+		"title": "Land Use",
+		"professor": "Zasloff, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "URBN PL",
+		"code": "203B",
+		"title": "Seminar: Housing Segregation, Housing Discrimination, and Evolution of Public Policy",
+		"professor": "Sander, R.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "URBN PL",
+		"code": "206B",
+		"title": "Advanced Geographic Information Systems and Spatial Data Analysis",
+		"professor": "Giottonini Badilla; Giamarino, C.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "URBN PL",
+		"code": "207",
+		"title": "Applied Microeconomics for Urban Planning",
+		"professor": "Manville, M.K.; Harper, L.A.; Jarnagin, A.M.; Schwartz, E.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "URBN PL",
+		"code": "M208D",
+		"title": "Introduction to Qualitative Research",
+		"professor": "Ritterbusch, A.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "URBN PL",
+		"code": "211",
+		"title": "Law and Quality of Urban Life",
+		"professor": "Knox, P.A.; Ghalchi, S.R.; Hernandez, E.I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "URBN PL",
+		"code": "217B",
+		"title": "Comprehensive Planning Project",
+		"professor": "Tilly, C.C.; Stephens, P.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "URBN PL",
+		"code": "217B",
+		"title": "Comprehensive Planning Project",
+		"professor": "Matute, J.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "URBN PL",
+		"code": "219",
+		"title": "Special Topics in Built Environment: Freeway Inequities Research Project",
+		"professor": "Loukaitou-Sideris,; Ramirez Valencia,"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "URBN PL",
+		"code": "229",
+		"title": "Special Topics in Planning Methods: Racial Justice and Planning",
+		"professor": "Goh, K.; Terriquez, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "URBN PL",
+		"code": "M231",
+		"title": "Global Public Affairs: Governing in Interconnected World",
+		"professor": "Anheier, H.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "URBN PL",
+		"code": "232",
+		"title": "Disaster Management and Response",
+		"professor": "Commins, S.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "URBN PL",
+		"code": "M236B",
+		"title": "Globalization and Regional Development",
+		"professor": "Storper, M.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "URBN PL",
+		"code": "239",
+		"title": "Special Topics in Regional and International Development: Urban Politics in Global South",
+		"professor": "Herrera, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "URBN PL",
+		"code": "C251",
+		"title": "Parking and City",
+		"professor": "Shoup, D.C.; Gray, M.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "URBN PL",
+		"code": "M253",
+		"title": "Travel Behavior Analysis",
+		"professor": "Bills, T.S.; O'Neill, H.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "URBN PL",
+		"code": "M256",
+		"title": "Transportation Economics, Finance, and Policy",
+		"professor": "Osman, T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "URBN PL",
+		"code": "260B",
+		"title": "Green Urban Studio: Designing Living Neighborhoods",
+		"professor": "Wells, W.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "URBN PL",
+		"code": "265B",
+		"title": "Urban Environments and Socioecologies",
+		"professor": "Hecht, S.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "URBN PL",
+		"code": "269",
+		"title": "Special Topics in Environmental Analysis and Policy: Sea-Level Rise and Social Response",
+		"professor": "Koslov, E.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "URBN PL",
+		"code": "272B",
+		"title": "Advanced Real Estate Studio",
+		"professor": "Hull, C.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "URBN PL",
+		"code": "273",
+		"title": "Site Planning",
+		"professor": "Mukhija, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "URBN PL",
+		"code": "282",
+		"title": "Urban Design: Theories, Paradigms, Applications",
+		"professor": "Loukaitou-Sideris,; Ding, H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "URBN PL",
+		"code": "283",
+		"title": "Community Development, Organizing, and Engagement",
+		"professor": "Aviles, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "URBN PL",
+		"code": "297",
+		"title": "Current Issues in Urban Planning: Seminar 1  ",
+		"professor": "Hecht, S.B."
+	}
+]

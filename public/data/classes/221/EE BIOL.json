@@ -1,0 +1,100 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EE BIOL",
+		"code": "100",
+		"title": "Introduction to Ecology and Behavior",
+		"professor": "Mc Craney, W.T."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EE BIOL",
+		"code": "100L",
+		"title": "Introduction to Ecology and Behavior Laboratory",
+		"professor": "Mc Craney, W.T.; O'Fallon, S.R."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EE BIOL",
+		"code": "109",
+		"title": "Introduction to Marine Science",
+		"professor": "Kane, T.L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EE BIOL",
+		"code": "109L",
+		"title": "Introduction to Marine Science Laboratory",
+		"professor": "Smith, L.L.; Kane, T.L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EE BIOL",
+		"code": "115",
+		"title": "Mammalogy",
+		"professor": "Dines, J.P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EE BIOL",
+		"code": "116",
+		"title": "Conservation Biology",
+		"professor": "Brown, C.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EE BIOL",
+		"code": "120",
+		"title": "Evolution",
+		"professor": "Gorlitsky, L.E.; Shu, Y."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EE BIOL",
+		"code": "M139",
+		"title": "Introduction to Chemical Oceanography",
+		"professor": "Leinweber, A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EE BIOL",
+		"code": "162",
+		"title": "Plant Physiology",
+		"professor": "Sack, L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EE BIOL",
+		"code": "162L",
+		"title": "Plant Physiology and Ecophysiology Laboratory",
+		"professor": "Baird, A.S.; Sack, L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EE BIOL",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Brown, C.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EE BIOL",
+		"code": "196",
+		"title": "Research Apprenticeship in Ecology and Evolutionary Biology",
+		"professor": "Grether, G.F."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EE BIOL",
+		"code": "196",
+		"title": "Research Apprenticeship in Ecology and Evolutionary Biology",
+		"professor": "Nonacs, P.N."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EE BIOL",
+		"code": "198A",
+		"title": "Honors Research in Ecology and Evolutionary Biology",
+		"professor": "Amarasekare, P.A."
+	}
+]

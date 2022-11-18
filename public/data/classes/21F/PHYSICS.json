@@ -1,0 +1,429 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "1A",
+		"title": "Physics for Scientists and Engineers: Mechanics",
+		"professor": "Corbin, B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "1AH",
+		"title": "Physics for Scientists and Engineers: Mechanics (Honors)",
+		"professor": "Bozovic, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "1B",
+		"title": "Physics for Scientists and Engineers: Oscillations, Waves, Electric and Magnetic Fields",
+		"professor": "Rombes Iii, N.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "1B",
+		"title": "Physics for Scientists and Engineers: Oscillations, Waves, Electric and Magnetic Fields",
+		"professor": "Hauser, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "1C",
+		"title": "Physics for Scientists and Engineers: Electrodynamics, Optics, and Special Relativity",
+		"professor": "Brown, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "1C",
+		"title": "Physics for Scientists and Engineers: Electrodynamics, Optics, and Special Relativity",
+		"professor": "Rombes Iii, N.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "1C",
+		"title": "Physics for Scientists and Engineers: Electrodynamics, Optics, and Special Relativity",
+		"professor": "Hamilton, D.W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "4AL",
+		"title": "Physics Laboratory for Scientists and Engineers: Mechanics",
+		"professor": "Ni, N.; Seth, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "4AL",
+		"title": "Physics Laboratory for Scientists and Engineers: Mechanics",
+		"professor": "Ni, N.; Li, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "4AL",
+		"title": "Physics Laboratory for Scientists and Engineers: Mechanics",
+		"professor": "Ni, N.; Semwal, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "4AL",
+		"title": "Physics Laboratory for Scientists and Engineers: Mechanics",
+		"professor": "Ni, N.; Sharma, P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "4AL",
+		"title": "Physics Laboratory for Scientists and Engineers: Mechanics",
+		"professor": "Ni, N.; Taneja, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "4AL",
+		"title": "Physics Laboratory for Scientists and Engineers: Mechanics",
+		"professor": "Ni, N.; Banerjee, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "5A",
+		"title": "Physics for Life Sciences Majors: Mechanics and Energy",
+		"professor": "Schriver, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "5A",
+		"title": "Physics for Life Sciences Majors: Mechanics and Energy",
+		"professor": "Tung, N.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "5A",
+		"title": "Physics for Life Sciences Majors: Mechanics and Energy",
+		"professor": "Lancaster, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "5B",
+		"title": "Physics for Life Sciences Majors: Thermodynamics, Fluids, Waves, Light, and Optics",
+		"professor": "Bauer, D.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "5B",
+		"title": "Physics for Life Sciences Majors: Thermodynamics, Fluids, Waves, Light, and Optics",
+		"professor": "Holczer, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "5C",
+		"title": "Physics for Life Sciences Majors: Electricity, Magnetism, and Modern Physics",
+		"professor": "Niemann, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "5C",
+		"title": "Physics for Life Sciences Majors: Electricity, Magnetism, and Modern Physics",
+		"professor": "Jiang, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "10",
+		"title": "Physics",
+		"professor": "Chakravarty, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "17",
+		"title": "Elements of Quantum Mechanics and Statistical Mechanics",
+		"professor": "Regan, B.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "18L",
+		"title": "Modern Physics Laboratory",
+		"professor": "Campbell, W.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "19",
+		"title": "Physical Origin of Consciousness, Intelligence, and Creativity",
+		"professor": "Arisaka, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "105A",
+		"title": "Analytic Mechanics",
+		"professor": "Bruinsma, R.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "105B",
+		"title": "Analytic Mechanics",
+		"professor": "Vassiliev, V.V."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "110A",
+		"title": "Electricity and Magnetism",
+		"professor": "Hudson, E.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "110B",
+		"title": "Electricity and Magnetism",
+		"professor": "Bachtis, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "112",
+		"title": "Thermodynamics",
+		"professor": "Wang, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "115A",
+		"title": "Quantum Mechanics",
+		"professor": "Ni, N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "115B",
+		"title": "Quantum Mechanics",
+		"professor": "Hamilton, P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "117",
+		"title": "Electronics for Physics Measurement",
+		"professor": "Carter, T.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "M122",
+		"title": "Introduction to Plasma Electronics",
+		"professor": "Mori, W.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "124",
+		"title": "Nuclear Physics",
+		"professor": "Kang, Z."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "131",
+		"title": "Mathematical Methods of Physics",
+		"professor": "Samani, J.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "140A",
+		"title": "Introduction to Solid-State Physics",
+		"professor": "Gutierrez, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "180F",
+		"title": "Elementary Particle Laboratory",
+		"professor": "Ong, R.A.; Lo, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "180N",
+		"title": "Computational Physics and Astronomy Laboratory",
+		"professor": "Roy, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Advanced Honors Seminar for Physics 105A",
+		"professor": "Bruinsma, R.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "192",
+		"title": "Undergraduate Practicum in Physics",
+		"professor": "Arisaka, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "192M",
+		"title": "Methods and Application of Collaborative Learning Theory in Physical Sciences",
+		"professor": "Samani, J.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "M192S",
+		"title": "Introduction to Collaborative Learning Theory and Practice",
+		"professor": "Shaked, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "197",
+		"title": "Individual Studies in Physics",
+		"professor": "Roy, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "197",
+		"title": "Individual Studies in Physics",
+		"professor": "Kogar, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "198",
+		"title": "Honors Research in Physics",
+		"professor": "Carter, T.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "220",
+		"title": "Classical Mechanics",
+		"professor": "Putterman, S.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "221A",
+		"title": "Quantum Mechanics",
+		"professor": "Gutperle, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "222A",
+		"title": "Plasma Physics",
+		"professor": "Da Costa Alves, E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "226B",
+		"title": "Elementary Particle Physics",
+		"professor": "Gelmini, G.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "226D",
+		"title": "Beyond the Standard Model",
+		"professor": "Kusenko, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "230A",
+		"title": "Quantum Field Theory",
+		"professor": "D'Hoker, E.; de Firmian, C.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "231A",
+		"title": "Methods of Mathematical Physics",
+		"professor": "Kraus, P.J.; Myers, R.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "232A",
+		"title": "Relativity",
+		"professor": "TA; Solon, M.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "241A",
+		"title": "Solid-State Physics",
+		"professor": "Roy, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "242A",
+		"title": "Advanced Solid-State Theory",
+		"professor": "Tserkovnyak, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "250",
+		"title": "Introduction to Acceleration of Charged Particles",
+		"professor": "Rosenzweig, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "296",
+		"title": "Research Topics in Physics",
+		"professor": "Hamilton, P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "296",
+		"title": "Research Topics in Physics",
+		"professor": "Putterman, S.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "296",
+		"title": "Research Topics in Physics",
+		"professor": "Bozovic, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "296",
+		"title": "Research Topics in Physics",
+		"professor": "Samani, J.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSICS",
+		"code": "296",
+		"title": "Research Topics in Physics",
+		"professor": "Campbell, W.C.; Levine, A.J."
+	}
+]

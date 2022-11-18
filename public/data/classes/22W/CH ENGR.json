@@ -1,0 +1,121 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "CH ENGR",
+		"code": "45",
+		"title": "Biomolecular Engineering Fundamentals",
+		"professor": "Tang, Y.; Chen, I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CH ENGR",
+		"code": "101B",
+		"title": "Transport Phenomena II: Heat Transfer",
+		"professor": "Eisler, C.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CH ENGR",
+		"code": "102A",
+		"title": "Thermodynamics I",
+		"professor": "Manousiouthakis, V"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CH ENGR",
+		"code": "104A",
+		"title": "Chemical and Biomolecular Engineering Laboratory I",
+		"professor": "Lu, Y.; Monbouquette, H.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CH ENGR",
+		"code": "104D",
+		"title": "Molecular Biotechnology Laboratory: From Gene to Product",
+		"professor": "Park, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CH ENGR",
+		"code": "107",
+		"title": "Process Dynamics and Control",
+		"professor": "Christofides, P.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CH ENGR",
+		"code": "108A",
+		"title": "Process Economics and Analysis",
+		"professor": "Morales Guio, C.G.; Li, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CH ENGR",
+		"code": "108A",
+		"title": "Process Economics and Analysis",
+		"professor": "Morales Guio, C.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CH ENGR",
+		"code": "C124",
+		"title": "Cell Material Interactions",
+		"professor": "Annabi, N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CH ENGR",
+		"code": "M153",
+		"title": "Introduction to Microscale and Nanoscale Manufacturing",
+		"professor": "Chen, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CH ENGR",
+		"code": "194",
+		"title": "Research Group Seminars: Chemical Engineering",
+		"professor": "Russ, B.D.; Manousiouthakis, V"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CH ENGR",
+		"code": "210",
+		"title": "Advanced Chemical Reaction Engineering",
+		"professor": "Lin, E.; Simonetti, D.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CH ENGR",
+		"code": "210",
+		"title": "Advanced Chemical Reaction Engineering",
+		"professor": "Simonetti, D.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CH ENGR",
+		"code": "220",
+		"title": "Advanced Mass Transfer",
+		"professor": "Holkar, A.; Srivastava, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CH ENGR",
+		"code": "220",
+		"title": "Advanced Mass Transfer",
+		"professor": "Srivastava, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CH ENGR",
+		"code": "C224",
+		"title": "Cell Material Interactions",
+		"professor": "Annabi, N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CH ENGR",
+		"code": "M282A",
+		"title": "Nonlinear Dynamic Systems",
+		"professor": "Tabuada, P."
+	}
+]

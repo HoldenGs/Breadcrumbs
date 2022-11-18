@@ -1,0 +1,37 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "NAV SCI",
+		"code": "Z",
+		"title": "Naval Science Laboratory",
+		"professor": "Loria, I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NAV SCI",
+		"code": "20A",
+		"title": "Naval Ship Systems II",
+		"professor": "Rowan, J.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NAV SCI",
+		"code": "101A",
+		"title": "Navigation",
+		"professor": "Piper, W.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NAV SCI",
+		"code": "102B",
+		"title": "Leadership and Management",
+		"professor": "Ragadio, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NAV SCI",
+		"code": "104",
+		"title": "Fundamentals of Maneuver Warfare",
+		"professor": "Gabel, K."
+	}
+]

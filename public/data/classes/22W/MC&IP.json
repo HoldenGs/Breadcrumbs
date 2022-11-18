@@ -1,0 +1,919 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "262",
+		"title": "Molecular Mechanisms of Human Diseases II",
+		"professor": "Yang, X."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Abramson, J.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Adhikari, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Aguiar Vallim, E.J"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Ajijola, O.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Akin, O."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Ardehali, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Ardell, J.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Arnold, A.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Bertholet, A.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Block, G.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Bostrom, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Brecha, N.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Cai, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Cannon, S.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Carmichael, S.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Chandler, S.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Colwell, C.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Correa, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Covarrubias, A.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Crosbie, R.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "de Biase, L.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Deb, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Deeds, E.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Demer, L.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Deng, M.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Divakaruni, A.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Donlea, J.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Dorshkind, K.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Edgerton, V.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Eghbali, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Fain, G.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Frye, M.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Ganz, T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Garfinkel, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Ghosh, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Glanzman, D.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Gomez-Pinilla, F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Gonen, T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Graeber, T.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Grinnell, A.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Guo, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Gwack, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Hallem, E.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Harper, R.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Hevener, A.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Hong, W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Hsiai, T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Hsiao, E.Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Huang, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Iruela-Arispe, L.M"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Jacobs, J.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "John, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Khakh, B.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Kong, X."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Kornblum, H.I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Li, Z."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Liesa-Roig, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Lin, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Lu, D.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Marban, E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Masmanidis, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Mayer, E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Mehta, M.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Metzner, W.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Micevych, P.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Middlekauff, H.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Mittelman, S.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Nakano, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Narins, P.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Nemeth, E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "O'Dell, T.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Olcese, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Ottolia, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Packard, R.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Papazian, D.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Paul, K.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Peng, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Peng, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Phelps, P.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Ping, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Pisegna, J.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Poe, G.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Portera-Cailliau,"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Pothoulakis, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Pyle, A.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Qu, Z."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Quijada, P.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Radu, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Rao, D.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Reddy, S.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Reed, E.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Reue, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Rowat, A.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Sallam, T.I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Sampath, A.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Schlinger, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Schweizer, F.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Shah, P.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Shirihai, O."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Shivkumar, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Singh, R.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Spencer, M.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Spigelman, I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Sun, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Tache, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Tidball, J.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Tontonoz, P.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Trachtenberg, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Travis, G.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Umar, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Vallim, T.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Vaseghi, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Vergara, J.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Villanueva, C.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Vondriska, T.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Voskuhl, R.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Walker, D.W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Wang, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Wang, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Weiss, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "White, S.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Wilke, L.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Wollman, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Wright, E.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Xiao, X."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Yang, X."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Young, S.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Zhang, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Zheng, J.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Zipursky, S.L."
+	}
+]

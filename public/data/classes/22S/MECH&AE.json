@@ -1,0 +1,212 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "MECH&AE",
+		"code": "M20",
+		"title": "Introduction to Computer Programming with MATLAB",
+		"professor": "Ruter, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MECH&AE",
+		"code": "82",
+		"title": "Mathematics of Engineering",
+		"professor": "Chatterjee, A.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MECH&AE",
+		"code": "101",
+		"title": "Statics and Strength of Materials",
+		"professor": "Nordendale, N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MECH&AE",
+		"code": "102",
+		"title": "Dynamics of Particles and Rigid Bodies",
+		"professor": "Davoyan, A.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MECH&AE",
+		"code": "103",
+		"title": "Elementary Fluid Mechanics",
+		"professor": "Kavehpour, H.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MECH&AE",
+		"code": "105A",
+		"title": "Introduction to Engineering Thermodynamics",
+		"professor": "Amar, R.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MECH&AE",
+		"code": "105D",
+		"title": "Transport Phenomena",
+		"professor": "Lavine, A.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MECH&AE",
+		"code": "107",
+		"title": "Introduction to Modeling and Analysis of Dynamic Systems",
+		"professor": "Kim, D.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MECH&AE",
+		"code": "133A",
+		"title": "Engineering Thermodynamics",
+		"professor": "Fisher, T.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MECH&AE",
+		"code": "150B",
+		"title": "Aerodynamics",
+		"professor": "Zhong, X."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MECH&AE",
+		"code": "C150R",
+		"title": "Rocket Propulsion Systems",
+		"professor": "Abrantes, R.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MECH&AE",
+		"code": "156A",
+		"title": "Advanced Strength of Materials",
+		"professor": "Jin, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MECH&AE",
+		"code": "157",
+		"title": "Basic Mechanical and Aerospace Engineering Laboratory",
+		"professor": "Lin, N.; Biggs, I.; Choi, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MECH&AE",
+		"code": "157",
+		"title": "Basic Mechanical and Aerospace Engineering Laboratory",
+		"professor": "Hu, Y.; Li, M.; Wu, H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MECH&AE",
+		"code": "157",
+		"title": "Basic Mechanical and Aerospace Engineering Laboratory",
+		"professor": "Sepulveda, A.E.; Ke, M.; Wong, E.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MECH&AE",
+		"code": "157A",
+		"title": "Aerospace Design Laboratory",
+		"professor": "Lopez, B.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MECH&AE",
+		"code": "161C",
+		"title": "Spacecraft Design",
+		"professor": "Goebel, D.M.; King, P.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MECH&AE",
+		"code": "162A",
+		"title": "Introduction to Mechanisms and Mechanical Systems",
+		"professor": "Matthes, C.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MECH&AE",
+		"code": "162E",
+		"title": "Mechanical Engineering Design II",
+		"professor": "Shaefer, R.S.; Wang, H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MECH&AE",
+		"code": "162E",
+		"title": "Mechanical Engineering Design II",
+		"professor": "Hong, D.W."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MECH&AE",
+		"code": "162E",
+		"title": "Mechanical Engineering Design II",
+		"professor": "Rosen, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MECH&AE",
+		"code": "C163C",
+		"title": "Control of Robotic Systems",
+		"professor": "Santos, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MECH&AE",
+		"code": "M168",
+		"title": "Introduction to Finite Element Methods",
+		"professor": "Goyal, V.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MECH&AE",
+		"code": "M168",
+		"title": "Introduction to Finite Element Methods",
+		"professor": "Goyal, V.K.; Alsaffar, F.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MECH&AE",
+		"code": "171A",
+		"title": "Introduction to Feedback and Control Systems: Dynamic Systems Control I",
+		"professor": "Franco, E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MECH&AE",
+		"code": "171B",
+		"title": "Digital Control of Physical Systems",
+		"professor": "Tsao, T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MECH&AE",
+		"code": "171B",
+		"title": "Digital Control of Physical Systems",
+		"professor": "Tsao, T.; Lai, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MECH&AE",
+		"code": "172",
+		"title": "Control System Design Laboratory",
+		"professor": "M'Closkey, R.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MECH&AE",
+		"code": "183A",
+		"title": "Introduction to Manufacturing Processes",
+		"professor": "Lee, D.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MECH&AE",
+		"code": "185",
+		"title": "Introduction to Radio Frequency Identification and Its Application in Manufacturing and Supply Chain",
+		"professor": "Gadh, R."
+	}
+]

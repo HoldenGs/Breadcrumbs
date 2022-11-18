@@ -1,0 +1,51 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOL CH",
+		"code": "M140",
+		"title": "Cancer Cell Biology",
+		"professor": "Colicelli, J.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOL CH",
+		"code": "220B",
+		"title": "Research Laboratory Rotations",
+		"professor": "Edwards, P.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOL CH",
+		"code": "248",
+		"title": "Tumor Cell Biology",
+		"professor": "Teitell, M.A.; Colicelli, J.J.; Rao, D.S.; Crooks, G.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOL CH",
+		"code": "251B",
+		"title": "Seminar: Transcriptional Regulation",
+		"professor": "Kurdistani, S.K.; Carey, M.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOL CH",
+		"code": "M255",
+		"title": "Mitochondria in Medicine, Biology, and Chemistry",
+		"professor": "Clarke, C.F.; Koehler, C.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOL CH",
+		"code": "266B",
+		"title": "Seminar: Cell, Stem Cell, and Developmental Biology",
+		"professor": "Sagasti, A.; de Robertis, E.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOL CH",
+		"code": "296",
+		"title": "Research Seminar Series in Biological Chemistry",
+		"professor": "Frand, A.R.; Plath, K."
+	}
+]

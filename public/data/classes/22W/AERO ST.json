@@ -1,0 +1,23 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "AERO ST",
+		"code": "A",
+		"title": "Leadership Laboratory",
+		"professor": "Jones, T.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "AERO ST",
+		"code": "1B",
+		"title": "Heritage and Values",
+		"professor": "Jones, T.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "AERO ST",
+		"code": "140B",
+		"title": "National Security Affairs/Preparation for Active Duty",
+		"professor": "Fowler, G.M."
+	}
+]

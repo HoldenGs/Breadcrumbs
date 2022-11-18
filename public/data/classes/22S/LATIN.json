@@ -1,0 +1,51 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "LATIN",
+		"code": "2",
+		"title": "Elementary Latin",
+		"professor": "Radcliffe, B.A.; Beckelhymer, S.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LATIN",
+		"code": "3",
+		"title": "Elementary Latin",
+		"professor": "Beckelhymer, S.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LATIN",
+		"code": "3",
+		"title": "Elementary Latin",
+		"professor": "Sabattini, P.; Beckelhymer, S.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LATIN",
+		"code": "3",
+		"title": "Elementary Latin",
+		"professor": "Callahan, P.L.; Beckelhymer, S.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LATIN",
+		"code": "106",
+		"title": "Catullus",
+		"professor": "Borst, Z.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LATIN",
+		"code": "119A",
+		"title": "Readings in Roman Prose",
+		"professor": "Vine, B.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LATIN",
+		"code": "200C",
+		"title": "History of Latin Literature",
+		"professor": "Richlin, A.E."
+	}
+]

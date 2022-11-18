@@ -1,0 +1,289 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "7A",
+		"title": "Cell and Molecular Biology",
+		"professor": "Pires, D.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "7A",
+		"title": "Cell and Molecular Biology",
+		"professor": "Maloy, J.P.; Chen, Y.Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "7A",
+		"title": "Cell and Molecular Biology",
+		"professor": "Maloy, J.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "7A",
+		"title": "Cell and Molecular Biology",
+		"professor": "Lazazzera, B.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "7A",
+		"title": "Cell and Molecular Biology",
+		"professor": "Pham, H.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "7B",
+		"title": "Genetics, Evolution, and Ecology",
+		"professor": "Pires, D.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "7B",
+		"title": "Genetics, Evolution, and Ecology",
+		"professor": "Kane, T.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "7C",
+		"title": "Physiology and Human Biology",
+		"professor": "Esdin, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "7C",
+		"title": "Physiology and Human Biology",
+		"professor": "Khankan, R.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "15",
+		"title": "Life: Concepts and Issues",
+		"professor": "Phelan, J.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "23L",
+		"title": "Introduction to Laboratory and Scientific Methodology",
+		"professor": "Pfluegl, G.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "30A",
+		"title": "Mathematics for Life Scientists",
+		"professor": "Keranen, J.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "30A",
+		"title": "Mathematics for Life Scientists",
+		"professor": "Bennoun, S.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "30B",
+		"title": "Mathematics for Life Scientists",
+		"professor": "Shevtsov, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "M32",
+		"title": "Essential Calculus for Mathematical Biologists",
+		"professor": "Conley, W.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "89",
+		"title": "Honors Seminars: Honors Seminar for Life Sciences 30A",
+		"professor": "Shevtsov, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "89",
+		"title": "Honors Seminars: Honors Seminar for Life Sciences 30A",
+		"professor": "Shevtsov, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "89HC",
+		"title": "Honors Contracts",
+		"professor": "Khankan, R.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "98XB",
+		"title": "PEERS Collaborative Learning Workshops for Life Sciences Majors",
+		"professor": "Hasson, T.W.; Cook, E.; Razinia, Z."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "98XB",
+		"title": "PEERS Collaborative Learning Workshops for Life Sciences Majors",
+		"professor": "Hasson, T.W.; Shah, K.N.; Razinia, Z."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "98XB",
+		"title": "PEERS Collaborative Learning Workshops for Life Sciences Majors",
+		"professor": "Hasson, T.W.; Shafer, C.M.; Razinia, Z."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "98XB",
+		"title": "PEERS Collaborative Learning Workshops for Life Sciences Majors",
+		"professor": "Hasson, T.W.; Frausto, R.; Razinia, Z."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "98XB",
+		"title": "PEERS Collaborative Learning Workshops for Life Sciences Majors",
+		"professor": "Hasson, T.W.; Zeltser, N.; Razinia, Z."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "101",
+		"title": "Understanding Scientific Literature and Context",
+		"professor": "Venugopal, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "107",
+		"title": "Genetics",
+		"professor": "Pham, H.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "110",
+		"title": "Career Exploration in Life Sciences",
+		"professor": "Kennison, R.L.; Pereznegron, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "M192A",
+		"title": "Introduction to Collaborative Learning Theory and Practice",
+		"professor": "Shaked, S.; Corado Perez, B.A.; Wisherop, C.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "192B",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Shaked, S.; Pearce, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "192B",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Maloy, J.P.; Pires, D.B.; Khankan, R.R.; Mulji, A.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "192B",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Pfluegl, G.M.; Sarambale, H.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "192B",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Shevtsov, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "192C",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Shaked, S.; Turba de Paula, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "192C",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Maloy, J.P.; Pires, D.B.; Khankan, R.R.; Mulji, A.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "192C",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Pfluegl, G.M.; Sarambale, H.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "192C",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Shevtsov, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "192D",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Shaked, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "192D",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Maloy, J.P.; Pires, D.B.; Khankan, R.R.; Mulji, A.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "192D",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Pfluegl, G.M.; Sarambale, H.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "192D",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Shevtsov, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "192E",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Shaked, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LIFESCI",
+		"code": "192G",
+		"title": "Collaborative Learning Theory and Practice: Anti-Racism Discourse",
+		"professor": "Shaked, S."
+	}
+]

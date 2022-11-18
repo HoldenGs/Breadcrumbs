@@ -1,0 +1,135 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "ENV HLT",
+		"code": "100",
+		"title": "Introduction to Environmental Health",
+		"professor": "Cole, B.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENV HLT",
+		"code": "C140",
+		"title": "Fundamentals of Toxicology",
+		"professor": "Collins, M.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENV HLT",
+		"code": "C157",
+		"title": "Risk Assessment and Standard Setting",
+		"professor": "Que Hee, S.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENV HLT",
+		"code": "C200C",
+		"title": "Foundations of Environmental Health Sciences",
+		"professor": "Zhu, Y.; Que Hee, S.S.; TA"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENV HLT",
+		"code": "200D",
+		"title": "Policy Analysis for Environmental Health Science",
+		"professor": "Cole, B.L.; Cushing, L.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENV HLT",
+		"code": "218",
+		"title": "Science Communication: Art and Practice of Science Storytelling",
+		"professor": "Schwarz, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENV HLT",
+		"code": "230C",
+		"title": "Interdisciplinary Occupational Health Practice",
+		"professor": "Robbins, W.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENV HLT",
+		"code": "C240",
+		"title": "Fundamentals of Toxicology",
+		"professor": "Collins, M.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENV HLT",
+		"code": "252E",
+		"title": "Identification and Measurement of Gases and Vapors",
+		"professor": "Que Hee, S.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENV HLT",
+		"code": "C257",
+		"title": "Risk Assessment and Standard Setting",
+		"professor": "Que Hee, S.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENV HLT",
+		"code": "259A",
+		"title": "Occupational Safety and Ergonomics",
+		"professor": "Brogmus, G.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENV HLT",
+		"code": "296A",
+		"title": "Research Topics in Environmental Health Sciences: Psychosocial Factors and Occupational Health",
+		"professor": "Li, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENV HLT",
+		"code": "296C",
+		"title": "Research Topics in Environmental Health Sciences: Social Inequality and Environment",
+		"professor": "Cushing, L.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENV HLT",
+		"code": "296G",
+		"title": "Research Topics in Environmental Health Sciences: Advances in Aerosol Technology",
+		"professor": "Zhu, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENV HLT",
+		"code": "296I",
+		"title": "Research Topics in Environmental Health Sciences: Industrial and Environmental Hygiene",
+		"professor": "Que Hee, S.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENV HLT",
+		"code": "296J",
+		"title": "Research Topics in Environmental Health Sciences: Work, Fertility, and Family",
+		"professor": "Robbins, W.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENV HLT",
+		"code": "296M",
+		"title": "Research Topics in Environmental Health Sciences: Experimental and Modeling Studies of Atmospheric Pollution",
+		"professor": "Jerrett, M.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENV HLT",
+		"code": "296P",
+		"title": "Research Topics in Environmental Health Sciences: Global Environmental Change and Health",
+		"professor": "Marlier, M.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ENV HLT",
+		"code": "296Q",
+		"title": "Research Topics in Environmental Health Sciences: Occupational and Environmental Exposure Assessment, Industrial Hygiene, and Advances in Emerging Technology",
+		"professor": "Tsai, C."
+	}
+]

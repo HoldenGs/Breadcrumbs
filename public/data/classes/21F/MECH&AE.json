@@ -1,0 +1,177 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "MECH&AE",
+		"code": "1",
+		"title": "Undergraduate Seminar",
+		"professor": "Eldredge, J.D.; TA"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MECH&AE",
+		"code": "M20",
+		"title": "Introduction to Computer Programming with MATLAB",
+		"professor": "Khalid Jawed, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MECH&AE",
+		"code": "82",
+		"title": "Mathematics of Engineering",
+		"professor": "Lin, N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MECH&AE",
+		"code": "94",
+		"title": "Introduction to Computer-Aided Design and Drafting",
+		"professor": "Gao, E.X."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MECH&AE",
+		"code": "101",
+		"title": "Statics and Strength of Materials",
+		"professor": "Gupta, V."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MECH&AE",
+		"code": "102",
+		"title": "Dynamics of Particles and Rigid Bodies",
+		"professor": "Mittal, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MECH&AE",
+		"code": "103",
+		"title": "Elementary Fluid Mechanics",
+		"professor": "Eldredge, J.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MECH&AE",
+		"code": "105A",
+		"title": "Introduction to Engineering Thermodynamics",
+		"professor": "Pilon, L.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MECH&AE",
+		"code": "105D",
+		"title": "Transport Phenomena",
+		"professor": "Amar, R.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MECH&AE",
+		"code": "107",
+		"title": "Introduction to Modeling and Analysis of Dynamic Systems",
+		"professor": "Tsao, T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MECH&AE",
+		"code": "131A",
+		"title": "Intermediate Heat Transfer",
+		"professor": "Dhir, V.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MECH&AE",
+		"code": "C131G",
+		"title": "Microscopic Energy Transport",
+		"professor": "Fisher, T.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MECH&AE",
+		"code": "150A",
+		"title": "Intermediate Fluid Mechanics",
+		"professor": "Taira, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MECH&AE",
+		"code": "C150P",
+		"title": "Aircraft Propulsion Systems",
+		"professor": "Spearrin, R.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MECH&AE",
+		"code": "154B",
+		"title": "Design of Aerospace Structures",
+		"professor": "Toohey, D.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MECH&AE",
+		"code": "154S",
+		"title": "Flight Mechanics, Stability, and Control of Aircraft",
+		"professor": "Toohey, D.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MECH&AE",
+		"code": "156A",
+		"title": "Advanced Strength of Materials",
+		"professor": "Jin, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MECH&AE",
+		"code": "157",
+		"title": "Basic Mechanical and Aerospace Engineering Laboratory",
+		"professor": "Hu, Y.; Wu, H.; Li, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MECH&AE",
+		"code": "157",
+		"title": "Basic Mechanical and Aerospace Engineering Laboratory",
+		"professor": "Rahim, F.; Wong, E.J.; Ke, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MECH&AE",
+		"code": "157",
+		"title": "Basic Mechanical and Aerospace Engineering Laboratory",
+		"professor": "Ju, S.; Ko, D.D.; Leport, N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MECH&AE",
+		"code": "161A",
+		"title": "Introduction to Astronautics",
+		"professor": "Davoyan, A.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MECH&AE",
+		"code": "162A",
+		"title": "Introduction to Mechanisms and Mechanical Systems",
+		"professor": "Hopkins, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MECH&AE",
+		"code": "C163A",
+		"title": "Kinematics of Robotic Systems",
+		"professor": "Hong, D.W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MECH&AE",
+		"code": "166A",
+		"title": "Analysis of Aerospace Structures",
+		"professor": "Sepulveda, A.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MECH&AE",
+		"code": "166C",
+		"title": "Design of Composite Structures",
+		"professor": "Carman, G.P.; Zheng, R."
+	}
+]

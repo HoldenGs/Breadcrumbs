@@ -1,0 +1,198 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "AF AMER",
+		"code": "2A",
+		"title": "Africa and Middle East",
+		"professor": "Young, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "AF AMER",
+		"code": "2B",
+		"title": "Race and U.S. Military Intervention in Africa",
+		"professor": "Odinga, S.O."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "AF AMER",
+		"code": "6",
+		"title": "Trends in Black Intellectual Thought",
+		"professor": "Streeter, C.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "AF AMER",
+		"code": "M7B",
+		"title": "Elementary Yoruba",
+		"professor": "Adegbola, M.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "AF AMER",
+		"code": "M9B",
+		"title": "Elementary Amharic",
+		"professor": "Adhanom, A.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "AF AMER",
+		"code": "M10A",
+		"title": "History of Africa to 1800",
+		"professor": "Lydon, G.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "AF AMER",
+		"code": "M18",
+		"title": "Leadership and Student-Initiated Retention",
+		"professor": "Abrego, L.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "AF AMER",
+		"code": "19",
+		"title": "Candyman: Repetition-Revision Trope and African AmericanBel ief Narrative",
+		"professor": "Keyes, C.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "AF AMER",
+		"code": "M103E",
+		"title": "Modern African American Drama: Harlem Renaissance to Black Arts Movement: Lecture 1  ",
+		"professor": "Taylor, D.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "AF AMER",
+		"code": "M104B",
+		"title": "African American Literature from Harlem Renaissance to 1960s",
+		"professor": "Streeter, C.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "AF AMER",
+		"code": "105C",
+		"title": "Africa, African Americans, and History of Capitalism",
+		"professor": "Hudson, P.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "AF AMER",
+		"code": "112A",
+		"title": "Sunken Place: Racism, Survival, and Black Horror Aesthetic",
+		"professor": "Due, T.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "AF AMER",
+		"code": "M118",
+		"title": "Student-Initiated Retention and Outreach Issues in Higher Education",
+		"professor": "Abrego, L.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "AF AMER",
+		"code": "M124",
+		"title": "Comparative Racialization and Indigeneity",
+		"professor": "Qutami, L.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "AF AMER",
+		"code": "M154C",
+		"title": "Black Experience in Latin America and Caribbean I",
+		"professor": "Lacayo, C.O."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "AF AMER",
+		"code": "M158B",
+		"title": "Introduction to Afro-American History",
+		"professor": "Kelley, R.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "AF AMER",
+		"code": "CM166",
+		"title": "Future of Work in Decarcerated California",
+		"professor": "Barrera, D.S.; Dean, M.Z.; Lytle Hernandez, K"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "AF AMER",
+		"code": "M167",
+		"title": "Worker Center Movement: Next Wave Organizing for Justice for Immigrant Workers",
+		"professor": "Narro, V.H.; Rauda, E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "AF AMER",
+		"code": "M172",
+		"title": "Afro-American Woman in U.S.",
+		"professor": "Pena, C.L.; Bain, B.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "AF AMER",
+		"code": "184B",
+		"title": "Research in Black Life, Institutions, and Culture II",
+		"professor": "Allen, W.R.; Devost, A.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "AF AMER",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Lacayo, C.O."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "AF AMER",
+		"code": "C191",
+		"title": "Variable Topics Research Seminars: Afro-American Studies: Seminar 3  ",
+		"professor": "Bain, B.R.; TA"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "AF AMER",
+		"code": "198",
+		"title": "Honors Research in Afro-American Studies",
+		"professor": "Hudson, P.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "AF AMER",
+		"code": "M200B",
+		"title": "Political Economy of Race",
+		"professor": "Hudson, P.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "AF AMER",
+		"code": "201B",
+		"title": "Survey of African American Studies Research Part 2: Introduction to Research Methods",
+		"professor": "Young, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "AF AMER",
+		"code": "M211",
+		"title": "Seminar: African American Music: Seminar 1  ",
+		"professor": "Keyes, C.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "AF AMER",
+		"code": "C266",
+		"title": "Future of Work in Decarcerated California",
+		"professor": "Barrera, D.S.; Dean, M.Z.; Lytle Hernandez, K"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "AF AMER",
+		"code": "C291",
+		"title": "Special Topics in Afro-American Studies: Seminar 2  ",
+		"professor": "Lytle Hernandez, K"
+	}
+]

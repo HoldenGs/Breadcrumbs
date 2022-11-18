@@ -1,0 +1,212 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "NURSING",
+		"code": "10",
+		"title": "Introduction to Nursing and Social Justice I",
+		"professor": "Salem, B.E.; Anyanwu, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NURSING",
+		"code": "50",
+		"title": "Fundamentals of Epidemiology",
+		"professor": "Jung, S.; Liu, X."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NURSING",
+		"code": "54B",
+		"title": "Pathophysiology II",
+		"professor": "Studer, K.M.; Vitela, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NURSING",
+		"code": "150A",
+		"title": "Fundamentals of Professional Nursing I",
+		"professor": "Bralock, A.R.; Totten, G.G.; Abatay, V.K.; Gusan, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NURSING",
+		"code": "152A",
+		"title": "Health Promotion: Growth and Development in Culturally Diverse Populations",
+		"professor": "Dixon, E.L.; Kwan, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NURSING",
+		"code": "152B",
+		"title": "Health Promotion: Nutrition in Culturally Diverse Populations",
+		"professor": "Anderson, S.; Carpenter, C.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NURSING",
+		"code": "C155",
+		"title": "Global Health Elective: Globalization, Social Justice, and Human Rights",
+		"professor": "Chen, W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NURSING",
+		"code": "161",
+		"title": "Psychiatric Mental Health Nursing",
+		"professor": "Niemi, C.A.; Ayisire, B.O."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NURSING",
+		"code": "162C",
+		"title": "Tertiary Prevention and Care of Complex Medical-Surgical Patients and Families",
+		"professor": "Cuenca, E.L.; Stephenson, S.N.; Park, E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NURSING",
+		"code": "174",
+		"title": "Physical Assessment",
+		"professor": "Demman, B.L.; Kim, J.; Fung, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NURSING",
+		"code": "188",
+		"title": "Special Topics in Nursing",
+		"professor": "Cuenca, E.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NURSING",
+		"code": "196",
+		"title": "Research Apprenticeship in Nursing",
+		"professor": "Salem, B.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NURSING",
+		"code": "200",
+		"title": "Health Promotion and Assessment across Lifespan",
+		"professor": "Carpenter, C.L.; Keenan, C.K.; Turkson, S.; Parnell, M.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NURSING",
+		"code": "202",
+		"title": "Philosophy of Nursing Science",
+		"professor": "Devon, H.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NURSING",
+		"code": "204",
+		"title": "Research Design and Critique",
+		"professor": "Thomas, E.A.; Ruiz, M.; Gutierrez, M.; Smeltzer, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NURSING",
+		"code": "205B",
+		"title": "Advanced Qualitative Research: Grounded Theory Methodology I",
+		"professor": "Heilemann, M.V.; Buen, K.I."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NURSING",
+		"code": "208",
+		"title": "Research in Nursing: Measurement of Outcomes",
+		"professor": "Hodge, F.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NURSING",
+		"code": "210A",
+		"title": "Critical Review of State of Science in Nursing Research",
+		"professor": "Wiley, D.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NURSING",
+		"code": "212",
+		"title": "Family Healthcare Perspectives",
+		"professor": "Keenan, C.K.; Roca, R.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NURSING",
+		"code": "216C",
+		"title": "Adult/Gerontology Concepts for Advanced Practice Registered Nurses in Acute Care III",
+		"professor": "Gawlinski, A.F.; Lei, F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NURSING",
+		"code": "220",
+		"title": "Theories of Instruction and Learning in Nursing",
+		"professor": "Verzemnieks, I.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NURSING",
+		"code": "230A",
+		"title": "Advanced Pathophysiology I",
+		"professor": "Bates-Jensen, B.M.; Dillard, A.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NURSING",
+		"code": "231",
+		"title": "Advanced Pathophysiology for Advanced Practice Registered Nurses",
+		"professor": "An, D.; Kokozian, C.; Alfandy, F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NURSING",
+		"code": "237A",
+		"title": "Assessment and Management in Pediatric Acute Care I",
+		"professor": "Pike, N.A.; McGrath, N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NURSING",
+		"code": "239C",
+		"title": "Adult/Gerontology Primary Healthcare for Advanced Practice Registered Nurses III",
+		"professor": "Lazar, J.; Aisner, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NURSING",
+		"code": "250",
+		"title": "Ethical Issues, Social Justice, and History of Nursing",
+		"professor": "Salem, B.E.; Economou, D.; Anderson, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NURSING",
+		"code": "C255",
+		"title": "Global Health Elective: Globalization, Social Justice, and Human Rights",
+		"professor": "Chen, W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NURSING",
+		"code": "269",
+		"title": "Quality Improvement and Population-Based Quality of Practice",
+		"professor": "Cuenca, E.L.; Secola, R.L.; Tan, D.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NURSING",
+		"code": "288",
+		"title": "Variable Topics in Nursing",
+		"professor": "Clark, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NURSING",
+		"code": "295A",
+		"title": "Grant Writing I: Scientific Proposal Development",
+		"professor": "Gylys, K.H."
+	}
+]

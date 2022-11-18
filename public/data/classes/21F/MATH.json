@@ -1,0 +1,842 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "1",
+		"title": "Precalculus",
+		"professor": "Greene, M.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "3A",
+		"title": "Calculus for Life Sciences Students",
+		"professor": "Greene, M.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "19",
+		"title": "Patterns and Symmetry in Art and Nature",
+		"professor": "Hill, M.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "31A",
+		"title": "Differential and Integral Calculus",
+		"professor": "Maimaitiyiming, W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "31A",
+		"title": "Differential and Integral Calculus",
+		"professor": "Chapouto, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "31A",
+		"title": "Differential and Integral Calculus",
+		"professor": "Ramsey, S.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "31AL",
+		"title": "Differential and Integral Calculus Laboratory",
+		"professor": "Maimaitiyiming, W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "31B",
+		"title": "Integration and Infinite Series",
+		"professor": "Sanchez Ocal, P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "31B",
+		"title": "Integration and Infinite Series",
+		"professor": "Greene, R.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "31B",
+		"title": "Integration and Infinite Series",
+		"professor": "Madrid Padilla, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "32A",
+		"title": "Calculus of Several Variables",
+		"professor": "Enakoutsa, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "32A",
+		"title": "Calculus of Several Variables",
+		"professor": "Venkatesh, S.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "32A",
+		"title": "Calculus of Several Variables",
+		"professor": "Chatham, R.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "32A",
+		"title": "Calculus of Several Variables",
+		"professor": "Wong, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "32AH",
+		"title": "Calculus of Several Variables (Honors)",
+		"professor": "Wong, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "32B",
+		"title": "Calculus of Several Variables",
+		"professor": "Harrop-Griffiths,"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "32B",
+		"title": "Calculus of Several Variables",
+		"professor": "Gleizer, O."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "M32T",
+		"title": "Essential Calculus for Mathematical Biologists",
+		"professor": "Conley, W.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "33A",
+		"title": "Linear Algebra and Applications",
+		"professor": "Morris Wright, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "33A",
+		"title": "Linear Algebra and Applications",
+		"professor": "Suzuki, F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "33B",
+		"title": "Differential Equations",
+		"professor": "Wang, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "42",
+		"title": "Introduction to Data-Driven Mathematical Modeling: Life, Universe, and Everything",
+		"professor": "Arant, T.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "61",
+		"title": "Introduction to Discrete Structures",
+		"professor": "Ramsey, S.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "61",
+		"title": "Introduction to Discrete Structures",
+		"professor": "Spaas, P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "73XP",
+		"title": "Key Issues in K-12 Mathematics",
+		"professor": "Dallas, H.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "95",
+		"title": "Transition to Upper-Division Mathematics",
+		"professor": "Khan, M.H.; Conley, W.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "101",
+		"title": "Advanced Problem Solving",
+		"professor": "Sarkar, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "105A",
+		"title": "Mathematics and Pedagogy for Teaching Secondary School Mathematics",
+		"professor": "Dallas, H.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "110A",
+		"title": "Algebra",
+		"professor": "Mutlu Akaturk, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "110AH",
+		"title": "Algebra (Honors)",
+		"professor": "Sanchez Ocal, P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "110AH",
+		"title": "Algebra (Honors)",
+		"professor": "Elman, R.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "115A",
+		"title": "Linear Algebra",
+		"professor": "Gonzalez, N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "115A",
+		"title": "Linear Algebra",
+		"professor": "Hsu, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "115A",
+		"title": "Linear Algebra",
+		"professor": "Opie, M.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "115AH",
+		"title": "Linear Algebra (Honors)",
+		"professor": "Balmer, P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "115AH",
+		"title": "Linear Algebra (Honors)",
+		"professor": "Gieseker, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "118",
+		"title": "Mathematical Methods of Data Theory",
+		"professor": "McKenzie, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "120A",
+		"title": "Differential Geometry",
+		"professor": "Enakoutsa, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "131A",
+		"title": "Analysis",
+		"professor": "Mutlu Akaturk, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "131A",
+		"title": "Analysis",
+		"professor": "Forlano, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "131A",
+		"title": "Analysis",
+		"professor": "Arant, T.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "131A",
+		"title": "Analysis",
+		"professor": "Cladek, L.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "131AH",
+		"title": "Analysis (Honors)",
+		"professor": "Nurbekyan, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "131AH",
+		"title": "Analysis (Honors)",
+		"professor": "Liu, G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "131B",
+		"title": "Analysis",
+		"professor": "Greenfeld, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "131B",
+		"title": "Analysis",
+		"professor": "Spaas, P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "132",
+		"title": "Complex Analysis for Applications",
+		"professor": "Liu, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "134",
+		"title": "Linear and Nonlinear Systems of Differential Equations",
+		"professor": "Harrop-Griffiths,"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "134",
+		"title": "Linear and Nonlinear Systems of Differential Equations",
+		"professor": "Aceves Sanchez, P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "135",
+		"title": "Ordinary Differential Equations",
+		"professor": "Biswal, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "135",
+		"title": "Ordinary Differential Equations",
+		"professor": "Hester, E.W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "135",
+		"title": "Ordinary Differential Equations",
+		"professor": "Elamvazhuthi, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "142",
+		"title": "Mathematical Modeling",
+		"professor": "Huang, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "151A",
+		"title": "Applied Numerical Methods",
+		"professor": "Aceves Sanchez, P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "151A",
+		"title": "Applied Numerical Methods",
+		"professor": "Deutsch, S.; Li, W.; Aceves Sanchez, P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "151A",
+		"title": "Applied Numerical Methods",
+		"professor": "Jiang, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "151A",
+		"title": "Applied Numerical Methods",
+		"professor": "Li, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "151B",
+		"title": "Applied Numerical Methods",
+		"professor": "Li, W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "156",
+		"title": "Machine Learning",
+		"professor": "Jeong, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "164",
+		"title": "Optimization",
+		"professor": "Li, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "164",
+		"title": "Optimization",
+		"professor": "Sonthalia, R.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "168",
+		"title": "Introduction to Networks",
+		"professor": "Menz, G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "170A",
+		"title": "Probability Theory I",
+		"professor": "Palmer, A.Z."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "170E",
+		"title": "Introduction to Probability and Statistics 1: Probability",
+		"professor": "Pedchenko, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "170E",
+		"title": "Introduction to Probability and Statistics 1: Probability",
+		"professor": "Palmer, A.Z."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "170E",
+		"title": "Introduction to Probability and Statistics 1: Probability",
+		"professor": "Jeong, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "170S",
+		"title": "Introduction to Probability and Statistics 2: Statistics",
+		"professor": "Nguyen, H.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "171",
+		"title": "Stochastic Processes",
+		"professor": "Nguyen, H.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "174E",
+		"title": "Mathematics of Finance for Mathematics/Economics Students",
+		"professor": "Voss, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "177",
+		"title": "Theory of Interest and Applications",
+		"professor": "Ozel, E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "178A",
+		"title": "Foundations of Actuarial Mathematics: Life Insurance and Annuities",
+		"professor": "Kye, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "178A",
+		"title": "Foundations of Actuarial Mathematics: Life Insurance and Annuities",
+		"professor": "Ozel, E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "182",
+		"title": "Algorithms",
+		"professor": "Lutz, P.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "M192A",
+		"title": "Introduction to Collaborative Learning Theory and Practice",
+		"professor": "Shaked, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "197",
+		"title": "Individual Studies in Mathematics",
+		"professor": "Sharifi, R.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "197",
+		"title": "Individual Studies in Mathematics",
+		"professor": "Khare, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "197",
+		"title": "Individual Studies in Mathematics",
+		"professor": "Gieseker, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "206A",
+		"title": "Combinatorial Theory",
+		"professor": "Galashin, P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "207A",
+		"title": "Topics in Number Theory",
+		"professor": "Khare, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "M209A",
+		"title": "Cryptography",
+		"professor": "Ostrovsky, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "210A",
+		"title": "Algebra",
+		"professor": "Merkurjev, A.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "213A",
+		"title": "Theory of Groups",
+		"professor": "Rouquier, R.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "215A",
+		"title": "Commutative Algebra",
+		"professor": "Sharifi, R.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "216A",
+		"title": "Further Topics in Algebra",
+		"professor": "Totaro, B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "218A",
+		"title": "Discrete Mathematics: Probabilistic Methods",
+		"professor": "Pak, I."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "220A",
+		"title": "Mathematical Logic",
+		"professor": "Chernikov, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "225A",
+		"title": "Differential Topology",
+		"professor": "Honda, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "226A",
+		"title": "Differential Geometry",
+		"professor": "Petersen, P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "227A",
+		"title": "Algebraic Topology",
+		"professor": "Hazel, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "245A",
+		"title": "Real Analysis",
+		"professor": "Gangbo, W.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "246A",
+		"title": "Complex Analysis",
+		"professor": "Tao, T.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "250A",
+		"title": "Ordinary Differential Equations",
+		"professor": "Killip, R.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "251A",
+		"title": "Introductory Partial Differential Equations",
+		"professor": "Khitrik, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "259A",
+		"title": "Operator Algebras in Hilbert Space",
+		"professor": "Popa, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "266A",
+		"title": "Applied Ordinary Differential Equations",
+		"professor": "Roper, M.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "269A",
+		"title": "Advanced Numerical Analysis",
+		"professor": "Anderson, C.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "270B",
+		"title": "Mathematical Aspects of Scientific Computing: Computational Linear Algebra",
+		"professor": "Needell, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "273A",
+		"title": "Optimization and Calculus of Variations: Basic Optimization Theory",
+		"professor": "Montufar Cuartas,"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "275A",
+		"title": "Probability Theory",
+		"professor": "Yin, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "275D",
+		"title": "Stochastic Calculus",
+		"professor": "Biskup, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "285D",
+		"title": "Seminar: Logic",
+		"professor": "Gannon, K.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "285J",
+		"title": "Seminar: Applied Mathematics",
+		"professor": "Vese, L.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "290B",
+		"title": "Participating Seminar: Current Literature in Number Theory",
+		"professor": "Khare, C.; Sharifi, R.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "290E",
+		"title": "Participating Seminar: Current Literature in Geometry",
+		"professor": "Liu, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "290F",
+		"title": "Participating Seminar: Current Literature in Topology",
+		"professor": "Hill, M.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "290F",
+		"title": "Participating Seminar: Current Literature in Topology",
+		"professor": "Honda, K.; Manolescu, C.; Sarkar, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "290G",
+		"title": "Participating Seminar: Current Literature in Analysis",
+		"professor": "Tao, T.C.; Killip, R.B.; Garnett, J.B.; Bonk, M.; Visan, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "290G",
+		"title": "Participating Seminar: Current Literature in Analysis",
+		"professor": "Bonk, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "290I",
+		"title": "Participating Seminar: Current Literature in Functional Analysis",
+		"professor": "Popa, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "290I",
+		"title": "Participating Seminar: Current Literature in Functional Analysis",
+		"professor": "Shlyakhtenko, D.Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "290J",
+		"title": "Participating Seminar: Current Literature in Applied Mathematics",
+		"professor": "Porter, M.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "290J",
+		"title": "Participating Seminar: Current Literature in Applied Mathematics",
+		"professor": "Gangbo, W.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "290J",
+		"title": "Participating Seminar: Current Literature in Applied Mathematics",
+		"professor": "Yin, W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "290J",
+		"title": "Participating Seminar: Current Literature in Applied Mathematics",
+		"professor": "Anderson, C.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "296B",
+		"title": "Research Seminar: Number Theory",
+		"professor": "Hida, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "296B",
+		"title": "Research Seminar: Number Theory",
+		"professor": "Sharifi, R.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "296D",
+		"title": "Research Seminar: Logic",
+		"professor": "Aschenbrenner, M.J"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "296F",
+		"title": "Research Seminar: Topology",
+		"professor": "Hill, M.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "296G",
+		"title": "Research Seminar: Analysis",
+		"professor": "Chernikov, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MATH",
+		"code": "296I",
+		"title": "Research Seminar: Functional Analysis",
+		"professor": "Popa, S."
+	}
+]

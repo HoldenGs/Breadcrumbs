@@ -1,0 +1,366 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "90L",
+		"title": "Physical Measurement in Materials Engineering",
+		"professor": "Deshpande, A.; Kodambaka, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "90L",
+		"title": "Physical Measurement in Materials Engineering",
+		"professor": "Kodambaka, S.; Deshpande, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "104",
+		"title": "Science of Engineering Materials",
+		"professor": "Banerjee, A.S.; Zhu, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "104",
+		"title": "Science of Engineering Materials",
+		"professor": "Balonis, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "C111",
+		"title": "Introduction to Materials Characterization B (Electron Microscopy)",
+		"professor": "Prikhodko, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "120",
+		"title": "Physics of Materials",
+		"professor": "Yang, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "122",
+		"title": "Principles of Electronic Materials Processing",
+		"professor": "Goorsky, M.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "131",
+		"title": "Diffusion and Diffusion-Controlled Reactions",
+		"professor": "Wu, J.; Dunn, B.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "131L",
+		"title": "Diffusion and Diffusion-Controlled Reactions Laboratory",
+		"professor": "Pozuelo, M.; Yin, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "131L",
+		"title": "Diffusion and Diffusion-Controlled Reactions Laboratory",
+		"professor": "Pozuelo, M.; Abraham, D.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "140A",
+		"title": "Materials Selection and Engineering Design A",
+		"professor": "Pozuelo, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "141L",
+		"title": "Computer Methods and Instrumentation in Materials Science",
+		"professor": "Banerjee, A.S.; Yu, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "143A",
+		"title": "Mechanical Behavior of Materials",
+		"professor": "McLouth, T.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "150",
+		"title": "Introduction to Polymers",
+		"professor": "Sutton, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "202",
+		"title": "Thermodynamics of Materials",
+		"professor": "Raman, A.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "C211",
+		"title": "Introduction to Materials Characterization B (Electron Microscopy)",
+		"professor": "Prikhodko, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "222",
+		"title": "Growth and Processing of Electronic Materials",
+		"professor": "Streit, D.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "223",
+		"title": "Materials Science of Thin Films",
+		"professor": "Goorsky, M.S.; Carson, B.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "226",
+		"title": "Si-CMOS Technology: Selected Topics in Materials Science",
+		"professor": "Xie, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "246D",
+		"title": "Electronic and Optical Properties of Ceramics",
+		"professor": "Bescher, E.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "261",
+		"title": "Risk Analysis for Engineers and Scientists",
+		"professor": "Mosleh, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "282",
+		"title": "Exploration of Advanced Topics in Materials Science and Engineering",
+		"professor": "Dunn, B.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Banerjee, A.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Carman, G.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Chang, J.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Chen, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Dunn, B.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Ghoniem, N.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Goorsky, M.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Gupta, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "He, X."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Iyer, S.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Huang, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Kakoulli, I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Kaner, R.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Kodambaka, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Li, X."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Marian, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Mosleh, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Sant, G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Pei, Q."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Streit, D.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Tolbert, S.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Raman, A.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Wang, K.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Weiss, P.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Wu, B.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Xie, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Yang, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Yang, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Wang, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MAT SCI",
+		"code": "M297C",
+		"title": "Composites Manufacturing",
+		"professor": "Yang, J."
+	}
+]
