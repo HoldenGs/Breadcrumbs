@@ -1,6 +1,7 @@
+
 import useAuth from './authContext'
 import { Link, useNavigate } from 'react-router-dom'
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 import { db } from '../firebase'
 import '../scss/components/_login.scss'
 import { serverTimestamp } from 'firebase/firestore'
@@ -13,7 +14,7 @@ import {
 	updateDoc,
 } from 'firebase/firestore'
 
-export let userName = []
+let userName = []
 export let actualname
 export let rows = []
 
@@ -25,25 +26,6 @@ export default function Login() {
 		email: '',
 		password: '',
 	})
-
-	// useEffect((currentUser) => {
-	// 	async function fetchData(currentUser) {
-	// 		if (currentUser != null) {
-	// 			const usersColl = collection(db, 'user')
-	// 			const snapshot = await getDocs(
-	// 				query(usersColl, where('userID', '==', currentUser.uid.toString()))
-	// 			).catch((err) => {
-	// 				console.log(err)
-	// 			})
-
-	// 			if (snapshot != null) {
-	// 				console.log('Username: ' + snapshot.docs[0].data())
-	// 			}
-	// 		}
-	// 	}
-
-	// 	fetchData(currentUser)
-	// }, [])
 
 	async function handleSubmit() {
 
