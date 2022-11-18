@@ -194,6 +194,8 @@ async function scrapeClasses() {
 		else
 			departments = JSON.parse(await fsp.readFile(departmentsPath, 'utf-8'));
 
+		let errors = [];
+
 		for (let i = 0; i < departments.length; ++i) {
 			if (i != 0)
 				await wait(delay);
@@ -207,6 +209,7 @@ async function scrapeClasses() {
 			} catch (error) {
 				console.error(`Error scraping classes in ${department}:`);
 				console.error(error);
+				errors.push(department + ' ' + (error.stack ? error.stack : error));
 				console.log('Skipping department due to error...');
 				continue;
 			}
@@ -216,6 +219,13 @@ async function scrapeClasses() {
 			console.log(`Saving classes to classes/${term}/${department}.json...`);
 			await fsp.writeFile(path.join(termPath, department + '.json'), JSON.stringify(classes, null, '\t'));
 			console.log('Done.');
+		}
+
+		console.log('\nFinished scraping.');
+		
+		if (errors.length !== 0) {
+			console.log(`Error summary (${errors.length} errors total):`);
+			errors.forEach(err => console.log(err));
 		}
 	} catch (error) {
 		console.error('Error while scraping classes!');

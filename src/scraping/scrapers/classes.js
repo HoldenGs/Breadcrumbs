@@ -148,7 +148,15 @@ function getClassesFirstPage(term, subject) {
 		axios.get(firstPageAddend + `&t=${term}&subj=${encodeURIComponent(subject)}`).then(res => {
 			const data = res.data;
 
-			const pages = parseInt(pageRegex.exec(data)[1]);
+			const pageMatch = pageRegex.exec(data);
+
+			if (!pageMatch)
+				return resolve ({
+					pages: 0,
+					classes: []
+				});
+
+			const pages = parseInt(pageMatch[1]);
 			const classes = extractClasses(data);
 
 			resolve({ pages, classes });
