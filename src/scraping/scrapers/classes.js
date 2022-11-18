@@ -14,6 +14,8 @@ const classModelRegex = /var addCourse.+\d{4}.* = function \(\) { Iwe_ClassSearc
 const professorRegex = /<div class="instructorColumn hide-small" id="\d+_.+-instructor_data"><p>(.+)<\/p><\/div>/g;
 const lineBreakRegex = /<br \/>/g;
 
+const noClassInstructors = [ 'No instructors', 'The Staff' ]
+
 const filterFlags = JSON.stringify({
 	"enrollment_status": "O,W,C,X,T,S",
 	"advanced": "y",
@@ -76,6 +78,7 @@ function getAllClassesBySubject(term, subject) {
 				});
 			}
 
+			// remove classes above 297
 			classes = classes.filter(c => {
 				const model = JSON.parse(c.model);
 				const code = model.CatalogNumber.slice(0, 4);
@@ -108,6 +111,9 @@ function getAllClassesBySubject(term, subject) {
 			
 			classes.forEach((data, i) => {
 				const [ code, title ] = data.displayTitle.split(' - ');
+
+				if (!profs[i]) // remove classes deemed to have no profs
+					return;
 				
 				profs[i].forEach(professor => {
 					outClasses.push({
@@ -139,7 +145,7 @@ function getAllClassesBySubject(term, subject) {
 
 function getClassesFirstPage(term, subject) {
 	return new Promise((resolve, reject) => {
-		axios.get(firstPageAddend + `&t=${term}&subj=${subject}`).then(res => {
+		axios.get(firstPageAddend + `&t=${term}&subj=${encodeURIComponent(subject)}`).then(res => {
 			const data = res.data;
 
 			const pages = parseInt(pageRegex.exec(data)[1]);
@@ -214,6 +220,9 @@ function extractClasses(data) {
 	get professors teaching a course for a given model
 
 	model: string, a model (JSON object stringified), returned from getClasses___ functions above
+
+	returns: array<string> professors, professors who taught given model
+		OR null if no instructors taught (class was cancelled)
 	
 	(note: model contains data about quarter class is in, and a bit more)
 	this is also where we could extract, say, how many seats are available in a class
@@ -227,6 +236,9 @@ function getProfessors(model) {
 			let professors = [];
 
 			while (professorMatch) {
+				if (noClassInstructors.includes(professorMatch[1]))
+					return resolve(null);
+				
 				professors.push(professorMatch[1].replace(lineBreakRegex, '; '));
 				professorMatch = professorRegex.exec(res.data);
 			}

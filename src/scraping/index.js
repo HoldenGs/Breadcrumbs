@@ -192,21 +192,30 @@ async function scrapeClasses() {
 		if (department)
 			departments = [ department ];
 		else
-			departments = await JSON.parse(fsp.readFile(departmentsPath, 'utf-8'));
+			departments = JSON.parse(await fsp.readFile(departmentsPath, 'utf-8'));
 
-		for (let i = 0; i < departments.length;) {
+		for (let i = 0; i < departments.length; ++i) {
+			if (i != 0)
+				await wait(delay);
+
 			const department = departments[i];
 
 			console.log(`Fetching classes in the ${department} department...`);
-			const classes = await getAllClassesBySubject(term, department);
+			let classes;
+			try {
+				classes = await getAllClassesBySubject(term, department);
+			} catch (error) {
+				console.error(`Error scraping classes in ${department}:`);
+				console.error(error);
+				console.log('Skipping department due to error...');
+				continue;
+			}
+				
 			console.log('Done.');
 
 			console.log(`Saving classes to classes/${term}/${department}.json...`);
 			await fsp.writeFile(path.join(termPath, department + '.json'), JSON.stringify(classes, null, '\t'));
 			console.log('Done.');
-
-			if (++i < departments.length)
-				await wait(delay);
 		}
 	} catch (error) {
 		console.error('Error while scraping classes!');
@@ -319,7 +328,7 @@ function validateConfig() {
 		if (scrape.classes.delay && typeof scrape.classes.delay !== 'number')
 			exitWithError('Config value scrape.classes.delay is not a number!');
 
-		if (!scrape.classes.department && !scrape.departments && !fs.existsSync('./data/departments.json'))
+		if (!scrape.classes.department && !scrape.departments && !fs.existsSync(departmentsPath))
 			exitWithError('Trying to scrape classes from all departments, but you haven\'t scraped all departments yet!');
 	}
 }
