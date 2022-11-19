@@ -1,0 +1,114 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "NEURO",
+		"code": "M203",
+		"title": "Anatomy of Central Nervous System",
+		"professor": "Bisley, J.W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEURO",
+		"code": "205",
+		"title": "Systems Neuroscience",
+		"professor": "Buonomano, D.; Chari, T.; Iacoboni, M.; Feldman, J.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEURO",
+		"code": "210B",
+		"title": "Introduction to Current Literature in Neuroscience",
+		"professor": "Mody, I.; Chappell, M.; Vormstein-Schneide"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Current Research Topics in Neuroimaging",
+		"professor": "Rissman, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Learning and Memory",
+		"professor": "Buonomano, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Neural Development, Degeneration, and Repair",
+		"professor": "Novitch, B.G.; Zhang, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Neurobehavioral Genetics",
+		"professor": "Bearden, C.E.; Ophoff, R.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Neuroendocrinology, Sex Differences, and Reproduction",
+		"professor": "Micevych, P.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Neuroscience Communication and Policy",
+		"professor": "Suthana, N.A.; Wassum, K.; Markovic, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: NeuroTechnology Translation",
+		"professor": "Suthana, N.A.; Markovic, D.; Lu, D.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Synapse to Circuit",
+		"professor": "Hong, W.; Donlea, J.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Translational Neuroscience of Drug Abuse",
+		"professor": "London, E.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Visual Neurosciences",
+		"professor": "Sampath, A.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEURO",
+		"code": "260",
+		"title": "Introduction to Signal Processing for Neuroscientists",
+		"professor": "Masmanidis, S.; Suthana, N.A.; Aharoni, D.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEURO",
+		"code": "C277",
+		"title": "Drugs of Abuse: Translational Neurobiology",
+		"professor": "Evans, C.J.; London, E.D.; Romero, R.; Dagher, M.; Baliaouri, N.V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEURO",
+		"code": "M297",
+		"title": "Methods in Developmental Cognitive Neuroscience",
+		"professor": "Dapretto, M.; Uddin, L.Q."
+	}
+]

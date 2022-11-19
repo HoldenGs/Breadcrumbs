@@ -1,0 +1,23 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "MOL TOX",
+		"code": "211C",
+		"title": "Molecular Toxicology Seminar",
+		"professor": "Hankinson, O."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MOL TOX",
+		"code": "296B",
+		"title": "Research Topics in Molecular Toxicology: Molecular Carcinogenesis",
+		"professor": "Hankinson, O."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MOL TOX",
+		"code": "296F",
+		"title": "Research Topics in Molecular Toxicology: Genetic Toxicology",
+		"professor": "Schiestl, R.H."
+	}
+]

@@ -1,0 +1,58 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "I E STD",
+		"code": "M150",
+		"title": "Introduction to Indo-European Linguistics",
+		"professor": "Lundquist, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "I E STD",
+		"code": "200",
+		"title": "Proseminar: Indo-European Studies",
+		"professor": "Vine, B.H.; Jamison, S.; Goldstein, D.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "I E STD",
+		"code": "210",
+		"title": "Indo-European Morphology",
+		"professor": "Goldstein, D.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "I E STD",
+		"code": "M222B",
+		"title": "Vedic",
+		"professor": "Jamison, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "I E STD",
+		"code": "M230B",
+		"title": "Old Iranian",
+		"professor": "Shayegan, M.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "I E STD",
+		"code": "M238",
+		"title": "Analyzing Historical Texts",
+		"professor": "Yokoyama, O.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "I E STD",
+		"code": "280A",
+		"title": "Seminar: Indo-European Linguistics: Seminar 1  ",
+		"professor": "Jamison, S.; Goldstein, D.M.; Vine, B.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "I E STD",
+		"code": "280B",
+		"title": "Seminar: Indo-European Linguistics: Homeric Greek and Greek Historical/Comparative Linguistics",
+		"professor": "Vine, B.H."
+	}
+]

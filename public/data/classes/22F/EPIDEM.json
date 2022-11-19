@@ -1,0 +1,72 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "EPIDEM",
+		"code": "197",
+		"title": "Individual Studies in Epidemiology",
+		"professor": "Gorbach, P.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPIDEM",
+		"code": "200A",
+		"title": "Methods I: Basic Concepts and Study Designs",
+		"professor": "Chen, L.; Deng, C.; Wu, Y.; Yao, J.; Khan, L.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPIDEM",
+		"code": "M203",
+		"title": "Topics in Theoretical Epidemiology",
+		"professor": "Arah, O.A.; Kuo, T.Y.; Inkelas, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPIDEM",
+		"code": "M204",
+		"title": "Logic, Causation, and Probability",
+		"professor": "Arah, O.A.; Koerber, J.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPIDEM",
+		"code": "232",
+		"title": "Methods in Research of Marginalized and Hidden Populations",
+		"professor": "Gorbach, P.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPIDEM",
+		"code": "242",
+		"title": "Cancer Epidemiology",
+		"professor": "Zhang, Z.; Anukam, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPIDEM",
+		"code": "247",
+		"title": "Lifecourse Epidemiology",
+		"professor": "Mayeda, E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPIDEM",
+		"code": "268",
+		"title": "Introduction to Pharmacoepidemiology",
+		"professor": "Bradbury, B.D.; Dluzniewski, P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPIDEM",
+		"code": "292",
+		"title": "Advanced Seminar: Epidemiology",
+		"professor": "Zhang, Z."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "EPIDEM",
+		"code": "293",
+		"title": "International HIV/AIDS Seminar",
+		"professor": "Gorbach, P.M."
+	}
+]

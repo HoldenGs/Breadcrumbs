@@ -1,0 +1,380 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "1",
+		"title": "Human Evolution",
+		"professor": "Manson, J.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "3",
+		"title": "Culture and Society",
+		"professor": "Aciksoz, S.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "19",
+		"title": "Heritage Rediscovery through Fowler Museum Philippine Collection",
+		"professor": "Acabado, S.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "19",
+		"title": "Why am I Crying over These Kittens?",
+		"professor": "Fiske, A.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "98T",
+		"title": "Governing from Below in Latin America",
+		"professor": "Mayer, J.L.; Speed, S.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "100",
+		"title": "History of Anthropology",
+		"professor": "Kalyanaraman, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "111",
+		"title": "Theory in Anthropological Archaeology",
+		"professor": "Lesure, R.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "119",
+		"title": "Selected Topics in Archaeology: African Archaeology and Ethnography",
+		"professor": "Gupta-Agarwal, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "119",
+		"title": "Selected Topics in Archaeology: Archaeology of Lower Central America: Nicaragua, Costa Rica, and Panama",
+		"professor": "Wake, T.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "M124R",
+		"title": "Evolution of Language",
+		"professor": "Cartmill, E.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "126N",
+		"title": "Genes, Disease, and Culture",
+		"professor": "Bigham, A.W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "129",
+		"title": "Selected Topics in Biological Anthropology: Mother Nature, Father Time: Evolutionary Perspectives on Parenting",
+		"professor": "Hauser, B.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "129",
+		"title": "Selected Topics in Biological Anthropology: Neuroscience for Social Sciences",
+		"professor": "Lazareff, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "135R",
+		"title": "Multimedia Ethnography",
+		"professor": "Mendoza-Denton, N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "136B",
+		"title": "Introduction to Psychological Anthropology: Current Topics and Research",
+		"professor": "Hollan, D.W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "137P",
+		"title": "Anthropology of Deviance and Abnormality",
+		"professor": "Lemelson, R.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "139",
+		"title": "Selected Topics in Cultural Anthropology: What Culture Is, and How People Acquire It",
+		"professor": "Fiske, A.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "140",
+		"title": "Study of Social Systems",
+		"professor": "Yan, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "141",
+		"title": "Careers in Anthropology",
+		"professor": "Loyd, H.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "M148",
+		"title": "Past People and Their Lessons for Our Own Future",
+		"professor": "Diamond, J.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "149",
+		"title": "Selected Topics in Social Anthropology: The Anthropology of Mental Health: Cross- and Intra-Cultural Perspectives",
+		"professor": "Steinberg, M.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "152R",
+		"title": "Language, Culture, and Education",
+		"professor": "Thomson, A.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "M156",
+		"title": "Language Endangerment and Linguistic Revitalization",
+		"professor": "Kroskrity, P.V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "163Q",
+		"title": "Societies of Central Asia",
+		"professor": "Levine, N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "169",
+		"title": "Selected Topics in Regional Cultures: Ecology of Crime",
+		"professor": "Brantingham, P.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Kroskrity, P.V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Lemelson, R.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Bigham, A.W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Rashidi, J.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "191",
+		"title": "Variable Topics Research Seminars: Anthropology: Research Strategies for Newly Discovered Emotion",
+		"professor": "Fiske, A.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "191HA",
+		"title": "Beginning Seminar",
+		"professor": "Garro, L.C.; Yakal, M.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "191HD",
+		"title": "Writing for Anthropology",
+		"professor": "Lesure, R.G.; Yakal, M.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "194",
+		"title": "Research Group Seminars: Anthropology",
+		"professor": "Fessler, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "194",
+		"title": "Research Group Seminars: Anthropology",
+		"professor": "Fox, M.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "195CE",
+		"title": "Community and Corporate Internships in Anthropology",
+		"professor": "Halbe, A.A.; Bigham, A.W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "197",
+		"title": "Individual Studies in Anthropology",
+		"professor": "Acabado, S.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "M201B",
+		"title": "Graduate Core Seminar: Archaeology",
+		"professor": "Li, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "202B",
+		"title": "Core Seminar: Biological Anthropology",
+		"professor": "Lynch, J.W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "203B",
+		"title": "Core Seminar: Sociocultural Anthropology--Sociocultural Systems and Ethnography, Anthropology at Mid-Century",
+		"professor": "Levine, N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "204B",
+		"title": "Core Seminar: Linguistic Anthropology",
+		"professor": "Mendoza-Denton, N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "M216",
+		"title": "Topics in Asian Archaeology: Seminar 1  ",
+		"professor": "Acabado, S.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "219",
+		"title": "Selected Topics in Anthropological/Archaeological Theory: Black and Indigenous Research Methods",
+		"professor": "Dunnavant, J.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "221",
+		"title": "Behavior, Evolution, and Culture",
+		"professor": "Wood, B.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "223",
+		"title": "Experimental Biological Anthropology",
+		"professor": "Barrett, H.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "229",
+		"title": "Current Problems in Biological Anthropology: Seminar 1  ",
+		"professor": "Cartmill, E.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "M233R",
+		"title": "Health and Culture in Americas",
+		"professor": "Taub, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "234",
+		"title": "Mind, Medicine, and Culture",
+		"professor": "Garro, L.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "236",
+		"title": "Seminar: Psychocultural Studies and Medical Anthropology",
+		"professor": "Throop, C.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "241",
+		"title": "Culture, Power, Social Change",
+		"professor": "Cattelino, J.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "M247Q",
+		"title": "Central Asian Studies: Discipline, Methods, Debates",
+		"professor": "Ingenito, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "249",
+		"title": "Selected Topics in Social Anthropology: Mobility and &#39;Crisis&#39;: Ethnography of Borders, Migration, Quarantines, Climate Change, and Rising Global Inequality",
+		"professor": "Hart, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "253",
+		"title": "Language Ideologies: Political Economy of Language Beliefs and Practices",
+		"professor": "Kroskrity, P.V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "254",
+		"title": "Discourse Laboratory",
+		"professor": "Kroskrity, P.V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ANTHRO",
+		"code": "M285A",
+		"title": "Qualitative Research: Design and Data Collection",
+		"professor": "George, S.M."
+	}
+]

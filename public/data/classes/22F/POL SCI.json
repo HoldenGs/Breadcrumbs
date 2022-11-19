@@ -1,0 +1,485 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "10",
+		"title": "Introduction to Political Theory",
+		"professor": "Trojan, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "20",
+		"title": "World Politics",
+		"professor": "Min, E.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "30",
+		"title": "Politics and Strategy",
+		"professor": "Chwe, M.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "40",
+		"title": "Introduction to American Politics",
+		"professor": "Thompson, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "50",
+		"title": "Introduction to Comparative Politics",
+		"professor": "Thies, M.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "M111A",
+		"title": "Ancient and Medieval Political Theory",
+		"professor": "Sissa, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "111B",
+		"title": "Early Modern Political Theory",
+		"professor": "Sissa, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "114A",
+		"title": "American Political Thought I, 1620 to 1865",
+		"professor": "Trojan, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "119",
+		"title": "Special Studies in Political Theory: Modern East Asian Political Theory",
+		"professor": "Branstetter, J.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "119",
+		"title": "Special Studies in Political Theory: Pre-Modern East Asian Political Thought",
+		"professor": "Branstetter, J.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "120B",
+		"title": "World Politics and U.S. Foreign Policy after September 11",
+		"professor": "Williams, J.A.; Preble, C.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "124A",
+		"title": "International Political Economy",
+		"professor": "Roberts, T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "128B",
+		"title": "International Relations of Post-Communist Russia",
+		"professor": "Anderson, R.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "129",
+		"title": "Diplomacy and War",
+		"professor": "Perry, J.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "137A",
+		"title": "International Relations Theory",
+		"professor": "Perry, J.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "139",
+		"title": "Special Studies in International Relations: International Relations of East and Southeast Asia",
+		"professor": "Lee, Y.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "140A",
+		"title": "National Institutions: Congress",
+		"professor": "Schuele, D.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "140B",
+		"title": "National Institutions: The Presidency",
+		"professor": "James, S.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "140C",
+		"title": "National Institutions: Supreme Court",
+		"professor": "Schuele, D.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "147A",
+		"title": "American Political Development: Overview",
+		"professor": "Orren, K.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "149",
+		"title": "Special Topics in American Government and Politics: Careers in Political Science",
+		"professor": "Sherrer, T.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "M152",
+		"title": "Political Economy of Climate Change",
+		"professor": "Ross, M.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "156A",
+		"title": "Government and Politics of Post-Communist States: Russia",
+		"professor": "Treisman, D.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "169",
+		"title": "Special Studies in Comparative Politics: Authoritarian Politics",
+		"professor": "Roberts, T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "169",
+		"title": "Special Studies in Comparative Politics: Development Economics for Political Scientists",
+		"professor": "Lofchie, M.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "186",
+		"title": "Special Studies in Race, Ethnicity, and Politics: Black Lives Matter: Race, Policy, and Democratic Governance",
+		"professor": "Williams, J.A.; Demessie, M.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Anderson, R.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Lofchie, M.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Ross, M.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Pike, S.W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Schuele, D.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "191C",
+		"title": "Variable Topics Research Seminars for Majors: Politics: Magna Carta at 806",
+		"professor": "Orren, K.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "M194DC",
+		"title": "Quarter in Washington, DC, Research Seminar",
+		"professor": "Williams, J.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "195CE",
+		"title": "Community and Corporate Internships in Political Science",
+		"professor": "Ross, M.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "195CE",
+		"title": "Community and Corporate Internships in Political Science",
+		"professor": "Williams, J.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "195CE",
+		"title": "Community and Corporate Internships in Political Science",
+		"professor": "Aberbach, J.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "195CE",
+		"title": "Community and Corporate Internships in Political Science",
+		"professor": "Ross, M.L.; Garcia Gutierrez,"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "195CE",
+		"title": "Community and Corporate Internships in Political Science",
+		"professor": "Tausanovitch, C.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "195CE",
+		"title": "Community and Corporate Internships in Political Science",
+		"professor": "Maharramli, B.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "195CE",
+		"title": "Community and Corporate Internships in Political Science",
+		"professor": "Panagia, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "195CE",
+		"title": "Community and Corporate Internships in Political Science",
+		"professor": "Lowenstein, D.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "M195DC",
+		"title": "Quarter in Washington, DC, Internships",
+		"professor": "Williams, J.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "M195DC",
+		"title": "Quarter in Washington, DC, Internships",
+		"professor": "Tausanovitch, C.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Wilkinson, D.O."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Cruz, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Bawn, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Lohmann, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "O'Neill, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Perez, E.O."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Masuoka, N.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Thompson, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Anderson, R.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Orren, K.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Min, E.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Steinert-Threlkeld"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Thies, M.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Pagden, A.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Sissa, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "James, S.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "200A",
+		"title": "Probability and Inference for Social Science",
+		"professor": "Wu, Z.; Bawn, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "M208D",
+		"title": "Multivariate Analysis with Latent Variables",
+		"professor": "Montoya, A.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "218",
+		"title": "Selected Topics in Political Theory: Cosmopolitanism, Nationalism, and Populism",
+		"professor": "Pagden, A.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "239",
+		"title": "Selected Topics in International Relations: Seminar 1  ",
+		"professor": "Stein, A.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "240A",
+		"title": "Seminar: Comparative Politics",
+		"professor": "Treisman, D.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "260A",
+		"title": "Survey Course in American Politics: Political Parties and Electoral Process",
+		"professor": "Vavreck, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "268",
+		"title": "Seminar: Political and Electoral Problems: Democratic Elections",
+		"professor": "Thompson, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "269",
+		"title": "Seminar: Political Behavior: Social Movements",
+		"professor": "Chwe, M.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "280A",
+		"title": "Race and Ethnic Politics Field Seminar 1",
+		"professor": "Masuoka, N.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "POL SCI",
+		"code": "292A",
+		"title": "Introduction to Political Inquiry: Problems of Scientific Inquiry and Normative Discourse",
+		"professor": "Cruz, A."
+	}
+]

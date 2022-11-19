@@ -1,0 +1,1276 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "3",
+		"title": "Material World",
+		"professor": "Spokoyny, A.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "14A",
+		"title": "General Chemistry for Life Scientists I",
+		"professor": "Lavelle, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "14AE",
+		"title": "General Chemistry for Life Scientists I--Enhanced",
+		"professor": "Casey, J.R.; Caram, J.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "14B",
+		"title": "General Chemistry for Life Scientists II",
+		"professor": "Scerri, E.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "14BL",
+		"title": "General and Organic Chemistry Laboratory I",
+		"professor": "Russell, A.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "14BL",
+		"title": "General and Organic Chemistry Laboratory I",
+		"professor": "Casey, J.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "14C",
+		"title": "Structure of Organic Molecules",
+		"professor": "Ow, F.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "14C",
+		"title": "Structure of Organic Molecules",
+		"professor": "Lannan, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "14CL",
+		"title": "General and Organic Chemistry Laboratory II",
+		"professor": "Henary, M.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "14D",
+		"title": "Organic Reactions and Pharmaceuticals",
+		"professor": "Turlik, A.; Zou, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "14D",
+		"title": "Organic Reactions and Pharmaceuticals",
+		"professor": "Ow, F.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "17",
+		"title": "Chemical Principles",
+		"professor": "Scerri, E.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "19",
+		"title": "Rise and Fall of Blockbuster Drugs",
+		"professor": "Gresser, M.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "20A",
+		"title": "Chemical Structure",
+		"professor": "Shao, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "20AH",
+		"title": "Chemical Structure (Honors)",
+		"professor": "Gelbart, W.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "30A",
+		"title": "Organic Chemistry I: Structure and Reactivity",
+		"professor": "Pham, H.V."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "30AL",
+		"title": "General Chemistry Laboratory II",
+		"professor": "Pang, J.W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "30B",
+		"title": "Organic Chemistry II: Reactivity, Synthesis, and Spectroscopy",
+		"professor": "Pham, H.V."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "30BL",
+		"title": "Organic Chemistry Laboratory I",
+		"professor": "Reilly, A.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "30CL",
+		"title": "Organic Chemistry Laboratory II",
+		"professor": "Reilly, A.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "110A",
+		"title": "Physical Chemistry: Chemical Thermodynamics",
+		"professor": "Mason, T.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "113A",
+		"title": "Physical Chemistry: Introduction to Quantum Mechanics",
+		"professor": "Caram, J.R.; Casey, J.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "114",
+		"title": "Physical Chemistry Laboratory",
+		"professor": "Bouchard, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "C115A",
+		"title": "Quantum Chemistry",
+		"professor": "Neuhauser, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "C123A",
+		"title": "Classical and Statistical Thermodynamics",
+		"professor": "Schwartz, B.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "144",
+		"title": "Practical and Theoretical Introductory Organic Synthesis",
+		"professor": "Merlic, C.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "147",
+		"title": "Careers in Chemistry and Biochemistry",
+		"professor": "Weiss, P.S.; Tang, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "C150",
+		"title": "Research Methods and Integrity in Cellular and Molecular Biology",
+		"professor": "Torres, J.; Clutario, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "153A",
+		"title": "Biochemistry: Introduction to Structure, Enzymes, and Metabolism",
+		"professor": "Jarrett, D.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "153B",
+		"title": "Biochemistry: DNA, RNA, and Protein Synthesis",
+		"professor": "Chanfreau, G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "153C",
+		"title": "Biochemistry: Biosynthetic and Energy Metabolism and Its Regulation",
+		"professor": "Clarke, C.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "153L",
+		"title": "Biochemical Methods I",
+		"professor": "Hong-Hermesdorf, A"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "154",
+		"title": "Biochemical Methods II",
+		"professor": "Nakamoto, S.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "C155",
+		"title": "Mitochondria in Medicine, Biology, and Chemistry",
+		"professor": "Clarke, C.F.; Koehler, C.M.; Teitell, M.A.; Shirihai, O.; Van der Bliek, A.M; Dreier, L.; Liesa-Roig, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "156",
+		"title": "Physical Biochemistry",
+		"professor": "Clubb, R.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "C165",
+		"title": "Metabolic Control by Protein Modification",
+		"professor": "Clarke, S.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "171",
+		"title": "Intermediate Inorganic Chemistry",
+		"professor": "Kaner, R.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "C173",
+		"title": "Electrochemical Systems",
+		"professor": "Liu, C.; Liu, R.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "185",
+		"title": "Materials Chemistry Laboratory",
+		"professor": "Duan, X."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "188SA",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Pham, H.V."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "192B",
+		"title": "Undergraduate Practicum in Chemistry and Biochemistry",
+		"professor": "Russell, A.A.; Pang, J.W.; Casey, J.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "192F",
+		"title": "Methods and Application of Collaborative Learning Theory and Practice",
+		"professor": "Shaked, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "193A",
+		"title": "Journal Club Seminars: UC LEADS and MARC",
+		"professor": "Merlic, C.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Bensimon, D.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Bouchard, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Bowie, J.U."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Chanfreau, G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Clarke, C.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Clarke, S.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Clubb, R.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Courey, A.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Diaconescu, P.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Duan, X."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Eisenberg, D.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Feigon, J.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Felker, P.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Garcia-Garibay, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Garg, N.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Garrell, R.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Gelbart, W.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Gimzewski, J.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Gober, J.W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Nelson, H.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Harran, P.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Houk, K.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Hubbell, W.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Jung, M.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Kaner, R.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Koehler, C.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Kwon, O."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Levine, A.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Loo, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Mason, T.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Maynard, H.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Merlic, C.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Neuhauser, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Quinlan, M.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Reisler, E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Rubin, Y.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Alexandrova, A.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Schwartz, B.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Tolbert, S.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Torres, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Levine, R.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Spokoyny, A.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Weiss, P.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Weiss, R.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Weiss, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Yeates, T.O."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Zink, J.I."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Kosuri, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Sletten, E.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Wollman, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Rodriguez, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Caram, J.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Liu, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "196A",
+		"title": "Research Apprenticeship in Chemistry and Biochemistry",
+		"professor": "Koehler, C.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "196A",
+		"title": "Research Apprenticeship in Chemistry and Biochemistry",
+		"professor": "Spokoyny, A.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "196A",
+		"title": "Research Apprenticeship in Chemistry and Biochemistry",
+		"professor": "Courey, A.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "196A",
+		"title": "Research Apprenticeship in Chemistry and Biochemistry",
+		"professor": "Clarke, C.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "196A",
+		"title": "Research Apprenticeship in Chemistry and Biochemistry",
+		"professor": "Yeates, T.O."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "196A",
+		"title": "Research Apprenticeship in Chemistry and Biochemistry",
+		"professor": "Tolbert, S.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "196A",
+		"title": "Research Apprenticeship in Chemistry and Biochemistry",
+		"professor": "Clarke, S.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "196A",
+		"title": "Research Apprenticeship in Chemistry and Biochemistry",
+		"professor": "Gelbart, W.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "196A",
+		"title": "Research Apprenticeship in Chemistry and Biochemistry",
+		"professor": "Schwartz, B.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "196A",
+		"title": "Research Apprenticeship in Chemistry and Biochemistry",
+		"professor": "Caram, J.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "196B",
+		"title": "Research Apprenticeship in Chemistry and Biochemistry",
+		"professor": "Caram, J.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "204",
+		"title": "Student Research Seminar",
+		"professor": "Hallem, E.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "206",
+		"title": "Chemistry of Biology Seminar",
+		"professor": "Maynard, H.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "210",
+		"title": "Advanced Topics in Chemical Research",
+		"professor": "Harran, P.G.; Gelbart, W.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "C215A",
+		"title": "Quantum Chemistry: Methods",
+		"professor": "Neuhauser, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "218",
+		"title": "Chemistry Student Exit Seminar",
+		"professor": "Alexandrova, A.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "219A",
+		"title": "Seminars: Research in Physical Chemistry--Photon Resolved Spectroscopy of Materials (Physical Chemistry)",
+		"professor": "Caram, J.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "219I",
+		"title": "Seminar: Research in Physical Chemistry--Spectroscopy of Isolated Molecules, Complexes, and Clusters",
+		"professor": "Felker, P.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "219J",
+		"title": "Seminar: Research in Physical Chemistry--Chemistry and Biophysics of Interfaces",
+		"professor": "Garrell, R.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "219K",
+		"title": "Seminar: Research in Physical Chemistry--Statistical Mechanics of Disordered Systems",
+		"professor": "Gelbart, W.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "219L",
+		"title": "Seminar: Research in Physical Chemistry--Modern Methods for Molecular Reactions and Structure",
+		"professor": "Neuhauser, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "219Q",
+		"title": "Seminar: Research in Physical Chemistry--Ultrafast Studies of Chemical Reaction Dynamics in Condensed Phase",
+		"professor": "Schwartz, B.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "219R",
+		"title": "Seminar: Research in Physical Chemistry--Kinetic, Thermodynamic, and Interfacial Effects in Materials",
+		"professor": "Tolbert, S.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "219S",
+		"title": "Seminar: Research in Physical Chemistry--Nanoscience",
+		"professor": "Gimzewski, J.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "219T",
+		"title": "Seminar: Research in Physical Chemistry--Single-Molecule Spectroscopy in Biology",
+		"professor": "Weiss, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "219V",
+		"title": "Seminar: Research in Physical Chemistry--Complex Fluids: Composition, Structure, and Rheology",
+		"professor": "Mason, T.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "219W",
+		"title": "Seminar: Research in Physical Chemistry--Biophysics and Statistical Mechanics of Soft Matter",
+		"professor": "Levine, A.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "219X",
+		"title": "Seminar: Research in Physical Chemistry--Dynamic Processes in Chemically Reacting Flow Systems",
+		"professor": "Bouchard, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "219Y",
+		"title": "Seminar: Research in Physical Chemistry--Theory and Computation for Materials",
+		"professor": "Alexandrova, A.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "219Z",
+		"title": "Seminar: Research in Physical Chemistry--Single-Cell Physiology",
+		"professor": "Bensimon, D.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "C223A",
+		"title": "Classical and Statistical Thermodynamics",
+		"professor": "Schwartz, B.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "228",
+		"title": "Chemical Physics Seminar",
+		"professor": "Caram, J.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "235E",
+		"title": "Seminar: Research in Organic Chemistry--Theoretical and Physical Organic Chemistry",
+		"professor": "Houk, K.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "235F",
+		"title": "Seminar: Research in Organic Chemistry--Synthetic Methods and Synthesis of Natural Products",
+		"professor": "Jung, M.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "235G",
+		"title": "Seminar: Research in Organic Chemistry--Organometallic Chemistry and Organic Synthesis",
+		"professor": "Merlic, C.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "235I",
+		"title": "Seminar: Research in Organic Chemistry--Fullerene Chemistry and Materials Science",
+		"professor": "Rubin, Y.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "235K",
+		"title": "Seminar: Research in Organic Chemistry--Organic Chemistry in Organized and Restricted Media",
+		"professor": "Garcia-Garibay, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "235N",
+		"title": "Seminar: Research in Organic Chemistry--Target- and Diversity-Oriented Synthesis of Natural Products and Product-Like Molecules",
+		"professor": "Kwon, O."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "235O",
+		"title": "Seminar: Research in Organic Chemistry--Polymer Chemistry and Biomaterials",
+		"professor": "Maynard, H.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "235P",
+		"title": "Seminar: Research in Organic Chemistry--Reaction Discovery and total Synthesis of Complex Molecules",
+		"professor": "Garg, N.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "235Q",
+		"title": "Seminar: Research in Organic Chemistry--Synthetic Organic Chemistry Research",
+		"professor": "Harran, P.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "235R",
+		"title": "Seminar: Research in Organic Chemistry--Fluorous Materials, Synthetic Chemistry, and Supermolecular Assembly",
+		"professor": "Sletten, E.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "236",
+		"title": "Spectroscopic Methods of Organic Chemistry",
+		"professor": "Rubin, Y.F.; Chang, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "244A",
+		"title": "Organic Synthesis: Methodology and Stereochemistry",
+		"professor": "Kwon, O.; Dweck, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "247",
+		"title": "Organic Colloquium",
+		"professor": "Garg, N.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "248",
+		"title": "Organic Chemistry Student Seminar",
+		"professor": "Rubin, Y.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "C250",
+		"title": "Research Methods and Integrity in Cellular and Molecular Biology",
+		"professor": "Torres, J.; Clutario, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "CM255",
+		"title": "Mitochondria in Medicine, Biology, and Chemistry",
+		"professor": "Clarke, C.F.; Koehler, C.M.; Teitell, M.A.; Shirihai, O.; Van der Bliek, A.M; Dreier, L.; Liesa-Roig, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "256B",
+		"title": "Seminar: Research in Biochemistry--Biochemistry of Protein Function",
+		"professor": "Clarke, S.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "256D",
+		"title": "Seminar: Research in Biochemistry--Transcriptional Control Mechanisms in Drosophila Embryogenesis",
+		"professor": "Courey, A.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "256F",
+		"title": "Seminar: Research in Biochemistry--Current Topics in Prokaryotic Development",
+		"professor": "Gober, J.W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "256G",
+		"title": "Seminar: Research in Biochemistry--Nucleic Acid Structure Determination by NMR",
+		"professor": "Feigon, J.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "256J",
+		"title": "Seminar: Research in Biochemistry--Contractile Proteins in Muscle Contraction and Cell Motility",
+		"professor": "Reisler, E.; Quinlan, M.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "256K",
+		"title": "Seminar: Research in Biochemistry--Biochemistry and Molecular Biology of Chlamydomonas",
+		"professor": "Merchant, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "256L",
+		"title": "Seminar: Research in Biochemistry--Literature of Structural Biology",
+		"professor": "Yeates, T.O.; Eisenberg, D.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "256N",
+		"title": "Seminar: Research in Biochemistry--Advanced Topics in Structural Biology",
+		"professor": "Yeates, T.O.; Eisenberg, D.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "256O",
+		"title": "Seminar: Research in Biochemistry--Membrane Biophysics",
+		"professor": "Hubbell, W.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "256P",
+		"title": "Seminar: Research in Biochemistry--Analysis of Protein Structure",
+		"professor": "Bowie, J.U."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "256Q",
+		"title": "Seminar: Research in Biochemistry--Biochemistry and Function of Ubiquinone in Yeast and Higher Eukaryotes",
+		"professor": "Clarke, C.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "256R",
+		"title": "Seminar: Research in Biochemistry--Biomolecular Nuclear Magnetic Resonance Spectroscopy and Protein Structure",
+		"professor": "Clubb, R.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "256S",
+		"title": "Seminar: Research in Biochemistry--Proteome Bioinformatics",
+		"professor": "Lee, C.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "256T",
+		"title": "Seminar: Research in Biochemistry--RNA Processing and RNA Genomics",
+		"professor": "Chanfreau, G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "256U",
+		"title": "Seminar: Research in Biochemistry--Mitochondrial Biogenesis and Link to Disease",
+		"professor": "Koehler, C.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "256V",
+		"title": "Seminar: Research in Biochemistry--Proteomics and Mass Spectrometry",
+		"professor": "Loo, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "256W",
+		"title": "Seminar: Research in Biochemistry--Cytoskeletal Dynamics during Drosophila Oogenesis",
+		"professor": "Quinlan, M.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "256X",
+		"title": "Seminar: Research in Biochemistry--Microtubule-Based Structures and Human Diseases",
+		"professor": "Torres, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "256Y",
+		"title": "Seminar: Research in Biochemistry--Research in Genomics: Biochemistry, Synthetic Biology, and Genomics",
+		"professor": "Kosuri, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "256Z",
+		"title": "Seminar: Research in Biochemistry--Information Processing in Intracellular and Intercellular Signaling Networks",
+		"professor": "Wollman, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "258",
+		"title": "Advanced Topics in Biochemistry and Molecular Biology",
+		"professor": "Clarke, C.F.; Torres, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "C265",
+		"title": "Metabolic Control by Protein Modification",
+		"professor": "Clarke, S.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "268",
+		"title": "Biochemistry Research Seminar",
+		"professor": "Clarke, S.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "269A",
+		"title": "Protein Structure",
+		"professor": "Rodriguez, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "269B",
+		"title": "Biocatalysis and Bioenergetics",
+		"professor": "Koehler, C.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "269C",
+		"title": "Nucleic Acid Structure and Catalysis",
+		"professor": "Wollman, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "269D",
+		"title": "Mechanism and Regulation of Gene Expression",
+		"professor": "Quinlan, M.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "269E",
+		"title": "Biomolecular Structure, Catalysis, and Regulation",
+		"professor": "Quinlan, M.E.; Rodriguez, J.A.; Clarke, C.F.; Clarke, S.G.; Loo, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "272A",
+		"title": "Seminar: Research in Inorganic Chemistry--Chemistry of Materials",
+		"professor": "Kaner, R.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "272C",
+		"title": "Seminar: Research in Inorganic Chemistry--Inorganic Spectroscopy",
+		"professor": "Zink, J.I."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "272G",
+		"title": "Seminar: Research in Inorganic Chemistry--Issues in Chemical Education",
+		"professor": "Russell, A.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "272I",
+		"title": "Seminar: Research in Inorganic Chemistry--Organometallic Chemistry",
+		"professor": "Diaconescu, P.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "272K",
+		"title": "Seminar: Research in Inorganic Chemistry--Inorganic Nanostructures: Synthesis, Properties, and Functions",
+		"professor": "Duan, X."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "272L",
+		"title": "Seminar: Research in Inorganic Chemistry--Molecular Materials",
+		"professor": "Spokoyny, A.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "272M",
+		"title": "Seminar: Research in Inorganic Chemistry--Methodology for Chemical Synthesis of Complex Molecules",
+		"professor": "Nelson, H.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "272N",
+		"title": "Seminar: Research in Inorganic Chemistry--Electrochemical Materials and Interfaces",
+		"professor": "Liu, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "C273",
+		"title": "Electrochemical Systems",
+		"professor": "Liu, C.; Liu, R.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHEM",
+		"code": "278",
+		"title": "Inorganic Chemistry Student Seminar",
+		"professor": "Diaconescu, P.L."
+	}
+]

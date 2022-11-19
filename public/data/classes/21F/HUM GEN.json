@@ -1,0 +1,30 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "HUM GEN",
+		"code": "CM124",
+		"title": "Machine Learning Applications in Genetics",
+		"professor": "Eskin, E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HUM GEN",
+		"code": "CM224",
+		"title": "Machine Learning Applications in Genetics",
+		"professor": "Eskin, E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HUM GEN",
+		"code": "M226",
+		"title": "Machine Learning in Bioinformatics",
+		"professor": "Sankararaman, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HUM GEN",
+		"code": "236A",
+		"title": "Advanced Human Genetics A: Molecular Aspects",
+		"professor": "Pajukanta, P.E.; Reue, K.; Cantor, R.M.; Geschwind, D.H.; Kruglyak, L.; Sankararaman, S.; Nelson, S.F."
+	}
+]

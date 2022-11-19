@@ -1,0 +1,128 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "ASTR",
+		"code": "3",
+		"title": "Nature of Universe",
+		"professor": "Fitzgerald, M.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ASTR",
+		"code": "3",
+		"title": "Nature of Universe",
+		"professor": "Rich, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ASTR",
+		"code": "4",
+		"title": "Black Holes and Cosmic Catastrophes",
+		"professor": "Larkin, J.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ASTR",
+		"code": "5",
+		"title": "Life in Universe",
+		"professor": "McLean, I.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ASTR",
+		"code": "19",
+		"title": "Space Telescopes, from Hubble to Webb",
+		"professor": "Rich, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ASTR",
+		"code": "82",
+		"title": "Astrophysics II: Stellar Evolution, Galaxies, and Cosmology",
+		"professor": "Hansen, B.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ASTR",
+		"code": "117",
+		"title": "Radiation and Fluids in Astrophysics",
+		"professor": "Furlanetto, S.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ASTR",
+		"code": "140",
+		"title": "Stellar Systems and Cosmology",
+		"professor": "Malkan, M.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ASTR",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Furlanetto, S.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ASTR",
+		"code": "273",
+		"title": "Diffuse Matter in Space",
+		"professor": "Turner, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ASTR",
+		"code": "276",
+		"title": "Instrumentation and Observational Techniques",
+		"professor": "McLean, I.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ASTR",
+		"code": "277B",
+		"title": "Astronomy Research Project",
+		"professor": "Fitzgerald, M.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ASTR",
+		"code": "277B",
+		"title": "Astronomy Research Project",
+		"professor": "Naoz, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ASTR",
+		"code": "277B",
+		"title": "Astronomy Research Project",
+		"professor": "Petigura, E.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ASTR",
+		"code": "277B",
+		"title": "Astronomy Research Project",
+		"professor": "Treu, T.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ASTR",
+		"code": "277B",
+		"title": "Astronomy Research Project",
+		"professor": "Turner, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ASTR",
+		"code": "279",
+		"title": "Seminar: Current Astronomical Research",
+		"professor": "Shapley, A.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ASTR",
+		"code": "297",
+		"title": "Practice of Scientific Presentations in Astronomy",
+		"professor": "Shapley, A.E.; Petigura, E.A."
+	}
+]

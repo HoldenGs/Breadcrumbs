@@ -1,0 +1,555 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "10",
+		"title": "Introduction to Educational Issues and Scholarship",
+		"professor": "Mancevice, N.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "19",
+		"title": "Reimagining K-12 Schooling: Lessons Learned during Global Pandemic",
+		"professor": "Guillen, L.I."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "35",
+		"title": "Introduction to Inquiry and Research in Education",
+		"professor": "Martinez-Fernandez"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "C101",
+		"title": "History of Higher Education",
+		"professor": "Chang, M.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "M102",
+		"title": "Mexican Americans and Schools",
+		"professor": "Garcia, D.G.; Sanchez Castillo,"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "M103",
+		"title": "Asian American Education and Schooling",
+		"professor": "Teranishi, R.T.; Le, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "M104",
+		"title": "Introduction to Arts Education for Multiple Publics: Theory and Practice",
+		"professor": "Sykes, M.M.; Park, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "106A",
+		"title": "Education and Law: Seminar 1  ",
+		"professor": "Purdy, W.C.; Fischacher, L.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "107A",
+		"title": "Race, Class, and Education Inequality in U.S.",
+		"professor": "Howard, T.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "109A",
+		"title": "Globalization and Learning",
+		"professor": "Desjardins, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "109C",
+		"title": "Comparative Educational Policies and Practices",
+		"professor": "Omwami, E.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "120",
+		"title": "Early Childhood Development",
+		"professor": "Blackstock-Bernste; Torgrimson, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "M121",
+		"title": "Introduction to Media Literacies",
+		"professor": "Share, J.; Gambino, A.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "123",
+		"title": "Teaching Profession",
+		"professor": "Share, J.; Sturm, C.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "130AX",
+		"title": "Instructional Apprenticeship in Teaching and Learning at UCLA Lab School",
+		"professor": "Friedman, J.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "130BX",
+		"title": "Instructional Apprenticeship in Teaching and Learning at UCLA Partner Schools",
+		"professor": "Bang, S.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "130CX",
+		"title": "Instructional Apprenticeship in Teaching and Learning at UCLA Community Schools",
+		"professor": "Shen, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "133",
+		"title": "Topics in Child Development and Social Policies",
+		"professor": "Mistry, R.S.; Tanimura, D.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "M135",
+		"title": "Environmental Justice through Lens of Media and Education",
+		"professor": "Share, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "150",
+		"title": "Quantitative Research in Education: Claims and Evidence",
+		"professor": "Markowitz, A.J.; Xu, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "156",
+		"title": "Introduction to Qualitative Research in Education for Social Transformation",
+		"professor": "Dorio, J.; Garcia, F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "M177",
+		"title": "Creating Safe and Welcoming Schools",
+		"professor": "Astor, R.A.; Edwards, P.; Sonsteng-Person, M; Watson, K.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "180",
+		"title": "Orientation to Community Engagement",
+		"professor": "Dorio, J.; Magana Gamero, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "M190",
+		"title": "Arts Education Undergraduate Practicum: Preparation, Observation, and Practice",
+		"professor": "Cameron, D.P.; Rogers, L.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "195",
+		"title": "Community Internships in Education",
+		"professor": "Yokota, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "195CE",
+		"title": "Community or Corporate Internships in Education",
+		"professor": "Yokota, M.; Corona Valencia, G"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "195CE",
+		"title": "Community or Corporate Internships in Education",
+		"professor": "Dorio, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "196R",
+		"title": "Research Apprenticeship in Education",
+		"professor": "Quartz, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "196R",
+		"title": "Research Apprenticeship in Education",
+		"professor": "Bailey, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "197",
+		"title": "Individual Studies in Education",
+		"professor": "Hipolito, E.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "197",
+		"title": "Individual Studies in Education",
+		"professor": "Grammer, J.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "204A",
+		"title": "Introduction to Education and Social Sciences",
+		"professor": "Teranishi, R.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "204A",
+		"title": "Introduction to Education and Social Sciences",
+		"professor": "Dorio, J.; Estrada, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "204B",
+		"title": "Introduction to Comparative Education",
+		"professor": "Omwami, E.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "C209A",
+		"title": "History of Higher Education",
+		"professor": "Cole, E.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "217D",
+		"title": "Language Development and Education",
+		"professor": "Bailey, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "220A",
+		"title": "Inquiry into Schooling: Organization and Change",
+		"professor": "Cooper, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "222A",
+		"title": "Introduction to Qualitative Methods and Design Issues in Educational Research",
+		"professor": "Marin, A.M.; White Eyes, R.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "222A",
+		"title": "Introduction to Qualitative Methods and Design Issues in Educational Research",
+		"professor": "Garcia Sanchez, I.; Rodriguez, C.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "222A",
+		"title": "Introduction to Qualitative Methods and Design Issues in Educational Research",
+		"professor": "Gomez, K.; Otis, B.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "229",
+		"title": "Seminar: Special Topics in Urban Schooling: Multimodal Interaction Analysis and Microethnography of Caring for Other",
+		"professor": "Raia, F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "230A",
+		"title": "Introduction to Research Design and Statistics",
+		"professor": "Webb, N.M.; Bigsby, M.E.; Hoskins, J.E.; Lee, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "230AL",
+		"title": "Introduction to Research Design and Statistics: Computer Laboratory",
+		"professor": "Webb, N.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "231C",
+		"title": "Advanced Item Response Theory",
+		"professor": "Cai, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "234",
+		"title": "Critical Perspectives on Economic Approaches to Education",
+		"professor": "Desjardins, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "241",
+		"title": "Conceptual Frameworks for Research in Urban Education",
+		"professor": "Santibanez, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "249",
+		"title": "Theories and Methods in Developmental Science",
+		"professor": "Markowitz, A.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "250A",
+		"title": "Fundamentals of U.S Higher Education System",
+		"professor": "Hurtado, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "250A",
+		"title": "Fundamentals of U.S Higher Education System",
+		"professor": "McDonough, P.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "260A",
+		"title": "Introduction to Programming and Data Management",
+		"professor": "Jaquette, O.; Chavac, L.E.; Wright, B.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "261E",
+		"title": "Higher Education Seminar: Diversity Issues and Research Perspectives",
+		"professor": "Chang, M.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "261F",
+		"title": "Seminar: Cognitive and Personal Development of College Students",
+		"professor": "Harris, J.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "263",
+		"title": "Seminar: Higher Education: Book Club: Reading and Writing of Black Women",
+		"professor": "Harris, J.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 1  ",
+		"professor": "Alkin, M.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 10  ",
+		"professor": "Kasari, C.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 11  ",
+		"professor": "Teranishi, R.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 14  ",
+		"professor": "Torres, C.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 15  ",
+		"professor": "Allen, W.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 16  ",
+		"professor": "Desjardins, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 17  ",
+		"professor": "Solorzano, D.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 19  ",
+		"professor": "Raia, F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 2  ",
+		"professor": "Gomez, K.; Gomez, L.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 21  ",
+		"professor": "Grammer, J.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 23  ",
+		"professor": "Martinez-Fernandez"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 25  ",
+		"professor": "Cooper, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 26  ",
+		"professor": "Hurtado, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 28  ",
+		"professor": "Quartz, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 29  ",
+		"professor": "Garcia, D.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 3  ",
+		"professor": "Bailey, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 30  ",
+		"professor": "McDonough, P.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 31  ",
+		"professor": "Jeon, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 32  ",
+		"professor": "Marin, A.M.; Garcia Sanchez, I."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 33  ",
+		"professor": "Morrison, C.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 34  ",
+		"professor": "Rohanna, K.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 4  ",
+		"professor": "Mistry, R.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 5  ",
+		"professor": "Omwami, E.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 7  ",
+		"professor": "Graham, S.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 8  ",
+		"professor": "Sax, L.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 9  ",
+		"professor": "Wood, J.J."
+	}
+]

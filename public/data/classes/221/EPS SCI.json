@@ -1,0 +1,37 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EPS SCI",
+		"code": "1",
+		"title": "Introduction to Earth Science",
+		"professor": "Drake, J."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EPS SCI",
+		"code": "9",
+		"title": "Solar System and Planets",
+		"professor": "Rubin, A.E."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EPS SCI",
+		"code": "15",
+		"title": "Blue Planet: Introduction to Oceanography",
+		"professor": "Drake, J."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EPS SCI",
+		"code": "16",
+		"title": "Major Events in History of Life",
+		"professor": "Schopf, J.W.; Derai Weidner, E.C"
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EPS SCI",
+		"code": "121F",
+		"title": "Advanced Field Geology: Fieldwork",
+		"professor": "Yin, A.; Chen, H.; Jaramillo Hernande"
+	}
+]

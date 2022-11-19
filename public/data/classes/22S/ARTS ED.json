@@ -1,0 +1,30 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "ARTS ED",
+		"code": "20",
+		"title": "Introduction to Community Engagement through Arts",
+		"professor": "Kane, K.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ARTS ED",
+		"code": "107",
+		"title": "Visual Arts Methods for Teaching Artist",
+		"professor": "Korn, C.T.; Rogers, L.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ARTS ED",
+		"code": "M192XP",
+		"title": "Arts Education Undergraduate Practicum and Capstone Project",
+		"professor": "Sykes, M.M.; Park, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ARTS ED",
+		"code": "197",
+		"title": "Individual Studies in Arts Education",
+		"professor": "Kane, K.M."
+	}
+]

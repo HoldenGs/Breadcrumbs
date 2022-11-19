@@ -1,0 +1,128 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "ARCH&UD",
+		"code": "30",
+		"title": "Introduction to Architectural Studies",
+		"professor": "Svehla, R.; Osman, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARCH&UD",
+		"code": "122",
+		"title": "Studio II",
+		"professor": "Barkan, K.R.; Chagnon, R.A.; Gan, S.; Jayewardene, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARCH&UD",
+		"code": "131",
+		"title": "Issues in Contemporary Design",
+		"professor": "Osman, M.; Ashkanani, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARCH&UD",
+		"code": "141",
+		"title": "Technology I: Projections",
+		"professor": "Sharif, M.; Bruetsch, E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARCH&UD",
+		"code": "M201",
+		"title": "Theories of Architecture",
+		"professor": "Osman, M.; Gurumoorthy, A.; Walcott, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARCH&UD",
+		"code": "220",
+		"title": "Introduction to Computers",
+		"professor": "Koerner-Al-Rawi, J; Copp, M.S.; Qi, X."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARCH&UD",
+		"code": "289",
+		"title": "Special Topics in Architecture and Urban Design",
+		"professor": "Levin, A.; Amoresano, G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARCH&UD",
+		"code": "289",
+		"title": "Special Topics in Architecture and Urban Design",
+		"professor": "Amunategui, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARCH&UD",
+		"code": "289",
+		"title": "Special Topics in Architecture and Urban Design",
+		"professor": "Amunategui, C.; Hou, C.; Vashakmadze, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARCH&UD",
+		"code": "289",
+		"title": "Special Topics in Architecture and Urban Design",
+		"professor": "Denari, N.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARCH&UD",
+		"code": "289",
+		"title": "Special Topics in Architecture and Urban Design",
+		"professor": "Kuo, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARCH&UD",
+		"code": "289",
+		"title": "Special Topics in Architecture and Urban Design",
+		"professor": "Su, N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARCH&UD",
+		"code": "289",
+		"title": "Special Topics in Architecture and Urban Design",
+		"professor": "McCallum, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARCH&UD",
+		"code": "289",
+		"title": "Special Topics in Architecture and Urban Design",
+		"professor": "Conway, M.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARCH&UD",
+		"code": "289",
+		"title": "Special Topics in Architecture and Urban Design",
+		"professor": "Leclerc, G.; Cuff, D.; Taylor-Hasty, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARCH&UD",
+		"code": "289",
+		"title": "Special Topics in Architecture and Urban Design",
+		"professor": "Van Leuwen-Hall, T"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARCH&UD",
+		"code": "290",
+		"title": "Special Topics in Critical Studies in Architectural Culture",
+		"professor": "Osman, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARCH&UD",
+		"code": "291",
+		"title": "Theory of Architectural Programming",
+		"professor": "Cuff, D.; Rovner, M.A.; Pelzer, K.P."
+	}
+]

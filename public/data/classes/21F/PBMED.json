@@ -1,0 +1,44 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "PBMED",
+		"code": "202C",
+		"title": "Applications of Medical Physics to Clinical Problems: Radiation Therapy",
+		"professor": "Agazaryan, N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PBMED",
+		"code": "205",
+		"title": "Physics of Diagnostic Radiology",
+		"professor": "McNitt-Gray, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PBMED",
+		"code": "M209",
+		"title": "Signal and Image Processing for Biomedicine",
+		"professor": "Ruan, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PBMED",
+		"code": "216",
+		"title": "Fundamentals of Dosimetry",
+		"professor": "Lamb, J.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PBMED",
+		"code": "222",
+		"title": "Advances in Medical Magnetic Resonance: Clinical MR Spectroscopy and Fast MRI Techniques",
+		"professor": "Thomas, M.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PBMED",
+		"code": "260A",
+		"title": "Seminar: Biomedical Physics",
+		"professor": "McNitt-Gray, M."
+	}
+]

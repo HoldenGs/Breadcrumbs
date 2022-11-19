@@ -1,0 +1,86 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "COMPTNG",
+		"code": "10A",
+		"title": "Introduction to Programming",
+		"professor": "Lindstrom, M.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMPTNG",
+		"code": "10A",
+		"title": "Introduction to Programming",
+		"professor": "Maldague, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMPTNG",
+		"code": "10A",
+		"title": "Introduction to Programming",
+		"professor": "Pham, M.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMPTNG",
+		"code": "10A",
+		"title": "Introduction to Programming",
+		"professor": "Chu, W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMPTNG",
+		"code": "10B",
+		"title": "Intermediate Programming",
+		"professor": "Cai, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMPTNG",
+		"code": "10B",
+		"title": "Intermediate Programming",
+		"professor": "Cai, H.; Andrews, M.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMPTNG",
+		"code": "10C",
+		"title": "Advanced Programming",
+		"professor": "Lindstrom, M.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMPTNG",
+		"code": "16A",
+		"title": "Python with Applications I",
+		"professor": "Chodrow, P.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMPTNG",
+		"code": "16A",
+		"title": "Python with Applications I",
+		"professor": "Murray, M.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMPTNG",
+		"code": "16A",
+		"title": "Python with Applications I",
+		"professor": "Perlmutter, M.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMPTNG",
+		"code": "16B",
+		"title": "Python with Applications II",
+		"professor": "Chodrow, P.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMPTNG",
+		"code": "40A",
+		"title": "Introduction to Programming for Internet",
+		"professor": "Andrews, M.J."
+	}
+]

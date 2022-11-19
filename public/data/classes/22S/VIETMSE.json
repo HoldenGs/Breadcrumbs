@@ -1,0 +1,44 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "VIETMSE",
+		"code": "3",
+		"title": "Introductory Vietnamese",
+		"professor": "Tran, K.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "VIETMSE",
+		"code": "3A",
+		"title": "Introductory Vietnamese for Heritage Learners",
+		"professor": "Nguyen, T.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "VIETMSE",
+		"code": "6",
+		"title": "Intermediate Vietnamese",
+		"professor": "Bui, C.V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "VIETMSE",
+		"code": "100C",
+		"title": "Advanced Vietnamese",
+		"professor": "Bui, C.V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "VIETMSE",
+		"code": "CM155",
+		"title": "Topics in Vietnamese Cinema and/or Literature",
+		"professor": "Nguyen-Vo, T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "VIETMSE",
+		"code": "C255",
+		"title": "Topics in Vietnamese Cinema and/or Literature",
+		"professor": "Nguyen-Vo, T."
+	}
+]

@@ -1,0 +1,611 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "2C",
+		"title": "Religion, Occult, and Science: Mystics, Heretics, and Witches in Western Tradition, 1000 to 1600",
+		"professor": "Ruiz, T.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "3C",
+		"title": "History of Science: 20th Century",
+		"professor": "de Chadarevian, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "8A",
+		"title": "Colonial Latin America",
+		"professor": "Terraciano, K.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "13C",
+		"title": "History of the U.S. and Its Colonial Origins: 20th Century",
+		"professor": "Kelley, R.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "19",
+		"title": "Los Angeles: Architecture and Ethnicity",
+		"professor": "Ruiz, T.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "22",
+		"title": "Contemporary World History, 1760 to Present",
+		"professor": "Lal, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "89",
+		"title": "Honors Seminars: Honors Seminar for History 2C",
+		"professor": "Ruiz, T.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "96W",
+		"title": "Introduction to Historical Practice: Economy and Society in Socialist China",
+		"professor": "Hao, X.; McClendon, M.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "96W",
+		"title": "Introduction to Historical Practice: History of Women and Gender in Middle East, 1800 to Present",
+		"professor": "Aoun Ghazal, M.; McClendon, M.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "96W",
+		"title": "Introduction to Historical Practice: Medieval and Early Modern Diasporas, 1450 to 1650",
+		"professor": "Ibarra, R.P.; McClendon, M.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "96W",
+		"title": "Introduction to Historical Practice: Seminar 1  ",
+		"professor": "Adney, K.J.; McClendon, M.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "96W",
+		"title": "Introduction to Historical Practice: Seminar 3  ",
+		"professor": "Munoz, J.; McClendon, M.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "97C",
+		"title": "Introduction to Historical Practice: Variable Topics in European History: Trials of Joan of Arc and Gilles de Rais",
+		"professor": "Norberg, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "105C",
+		"title": "Survey of Middle East, 500 to Present: 1700 to Present",
+		"professor": "Gelvin, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "107A",
+		"title": "Armenian History: Armenia in Ancient and Medieval Times, 2nd Millennium BC to AD 11th Century",
+		"professor": "Aslanian, S.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "107B",
+		"title": "Armenian History: Armenia from Cilician Kingdom through Periods of Foreign Domination and National Stirrings, 11th to 19th Centuries",
+		"professor": "Aslanian, S.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "109B",
+		"title": "History of Israeli-Palestinian Conflict, 1881 to Present",
+		"professor": "Gelvin, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "111C",
+		"title": "Topics in Middle Eastern History: Modern: Minorities, Women, and Gender in Modern Middle East",
+		"professor": "Momdjian, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "114B",
+		"title": "History of Rome from Death of Caesar to Time of Constantine",
+		"professor": "Woolf, G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "115",
+		"title": "Topics in Ancient History: Gender in Ancient Mediterranean",
+		"professor": "Vivian, A.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "119D",
+		"title": "Topics in Medieval History: City and Society in Medieval Low Countries",
+		"professor": "Lambert, B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "120D",
+		"title": "Film and History: Central and Eastern Europe, 1945 to 1989",
+		"professor": "McBride, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "127D",
+		"title": "History of Russia: Culture and Society in Imperial Russia",
+		"professor": "Frank, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "130",
+		"title": "History of European Political Thought",
+		"professor": "Stacey, P.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "132",
+		"title": "Topics in European History: Interwar Crisis: Europe, 1918 to 1939",
+		"professor": "Griffith, B.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "M133C",
+		"title": "History of Prostitution",
+		"professor": "Norberg, K.; Nye, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "140C",
+		"title": "20th-Century U.S. History since 1960",
+		"professor": "Corey, M.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "M142C",
+		"title": "History of Religion in U.S.",
+		"professor": "Joseph, S.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "149B",
+		"title": "North American Indian History, 1830 to Present",
+		"professor": "Sladeck, J.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "M151D",
+		"title": "Chicana Historiography",
+		"professor": "Espino, V.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "153",
+		"title": "American West",
+		"professor": "Sladeck, J.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "M155",
+		"title": "History of Los Angeles",
+		"professor": "Avila, E.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "161",
+		"title": "Topics in Latin American History: Mexico since Independence",
+		"professor": "Perez-Montesinos,; Zhang, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "161",
+		"title": "Topics in Latin American History: Race and Capitalism in Latin America",
+		"professor": "Rivera, E.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "170B",
+		"title": "Selected Topics in Chinese History from 1500: Race and Ethnicity in China, 1500 to Present",
+		"professor": "Lee, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "171",
+		"title": "Variable Topics in Japanese History: Written Word in Japan, Prehistory to 1600",
+		"professor": "Curtis, P.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "176B",
+		"title": "History of Southeast Asia: Southeast Asia since 1815",
+		"professor": "Robinson, G.; Pennington, S.; Wilson, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "179A",
+		"title": "Variable Topics in History of Medicine: Epidemics and Society",
+		"professor": "Frank Jr, R.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "179A",
+		"title": "Variable Topics in History of Medicine: Medicine and Medical Ethics under Nazi Regime",
+		"professor": "Siegel, S.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "180A",
+		"title": "Topics in History of Science: Energy and Empire: Ecological History in Carbon Age",
+		"professor": "Lawrence, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "M180B",
+		"title": "Historical Perspectives on Gender and Science",
+		"professor": "Traweek, S.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "M181",
+		"title": "Topics in Jewish History: Middle Eastern Jews in Israel",
+		"professor": "Tam, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "M182A",
+		"title": "Ancient Jewish History",
+		"professor": "Smoak, J.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "187A",
+		"title": "Variable Topics Historiography Proseminar: Ancient History: Fall of Rome: Late Antiquity in Transition and Crisis",
+		"professor": "Langdon, J.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "187B",
+		"title": "Variable Topics Historiography Proseminar: Medieval: Cradles of Capitalism? Trade in Late Medieval Bruges, London, and Venice",
+		"professor": "Lambert, B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "187F",
+		"title": "Variable Topics Historiography Proseminar: Near East: History of Infrastructure in Middle East",
+		"professor": "Koh, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "187I",
+		"title": "Variable Topics Historiography Proseminar: Science/Technology: Medicine Across Cultures: Birth, Illness, and Death in China and West",
+		"professor": "Li, P.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "187I",
+		"title": "Variable Topics Historiography Proseminar: Science/Technology: Medicine and Democracy",
+		"professor": "Soderfeldt, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "187J",
+		"title": "Variable Topics Historiography Proseminar: Africa: Capitalism, Slavery, Death, and Plantation in Atlantic World",
+		"professor": "Tamboli, V.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "187L",
+		"title": "Variable Topics Historiography Proseminar: Jewish: Anti-Semitism: Act, Idea, and Context",
+		"professor": "Myers, D.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "C187R",
+		"title": "Topics in Historiography: Japan: Art, Politics, and Violence in 1960s Japan",
+		"professor": "Marotti, W."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Robinson, G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "McBride, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "191A",
+		"title": "Capstone Seminar: History--Ancient History: Environmental History of Roman World",
+		"professor": "Woolf, G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "191C",
+		"title": "Capstone Seminar: History--Europe: City in Eastern Europe",
+		"professor": "Momdjian, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "C191D",
+		"title": "Topics in History: U.S.: Asian American Culture, Cuisine, and Economy",
+		"professor": "Matsumoto, V.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "C191D",
+		"title": "Topics in History: U.S.: Ideology of Black Nationalism and Rise of Carceral State",
+		"professor": "Corey, M.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "191E",
+		"title": "Capstone Seminar: History--Latin America: Capital in Atlantic World",
+		"professor": "Summerhill, W.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "191G",
+		"title": "Capstone Seminar: History--East Asia: Researching People&#39;s Republic of China as History",
+		"professor": "Goldman, A.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "191I",
+		"title": "Capstone Seminar: History--Science/Technology: Life After Life: Human Anatomy as Ephemeral Information, 16th Century to Present",
+		"professor": "Zeleny, C.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "M194DC",
+		"title": "Quarter in Washington, DC, Research Seminar",
+		"professor": "Williams, J.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "195CE",
+		"title": "Community and Corporate Internships in History",
+		"professor": "Paul, T.; Nath, N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "M195DC",
+		"title": "Quarter in Washington, DC, Internships",
+		"professor": "Williams, J.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "198A",
+		"title": "Honors Research in History",
+		"professor": "Higbie, F.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "198A",
+		"title": "Honors Research in History",
+		"professor": "Kelley, R.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "198A",
+		"title": "Honors Research in History",
+		"professor": "Corey, M.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "198A",
+		"title": "Honors Research in History",
+		"professor": "Goldman, A.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "198A",
+		"title": "Honors Research in History",
+		"professor": "Pestana, C.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "198A",
+		"title": "Honors Research in History",
+		"professor": "Stacey, P.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "198A",
+		"title": "Honors Research in History",
+		"professor": "Nasiali, M.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "198A",
+		"title": "Honors Research in History",
+		"professor": "Frederick, H.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "198A",
+		"title": "Honors Research in History",
+		"professor": "Wong, R.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "198A",
+		"title": "Honors Research in History",
+		"professor": "Koh, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "198A",
+		"title": "Honors Research in History",
+		"professor": "Avila, E.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "198A",
+		"title": "Honors Research in History",
+		"professor": "Myers, D.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "198A",
+		"title": "Honors Research in History",
+		"professor": "McClendon, M.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "198A",
+		"title": "Honors Research in History",
+		"professor": "Apter, A.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "198C",
+		"title": "Honors Research in History",
+		"professor": "Kelley, R.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "200L",
+		"title": "Advanced Historiography: China: Approaches to Late Imperial and Modern China",
+		"professor": "Goldman, A.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "C200M",
+		"title": "Topics in Historiography: Japan: Art, Politics, and Violence in Japan&#39;s 1960s",
+		"professor": "Marotti, W."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "201D",
+		"title": "Topics in History: Early Modern Europe: Machiavelli and Early Modern State",
+		"professor": "Stacey, P.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "C201H",
+		"title": "Topics in History: U.S.: Asian American Culture, Cuisine, and Economy",
+		"professor": "Matsumoto, V.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "201I",
+		"title": "Topics in History: Latin America: Environmental Historiography of Latin America",
+		"professor": "Perez-Montesinos,"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "214",
+		"title": "Topics in World History: Studies in Black Atlantic History and Culture",
+		"professor": "Apter, A.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "M236A",
+		"title": "Proseminar: Political Psychology",
+		"professor": "Sears, D.O."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "246C",
+		"title": "Introduction to U.S. History: 20th Century",
+		"professor": "Kelley, R.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HIST",
+		"code": "288B",
+		"title": "Seminar: South Asia",
+		"professor": "Lal, V."
+	}
+]

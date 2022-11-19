@@ -1,0 +1,44 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "FOOD ST",
+		"code": "M79",
+		"title": "Food Politics: Cultural Solutions to Political Problems",
+		"professor": "Tandler, J.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FOOD ST",
+		"code": "M157",
+		"title": "Food: Molecules, Microbes, Environment",
+		"professor": "Gober, J.W."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FOOD ST",
+		"code": "181",
+		"title": "Special Topics: Perspectives on Food and Society",
+		"professor": "Rowat, A.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FOOD ST",
+		"code": "187",
+		"title": "Special Topics in Food Studies: Food, Narrative, and Identity",
+		"professor": "Hunter, M.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FOOD ST",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Gober, J.W."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FOOD ST",
+		"code": "195CE",
+		"title": "Community and Corporate Internships in Food Studies",
+		"professor": "Shodahl, S.; Rowat, A.C."
+	}
+]

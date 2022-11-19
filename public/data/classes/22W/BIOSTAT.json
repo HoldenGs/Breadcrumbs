@@ -1,0 +1,72 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOSTAT",
+		"code": "100B",
+		"title": "Introduction to Biostatistics",
+		"professor": "Gjertson, D.W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOSTAT",
+		"code": "200B",
+		"title": "Methods in Biostatistics B",
+		"professor": "Crespi-Chun, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOSTAT",
+		"code": "201B",
+		"title": "Topics in Applied Regression",
+		"professor": "Sugar, C.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOSTAT",
+		"code": "202A",
+		"title": "Mathematical Statistics A",
+		"professor": "Senturk, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOSTAT",
+		"code": "203B",
+		"title": "Introduction to Data Science",
+		"professor": "Zhou, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOSTAT",
+		"code": "213",
+		"title": "Introduction to Computational Methods in Biostatistics",
+		"professor": "Ramirez, C.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOSTAT",
+		"code": "M234",
+		"title": "Applied Bayesian Inference",
+		"professor": "Weiss, R.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOSTAT",
+		"code": "250B",
+		"title": "Linear Statistical Models",
+		"professor": "Wong, W.; Cui, E.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOSTAT",
+		"code": "255B",
+		"title": "Advanced Probability and Statistics",
+		"professor": "Banerjee, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOSTAT",
+		"code": "M272",
+		"title": "Theoretical Genetic Modeling",
+		"professor": "Sinsheimer, J.S."
+	}
+]

@@ -1,0 +1,93 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "LING",
+		"code": "1",
+		"title": "Introduction to Study of Language",
+		"professor": "Aziz, J.; Rett, J.L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "LING",
+		"code": "1",
+		"title": "Introduction to Study of Language",
+		"professor": "Czuba, M.N.; Rett, J.L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "LING",
+		"code": "20",
+		"title": "Introduction to Linguistic Analysis",
+		"professor": "Booth, M.L.; Rett, J.L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "LING",
+		"code": "103",
+		"title": "Introduction to General Phonetics",
+		"professor": "Katsuda, H.; Rett, J.L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "LING",
+		"code": "110",
+		"title": "Introduction to Historical Linguistics",
+		"professor": "Lunardi, V.; Rett, J.L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "LING",
+		"code": "120B",
+		"title": "Syntax I",
+		"professor": "Brown, C.J.; Rett, J.L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "LING",
+		"code": "120C",
+		"title": "Semantics I",
+		"professor": "Teixeira, G.E.; Rett, J.L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "LING",
+		"code": "165A",
+		"title": "Phonology II",
+		"professor": "Roy, A.; Rett, J.L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "LING",
+		"code": "165B",
+		"title": "Syntax II",
+		"professor": "Chang, K.W.; Rett, J.L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "LING",
+		"code": "165B",
+		"title": "Syntax II",
+		"professor": "Wang, H.; Rett, J.L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "LING",
+		"code": "170",
+		"title": "Language and Society: Introduction to Sociolinguistics",
+		"professor": "Gladney, A.D.; Rett, J.L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "LING",
+		"code": "195",
+		"title": "Community or Corporate Internships in Linguistics",
+		"professor": "Sundara, M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "LING",
+		"code": "197",
+		"title": "Individual Studies in Linguistics",
+		"professor": "Sundara, M."
+	}
+]

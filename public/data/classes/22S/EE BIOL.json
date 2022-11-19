@@ -1,0 +1,646 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "88S",
+		"title": "Urban Ecology: Coexistence in Urban Landscapes",
+		"professor": "Yeh, P.J.; Yu, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "100",
+		"title": "Introduction to Ecology and Behavior",
+		"professor": "Lipman, A.J.; Gorlitsky, L.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "100L",
+		"title": "Introduction to Ecology and Behavior Laboratory",
+		"professor": "O'Fallon, S.R.; Gorlitsky, L.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "100L",
+		"title": "Introduction to Ecology and Behavior Laboratory",
+		"professor": "Xue, C.; Gorlitsky, L.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "100L",
+		"title": "Introduction to Ecology and Behavior Laboratory",
+		"professor": "Morgan, A.M.; Gorlitsky, L.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "106",
+		"title": "Experimental Marine Invertebrate Biology",
+		"professor": "Jacobs, D.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "109L",
+		"title": "Introduction to Marine Science Laboratory",
+		"professor": "Deboer, T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "109L",
+		"title": "Introduction to Marine Science Laboratory",
+		"professor": "Deboer, T.; Nguyen, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "114A",
+		"title": "Ornithology",
+		"professor": "Smith, T.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "116",
+		"title": "Conservation Biology",
+		"professor": "Brown, C.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "116",
+		"title": "Conservation Biology",
+		"professor": "Lipman, A.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "C119B",
+		"title": "Modeling in Ecological Research",
+		"professor": "Lloyd-Smith, J.O."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "123A",
+		"title": "Field Marine Ecology",
+		"professor": "Fong, P.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "123B",
+		"title": "Field Marine Ecology",
+		"professor": "Kane, T.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "124A",
+		"title": "Field Ecology",
+		"professor": "Jacobs, D.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "130",
+		"title": "Principles of Systematic Biology",
+		"professor": "Gordon, M.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "132",
+		"title": "Field Behavioral Ecology",
+		"professor": "Larison, B.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "C135",
+		"title": "Population Genetics",
+		"professor": "Lohmueller, K.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "136",
+		"title": "Ecological Restoration",
+		"professor": "Lipman, A.J.; Gorlitsky, L.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "148",
+		"title": "Biology of Marine Plants",
+		"professor": "Fong, P.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "154",
+		"title": "California Ecosystems",
+		"professor": "Sork, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "M159",
+		"title": "Biological Modeling: Mathematical and Computational Approaches",
+		"professor": "Venugopal, S.; Lin, J.; Hong, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "162",
+		"title": "Plant Physiology",
+		"professor": "Sack, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "162L",
+		"title": "Plant Physiology and Ecophysiology Laboratory",
+		"professor": "Henry, C.A.; Sack, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "162L",
+		"title": "Plant Physiology and Ecophysiology Laboratory",
+		"professor": "Vinod, N.; Sack, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "162L",
+		"title": "Plant Physiology and Ecophysiology Laboratory",
+		"professor": "Ochoa, M.E.; Sack, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "162L",
+		"title": "Plant Physiology and Ecophysiology Laboratory",
+		"professor": "Baird, A.S.; Sack, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "162L",
+		"title": "Plant Physiology and Ecophysiology Laboratory",
+		"professor": "Umbrajkar, S.; Sack, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "168",
+		"title": "Global Change Ecology",
+		"professor": "Ordway, E.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "170",
+		"title": "Animal Environmental Physiology",
+		"professor": "Dines, J.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "M178",
+		"title": "Computational Systems Biology: Modeling and Simulation of Biological Systems",
+		"professor": "Distefano, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "C179",
+		"title": "Communicating Science to Informal Audiences",
+		"professor": "Barber, P.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "186",
+		"title": "Evolutionary Medicine: Clinical Perspective on Medical, Surgical, and Psychiatric Disorders",
+		"professor": "Natterson, B.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "187",
+		"title": "Variable Topics in Ecology and Evolutionary Biology: Plants and People",
+		"professor": "Baniaga, A.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "188SC",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Yeh, P.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Sork, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Prunier, R.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Lohmueller, K.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Ordway, E.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Buth, D.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "190",
+		"title": "Research Colloquia in Ecology and Evolutionary Biology",
+		"professor": "Bucciarelli, G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "191",
+		"title": "Variable Topics Research Seminars: Ecology and Evolutionary Biology: Seminar 1  ",
+		"professor": "Bucciarelli, G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "192A",
+		"title": "Undergraduate Assistant in Ecology and Evolutionary Biology",
+		"professor": "Lipman, A.J.; Gorlitsky, L.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "195",
+		"title": "Community or Corporate Internships in Ecology and Evolutionary Biology",
+		"professor": "Blumstein, D.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "195",
+		"title": "Community or Corporate Internships in Ecology and Evolutionary Biology",
+		"professor": "Yeh, P.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "196",
+		"title": "Research Apprenticeship in Ecology and Evolutionary Biology",
+		"professor": "Ordway, E.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "196",
+		"title": "Research Apprenticeship in Ecology and Evolutionary Biology",
+		"professor": "Amarasekare, P.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "196",
+		"title": "Research Apprenticeship in Ecology and Evolutionary Biology",
+		"professor": "Nonacs, P.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "198C",
+		"title": "Honors Research in Ecology and Evolutionary Biology",
+		"professor": "Ordway, E.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "198C",
+		"title": "Honors Research in Ecology and Evolutionary Biology",
+		"professor": "Sack, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "198C",
+		"title": "Honors Research in Ecology and Evolutionary Biology",
+		"professor": "Lohmueller, K.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "C219B",
+		"title": "Modeling in Ecological Research",
+		"professor": "Lloyd-Smith, J.O."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "C235",
+		"title": "Population Genetics",
+		"professor": "Lohmueller, K.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Alfaro, M.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Amarasekare, P.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Barber, P.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Blumstein, D.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Gordon, M.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Campbell-Staton, S"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Fong, P.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Garud, N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Grether, G.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Jacobs, D.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Kareiva, P.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Kraft, N.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Kremer, C.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Lloyd-Smith, J.O."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Lohmueller, K.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "MacDonald, G.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Narins, P.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Natterson, B.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Nonacs, P.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Pinter-Wollman, N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Sack, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Savage, V.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Schlinger, B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Sears, K.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Shaffer, B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Smith, T.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Sork, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Tingley, M.W."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Van Valkenburgh, B"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Wayne, R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Yeh, P.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Zapata, F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Ordway, E.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "296",
+		"title": "Seminar: Ecology and Evolutionary Biology",
+		"professor": "Marcot, J.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "297",
+		"title": "Selected Topics in Ecology and Evolutionary Biology: Biodiversity in Pyrocene: Ecological Effects of Fire",
+		"professor": "Tingley, M.W.; Riley, S.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "297",
+		"title": "Selected Topics in Ecology and Evolutionary Biology: Critical Topics in Evolutionary Medicine: Grand Rounds",
+		"professor": "Blumstein, D.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "297",
+		"title": "Selected Topics in Ecology and Evolutionary Biology: Functional and Ecophysiological Approaches to Population and Community Ecology",
+		"professor": "Kremer, C.T.; Kraft, N.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "297",
+		"title": "Selected Topics in Ecology and Evolutionary Biology: Maladaptation and Phenotypic Plasticity: Meta-Analysis of Environmental Change Responses",
+		"professor": "Kremer, C.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EE BIOL",
+		"code": "297",
+		"title": "Selected Topics in Ecology and Evolutionary Biology: Seminar 1  ",
+		"professor": "Sack, L."
+	}
+]

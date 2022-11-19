@@ -1,0 +1,499 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "1",
+		"title": "Principles of Economics",
+		"professor": "Boswell, K.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "2",
+		"title": "Principles of Economics",
+		"professor": "Boswell, K.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "5",
+		"title": "Economics for Everyone",
+		"professor": "Osei Twumasi, O.I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "11",
+		"title": "Microeconomic Theory",
+		"professor": "Surro, C.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "19",
+		"title": "COVID-19: Missing Women",
+		"professor": "Lleras-Muney, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "19",
+		"title": "Introduction to Machine Learning with Python",
+		"professor": "Chetverikov, D.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "19",
+		"title": "Monetary and Financial Architectures",
+		"professor": "Bigio Luks, M.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "41",
+		"title": "Probability and Statistics for Economists",
+		"professor": "Chetverikov, D.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "101",
+		"title": "Microeconomic Theory",
+		"professor": "Santos Da Silveira"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "102",
+		"title": "Macroeconomic Theory",
+		"professor": "Bigio Luks, M.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "103",
+		"title": "Introduction to Econometrics",
+		"professor": "Ribeiro Antunes Pi"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "103L",
+		"title": "Econometrics Laboratory",
+		"professor": "Ribeiro Antunes Pi"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "104",
+		"title": "Data Science for Economists",
+		"professor": "Rojas, R.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "104L",
+		"title": "Data Science for Economists Laboratory",
+		"professor": "Rojas, R.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "106G",
+		"title": "Introduction to Game Theory",
+		"professor": "Sadzik, T.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "106GL",
+		"title": "Introduction to Game Theory Laboratory",
+		"professor": "Sadzik, T.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "106S",
+		"title": "Competitive Strategy",
+		"professor": "Board, S.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "106SL",
+		"title": "Competitive Strategy Laboratory",
+		"professor": "Board, S.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "106V",
+		"title": "Investments",
+		"professor": "Weill, P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "106VL",
+		"title": "Investments Laboratory",
+		"professor": "Weill, P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "107",
+		"title": "History of Economic Theory",
+		"professor": "Ozler, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "113",
+		"title": "Globalization and Gender",
+		"professor": "Ozler, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "122",
+		"title": "International Finance",
+		"professor": "Burstein, A.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "131",
+		"title": "Economics of Health and Healthcare",
+		"professor": "Hackmann, M.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "133",
+		"title": "Intergenerational Poverty in America",
+		"professor": "Lleras-Muney, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "143",
+		"title": "Advanced Econometrics",
+		"professor": "Matzkin, R.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "147",
+		"title": "Computational Finance and Data Analysis for Financial Engineering",
+		"professor": "Liao, Z."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "147L",
+		"title": "Computational Finance and Data Analysis for Financial Engineering Laboratory",
+		"professor": "Liao, Z."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "150",
+		"title": "Labor Economics",
+		"professor": "Shem-Tov, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "152",
+		"title": "Women, Men, and Economy",
+		"professor": "Bailey, M.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "160",
+		"title": "Money and Banking",
+		"professor": "Convery, P.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "173BX",
+		"title": "Introduction to Social Entrepreneurship",
+		"professor": "Atkeson, A.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "177",
+		"title": "Field Projects in Investing",
+		"professor": "Simon, W.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "185",
+		"title": "Career Development",
+		"professor": "Ross, S.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "187",
+		"title": "Upper-Division Research Seminar: Applications of Economic Theory: Seminar 2  ",
+		"professor": "Surro, C.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "187",
+		"title": "Upper-Division Research Seminar: Applications of Economic Theory: Seminar 3  ",
+		"professor": "Rojas, R.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Seminar 1  ",
+		"professor": "Santos Da Silveira"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Seminar 2  ",
+		"professor": "Shem-Tov, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "198B",
+		"title": "Honors Research in Economics II",
+		"professor": "McGarry, K.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "198B",
+		"title": "Honors Research in Economics II",
+		"professor": "Londono-Velez, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "198B",
+		"title": "Honors Research in Economics II",
+		"professor": "Costa, D.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "199A",
+		"title": "Directed Research in Economics",
+		"professor": "Rojas, R.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "199A",
+		"title": "Directed Research in Economics",
+		"professor": "Lu, J.Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "199A",
+		"title": "Directed Research in Economics",
+		"professor": "Costa, D.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "201C",
+		"title": "Microeconomics: Game Theory with Asymmetric Information and Applications",
+		"professor": "Board, S.A.; Magganas, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "202C",
+		"title": "Macroeconomics: Topics in Macroeconomics",
+		"professor": "Burstein, A.T.; Yang, S.; Itskhoki, O."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "203C",
+		"title": "Introduction to Econometrics III",
+		"professor": "Matzkin, R.L.; Zhang, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "M204A",
+		"title": "Applications of Economic Theory: California Population Research Topical Seminar Series",
+		"professor": "Brand, J.E.; Heuveline, P.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "204C",
+		"title": "Applications of Economic Theory: California Population Research Topical Seminar Series",
+		"professor": "Heuveline, P.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "M204N",
+		"title": "Seminar: Pharmaceutical Economics and Policy",
+		"professor": "Comanor, W.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "218C",
+		"title": "Proseminar: Economic Theory",
+		"professor": "Meyer-Ter-Vehn, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "219C",
+		"title": "Workshop: Economic Theory and Mathematical Economics",
+		"professor": "Meyer-Ter-Vehn, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "221C",
+		"title": "Monetary Economics III",
+		"professor": "Bigio Luks, M.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "228C",
+		"title": "Proseminar: Monetary Economics",
+		"professor": "Bigio Luks, M.S.; Weill, P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "229C",
+		"title": "Workshop: Monetary Economics",
+		"professor": "Baqaee, D.R.; Geerolf, F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "231C",
+		"title": "Advanced Econometrics III",
+		"professor": "Chetverikov, D.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "232M",
+		"title": "Topics in Econometrics: Lecture 1  ",
+		"professor": "Ribeiro Antunes Pi"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "238C",
+		"title": "Proseminar: Econometrics",
+		"professor": "Sheng, S.; Chetverikov, D.N.; Liao, Z."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "242",
+		"title": "Economic History of U.S.",
+		"professor": "Bailey, M.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "C246C",
+		"title": "Seminar: Economic History",
+		"professor": "Costa, D.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "248C",
+		"title": "Proseminar: Economic History",
+		"professor": "Giorcelli, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "262F",
+		"title": "Topics in Labor Economics: Public Sector Microeconomics",
+		"professor": "Santos Da Silveira"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "262P",
+		"title": "Topics in Labor Economics: Lecture 1  ",
+		"professor": "Lleras-Muney, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "268C",
+		"title": "Proseminar: Labor and Population",
+		"professor": "Ribeiro Antunes Pi"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "269C",
+		"title": "Workshop: Labor Economics",
+		"professor": "Ribeiro Antunes Pi"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "271C",
+		"title": "Mathematical Theory in Industrial Organization",
+		"professor": "Hackmann, M.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "272A",
+		"title": "Topics in Industrial Organization: Lecture 1  ",
+		"professor": "Rubens, M.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "278C",
+		"title": "Proseminar: Industrial Organization and Regulation",
+		"professor": "Hackmann, M.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "279C",
+		"title": "Workshop: Business Organization",
+		"professor": "Hackmann, M.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "C285C",
+		"title": "Seminar: International Economics",
+		"professor": "Vogel, J.E.; Burstein, A.T.; Itskhoki, O."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ECON",
+		"code": "288C",
+		"title": "Proseminar: International and Development Economics",
+		"professor": "Vogel, J.E.; Burstein, A.T.; Itskhoki, O."
+	}
+]

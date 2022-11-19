@@ -1,0 +1,44 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "AN N EA",
+		"code": "10W",
+		"title": "Jerusalem: Holy City",
+		"professor": "Koch, E.; Cooney, K.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "AN N EA",
+		"code": "15W",
+		"title": "Women and Power in Ancient World",
+		"professor": "Chen, H.; Cooney, K.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "AN N EA",
+		"code": "CM101B",
+		"title": "Art and Architecture of Ancient Egypt, New Kingdom to Greco-Roman Period",
+		"professor": "Ragheb, M.R.; Cooney, K.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "AN N EA",
+		"code": "M103A",
+		"title": "History of Ancient Egypt",
+		"professor": "Cooney, K.M.; Winnerman, J.P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "AN N EA",
+		"code": "M103B",
+		"title": "History of Ancient Egypt",
+		"professor": "Newman, J.P.; Cooney, K.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "AN N EA",
+		"code": "122",
+		"title": "Elementary Ancient Egyptian: Intensive",
+		"professor": "Brown, N.R.; Cooney, K.M."
+	}
+]

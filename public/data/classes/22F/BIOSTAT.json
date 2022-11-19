@@ -1,0 +1,79 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "BIOSTAT",
+		"code": "100A",
+		"title": "Introduction to Biostatistics",
+		"professor": "Lee, M.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "BIOSTAT",
+		"code": "200A",
+		"title": "Methods in Biostatistics A",
+		"professor": "Gjertson, D.W.; Williams, R.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "BIOSTAT",
+		"code": "201A",
+		"title": "Topics in Applied Regression",
+		"professor": "Belin, T.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "BIOSTAT",
+		"code": "202C",
+		"title": "Theory of Bayesian Statistics",
+		"professor": "Holbrook, A.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "BIOSTAT",
+		"code": "203A",
+		"title": "Introduction to Data Management and Statistical Computing",
+		"professor": "Kim, G.J.; Lai, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "BIOSTAT",
+		"code": "213",
+		"title": "Introduction to Computational Methods in Biostatistics",
+		"professor": "Ramirez, C.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "BIOSTAT",
+		"code": "216",
+		"title": "Mathematical Methods for Biostatistics",
+		"professor": "Zhou, H.; Ishimoto, K.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "BIOSTAT",
+		"code": "M235",
+		"title": "Causal Inference",
+		"professor": "Belin, T.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "BIOSTAT",
+		"code": "M238",
+		"title": "Methodology of Clinical Trials",
+		"professor": "Wong, W.; Cui, E.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "BIOSTAT",
+		"code": "250A",
+		"title": "Linear Statistical Models",
+		"professor": "Wong, W.; Landry, E.V."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "BIOSTAT",
+		"code": "255A",
+		"title": "Advanced Probability and Statistics",
+		"professor": "Banerjee, S."
+	}
+]

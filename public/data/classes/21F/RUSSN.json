@@ -1,0 +1,51 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "RUSSN",
+		"code": "1",
+		"title": "Elementary Russian",
+		"professor": "Shneyder, V."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "RUSSN",
+		"code": "100A",
+		"title": "Literacy in Russian",
+		"professor": "Kudyma, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "RUSSN",
+		"code": "101A",
+		"title": "Third-Year Russian",
+		"professor": "Kudyma, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "RUSSN",
+		"code": "102A",
+		"title": "Topics in Advanced/Superior Russian",
+		"professor": "Lenhoff, G.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "RUSSN",
+		"code": "107A",
+		"title": "Russian for Social and Cultural Studies",
+		"professor": "Furman, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "RUSSN",
+		"code": "M127",
+		"title": "Women in Russian Literature",
+		"professor": "Kresin, S.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "RUSSN",
+		"code": "128",
+		"title": "Russian Science Fiction",
+		"professor": "Pilshchikov, I."
+	}
+]

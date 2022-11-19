@@ -1,0 +1,58 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "CESC",
+		"code": "50XP",
+		"title": "Engaging Los Angeles",
+		"professor": "Staub, S.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CESC",
+		"code": "89HC",
+		"title": "Honors Contracts",
+		"professor": "Staub, S.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CESC",
+		"code": "95CE",
+		"title": "Introduction to Community-Based Internships",
+		"professor": "Barrera, D.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CESC",
+		"code": "98A",
+		"title": "Leadership and Social Change",
+		"professor": "Valenzuela, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CESC",
+		"code": "100XP",
+		"title": "Perspectives on Civic Engagement for Social Justice",
+		"professor": "Barrera, D.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CESC",
+		"code": "191AX",
+		"title": "Capstone Research Seminar",
+		"professor": "Maharramli, B.J.; Sundar, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CESC",
+		"code": "195CE",
+		"title": "Community and Corporate Internships in Community Engagement and Social Change",
+		"professor": "Lichtman, D.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CESC",
+		"code": "M195DC",
+		"title": "Quarter in Washington, DC, Internships",
+		"professor": "Williams, J.A.; Kretz, S.M."
+	}
+]

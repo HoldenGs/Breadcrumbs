@@ -1,0 +1,44 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "GREEK",
+		"code": "2",
+		"title": "Elementary Greek",
+		"professor": "Ellis, R.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GREEK",
+		"code": "8B",
+		"title": "Elementary Modern Greek",
+		"professor": "Petrou, E.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GREEK",
+		"code": "100",
+		"title": "Readings in Greek Prose and Poetry",
+		"professor": "Purves, A.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GREEK",
+		"code": "105",
+		"title": "Euripides",
+		"professor": "Haselswerdt, E.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GREEK",
+		"code": "110",
+		"title": "Study of Greek Prose",
+		"professor": "Kirkland, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GREEK",
+		"code": "224",
+		"title": "Post-Aristotelian Philosophy",
+		"professor": "Blank, D.L."
+	}
+]

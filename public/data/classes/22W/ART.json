@@ -1,0 +1,268 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "1A",
+		"title": "Drawing",
+		"professor": "Lowe, N.R.; Gao, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "1B",
+		"title": "Sculpture",
+		"professor": "Lupo, N.M.; Tizol Vivas, V.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "1B",
+		"title": "Sculpture",
+		"professor": "Sarno, J.; Strand, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "11A",
+		"title": "Painting",
+		"professor": "Morris, R.J.; Dam Ziska, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "11B",
+		"title": "Photography",
+		"professor": "Mosher, C.M.; Baden, S.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "11D",
+		"title": "New Genres",
+		"professor": "Ruperto, M.F.; Amezquita Guzman,"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "11E",
+		"title": "Ceramics",
+		"professor": "Santana, T.L.; Kerr, A.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "21B",
+		"title": "Production: Moving Image and Sound",
+		"professor": "Garnett, M.J.; Agredano, C.O."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "31B",
+		"title": "Global Modernism",
+		"professor": "Vikram, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "130",
+		"title": "Advanced Drawing",
+		"professor": "Weissman, B.; Rivas, J.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "132",
+		"title": "Survey of Critical Thought: Readings on Art, Capture, and Freedom Practices",
+		"professor": "Schum, M.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "133",
+		"title": "Advanced Painting",
+		"professor": "Wedgeworth, L.D.; Maestu, Z.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "133A",
+		"title": "Advanced Painting: Topics in Anti-Racism, Equity, Diversity, and Inclusion: Expanding and Critiquing Canon: Gender, Sexuality, and Race in Painting",
+		"professor": "Wickman, P.A.; Green, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "137A",
+		"title": "Advanced New Genre: Topics in Anti-Racism, Equity, Diversity, and Inclusion: Anti-Oppression Methodologies in New Genres",
+		"professor": "Jugdeo, V.; Aparicio, S.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "140",
+		"title": "Advanced Printmaking",
+		"professor": "Samuel, J.M.; Feliz, C.; Iveson, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "145",
+		"title": "Advanced Sculpture",
+		"professor": "McMillian, R.T.; Marder, Z."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "147",
+		"title": "Advanced Photography",
+		"professor": "Valenzuela, R.A.; Azim, Z."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "148",
+		"title": "Advanced Ceramics: Studio 1  ",
+		"professor": "Morgin, K.L.; Pirouzmand, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "150",
+		"title": "Senior Studio",
+		"professor": "Bolande, J.; Velez, C.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "190",
+		"title": "Studio/Research Colloquia in Art",
+		"professor": "Dam Ziska, J.; Morris, R.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "197",
+		"title": "Individual Studies in Art",
+		"professor": "Wickman, P.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "197",
+		"title": "Individual Studies in Art",
+		"professor": "Bolande, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "271",
+		"title": "Graduate Painting",
+		"professor": "Wickman, P.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "271",
+		"title": "Graduate Painting",
+		"professor": "English, D.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "271",
+		"title": "Graduate Painting",
+		"professor": "Katz, A.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "273",
+		"title": "Graduate Sculpture",
+		"professor": "Perlman, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "273",
+		"title": "Graduate Sculpture",
+		"professor": "McMillian, R.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "274",
+		"title": "Graduate Photography",
+		"professor": "Opie, C.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "274",
+		"title": "Graduate Photography",
+		"professor": "Valenzuela, R.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "275",
+		"title": "Graduate New Genres",
+		"professor": "Bolande, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "275",
+		"title": "Graduate New Genres",
+		"professor": "Jugdeo, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "276",
+		"title": "Graduate Group Critique",
+		"professor": "Morris, R.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "277",
+		"title": "Graduate Ceramics",
+		"professor": "Sew Hoy, A.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "277",
+		"title": "Graduate Ceramics",
+		"professor": "Lin, C.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "278",
+		"title": "Interdisciplinary Studio",
+		"professor": "Fraser, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "279",
+		"title": "Open Area Studio",
+		"professor": "Woods, S.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "279",
+		"title": "Open Area Studio",
+		"professor": "Arakawa, E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ART",
+		"code": "C280",
+		"title": "Seminar: Art: Text and Speed",
+		"professor": "Kahn, S."
+	}
+]

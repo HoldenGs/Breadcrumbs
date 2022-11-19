@@ -1,0 +1,653 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "10",
+		"title": "Medical Microbiology for Nursing Students",
+		"professor": "Ali Pour, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "101",
+		"title": "Introductory Microbiology",
+		"professor": "Ali Pour, P.; Bradley, P.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "102",
+		"title": "Introductory Virology",
+		"professor": "Fregoso, O.I.; Li, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "103AL",
+		"title": "Research Immersion Laboratory in Virology",
+		"professor": "Freise, A.C.; Garcia Vedrenne, A"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "103BL",
+		"title": "Advanced Research Analysis in Virology",
+		"professor": "Freise, A.C.; Garcia Vedrenne, A; Kasemsunt, F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "103BL",
+		"title": "Advanced Research Analysis in Virology",
+		"professor": "Freise, A.C.; Garcia Vedrenne, A; Zorawik, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "CM156",
+		"title": "Human Genetics and Genomics",
+		"professor": "Reue, K.; Cohn, D.H.; Lusis, A.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "158",
+		"title": "Microbial Genomics",
+		"professor": "Miller, J.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "180A",
+		"title": "Scientific Analysis and Communication I",
+		"professor": "Hallem, E.A.; Wen, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "C185A",
+		"title": "Immunology",
+		"professor": "Yang, L.; O'Sullivan, T.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "191H",
+		"title": "Honors Research Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Miller, J.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "192",
+		"title": "Undergraduate Practicum in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Freise, A.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "192",
+		"title": "Undergraduate Practicum in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Miller, J.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Hallem, E.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Bradley, K.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Bradley, P.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Black, D.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Bonavida, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Campbell, D.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Cheng, G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Dasgupta, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Kohn, D.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Hill, K.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Johnson, P.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Lazazzera, B.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Lee, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Lusis, A.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Martinez, O.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Miceli, M.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Miller, J.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Miller, J.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Modlin, R.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Morrison, S.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Shi, W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Moberg Parker, J.P"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Smale, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Tamanoi, F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Wall, T.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Witte, O.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Zack, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Uittenbogaart, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Schroeder, I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Zhou, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Berk, A.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Pyle, A.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Waschek, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Horwitz, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "196A",
+		"title": "Research Apprenticeship I in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Ton-That, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "196A",
+		"title": "Research Apprenticeship I in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Johnson, T.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "196A",
+		"title": "Research Apprenticeship I in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Kitchen, S.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "196A",
+		"title": "Research Apprenticeship I in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "O'Sullivan, T.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "196A",
+		"title": "Research Apprenticeship I in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Abramson, J.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "196A",
+		"title": "Research Apprenticeship I in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Kohn, D.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "196A",
+		"title": "Research Apprenticeship I in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Arumugaswami, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "196A",
+		"title": "Research Apprenticeship I in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Yang, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "196A",
+		"title": "Research Apprenticeship I in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Bradley, P.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "196A",
+		"title": "Research Apprenticeship I in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Nathanson, D.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "196A",
+		"title": "Research Apprenticeship I in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Su, M.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "196A",
+		"title": "Research Apprenticeship I in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Bensinger, S.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "198A",
+		"title": "Honors Research in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Yang, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "198C",
+		"title": "Honors Research in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Fregoso, O.I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "198C",
+		"title": "Honors Research in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Su, M.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "198C",
+		"title": "Honors Research in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Miller, J.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "198C",
+		"title": "Honors Research in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Penichet, M.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "262B",
+		"title": "Seminar: Current Topics in Immunobiology of Cancer",
+		"professor": "Bonavida, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "296",
+		"title": "Seminar: Research Topics in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Berk, A.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "296",
+		"title": "Seminar: Research Topics in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Black, D.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "296",
+		"title": "Seminar: Research Topics in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Bradley, K.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "296",
+		"title": "Seminar: Research Topics in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Bradley, P.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "296",
+		"title": "Seminar: Research Topics in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Cheng, G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "296",
+		"title": "Seminar: Research Topics in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Gunsalus, R.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "296",
+		"title": "Seminar: Research Topics in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Hallem, E.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "296",
+		"title": "Seminar: Research Topics in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Hill, K.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "296",
+		"title": "Seminar: Research Topics in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Johnson, P.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "296",
+		"title": "Seminar: Research Topics in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Lazazzera, B.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "296",
+		"title": "Seminar: Research Topics in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Lusis, A.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "296",
+		"title": "Seminar: Research Topics in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Martinez, O.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "296",
+		"title": "Seminar: Research Topics in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Miceli, M.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "296",
+		"title": "Seminar: Research Topics in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Miller, J.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "296",
+		"title": "Seminar: Research Topics in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Miller, J.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "296",
+		"title": "Seminar: Research Topics in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Modlin, R.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "296",
+		"title": "Seminar: Research Topics in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Pyle, A.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "296",
+		"title": "Seminar: Research Topics in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Shi, W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "296",
+		"title": "Seminar: Research Topics in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Smale, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "296",
+		"title": "Seminar: Research Topics in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Tamanoi, F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "296",
+		"title": "Seminar: Research Topics in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Kohn, D.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "296",
+		"title": "Seminar: Research Topics in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Witte, O.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "296",
+		"title": "Seminar: Research Topics in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Xing, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "296",
+		"title": "Seminar: Research Topics in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Yang, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "296",
+		"title": "Seminar: Research Topics in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Yang, O.O."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "296",
+		"title": "Seminar: Research Topics in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Zack, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "296",
+		"title": "Seminar: Research Topics in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Zhou, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIMG",
+		"code": "296",
+		"title": "Seminar: Research Topics in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Hoffmann, A."
+	}
+]

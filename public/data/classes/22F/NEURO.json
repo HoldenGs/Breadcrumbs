@@ -1,0 +1,93 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "NEURO",
+		"code": "M202",
+		"title": "Cellular Neurophysiology",
+		"professor": "O'Dell, T.J.; Olcese, R.; Khakh, B.S.; Sampath, A.P.; de Biase, L.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "NEURO",
+		"code": "210A",
+		"title": "Introduction to Current Literature in Neuroscience",
+		"professor": "Wilke, L.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Current Research Topics in Neuroimaging",
+		"professor": "Rissman, J.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Neural Development, Degeneration, and Repair",
+		"professor": "Novitch, B.G.; Zhang, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Neuroendocrinology, Sex Differences, and Reproduction",
+		"professor": "Micevych, P.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Neuroscience Communication and Policy",
+		"professor": "Suthana, N.A.; Markovic, D.; Wassum, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: NeuroTechnology Translation",
+		"professor": "Suthana, N.A.; Markovic, D.; Lu, D.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Synapse to Circuit",
+		"professor": "Hong, W.; Donlea, J.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Translational Neuroscience of Drug Abuse",
+		"professor": "Ray, L.A.; Wassum, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Visual Neurosciences",
+		"professor": "Sampath, A.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "NEURO",
+		"code": "CM223",
+		"title": "Neurobiology of Sleep",
+		"professor": "Paul, K.N.; Poe, G.R.; Colwell, C.S.; O'Hora, K.P.; Chiem, E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "NEURO",
+		"code": "M248",
+		"title": "Brain and Behavioral Development during Adolescence",
+		"professor": "Fuligni, A.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "NEURO",
+		"code": "265",
+		"title": "Essentials of Neuro-Oncology",
+		"professor": "Ellingson, B.M."
+	}
+]

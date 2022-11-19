@@ -1,0 +1,51 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "ARMENIA",
+		"code": "101A",
+		"title": "Elementary Modern Western Armenian",
+		"professor": "Kouloujian, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARMENIA",
+		"code": "102A",
+		"title": "Intermediate Modern Western Armenian",
+		"professor": "Kouloujian, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARMENIA",
+		"code": "104A",
+		"title": "Elementary Modern Eastern Armenian",
+		"professor": "Hovhannisyan, T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARMENIA",
+		"code": "105A",
+		"title": "Intermediate Modern Eastern Armenian",
+		"professor": "Hovhannisyan, T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARMENIA",
+		"code": "M134",
+		"title": "Introduction to Armenian Music",
+		"professor": "Presti, K.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARMENIA",
+		"code": "C152",
+		"title": "Modern Armenian Drama as Vehicle for Social Critique",
+		"professor": "Cowe, P.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARMENIA",
+		"code": "231A",
+		"title": "Intermediate Classical Armenian",
+		"professor": "Cowe, P.S."
+	}
+]

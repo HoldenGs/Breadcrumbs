@@ -1,0 +1,310 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "11L",
+		"title": "Circuits Laboratory I",
+		"professor": "Darabi, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "M16",
+		"title": "Logic Design of Digital Systems",
+		"professor": "Korf, R.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "M16",
+		"title": "Logic Design of Digital Systems",
+		"professor": "Abari, O."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "110L",
+		"title": "Circuit Measurements Laboratory",
+		"professor": "Mesghali, F.; Ding, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "112",
+		"title": "Introduction to Power Systems",
+		"professor": "Habibi Ashrafi, F.; Castaneda, J.J.; Agarwal, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "113DA",
+		"title": "Digital Signal Processing Design",
+		"professor": "Briggs, D.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "M116L",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Wallin, J.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "M116L",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Albarran, T.D.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "M116L",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Zhang, W.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "M116L",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Zhang, F.Z.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "M116L",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Li, H.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "M116L",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Lee, S.J.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "M119",
+		"title": "Fundamentals of Embedded Networked Systems",
+		"professor": "Chen, X."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "131A",
+		"title": "Probability and Statistics",
+		"professor": "Dolecek, L.; Mitra, D.; Tauz, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "134",
+		"title": "Graph Theory in Engineering",
+		"professor": "Fragouli, C.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "M146",
+		"title": "Introduction to Machine Learning",
+		"professor": "Chang, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "M148",
+		"title": "Introduction to Data Science",
+		"professor": "Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "M153",
+		"title": "Introduction to Microscale and Nanoscale Manufacturing",
+		"professor": "Chiou, P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "163A",
+		"title": "Introductory Microwave Circuits",
+		"professor": "Babakhani, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "170A",
+		"title": "Principles of Photonics",
+		"professor": "Wong, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "180DA",
+		"title": "Systems Design",
+		"professor": "Shoarinejad, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "M185",
+		"title": "Introduction to Plasma Electronics",
+		"professor": "Mori, W.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "188",
+		"title": "Special Courses in Electrical Engineering: Introduction to Computer Vision",
+		"professor": "Kadambi, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "188SA",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Villasenor, J.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Advanced Honors Seminar for Electrical and Computer Engineering 102",
+		"professor": "Kao, J.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Advanced Honors Seminar for Electrical and Computer Engineering M116C",
+		"professor": "Sehatbakhsh, N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Seminar 2  ",
+		"professor": "Chen, X."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "194",
+		"title": "Research Group Seminars: Electrical Engineering",
+		"professor": "Ozcan, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "M202A",
+		"title": "Embedded Systems",
+		"professor": "Srivastava, M.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "209AS",
+		"title": "Special Topics in Circuits and Embedded Systems: Artificial Intelligence on Chip",
+		"professor": "He, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "209BS",
+		"title": "Seminar: Circuits and Embedded Systems: Seminar 1  ",
+		"professor": "Gupta, P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "212A",
+		"title": "Theory and Design of Digital Filters",
+		"professor": "Pamarti, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "215A",
+		"title": "Analog Integrated Circuit Design",
+		"professor": "Abidi, A.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "M216A",
+		"title": "Design of VLSI Circuits and Systems",
+		"professor": "Markovic, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "M216A",
+		"title": "Design of VLSI Circuits and Systems",
+		"professor": "Markovic, D.; Yu, W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "231A",
+		"title": "Information Theory",
+		"professor": "Diggavi, S.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "231A",
+		"title": "Information Theory",
+		"professor": "Diggavi, S.N.; Bebawy, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "M240A",
+		"title": "Linear Dynamic Systems",
+		"professor": "Tabuada, P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "M257",
+		"title": "Nanoscience and Technology",
+		"professor": "Chen, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "262",
+		"title": "Antenna Theory and Design",
+		"professor": "Wang, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "270",
+		"title": "Applied Quantum Mechanics",
+		"professor": "Williams, B.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "295",
+		"title": "Academic Technical Writing for Electrical Engineers",
+		"professor": "Watson, D.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "297",
+		"title": "Seminar Series: Electrical Engineering: Seminar 1  ",
+		"professor": "Yang, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EC ENGR",
+		"code": "297",
+		"title": "Seminar Series: Electrical Engineering: Seminar 2  ",
+		"professor": "Yang, L."
+	}
+]

@@ -1,0 +1,457 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "1",
+		"title": "Elementary Spanish",
+		"professor": "Galindo Rodrigues; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "2",
+		"title": "Elementary Spanish",
+		"professor": "Najera, M.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "2",
+		"title": "Elementary Spanish",
+		"professor": "Rama Luna, A.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "2",
+		"title": "Elementary Spanish",
+		"professor": "Mora Laciana, C.A.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "2",
+		"title": "Elementary Spanish",
+		"professor": "Nafarrate Errasti,; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "2",
+		"title": "Elementary Spanish",
+		"professor": "Vazquez, C.G.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "2",
+		"title": "Elementary Spanish",
+		"professor": "Manuel-Oronich, R.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "2",
+		"title": "Elementary Spanish",
+		"professor": "Cuevas-Collante, P; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "2",
+		"title": "Elementary Spanish",
+		"professor": "Kim, J.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "2",
+		"title": "Elementary Spanish",
+		"professor": "Blas Blas, C.E.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "3",
+		"title": "Elementary Spanish",
+		"professor": "Jaramillo, S.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "3",
+		"title": "Elementary Spanish",
+		"professor": "Carter, J.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "3",
+		"title": "Elementary Spanish",
+		"professor": "Manuel-Oronich, R.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "3",
+		"title": "Elementary Spanish",
+		"professor": "Colon Cosme, R.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "3",
+		"title": "Elementary Spanish",
+		"professor": "Hood, M.A.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "3",
+		"title": "Elementary Spanish",
+		"professor": "Arciniega, E.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "3",
+		"title": "Elementary Spanish",
+		"professor": "Gomez Lacabex, C.N; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "3",
+		"title": "Elementary Spanish",
+		"professor": "Galleres, J.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "3",
+		"title": "Elementary Spanish",
+		"professor": "Thomas, P.A.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "4",
+		"title": "Intermediate Spanish",
+		"professor": "Gimenez, I.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "5",
+		"title": "Intermediate Spanish",
+		"professor": "Dunlap, M.R.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "5",
+		"title": "Intermediate Spanish",
+		"professor": "Mauffray, E.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "5",
+		"title": "Intermediate Spanish",
+		"professor": "Galindo Benitez, J; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "7A",
+		"title": "Introductory Spanish for Heritage Speakers",
+		"professor": "Soley Mateu, A.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "7A",
+		"title": "Introductory Spanish for Heritage Speakers",
+		"professor": "HernáNdez, Y.Y.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "7B",
+		"title": "Intermediate Spanish for Heritage Speakers",
+		"professor": "Morales, E.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "11A",
+		"title": "Catalan Language and Culture I",
+		"professor": "Manuel-Oronich, R.; Dagenais, J.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "12B",
+		"title": "Basque Language and Culture II",
+		"professor": "Nafarrate Errasti,; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "25",
+		"title": "Advanced Spanish Composition",
+		"professor": "Diaz, E.K.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "25",
+		"title": "Advanced Spanish Composition",
+		"professor": "Silveyra, J.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "25",
+		"title": "Advanced Spanish Composition",
+		"professor": "Guerrero, A.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "27",
+		"title": "Advanced Spanish Composition for Heritage Speakers",
+		"professor": "Barrios, G.P.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "27",
+		"title": "Advanced Spanish Composition for Heritage Speakers",
+		"professor": "Guerrero, A.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "98T",
+		"title": "Political Violence in Comics: Truth, Testimony, and Justice",
+		"professor": "Claudio, E.; de Zubiaurre, M.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "100B",
+		"title": "Introduction to Study of Spanish Grammar: Syntax",
+		"professor": "Mateu, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "119",
+		"title": "Introduction to Literary Analysis",
+		"professor": "Calderon, H.V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "119",
+		"title": "Introduction to Literary Analysis",
+		"professor": "Rodriguez, J.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "120",
+		"title": "Literature in Historical Context",
+		"professor": "Van Delden, M.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "135",
+		"title": "Topics in Early Modern Studies: Conquest and Colonization of Latin America: Character Types and Literary Representations",
+		"professor": "Rodriguez, J.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "140",
+		"title": "Topics in Modern Studies: 19th- and Early 20th-Century Spanish Literature",
+		"professor": "Najera, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "140",
+		"title": "Topics in Modern Studies: Subversive and Denatured: Latin American Women Writers in 19th Century",
+		"professor": "Espinal, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "150",
+		"title": "Topics in Contemporary Studies: Chilean Women, Class, and Politics",
+		"professor": "Thomas, P.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "150",
+		"title": "Topics in Contemporary Studies: Latin American Short Story",
+		"professor": "Cortinez, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "150",
+		"title": "Topics in Contemporary Studies: Lost Voices of Andean Indigenous Feminism",
+		"professor": "de La Torre, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "M155A",
+		"title": "Chicano Narrative",
+		"professor": "Bermudez Castro, C"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "M165XP",
+		"title": "Taking It to Street: Spanish in Community",
+		"professor": "Suhr, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "170",
+		"title": "Topics in Interdisciplinary and Transhistorical Studies: Lecture 2  ",
+		"professor": "Bergero, A.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "170",
+		"title": "Topics in Interdisciplinary and Transhistorical Studies: Photography and Storytelling in Latin America",
+		"professor": "Marturano, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "M172XP",
+		"title": "Latinos, Linguistics, and Literacy",
+		"professor": "Suhr, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "M180",
+		"title": "Variable Topics in Visual Culture: Cinema, Politics, and Aesthetics: Case of Sergio Castilla",
+		"professor": "Cortinez, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "M180",
+		"title": "Variable Topics in Visual Culture: Visual Dystopias: Optical Technologies in Spanish American Culture",
+		"professor": "Tobin, S.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Kim, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "191C",
+		"title": "Senior Capstone Seminar",
+		"professor": "Cohen, G.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "195",
+		"title": "Community Internships in Spanish",
+		"professor": "Suhr, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "197",
+		"title": "Individual Studies in Spanish",
+		"professor": "Mateu, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "198A",
+		"title": "Senior Honors Research in Spanish I",
+		"professor": "Kim, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "198A",
+		"title": "Senior Honors Research in Spanish I",
+		"professor": "Arroyo Calderon, P"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "198A",
+		"title": "Senior Honors Research in Spanish I",
+		"professor": "Suhr, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "241A",
+		"title": "Contemporary Spanish-American Short Story",
+		"professor": "Marturano, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "M247",
+		"title": "Chicano Literature",
+		"professor": "Calderon, H.V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "256A",
+		"title": "Studies in Spanish Linguistics",
+		"professor": "Kim, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "256B",
+		"title": "Studies in Spanish Linguistics",
+		"professor": "Mateu, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "280A",
+		"title": "Studies in Contemporary Spanish-American Literature: Discussion 1  ",
+		"professor": "Bergero, A.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "M280B",
+		"title": "Studies in Contemporary Spanish-American Literature",
+		"professor": "Kristal, E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SPAN",
+		"code": "296",
+		"title": "Graduate Research Group",
+		"professor": "Fuchs, B."
+	}
+]

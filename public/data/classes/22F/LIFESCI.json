@@ -1,0 +1,184 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "LIFESCI",
+		"code": "7A",
+		"title": "Cell and Molecular Biology",
+		"professor": "Pires, D.B.; McEvoy, M.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LIFESCI",
+		"code": "7A",
+		"title": "Cell and Molecular Biology",
+		"professor": "Maloy, J.P.; Braybrook, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LIFESCI",
+		"code": "7A",
+		"title": "Cell and Molecular Biology",
+		"professor": "Pires, D.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LIFESCI",
+		"code": "7A",
+		"title": "Cell and Molecular Biology",
+		"professor": "Khankan, R.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LIFESCI",
+		"code": "7A",
+		"title": "Cell and Molecular Biology",
+		"professor": "Pham, H.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LIFESCI",
+		"code": "7B",
+		"title": "Genetics, Evolution, and Ecology",
+		"professor": "Phelan, J.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LIFESCI",
+		"code": "7B",
+		"title": "Genetics, Evolution, and Ecology",
+		"professor": "Marcot, J.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LIFESCI",
+		"code": "7C",
+		"title": "Physiology and Human Biology",
+		"professor": "Esdin, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LIFESCI",
+		"code": "7C",
+		"title": "Physiology and Human Biology",
+		"professor": "Khankan, R.R.; Hsiao, E.Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LIFESCI",
+		"code": "15",
+		"title": "Life: Concepts and Issues",
+		"professor": "Phelan, J.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LIFESCI",
+		"code": "19",
+		"title": "Social Dilemmas",
+		"professor": "Khankan, R.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LIFESCI",
+		"code": "23L",
+		"title": "Introduction to Laboratory and Scientific Methodology",
+		"professor": "Pfluegl, G.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LIFESCI",
+		"code": "30A",
+		"title": "Mathematics for Life Scientists",
+		"professor": "Bennoun, S.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LIFESCI",
+		"code": "30A",
+		"title": "Mathematics for Life Scientists",
+		"professor": "Shevtsov, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LIFESCI",
+		"code": "30B",
+		"title": "Mathematics for Life Scientists",
+		"professor": "Keranen, J.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LIFESCI",
+		"code": "98XA",
+		"title": "PEERS Collaborative Learning Workshops for Life Sciences Majors",
+		"professor": "Tamura, H.M.; Hasson, T.W.; Razinia, Z."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LIFESCI",
+		"code": "98XA",
+		"title": "PEERS Collaborative Learning Workshops for Life Sciences Majors",
+		"professor": "Xu, A.; Hasson, T.W.; Razinia, Z."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LIFESCI",
+		"code": "98XA",
+		"title": "PEERS Collaborative Learning Workshops for Life Sciences Majors",
+		"professor": "Hatoya, R.; Hasson, T.W.; Razinia, Z."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LIFESCI",
+		"code": "98XA",
+		"title": "PEERS Collaborative Learning Workshops for Life Sciences Majors",
+		"professor": "Wang, W.; Hasson, T.W.; Razinia, Z."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LIFESCI",
+		"code": "107",
+		"title": "Genetics",
+		"professor": "Pham, H.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LIFESCI",
+		"code": "110",
+		"title": "Career Exploration in Life Sciences",
+		"professor": "Kennison, R.L.; Levenson, A.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LIFESCI",
+		"code": "M192A",
+		"title": "Introduction to Collaborative Learning Theory and Practice",
+		"professor": "Shaked, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LIFESCI",
+		"code": "192B",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Shaked, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LIFESCI",
+		"code": "192C",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Shaked, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LIFESCI",
+		"code": "192D",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Shaked, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LIFESCI",
+		"code": "192E",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Shaked, S."
+	}
+]

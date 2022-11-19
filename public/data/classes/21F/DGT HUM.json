@@ -1,0 +1,58 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "DGT HUM",
+		"code": "101",
+		"title": "Introduction to Digital Humanities",
+		"professor": "Sanders, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DGT HUM",
+		"code": "110",
+		"title": "User Experience and Design",
+		"professor": "Cho, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DGT HUM",
+		"code": "125",
+		"title": "Data Analysis for Social and Cultural Research",
+		"professor": "Sanders, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DGT HUM",
+		"code": "131",
+		"title": "Digital Mapping and Critical Geographic Information Systems",
+		"professor": "Kurtz, W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DGT HUM",
+		"code": "150",
+		"title": "Advanced Topics in Digital Humanities: Digital Storytelling",
+		"professor": "Kurtz, W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DGT HUM",
+		"code": "195",
+		"title": "Community or Corporate Internships in Digital Humanities",
+		"professor": "Sanders, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DGT HUM",
+		"code": "250",
+		"title": "Special Topics in Digital Humanities: Seminar 1  ",
+		"professor": "Kurtz, W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DGT HUM",
+		"code": "250",
+		"title": "Special Topics in Digital Humanities: Seminar 2  ",
+		"professor": "Kurtz, W."
+	}
+]

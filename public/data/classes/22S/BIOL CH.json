@@ -1,0 +1,65 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOL CH",
+		"code": "201B",
+		"title": "Biological Chemistry",
+		"professor": "Howard, B.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOL CH",
+		"code": "220C",
+		"title": "Research Laboratory Rotations",
+		"professor": "Payne, G.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOL CH",
+		"code": "M229S",
+		"title": "Seminar: Current Topics in Bioinformatics: Seminar 1  ",
+		"professor": "Wang, W."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOL CH",
+		"code": "248",
+		"title": "Tumor Cell Biology",
+		"professor": "Teitell, M.A.; Colicelli, J.J.; Rao, D.S.; Crooks, G.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOL CH",
+		"code": "251C",
+		"title": "Seminar: Transcriptional Regulation",
+		"professor": "Kurdistani, S.K.; Carey, M.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOL CH",
+		"code": "M255",
+		"title": "Mitochondria in Medicine, Biology, and Chemistry",
+		"professor": "Clarke, C.F.; Koehler, C.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOL CH",
+		"code": "M259",
+		"title": "Mechanisms of Gene Regulation",
+		"professor": "Courey, A.J.; Chanfreau, G.; Carey, M.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOL CH",
+		"code": "266C",
+		"title": "Seminar: Cell, Stem Cell, and Developmental Biology",
+		"professor": "Sagasti, A.; de Robertis, E.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOL CH",
+		"code": "296",
+		"title": "Research Seminar Series in Biological Chemistry",
+		"professor": "Frand, A.R.; Plath, K."
+	}
+]

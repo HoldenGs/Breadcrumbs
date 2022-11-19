@@ -1,0 +1,37 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "SEASIAN",
+		"code": "M20",
+		"title": "Visible Language: Study of Writing",
+		"professor": "Konstantopoulos, G"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "SEASIAN",
+		"code": "50",
+		"title": "Southeast Asian Societies and Cultures",
+		"professor": "Paredes, O."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "SEASIAN",
+		"code": "C150",
+		"title": "Indigenous Peoples of Southeast Asia",
+		"professor": "Paredes, O."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "SEASIAN",
+		"code": "197",
+		"title": "Individual Studies in Southeast Asian",
+		"professor": "Mahajan, G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "SEASIAN",
+		"code": "C250",
+		"title": "Indigenous Peoples of Southeast Asia",
+		"professor": "Paredes, O."
+	}
+]

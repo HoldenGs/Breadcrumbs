@@ -1,0 +1,65 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "ARABIC",
+		"code": "1B",
+		"title": "Elementary Standard Arabic",
+		"professor": "Gluskin-Braun, G.Z; Al Rifae, K.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ARABIC",
+		"code": "1B",
+		"title": "Elementary Standard Arabic",
+		"professor": "Al Rifae, K.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ARABIC",
+		"code": "102B",
+		"title": "Intermediate Standard Arabic",
+		"professor": "Hamza, A.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ARABIC",
+		"code": "102B",
+		"title": "Intermediate Standard Arabic",
+		"professor": "MacDonald, R.S.; Hamza, A.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ARABIC",
+		"code": "103B",
+		"title": "Advanced Arabic",
+		"professor": "Hamza, A.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ARABIC",
+		"code": "111B",
+		"title": "Elementary Spoken Egyptian Arabic",
+		"professor": "Hamza, A.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ARABIC",
+		"code": "142",
+		"title": "Arabic Media",
+		"professor": "Cooperson, M.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ARABIC",
+		"code": "150",
+		"title": "Classical Arabic Literature in English",
+		"professor": "Cooperson, M.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ARABIC",
+		"code": "220",
+		"title": "Seminar: Islamic Texts",
+		"professor": "Sayeed, A."
+	}
+]

@@ -1,0 +1,310 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "10",
+		"title": "Introduction to Communication",
+		"professor": "Suman, M.W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "M72A",
+		"title": "Sex from Biology to Gendered Society",
+		"professor": "Stroessner, S.J.; TA"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "89",
+		"title": "Honors Seminars: Honors Seminar for Communication 10",
+		"professor": "Suman, M.W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "89HC",
+		"title": "Honors Contracts",
+		"professor": "Arbabzadah, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "101",
+		"title": "Freedom of Communication",
+		"professor": "Kassabian, R.; Danciu, A.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "110",
+		"title": "Gender and Communication",
+		"professor": "Kicenski, K.K.; Peng, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "121",
+		"title": "Communication Development",
+		"professor": "Warlaumont, A.S.; Bainbridge, C.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "146",
+		"title": "Evolution of Mass Media Images",
+		"professor": "Huppin, M.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "M147",
+		"title": "Sociology of Mass Communication",
+		"professor": "Yeritsian, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "150",
+		"title": "Methodologies in Communication Research",
+		"professor": "Peterson, S.M.; Jiang, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "151",
+		"title": "Computer-Mediated Communication",
+		"professor": "Groeling, T.J.; Akcakir, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "152",
+		"title": "Analysis of Communication Effects",
+		"professor": "Hu, B.; Suman, M.W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "160",
+		"title": "Political Communication",
+		"professor": "Groeling, T.J.; Pomerantz, B.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "163",
+		"title": "Public Diplomacy",
+		"professor": "Sanders, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "M165",
+		"title": "Agitational Communication",
+		"professor": "Von Blum, P.; Junaidean, R.; Munguia Rodriguez,"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "168",
+		"title": "Communication and Media Law",
+		"professor": "Biagioli, M.; Raucci, P.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "173",
+		"title": "Affect and Emotion in Political Communication",
+		"professor": "Soroka, S.N.; Luo, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "174",
+		"title": "Entertainment and Politics",
+		"professor": "Soroka, S.N.; Carbone, M.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "185",
+		"title": "Field Studies in Communication",
+		"professor": "Peterson, S.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "187",
+		"title": "Ethical and Policy Issues in Institutions of Mass Communication",
+		"professor": "Newton, J.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "188A",
+		"title": "Variable Topics in Mass Communication and Media Institutions: Communicating with Brands",
+		"professor": "Biagioli, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "188A",
+		"title": "Variable Topics in Mass Communication and Media Institutions: Rumors, Gossip, and Urban Legends",
+		"professor": "Arbabzadah, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "188C",
+		"title": "Variable Topics in Communication Technology and Digital Systems: Artificial Intelligence and Society",
+		"professor": "Gao, T.; Miao, Q."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "188SA",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Groeling, T.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Advanced Honors Seminar for Communication 160",
+		"professor": "Groeling, T.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Biagioli, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Soroka, S.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "198A",
+		"title": "Honors Research in Communication Studies",
+		"professor": "Peterson, S.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "198A",
+		"title": "Honors Research in Communication Studies",
+		"professor": "Warlaumont, A.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "200",
+		"title": "Theories in Communication Science",
+		"professor": "Bryant, G.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "210",
+		"title": "Communication Speaker Series",
+		"professor": "Johnson, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "215",
+		"title": "Communication Research Laboratory",
+		"professor": "Bryant, G.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "215",
+		"title": "Communication Research Laboratory",
+		"professor": "Joo, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "215",
+		"title": "Communication Research Laboratory",
+		"professor": "Haselton, M.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "215",
+		"title": "Communication Research Laboratory",
+		"professor": "Lamberson, P.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "215",
+		"title": "Communication Research Laboratory",
+		"professor": "Soroka, S.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "215",
+		"title": "Communication Research Laboratory",
+		"professor": "Stroessner, S.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "215",
+		"title": "Communication Research Laboratory",
+		"professor": "Warlaumont, A.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "215",
+		"title": "Communication Research Laboratory",
+		"professor": "Steen, F.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "215",
+		"title": "Communication Research Laboratory",
+		"professor": "Kernell, G.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "215",
+		"title": "Communication Research Laboratory",
+		"professor": "Groeling, T.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "215",
+		"title": "Communication Research Laboratory",
+		"professor": "Johnson, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "215",
+		"title": "Communication Research Laboratory",
+		"professor": "Dale, R.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMM",
+		"code": "220",
+		"title": "Research Methods in Communication Science",
+		"professor": "Dale, R.A."
+	}
+]

@@ -1,0 +1,618 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "4HW",
+		"title": "Critical Reading and Writing (Honors)",
+		"professor": "Swanson, M.C.; Goyal, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "4W",
+		"title": "Critical Reading and Writing",
+		"professor": "Prucha, N.A.; Goyal, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "4W",
+		"title": "Critical Reading and Writing",
+		"professor": "Moscati, E.; Goyal, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "4W",
+		"title": "Critical Reading and Writing",
+		"professor": "Wei Ling, T.; Goyal, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "4W",
+		"title": "Critical Reading and Writing",
+		"professor": "Webster, A.J.; Goyal, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "4W",
+		"title": "Critical Reading and Writing",
+		"professor": "Mendoza, R.E.; Goyal, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "4W",
+		"title": "Critical Reading and Writing",
+		"professor": "Pittman, C.; Goyal, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "4W",
+		"title": "Critical Reading and Writing",
+		"professor": "Bischoff, S.A.; Goyal, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "4WX",
+		"title": "Critical Reading and Writing (Community-Engaged Learning)",
+		"professor": "Herrera, S.O.; Goyal, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "10A",
+		"title": "Literatures in English to 1700",
+		"professor": "Shuger, D.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "10B",
+		"title": "Literatures in English, 1700 to 1850",
+		"professor": "Makdisi, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "11",
+		"title": "Introduction to American Cultures",
+		"professor": "Silva, C.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "19",
+		"title": "Road to Punk: Lyric, Noise, and Ideology in 1970s Punk Explosion",
+		"professor": "Stefans, B.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "19",
+		"title": "Silence of Lamb: Animals as Persons in Literature, Law, and Sciences",
+		"professor": "Thomas, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "20W",
+		"title": "Introduction to Creative Writing",
+		"professor": "Izsak, C.; Goyal, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "M50",
+		"title": "Introduction to Visual Culture",
+		"professor": "Hornby, L.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "85",
+		"title": "American Novel",
+		"professor": "Mott, C.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "87",
+		"title": "Topics in American Cultures: Seminar 1  ",
+		"professor": "Looby, C.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "89HC",
+		"title": "Honors Contracts",
+		"professor": "Stefans, B.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "90",
+		"title": "Shakespeare",
+		"professor": "Watson, R.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "91A",
+		"title": "Introduction to Poetry",
+		"professor": "Stefans, B.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "91C",
+		"title": "Introduction to Fiction",
+		"professor": "Grossman, J.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "M101D",
+		"title": "Studies in Queer Literatures and Cultures: Queer American Short Story",
+		"professor": "Looby, C.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "M104A",
+		"title": "Early African American Literature",
+		"professor": "Yarborough, R.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "M105C",
+		"title": "Chicana/Chicano Literature since el Movimiento, 1970s to Present",
+		"professor": "Perez-Torres, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "106",
+		"title": "Studies in Native American and Indigenous Literatures: Indigenous Literatures of North America",
+		"professor": "Mo'e'hahne, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "110A",
+		"title": "Writing in English Major: Analytical",
+		"professor": "Stephan, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "115D",
+		"title": "Detective Fiction",
+		"professor": "Allmendinger, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "117",
+		"title": "Literature of California and American West",
+		"professor": "Allmendinger, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "120",
+		"title": "History of Aesthetics and Critical Theory",
+		"professor": "Huehls, M.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "129",
+		"title": "Topics in Genre Studies, Interdisciplinary Studies, and Critical Theory: Experimental Games (e.g.)",
+		"professor": "Snelson, D.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "131",
+		"title": "Studies in Postcolonial Literatures: Exiles, Migrants, and Refugees",
+		"professor": "Goyal, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "133",
+		"title": "Transatlantic Literatures and Cultures: Technology and Racial Difference in Age of Colonialism",
+		"professor": "Mazzaferro, A.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "136",
+		"title": "Creative Writing: Poetry",
+		"professor": "Wilson, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "136",
+		"title": "Creative Writing: Poetry",
+		"professor": "Mullen, H.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "137",
+		"title": "Creative Writing: Short Story",
+		"professor": "Torres, J.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "137",
+		"title": "Creative Writing: Short Story",
+		"professor": "Huneven, M.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "139",
+		"title": "Individual Authors: James Joyce&#39;s Ulysses",
+		"professor": "Hornby, L.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "139",
+		"title": "Individual Authors: Tennessee Williams on Stage and Film",
+		"professor": "Stefans, B.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "145",
+		"title": "Medieval Literatures of Devotion and Dissent: Virgin, Wife, and Widow: Dissent and Dominance in Lives of Holy Women",
+		"professor": "Thomas, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "150A",
+		"title": "Shakespeare: Poems and Early Plays",
+		"professor": "Dickey, S.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "156",
+		"title": "Devotion and Dissent: Literature of English Reformations",
+		"professor": "Shuger, D.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "164C",
+		"title": "19th-Century Novel: Novel of Social Realism, from Jane Austen to Thomas Hardy",
+		"professor": "Dimuro, J.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "168",
+		"title": "Major American Writers",
+		"professor": "Mazzaferro, A.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "173C",
+		"title": "Contemporary American Poetry: Lecture 1  ",
+		"professor": "Mullen, H.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "174B",
+		"title": "American Fiction since 1945",
+		"professor": "Perez-Torres, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "174C",
+		"title": "Contemporary American Fiction: Contemporary American Short Fiction",
+		"professor": "Torres, J.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "174C",
+		"title": "Contemporary American Fiction: U.S. Fiction after Cold War",
+		"professor": "Huehls, M.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "177",
+		"title": "Interdisciplinary Studies of American Culture: Ethnic Comedy, Family Drama: American Literature and Television",
+		"professor": "Decker, J.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "179",
+		"title": "Topics in Literature, circa 1850 to Present: Reading Like Writer: Short Story Intensive",
+		"professor": "Huneven, M.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "179R",
+		"title": "Topics in Literature, circa 1850 to Present: Research Component: Funny as Shite: Samuel Beckett and Flann O&#39;Brien",
+		"professor": "Jaurretche, C.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "181A",
+		"title": "Topics in Genre Studies: Theory of Novel",
+		"professor": "Dimuro, J.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "182B",
+		"title": "Topics in Renaissance and Early Modern Literature: Shakespeare&#39;s Second Tetralogy",
+		"professor": "Dickey, S.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "183C",
+		"title": "Topics in 20th- and 21st-Century American Literature: Immigrant Stories, Literary and Cinematic",
+		"professor": "Decker, J.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "184",
+		"title": "Capstone Seminar: English: Dreams, Visions, and Nightmares in Medieval Literature",
+		"professor": "Thomas, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "184",
+		"title": "Capstone Seminar: English: The Mayor of Casterbridge",
+		"professor": "Grossman, J.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "188SA",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Streeter, C.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Huehls, M.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Yarborough, R.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "190H",
+		"title": "Honors Research Colloquia in English",
+		"professor": "Olivares Pesante,; Goyal, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "M191E",
+		"title": "Topics in Gender and Sexuality: Queer Indigenous Literature",
+		"professor": "Mo'e'hahne, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "195CE",
+		"title": "Community and Corporate Internships in English",
+		"professor": "Cady, S.P.; Dimuro, J.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "195CE",
+		"title": "Community and Corporate Internships in English",
+		"professor": "Achiume, E.T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "197",
+		"title": "Individual Studies in English",
+		"professor": "Grossman, J.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Lee, S.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Snelson, D.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Ling, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Kaufman, E.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Chism, C.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Perez-Torres, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Bristow, J.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "McHugh, K.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Stephan, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Goyal, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Thomas, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Mott, C.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Allmendinger, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Makdisi, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Lopez, M.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Wilson, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Huehls, M.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Hornby, L.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "198B",
+		"title": "Honors Research in English",
+		"professor": "Chism, C.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "198B",
+		"title": "Honors Research in English",
+		"professor": "Deutsch, H.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "200",
+		"title": "Graduate Proseminar",
+		"professor": "Silva, C.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "203",
+		"title": "Digital Theories and Methods",
+		"professor": "Snelson, D.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "250",
+		"title": "Restoration and 18th-Century Literature",
+		"professor": "Deutsch, H.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGL",
+		"code": "252",
+		"title": "Victorian Literature",
+		"professor": "Bristow, J.E."
+	}
+]

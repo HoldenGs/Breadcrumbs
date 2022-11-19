@@ -1,0 +1,93 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "COMPTNG",
+		"code": "10A",
+		"title": "Introduction to Programming",
+		"professor": "Lin, A.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COMPTNG",
+		"code": "10A",
+		"title": "Introduction to Programming",
+		"professor": "Lindstrom, M.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COMPTNG",
+		"code": "10A",
+		"title": "Introduction to Programming",
+		"professor": "Chu, W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COMPTNG",
+		"code": "10A",
+		"title": "Introduction to Programming",
+		"professor": "Murray, M.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COMPTNG",
+		"code": "10A",
+		"title": "Introduction to Programming",
+		"professor": "Burnett, S.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COMPTNG",
+		"code": "10B",
+		"title": "Intermediate Programming",
+		"professor": "Cai, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COMPTNG",
+		"code": "10B",
+		"title": "Intermediate Programming",
+		"professor": "Lindstrom, M.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COMPTNG",
+		"code": "10C",
+		"title": "Advanced Programming",
+		"professor": "Chu, W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COMPTNG",
+		"code": "16A",
+		"title": "Python with Applications I",
+		"professor": "Murray, M.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COMPTNG",
+		"code": "16A",
+		"title": "Python with Applications I",
+		"professor": "Perlmutter, M.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COMPTNG",
+		"code": "16A",
+		"title": "Python with Applications I",
+		"professor": "Lee, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COMPTNG",
+		"code": "16B",
+		"title": "Python with Applications II",
+		"professor": "Chodrow, P.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COMPTNG",
+		"code": "20A",
+		"title": "Principles of Java Language with Applications",
+		"professor": "Pham, M.H."
+	}
+]

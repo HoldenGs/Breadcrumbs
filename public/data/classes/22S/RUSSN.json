@@ -1,0 +1,65 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "RUSSN",
+		"code": "3",
+		"title": "Elementary Russian",
+		"professor": "Kudyma, A.; Varfolomeeva, P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "RUSSN",
+		"code": "6",
+		"title": "Intermediate Russian",
+		"professor": "Kresin, S.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "RUSSN",
+		"code": "90A",
+		"title": "Introduction to Russian Civilization",
+		"professor": "Kudyma, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "RUSSN",
+		"code": "100B",
+		"title": "Literacy in Russian",
+		"professor": "Kudyma, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "RUSSN",
+		"code": "101C",
+		"title": "Third-Year Russian",
+		"professor": "Shneyder, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "RUSSN",
+		"code": "102C",
+		"title": "Topics in Advanced/Superior Russian",
+		"professor": "Shneyder, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "RUSSN",
+		"code": "108",
+		"title": "Russian for Business: Language and Culture",
+		"professor": "Lenhoff, G.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "RUSSN",
+		"code": "C124T",
+		"title": "Studies in Russian Literature: Tolstoy",
+		"professor": "Shneyder, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "RUSSN",
+		"code": "140A",
+		"title": "Russian Prose Fiction: Introduction to Analysis of Russian Narrative Prose",
+		"professor": "Vroon, R.W."
+	}
+]

@@ -1,0 +1,44 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "AM IND",
+		"code": "M10",
+		"title": "Introduction to American Indian Studies",
+		"professor": "Sladeck, J.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "AM IND",
+		"code": "M123",
+		"title": "Afro-Indigenous History: from Enslavement and Settlement to Black Lives Matter and Indigenous Sovereignty",
+		"professor": "Mays, K.T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "AM IND",
+		"code": "M186",
+		"title": "Indigenous Film",
+		"professor": "Mithlo, N.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "AM IND",
+		"code": "202",
+		"title": "Key Theories and Concepts in American Indian Studies",
+		"professor": "Small-Rodriguez, D"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "AM IND",
+		"code": "265",
+		"title": "Federal Indian Law I",
+		"professor": "Riley, A.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "AM IND",
+		"code": "M272",
+		"title": "Seminar: Cultural Property Law",
+		"professor": "Riley, A.R."
+	}
+]

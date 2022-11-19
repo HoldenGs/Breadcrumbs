@@ -1,0 +1,751 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "2",
+		"title": "Physics for Electrical Engineers",
+		"professor": "Wong, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "3",
+		"title": "Introduction to Electrical Engineering",
+		"professor": "Briggs, D.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "M16",
+		"title": "Logic Design of Digital Systems",
+		"professor": "He, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "19",
+		"title": "My Favorite Qubit: Quantum Computing as Told by Leading Practitioners",
+		"professor": "Aiello, C.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "88S",
+		"title": "Internet and Free Speech",
+		"professor": "Dubil, E.B.; Villasenor, J.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "100",
+		"title": "Electrical and Electronic Circuits",
+		"professor": "Gupta, P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "101B",
+		"title": "Electromagnetic Waves",
+		"professor": "Jarrahi, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "102",
+		"title": "Systems and Signals",
+		"professor": "Kadambi, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "110",
+		"title": "Circuit Theory II",
+		"professor": "Darabi, H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "110L",
+		"title": "Circuit Measurements Laboratory",
+		"professor": "Mesghali, F.; Zhang, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "110L",
+		"title": "Circuit Measurements Laboratory",
+		"professor": "Mesghali, F.; Hung, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "111L",
+		"title": "Circuits Laboratory II",
+		"professor": "Darabi, H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "115A",
+		"title": "Analog Electronic Circuits I",
+		"professor": "Razavi, B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "115C",
+		"title": "Digital Electronic Circuits",
+		"professor": "Markovic, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "M116C",
+		"title": "Computer Systems Architecture",
+		"professor": "Tamir, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "141",
+		"title": "Principles of Feedback Control",
+		"professor": "Tabuada, P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "C143A",
+		"title": "Neural Signal Processing",
+		"professor": "Kao, J.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "M146",
+		"title": "Introduction to Machine Learning",
+		"professor": "Diggavi, S.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "M146",
+		"title": "Introduction to Machine Learning",
+		"professor": "Grover, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "M148",
+		"title": "Introduction to Data Science",
+		"professor": "Dolecek, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "162A",
+		"title": "Wireless Communication Links and Antennas",
+		"professor": "Wang, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "163DB",
+		"title": "Microwave and Wireless Design II",
+		"professor": "Chang, M.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "164DB",
+		"title": "Radio Frequency Design Project II",
+		"professor": "Darabi, H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "170C",
+		"title": "Photonic Sensors and Solar Cells",
+		"professor": "Williams, B.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "176",
+		"title": "Photonics in Biomedical Applications",
+		"professor": "Ozcan, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "180DB",
+		"title": "Systems Design",
+		"professor": "Pottie, G.J.; Jiang, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "183DB",
+		"title": "Design of Robotic Systems II",
+		"professor": "Mehta, A.M.; Tanaka, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "188",
+		"title": "Special Courses in Electrical Engineering: Applied and Interactive Machine Learning",
+		"professor": "Chen, X."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "188",
+		"title": "Special Courses in Electrical Engineering: Secure Computer Systems",
+		"professor": "Sehatbakhsh, N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Advanced Honors Seminar for Electrical and Computer Engineering 115C",
+		"professor": "Markovic, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "194",
+		"title": "Research Group Seminars: Electrical Engineering",
+		"professor": "Ozcan, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "209AS",
+		"title": "Special Topics in Circuits and Embedded Systems: Artificial Intelligence and Machine Learning for Cyber-Physical Systems and Internet of Things",
+		"professor": "Srivastava, M.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "209AS",
+		"title": "Special Topics in Circuits and Embedded Systems: Engineering Interactive Systems",
+		"professor": "Zhang, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "M214A",
+		"title": "Digital Speech Processing",
+		"professor": "Alwan, A.A.; Zhu, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "M214A",
+		"title": "Digital Speech Processing",
+		"professor": "Alwan, A.A.; Ravi, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "215B",
+		"title": "Advanced Digital Integrated Circuits",
+		"professor": "Yang, C.K.; Song, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "215D",
+		"title": "Analog Microsystem Design",
+		"professor": "Abidi, A.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "215E",
+		"title": "Signaling and Synchronization",
+		"professor": "Pamarti, S.; Baran, S.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "219",
+		"title": "Large-Scale Data Mining: Models and Algorithms",
+		"professor": "Roychowdhury, V.P.; Holur, P.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "221B",
+		"title": "Physics of Semiconductor Devices II",
+		"professor": "Sokolich, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "230B",
+		"title": "Digital Communication Systems",
+		"professor": "Pottie, G.J.; Jayakumaran Kamala"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "236C",
+		"title": "Optimization Methods for Large-Scale Systems",
+		"professor": "Vandenberghe, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "239AS",
+		"title": "Special Topics in Signals and Systems: Control, Identification, and Learning Algorithms",
+		"professor": "Gharesi Fard, B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "239AS",
+		"title": "Special Topics in Signals and Systems: Lecture 80  ",
+		"professor": "Yang, L.; Kenanian, J.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "M240C",
+		"title": "Optimal Control",
+		"professor": "Speyer, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "241A",
+		"title": "Stochastic Processes",
+		"professor": "Yang, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "C243A",
+		"title": "Neural Signal Processing",
+		"professor": "Kao, J.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "M252",
+		"title": "Microelectromechanical Systems (MEMS) Device Physics and Design",
+		"professor": "Candler, R.N.; Cheng, X."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "M275",
+		"title": "Micro- and Nanoscale Biosensing for Molecular Diagnostics",
+		"professor": "Emaminejad, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "279AS",
+		"title": "Special Topics in Physical and Wave Electronics: Advanced Topics in Plasma Physics Research",
+		"professor": "Joshi, C.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "279AS",
+		"title": "Special Topics in Physical and Wave Electronics: Lecture 3  ",
+		"professor": "Aiello, C.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "295",
+		"title": "Academic Technical Writing for Electrical Engineers",
+		"professor": "Watson, D.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Abidi, A.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Aiello, C.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Alwan, A.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Babakhani, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Cabric, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Candler, R.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Chang, M.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Chen, X."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Christofides, P.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Chui, C.O."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Cong, J.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Diggavi, S.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Dolecek, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Emaminejad, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Fletcher, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Fragouli, C.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Gupta, P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "He, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Huffaker, D.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Itoh, T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Iyer, S.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Jalali, B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Jarrahi, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Joshi, C.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Kaiser, W.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Kadambi, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Kao, J.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Liu, J.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Liu, W."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Markovic, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Mehta, A.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Mori, W.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Mosleh, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Ozcan, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Pamarti, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Pottie, G.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Rahmat-Samii, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Razavi, B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Roychowdhury, V.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Zhang, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Soatto, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Srivastava, M.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Tabuada, P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Van der Schaar, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Vandenberghe, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Wang, K.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Wang, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Wesel, R.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Williams, B.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Wong, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Woo, J.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Yang, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Yang, C.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "296",
+		"title": "Seminar: Research Topics in Electrical Engineering",
+		"professor": "Sehatbakhsh, N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EC ENGR",
+		"code": "297",
+		"title": "Seminar Series: Electrical Engineering: Seminar 1  ",
+		"professor": "Gharesi Fard, B."
+	}
+]

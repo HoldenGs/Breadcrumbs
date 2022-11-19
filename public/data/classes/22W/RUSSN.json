@@ -1,0 +1,65 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "RUSSN",
+		"code": "2",
+		"title": "Elementary Russian",
+		"professor": "Kudyma, A.; Varfolomeeva, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "RUSSN",
+		"code": "5",
+		"title": "Intermediate Russian",
+		"professor": "Kresin, S.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "RUSSN",
+		"code": "25",
+		"title": "Great Russian Novel",
+		"professor": "Kudyma, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "RUSSN",
+		"code": "100A",
+		"title": "Literacy in Russian",
+		"professor": "Kudyma, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "RUSSN",
+		"code": "101B",
+		"title": "Third-Year Russian",
+		"professor": "Furman, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "RUSSN",
+		"code": "102B",
+		"title": "Topics in Advanced/Superior Russian",
+		"professor": "Pilshchikov, I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "RUSSN",
+		"code": "107B",
+		"title": "Russian for Social and Cultural Studies",
+		"professor": "Pilshchikov, I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "RUSSN",
+		"code": "C124C",
+		"title": "Studies in Russian Literature: Chekhov",
+		"professor": "Shneyder, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "RUSSN",
+		"code": "130A",
+		"title": "Russian Poetry: Introduction to Analysis of Russian Poetry",
+		"professor": "Furman, Y."
+	}
+]

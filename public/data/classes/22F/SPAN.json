@@ -1,0 +1,240 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "1",
+		"title": "Elementary Spanish",
+		"professor": "Garcia Lorenzo, G.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "1",
+		"title": "Elementary Spanish",
+		"professor": "Arciniega, E.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "1",
+		"title": "Elementary Spanish",
+		"professor": "Gzehoviak, J.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "1",
+		"title": "Elementary Spanish",
+		"professor": "Larkin, A.J.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "7A",
+		"title": "Introductory Spanish for Heritage Speakers",
+		"professor": "Galindo Benitez, J; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "25",
+		"title": "Advanced Spanish Composition",
+		"professor": "Tobin, S.C.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "27",
+		"title": "Advanced Spanish Composition for Heritage Speakers",
+		"professor": "Colon Cosme, R.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "27",
+		"title": "Advanced Spanish Composition for Heritage Speakers",
+		"professor": "Mauffray, E.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "M35",
+		"title": "Spanish, Portuguese, and Nature of Language",
+		"professor": "Mateu, V."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "44",
+		"title": "Latin American Cultures",
+		"professor": "Arroyo Calderon, P"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "119",
+		"title": "Introduction to Literary Analysis",
+		"professor": "Marturano, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "119",
+		"title": "Introduction to Literary Analysis",
+		"professor": "Rodriguez, J.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "130",
+		"title": "Topics in Medieval Studies: Mapping Iberia: Geocritical Approaches to Medieval and EarlyModern Narratives",
+		"professor": "Colon Cosme, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "135",
+		"title": "Topics in Early Modern Studies: Written on Ocean: Ships and Sailors in Colonial Spanish American Literature",
+		"professor": "Rodriguez, J.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "140",
+		"title": "Topics in Modern Studies: Landscape in Mexican Literature and Culture",
+		"professor": "Larkin, A.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "150",
+		"title": "Topics in Contemporary Studies: Framed Gender Violence: Insights from Latin American Fictionand Film",
+		"professor": "Ramirez, A.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "150",
+		"title": "Topics in Contemporary Studies: Latin American Climate-Change Fiction",
+		"professor": "Tobin, S.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "160",
+		"title": "Topics in Spanish Linguistics: Spanish Language and Cognition",
+		"professor": "Suhr, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "M165XP",
+		"title": "Taking It to Street: Spanish in Community",
+		"professor": "Suhr, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "170",
+		"title": "Topics in Interdisciplinary and Transhistorical Studies: Sumak Kawsay/Suma Qama&#241;a: Good Living, Living with Dignity, Living Well without Opulence",
+		"professor": "de La Torre, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "M172XP",
+		"title": "Topics in Community Engagement: Cine Vivo: Community-Engaged Sensory Ethnography",
+		"professor": "Cohen, G.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "180",
+		"title": "Topics in Visual Culture: History, Memory, Truth, Fiction: Documentary Practices in Latin America",
+		"professor": "Cohen, G.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Tobin, S.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "191B",
+		"title": "Variable Topics in Spanish: Studies in Hispanic Culture and Civilization: Art of Revolution and Politics of Art in Latin America",
+		"professor": "Cohen, G.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "191C",
+		"title": "Senior Capstone Seminar",
+		"professor": "Marturano, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "197",
+		"title": "Individual Studies in Spanish",
+		"professor": "de La Torre, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "198A",
+		"title": "Senior Honors Research in Spanish I",
+		"professor": "Kim, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "204A",
+		"title": "Generative Syntax and Semantics",
+		"professor": "Mateu, V."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "226",
+		"title": "Prose of the Golden Age: Dissimulation and Interiority",
+		"professor": "Patino Loira, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "256A",
+		"title": "Studies in Spanish Linguistics",
+		"professor": "Quicoli, A.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "290",
+		"title": "Special Topics: Mexican Novel",
+		"professor": "Van Delden, M.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "296",
+		"title": "Graduate Research Group",
+		"professor": "Fuchs, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "M297A",
+		"title": "Proseminar I",
+		"professor": "Fuchs, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "SPAN",
+		"code": "M297B",
+		"title": "Proseminar II",
+		"professor": "Fuchs, B."
+	}
+]

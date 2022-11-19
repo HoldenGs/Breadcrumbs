@@ -1,0 +1,100 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ENGR",
+		"code": "95",
+		"title": "Internship Studies in Engineering",
+		"professor": "Wesel, R.D."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ENGR",
+		"code": "95",
+		"title": "Internship Studies in Engineering",
+		"professor": "Wesel, R.D.; Guzman, N.; Martinez, D.P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ENGR",
+		"code": "95",
+		"title": "Internship Studies in Engineering",
+		"professor": "Wesel, R.D.; Martinez, D.P.; Guzman, N."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ENGR",
+		"code": "110",
+		"title": "Introduction to Technology Management and Economics for Engineers",
+		"professor": "Bulu-Taciroglu, M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ENGR",
+		"code": "111",
+		"title": "Introduction to Finance and Marketing for Engineers",
+		"professor": "Bulu-Taciroglu, M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ENGR",
+		"code": "116",
+		"title": "Statistics for Management Decisions",
+		"professor": "Mehrnia, A.; Yu, C."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ENGR",
+		"code": "182EW",
+		"title": "Technology and Society",
+		"professor": "Zipperstein, S.E."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ENGR",
+		"code": "183EW",
+		"title": "Engineering and Society",
+		"professor": "Weltman, G.; Browne, D.G."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ENGR",
+		"code": "188",
+		"title": "Special Courses in Engineering: Seminar 80  ",
+		"professor": "Kung, K.C.; Ghassemi, S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ENGR",
+		"code": "195",
+		"title": "Internship Studies in Engineering",
+		"professor": "Wesel, R.D.; Martinez, D.P.; Guzman, N."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ENGR",
+		"code": "195",
+		"title": "Internship Studies in Engineering",
+		"professor": "Wesel, R.D.; Guzman, N.; Martinez, D.P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ENGR",
+		"code": "203",
+		"title": "System Architecture",
+		"professor": "Silverman, S.J.; Li, J."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ENGR",
+		"code": "206",
+		"title": "Engineering for Systems Assurance",
+		"professor": "Kung, K.C.; Sainaghi, P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "ENGR",
+		"code": "211",
+		"title": "Financial Management",
+		"professor": "Bulu-Taciroglu, M.; Akbar Pour Sarabi,; Murali, N."
+	}
+]

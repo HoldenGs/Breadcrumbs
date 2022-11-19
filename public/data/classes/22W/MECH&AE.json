@@ -1,0 +1,212 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "MECH&AE",
+		"code": "M20",
+		"title": "Introduction to Computer Programming with MATLAB",
+		"professor": "Gao, E.X."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MECH&AE",
+		"code": "82",
+		"title": "Mathematics of Engineering",
+		"professor": "Chatterjee, A.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MECH&AE",
+		"code": "94",
+		"title": "Introduction to Computer-Aided Design and Drafting",
+		"professor": "Gadh, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MECH&AE",
+		"code": "101",
+		"title": "Statics and Strength of Materials",
+		"professor": "Jin, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MECH&AE",
+		"code": "102",
+		"title": "Dynamics of Particles and Rigid Bodies",
+		"professor": "Davoyan, A.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MECH&AE",
+		"code": "103",
+		"title": "Elementary Fluid Mechanics",
+		"professor": "Kavehpour, H.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MECH&AE",
+		"code": "105A",
+		"title": "Introduction to Engineering Thermodynamics",
+		"professor": "Amar, R.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MECH&AE",
+		"code": "105D",
+		"title": "Transport Phenomena",
+		"professor": "Hu, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MECH&AE",
+		"code": "107",
+		"title": "Introduction to Modeling and Analysis of Dynamic Systems",
+		"professor": "Franco, E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MECH&AE",
+		"code": "133A",
+		"title": "Engineering Thermodynamics",
+		"professor": "Stubblebine, M.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MECH&AE",
+		"code": "C136",
+		"title": "Energy and Environment",
+		"professor": "Pilon, L.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MECH&AE",
+		"code": "CM140",
+		"title": "Introduction to Biomechanics",
+		"professor": "Gupta, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MECH&AE",
+		"code": "150A",
+		"title": "Intermediate Fluid Mechanics",
+		"professor": "Karagozian, A.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MECH&AE",
+		"code": "154A",
+		"title": "Preliminary Design of Aircraft",
+		"professor": "Toohey, D.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MECH&AE",
+		"code": "156A",
+		"title": "Advanced Strength of Materials",
+		"professor": "Khalid Jawed, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MECH&AE",
+		"code": "157",
+		"title": "Basic Mechanical and Aerospace Engineering Laboratory",
+		"professor": "Jin, K.; Abuseada, M.M.; Krishna, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MECH&AE",
+		"code": "157",
+		"title": "Basic Mechanical and Aerospace Engineering Laboratory",
+		"professor": "Ju, S.; Ko, D.D.; Ke, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MECH&AE",
+		"code": "157",
+		"title": "Basic Mechanical and Aerospace Engineering Laboratory",
+		"professor": "Ju, S.; Wong, E.J.; Mannion, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MECH&AE",
+		"code": "161B",
+		"title": "Introduction to Space Technology",
+		"professor": "Wirz, R.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MECH&AE",
+		"code": "161B",
+		"title": "Introduction to Space Technology",
+		"professor": "Wirz, R.E.; Huh, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MECH&AE",
+		"code": "C162B",
+		"title": "Compliant Mechanism Design",
+		"professor": "Hopkins, J.; Pomeroy, A.W.; Ahmadi, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MECH&AE",
+		"code": "162D",
+		"title": "Mechanical Engineering Design I",
+		"professor": "Shaefer, R.S.; Wang, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MECH&AE",
+		"code": "162D",
+		"title": "Mechanical Engineering Design I",
+		"professor": "Hong, D.W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MECH&AE",
+		"code": "162D",
+		"title": "Mechanical Engineering Design I",
+		"professor": "Rosen, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MECH&AE",
+		"code": "C163B",
+		"title": "Dynamics of Robotic Systems",
+		"professor": "Rosen, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MECH&AE",
+		"code": "166C",
+		"title": "Design of Composite Structures",
+		"professor": "Sepulveda, A.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MECH&AE",
+		"code": "M168",
+		"title": "Introduction to Finite Element Methods",
+		"professor": "Gupta, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MECH&AE",
+		"code": "171A",
+		"title": "Introduction to Feedback and Control Systems: Dynamic Systems Control I",
+		"professor": "Lopez, B.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MECH&AE",
+		"code": "171B",
+		"title": "Digital Control of Physical Systems",
+		"professor": "Tsao, T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MECH&AE",
+		"code": "183A",
+		"title": "Introduction to Manufacturing Processes",
+		"professor": "Kim, C."
+	}
+]

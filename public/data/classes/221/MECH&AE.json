@@ -1,0 +1,79 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MECH&AE",
+		"code": "94",
+		"title": "Introduction to Computer-Aided Design and Drafting",
+		"professor": "Shaefer, R.S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MECH&AE",
+		"code": "101",
+		"title": "Statics and Strength of Materials",
+		"professor": "Chatterjee, A.K."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MECH&AE",
+		"code": "103",
+		"title": "Elementary Fluid Mechanics",
+		"professor": "Kavehpour, H.P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MECH&AE",
+		"code": "105A",
+		"title": "Introduction to Engineering Thermodynamics",
+		"professor": "Baek, S.; Pilon, L.G."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MECH&AE",
+		"code": "107",
+		"title": "Introduction to Modeling and Analysis of Dynamic Systems",
+		"professor": "Kim, D.D."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MECH&AE",
+		"code": "150B",
+		"title": "Aerodynamics",
+		"professor": "Zhong, X.; Varma, A.R."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MECH&AE",
+		"code": "156A",
+		"title": "Advanced Strength of Materials",
+		"professor": "Mal, A.K.; Wang, L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MECH&AE",
+		"code": "171A",
+		"title": "Introduction to Feedback and Control Systems: Dynamic Systems Control I",
+		"professor": "Sepulveda, A.E."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MECH&AE",
+		"code": "250D",
+		"title": "Computational Fluid Dynamics for Compressible Flows",
+		"professor": "Zhong, X.; He, S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MECH&AE",
+		"code": "256F",
+		"title": "Analytical Fracture Mechanics",
+		"professor": "Gupta, V.; Akbar Pour Sarabi,"
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MECH&AE",
+		"code": "C296A",
+		"title": "Mechanical Design for Power Transmission",
+		"professor": "Gao, E.X.; Ahmadian, A."
+	}
+]

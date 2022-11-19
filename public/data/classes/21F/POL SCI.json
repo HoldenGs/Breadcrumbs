@@ -1,0 +1,422 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "10",
+		"title": "Introduction to Political Theory",
+		"professor": "Panagia, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "20",
+		"title": "World Politics",
+		"professor": "Min, E.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "30",
+		"title": "Politics and Strategy",
+		"professor": "O'Neill, B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "40",
+		"title": "Introduction to American Politics",
+		"professor": "Thompson, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "50",
+		"title": "Introduction to Comparative Politics",
+		"professor": "Thies, M.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "89HC",
+		"title": "Honors Contracts",
+		"professor": "Min, E.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "114A",
+		"title": "American Political Thought I, 1620 to 1865",
+		"professor": "Trojan, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "119",
+		"title": "Special Studies in Political Theory: Introduction to Comparative Political Theory",
+		"professor": "Branstetter, J.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "120B",
+		"title": "World Politics and U.S. Foreign Policy after September 11",
+		"professor": "Williams, J.A.; Preble, C.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "124A",
+		"title": "International Political Economy",
+		"professor": "Roberts, T.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "129",
+		"title": "Diplomacy and War",
+		"professor": "Trager, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "132A",
+		"title": "International Relations of Middle East",
+		"professor": "Waxman, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "135",
+		"title": "International Relations of China",
+		"professor": "Wilkinson, D.O."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "139",
+		"title": "Special Studies in International Relations: Approaches to International Security",
+		"professor": "Trager, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "139",
+		"title": "Special Studies in International Relations: Politics of Migration",
+		"professor": "Peters, M.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "140A",
+		"title": "National Institutions: Congress",
+		"professor": "Peris, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "140B",
+		"title": "National Institutions: The Presidency",
+		"professor": "James, S.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "141E",
+		"title": "Electoral Politics: Elections, Media, and Strategy",
+		"professor": "Sherrer, T.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "143C",
+		"title": "Politics of American Suburbanization",
+		"professor": "Frasure, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "149",
+		"title": "Special Topics in American Government and Politics: Careers in Political Science",
+		"professor": "Sherrer, T.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "M152",
+		"title": "Political Economy of Climate Change",
+		"professor": "Ross, M.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "164B",
+		"title": "Fascism and Right-Wing Extremism: Historical and Present Day",
+		"professor": "Rogowski, R.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "169",
+		"title": "Special Studies in Comparative Politics: Development Economics for Political Scientists",
+		"professor": "Lofchie, M.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "181A",
+		"title": "Politics of Latino Communities",
+		"professor": "Waknin, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "186",
+		"title": "Special Studies in Race, Ethnicity, and Politics: Racial and Ethnic Politics in U.S.",
+		"professor": "Masuoka, N.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "188SA",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Mott, C.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Peters, M.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Masuoka, N.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Waxman, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Waknin, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Roberts, T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Frasure, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Trager, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "191A",
+		"title": "Variable Topics Research Seminars for Majors: Political Theory: Political Essay, in Theory",
+		"professor": "McClure, K.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "M194DC",
+		"title": "Quarter in Washington, DC, Research Seminar",
+		"professor": "Williams, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "M195DC",
+		"title": "Quarter in Washington, DC, Internships",
+		"professor": "Williams, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Lofchie, M.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Larson, D.W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Thompson, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Tausanovitch, C.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Bawn, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Min, E.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Peters, M.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Ross, M.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Zaller, J.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Wilkinson, D.O."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Perez, E.O."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Steinert-Threlkeld"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "McNamee, L.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "200A",
+		"title": "Probability and Inference for Social Science",
+		"professor": "Bawn, K.; Kappos, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "210A",
+		"title": "Political Theory Field Seminar 1",
+		"professor": "Dienstag, J.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "217",
+		"title": "Selected Texts in Political Theory: Seminar 1  ",
+		"professor": "Panagia, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "220A",
+		"title": "International Relations Core Seminar I",
+		"professor": "Stein, A.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "240A",
+		"title": "Seminar: Comparative Politics",
+		"professor": "McNamee, L.A.; Posner, D.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "256",
+		"title": "External Sources of Domestic Politics",
+		"professor": "Rogowski, R.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "259",
+		"title": "Selected Topics in Comparative Politics: Politics of China",
+		"professor": "McNamee, L.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "260A",
+		"title": "Survey Course in American Politics: Political Parties and Electoral Process",
+		"professor": "Vavreck, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "268",
+		"title": "Seminar: Political and Electoral Problems: Democratic Elections",
+		"professor": "Thompson, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "280A",
+		"title": "Race and Ethnic Politics Field Seminar 1",
+		"professor": "Frasure, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "POL SCI",
+		"code": "292A",
+		"title": "Introduction to Political Inquiry: Problems of Scientific Inquiry and Normative Discourse",
+		"professor": "Frasure, L."
+	}
+]

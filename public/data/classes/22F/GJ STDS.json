@@ -1,0 +1,275 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "M25",
+		"title": "Global Pop",
+		"professor": "Ruskin, J.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "M50A",
+		"title": "Jazz in American Culture: Late 19th Century through 1940s",
+		"professor": "Bolin, M.T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "71A",
+		"title": "Instruction in Jazz Performance: Guitar",
+		"professor": "Marshall, W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "71A",
+		"title": "Instruction in Jazz Performance: Guitar",
+		"professor": "Lesure, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "71B",
+		"title": "Instruction in Jazz Performance: Percussion",
+		"professor": "Cameron, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "71B",
+		"title": "Instruction in Jazz Performance: Percussion",
+		"professor": "Stable, A.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "71C",
+		"title": "Instruction in Jazz Performance: Piano",
+		"professor": "Hendelman, T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "71C",
+		"title": "Instruction in Jazz Performance: Piano",
+		"professor": "Ruiz, O."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "71D",
+		"title": "Instruction in Jazz Performance: Saxophone",
+		"professor": "Almario, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "71D",
+		"title": "Instruction in Jazz Performance: Saxophone",
+		"professor": "Turner, M.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "71D",
+		"title": "Instruction in Jazz Performance: Saxophone",
+		"professor": "Oba, H.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "71E",
+		"title": "Instruction in Jazz Performance: String Bass",
+		"professor": "Miranda, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "71F",
+		"title": "Instruction in Jazz Performance: Trombone",
+		"professor": "Benjamin, D.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "71G",
+		"title": "Instruction in Jazz Performance: Trumpet",
+		"professor": "Rosenboom, D.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "M110B",
+		"title": "African American Musical Heritage",
+		"professor": "Doleac, B.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "122A",
+		"title": "Jazz Styles and Analysis: Early Jazz to Swing Era",
+		"professor": "Harrison, C.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "127A",
+		"title": "Jazz Keyboard Harmony I",
+		"professor": "Hendelman, T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "129A",
+		"title": "Jazz Theory and Improvisation I",
+		"professor": "Hendelman, T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "171A",
+		"title": "Instruction in Advanced Jazz Performance: Guitar",
+		"professor": "Marshall, W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "171A",
+		"title": "Instruction in Advanced Jazz Performance: Guitar",
+		"professor": "Lesure, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "171B",
+		"title": "Instruction in Advanced Jazz Performance: Percussion",
+		"professor": "Cameron, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "171B",
+		"title": "Instruction in Advanced Jazz Performance: Percussion",
+		"professor": "Stable, A.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "171C",
+		"title": "Instruction in Advanced Jazz Performance: Piano",
+		"professor": "Hendelman, T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "171C",
+		"title": "Instruction in Advanced Jazz Performance: Piano",
+		"professor": "Ruiz, O."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "171D",
+		"title": "Instruction in Advanced Jazz Performance: Saxophone",
+		"professor": "Almario, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "171D",
+		"title": "Instruction in Advanced Jazz Performance: Saxophone",
+		"professor": "Turner, M.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "171D",
+		"title": "Instruction in Advanced Jazz Performance: Saxophone",
+		"professor": "Oba, H.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "171E",
+		"title": "Instruction in Advanced Jazz Performance: String Bass",
+		"professor": "Miranda, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "171F",
+		"title": "Instruction in Advanced Jazz Performance: Trombone",
+		"professor": "Benjamin, D.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "171G",
+		"title": "Instruction in Advanced Jazz Performance: Trumpet",
+		"professor": "Rosenboom, D.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "175",
+		"title": "Jazz Combo",
+		"professor": "Cameron, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "175",
+		"title": "Jazz Combo",
+		"professor": "Miranda, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "175",
+		"title": "Jazz Combo",
+		"professor": "Harrison, C.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "175",
+		"title": "Jazz Combo",
+		"professor": "Blanchard, T.O."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "176B",
+		"title": "Large Jazz Ensembles: Charles Mingus Ensemble: Activity 1  ",
+		"professor": "Oba, H.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "176F",
+		"title": "Large Jazz Ensembles: World Jazz and Intercultural Improvisation Ensemble: Activity 1  ",
+		"professor": "Loza, S.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "186A",
+		"title": "Capstone Seminar",
+		"professor": "Loza, S.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "186B",
+		"title": "Capstone",
+		"professor": "Loza, S.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GJ STDS",
+		"code": "197",
+		"title": "Individual Studies in Global Jazz Studies",
+		"professor": "O'Farrill, A."
+	}
+]

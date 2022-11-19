@@ -1,0 +1,30 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "BIOL CH",
+		"code": "248",
+		"title": "Tumor Cell Biology",
+		"professor": "Teitell, M.A.; Colicelli, J.J.; Rao, D.S.; Crooks, G.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "BIOL CH",
+		"code": "251A",
+		"title": "Seminar: Transcriptional Regulation",
+		"professor": "Kurdistani, S.K.; Carey, M.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "BIOL CH",
+		"code": "M255",
+		"title": "Mitochondria in Medicine, Biology, and Chemistry",
+		"professor": "Clarke, C.F.; Koehler, C.M.; Teitell, M.A.; Shirihai, O.; Van der Bliek, A.M; Dreier, L.; Liesa-Roig, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "BIOL CH",
+		"code": "266A",
+		"title": "Seminar: Cell, Stem Cell, and Developmental Biology",
+		"professor": "Sagasti, A.; de Robertis, E.M."
+	}
+]

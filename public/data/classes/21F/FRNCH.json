@@ -1,0 +1,156 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "FRNCH",
+		"code": "1",
+		"title": "Elementary French",
+		"professor": "Hadjeris, F.; Jansma, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "FRNCH",
+		"code": "1",
+		"title": "Elementary French",
+		"professor": "Jansma, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "FRNCH",
+		"code": "1",
+		"title": "Elementary French",
+		"professor": "Barger, A.; Jansma, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "FRNCH",
+		"code": "1",
+		"title": "Elementary French",
+		"professor": "Presberg, B.L.; Jansma, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "FRNCH",
+		"code": "1",
+		"title": "Elementary French",
+		"professor": "Salha, H.; Jansma, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "FRNCH",
+		"code": "2",
+		"title": "Elementary French",
+		"professor": "Gueidon, E.; Jansma, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "FRNCH",
+		"code": "2",
+		"title": "Elementary French",
+		"professor": "Sackett, A.R.; Jansma, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "FRNCH",
+		"code": "3",
+		"title": "Elementary French",
+		"professor": "Lamontagne, S.R.; Jansma, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "FRNCH",
+		"code": "3",
+		"title": "Elementary French",
+		"professor": "Mengual, M.; Jansma, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "FRNCH",
+		"code": "3",
+		"title": "Elementary French",
+		"professor": "Melikyan, A.; Jansma, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "FRNCH",
+		"code": "4",
+		"title": "Intermediate French",
+		"professor": "Pruss, C.; Denie Higney, L.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "FRNCH",
+		"code": "4",
+		"title": "Intermediate French",
+		"professor": "Hovsepyan, L.R.; Denie Higney, L.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "FRNCH",
+		"code": "12",
+		"title": "Introduction to Study of French and Francophone Literature",
+		"professor": "Duval, E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "FRNCH",
+		"code": "41",
+		"title": "French Cinema and Culture",
+		"professor": "Brozgal, L.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "FRNCH",
+		"code": "100",
+		"title": "Written Expression: Techniques of Description and Narration",
+		"professor": "Denie Higney, L.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "FRNCH",
+		"code": "119",
+		"title": "Studies in 19th-Century French Culture and Literature",
+		"professor": "Duval, E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "FRNCH",
+		"code": "120",
+		"title": "Studies in 20th-Century French Culture and Literature: Lecture 1  ",
+		"professor": "Mabanckou, A.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "FRNCH",
+		"code": "121",
+		"title": "Studies in Francophone Cultures and Literatures: Lecture 1  ",
+		"professor": "Mabanckou, A.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "FRNCH",
+		"code": "137",
+		"title": "French and Francophone Intellectual History",
+		"professor": "Murat, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "FRNCH",
+		"code": "139",
+		"title": "Paris: Study of French Capital",
+		"professor": "Murat, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "FRNCH",
+		"code": "203",
+		"title": "Contemporary Francophone Literature",
+		"professor": "Mabanckou, A.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "FRNCH",
+		"code": "207",
+		"title": "Studies in History of Ideas: Seminar 1  ",
+		"professor": "Murat, L."
+	}
+]

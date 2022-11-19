@@ -1,0 +1,219 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "4",
+		"title": "Philosophical Analysis of Contemporary Moral Issues",
+		"professor": "McHose, J.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "8",
+		"title": "Introduction to Philosophy of Science",
+		"professor": "Elliott, K.J.; Roush, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "9",
+		"title": "Principles of Critical Reasoning",
+		"professor": "Johnson, M.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "22",
+		"title": "Introduction to Ethical Theory",
+		"professor": "Tulipana, P.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "31",
+		"title": "Logic, First Course",
+		"professor": "Levy, S.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "100C",
+		"title": "History of Modern Philosophy, 1650 to 1800",
+		"professor": "Carriero, J.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "M103A",
+		"title": "Ancient Greek and Roman Philosophy",
+		"professor": "Davia, C.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "104",
+		"title": "Topics in Islamic Philosophy: Self, Knowledge, and Society in Al-Farabi and Avicenna",
+		"professor": "Crager, A.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "C109",
+		"title": "Descartes",
+		"professor": "Kardosh, J.M.; Normore, C.G.; Roush, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "129",
+		"title": "Philosophy of Psychology: Lecture 1  ",
+		"professor": "Burge, C.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "132",
+		"title": "Logic, Second Course",
+		"professor": "Levy, S.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "133C",
+		"title": "Topics in Probability and Inductive Logic: Philosophy and Machine Learning",
+		"professor": "Grant, C.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "150",
+		"title": "Society and Morals: Intergenerational Obligations",
+		"professor": "Herman, B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "152A",
+		"title": "Topics in Moral Philosophy: Achievements and Games",
+		"professor": "Flynn, A.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "153A",
+		"title": "Topics in Ethical Theory: Normative Ethics: Truth-Telling and Promising",
+		"professor": "Shiffrin, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "166",
+		"title": "Philosophy of Law: Lecture 1  ",
+		"professor": "Currie, A.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "174",
+		"title": "Topics in Theory of Knowledge: Self-Knowledge",
+		"professor": "Julius, A.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "177B",
+		"title": "Historical Studies in Existentialism: Lecture 1  ",
+		"professor": "Johnson, M.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "183",
+		"title": "Theory of Knowledge: Virtue Epistemology",
+		"professor": "Andrada de Gregori"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "M187",
+		"title": "Topics in Feminist Philosophy: Metaphysics and Epistemology: Feminist Philosophy",
+		"professor": "Andrada de Gregori"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Flynn, A.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Herman, B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "191",
+		"title": "Variable Topics Research Seminars: Philosophy: Conceptions of Good",
+		"professor": "DeWitt, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "198A",
+		"title": "Honors Research in Philosophy",
+		"professor": "Crager, A.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "200C",
+		"title": "Seminar for First-Year Graduate Students",
+		"professor": "Hsu, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "203",
+		"title": "Seminar: History of Ancient Philosophy: Seminar 1  ",
+		"professor": "Crager, A.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "232",
+		"title": "Philosophy of Science: Seminar 1  ",
+		"professor": "Elliott, K.J.; Roush, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "246",
+		"title": "Seminar: Ethical Theory: Seminar 1  ",
+		"professor": "Herman, B.; Carriero, J.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "254B",
+		"title": "Legal Theory Workshop",
+		"professor": "Shiffrin, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "259",
+		"title": "Philosophical Research in Ethics and Value Theory",
+		"professor": "Hieronymi, P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHILOS",
+		"code": "281",
+		"title": "Seminar: Philosophy of Mind: Seminar 1  ",
+		"professor": "Burge, C.T."
+	}
+]

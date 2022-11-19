@@ -1,0 +1,415 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "6",
+		"title": "Introduction to Data Analysis",
+		"professor": "Hazlett, C.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "10",
+		"title": "Introduction to Political Theory",
+		"professor": "Dienstag, J.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "19",
+		"title": "Can&#39;t We Make Moral Judgments?",
+		"professor": "Lohmann, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "20",
+		"title": "World Politics",
+		"professor": "Wilkinson, D.O."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "30",
+		"title": "Politics and Strategy",
+		"professor": "Chwe, M.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "40",
+		"title": "Introduction to American Politics",
+		"professor": "Tausanovitch, C.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "50",
+		"title": "Introduction to Comparative Politics",
+		"professor": "Thies, M.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "89HC",
+		"title": "Honors Contracts",
+		"professor": "Chwe, M.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "111C",
+		"title": "Late Modern Political Theory",
+		"professor": "Panagia, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "116A",
+		"title": "Marxism",
+		"professor": "Branstetter, J.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "119",
+		"title": "Special Studies in Political Theory: Pre-Modern East Asian Political Thought",
+		"professor": "Branstetter, J.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "124A",
+		"title": "International Political Economy",
+		"professor": "Roberts, T.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "126",
+		"title": "Peace and War",
+		"professor": "Larson, D.W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "137A",
+		"title": "International Relations Theory",
+		"professor": "Perry, J.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "139",
+		"title": "Special Studies in International Relations: International Relations of East and Southeast Asia",
+		"professor": "Lee, Y.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "140A",
+		"title": "National Institutions: Congress",
+		"professor": "Peris, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "140B",
+		"title": "National Institutions: The Presidency",
+		"professor": "James, S.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "142A",
+		"title": "Political Parties and Interest Groups: Political Parties",
+		"professor": "Zaller, J.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "145C",
+		"title": "Public Law and Judicial Process: Constitutional Law--Civil Liberties",
+		"professor": "Lebow, C.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "147C",
+		"title": "American Political Development: Institutional Development: Lecture 1  ",
+		"professor": "James, S.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "149",
+		"title": "Special Topics in American Government and Politics: Lecture 1  ",
+		"professor": "Crowell, D.A.; Williams, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "163A",
+		"title": "Discourse before Democracy",
+		"professor": "Anderson, R.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "169",
+		"title": "Special Studies in Comparative Politics: Contentious Issues in Contemporary China",
+		"professor": "McNamee, L.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "M181B",
+		"title": "U.S. Latino Politics",
+		"professor": "Barreto, M.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "M184A",
+		"title": "Black Experience in Latin America and Caribbean I",
+		"professor": "Lacayo, C.O."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "186",
+		"title": "Special Studies in Race, Ethnicity, and Politics: Race and Voting Rights",
+		"professor": "Waknin, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Seminar 1  ",
+		"professor": "Lohmann, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Roberts, T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Zaller, J.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "191A",
+		"title": "Variable Topics Research Seminars for Majors: Political Theory: Seminar 2  ",
+		"professor": "Lohmann, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "191B",
+		"title": "Variable Topics Research Seminars for Majors: International Relations: Seminar 1  ",
+		"professor": "Lohmann, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "191C",
+		"title": "Variable Topics Research Seminars for Majors: Politics: Magna Carta at 806",
+		"professor": "Orren, K.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "M194DC",
+		"title": "Quarter in Washington, DC, Research Seminar",
+		"professor": "Williams, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "M195DC",
+		"title": "Quarter in Washington, DC, Internships",
+		"professor": "Williams, J.A.; Kretz, S.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "M195DC",
+		"title": "Quarter in Washington, DC, Internships",
+		"professor": "Tausanovitch, C.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "M195DC",
+		"title": "Quarter in Washington, DC, Internships",
+		"professor": "Ross, M.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Tausanovitch, C.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Lofchie, M.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Larson, D.W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Thompson, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Min, E.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Zaller, J.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Perez, E.O."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Wilkinson, D.O."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Bawn, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Steinert-Threlkeld"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Peters, M.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Ross, M.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "McNamee, L.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "200B",
+		"title": "Regression Analysis for Social Science",
+		"professor": "Lewis, J.B.; Kappos, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "200D",
+		"title": "Maximum Likelihood for Social Science",
+		"professor": "Lewis, J.B.; Sterbenz, C.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "204A",
+		"title": "Game Theory in Politics I",
+		"professor": "O'Neill, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "210B",
+		"title": "Political Theory Field Seminar 2",
+		"professor": "Pagden, A.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "220B",
+		"title": "International Relations Core Seminar II",
+		"professor": "Peters, M.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "240B",
+		"title": "Seminar: Comparative Politics",
+		"professor": "Posner, D.N.; McNamee, L.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "260B",
+		"title": "Survey Course in American Politics: American Political Institutions",
+		"professor": "Tausanovitch, C.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "262",
+		"title": "Political Parties",
+		"professor": "Bawn, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "280B",
+		"title": "Research Methods in Race-Ethnicity Politics",
+		"professor": "Barreto, M.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "POL SCI",
+		"code": "292B",
+		"title": "Introduction to Political Inquiry: Research Design",
+		"professor": "Blair, G.D."
+	}
+]

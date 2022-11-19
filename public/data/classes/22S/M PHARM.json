@@ -1,0 +1,37 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "M PHARM",
+		"code": "200",
+		"title": "Introduction to Laboratory Research",
+		"professor": "Wu, T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "M PHARM",
+		"code": "M205A",
+		"title": "Introduction to Chemistry of Biology",
+		"professor": "TA"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "M PHARM",
+		"code": "M248",
+		"title": "Introduction to Biological Imaging",
+		"professor": "Hadjioannou, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "M PHARM",
+		"code": "251",
+		"title": "Seminar: Pharmacology",
+		"professor": "Wu, T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "M PHARM",
+		"code": "292",
+		"title": "Research Projects, Proposals, and Presentations",
+		"professor": "Divakaruni, A.S."
+	}
+]

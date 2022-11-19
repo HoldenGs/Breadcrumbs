@@ -1,0 +1,177 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "URBN PL",
+		"code": "M120",
+		"title": "Introduction to Cities and Planning",
+		"professor": "Lens, M.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "URBN PL",
+		"code": "M168",
+		"title": "Politics of Water",
+		"professor": "Herrera, V."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "URBN PL",
+		"code": "M201",
+		"title": "Theories of Architecture",
+		"professor": "Rovner, M.A.; Osman, M.; Gurumoorthy, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "URBN PL",
+		"code": "205A",
+		"title": "MURP Comprehensive Examination: Applied Planning Research Project I",
+		"professor": "Commins, S.K.; Taylor-Hasty, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "URBN PL",
+		"code": "M208A",
+		"title": "Introduction to Luskin PhD Research",
+		"professor": "Manville, M.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "URBN PL",
+		"code": "M208C",
+		"title": "Applied Research Design: Dissertation and Thesis Proposal",
+		"professor": "Manville, M.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "URBN PL",
+		"code": "M216",
+		"title": "Current Issues in Food Studies",
+		"professor": "Roberts, M.T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "URBN PL",
+		"code": "219",
+		"title": "Special Topics in Built Environment: Community-Engaged Planning and Design for More Just Public Realm",
+		"professor": "Odbert, C.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "URBN PL",
+		"code": "220A",
+		"title": "Quantitative Analysis in Urban Planning I",
+		"professor": "Rosales, W.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "URBN PL",
+		"code": "222A",
+		"title": "Introduction to Planning History and Theory",
+		"professor": "Vestal, M.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "URBN PL",
+		"code": "228",
+		"title": "Visual Communication Skills",
+		"professor": "Epley, E.E.; Nixon, F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "URBN PL",
+		"code": "229",
+		"title": "Special Topics in Planning Methods: Lecture 2  ",
+		"professor": "Lacob, D.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "URBN PL",
+		"code": "229",
+		"title": "Special Topics in Planning Methods: Lecture 3  ",
+		"professor": "Lacob, D.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "URBN PL",
+		"code": "229",
+		"title": "Special Topics in Planning Methods: Lecture 4  ",
+		"professor": "Lacob, D.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "URBN PL",
+		"code": "229",
+		"title": "Special Topics in Planning Methods: Zoning for Equity",
+		"professor": "Monkkonen, P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "URBN PL",
+		"code": "239",
+		"title": "Special Topics in Regional and International Development: Methods in Regional and Economic Development",
+		"professor": "Osman, T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "URBN PL",
+		"code": "249",
+		"title": "Special Topics in Transportation Policy and Planning: Just Transport and Inclusive Economies: Land-Use and Financing Strategies to Create Equitable Transit-Oriented Communities",
+		"professor": "France, R.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "URBN PL",
+		"code": "M250",
+		"title": "Transportation and Land Use: Urban Form",
+		"professor": "Ewing, R.H.; Ellis, E.W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "URBN PL",
+		"code": "M253",
+		"title": "Travel Behavior Analysis",
+		"professor": "Bills, T.S.; Paul, T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "URBN PL",
+		"code": "260A",
+		"title": "Environmental Assessment: Urban Design",
+		"professor": "Turner, V.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "URBN PL",
+		"code": "271A",
+		"title": "Community Economic Development",
+		"professor": "Tilly, C.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "URBN PL",
+		"code": "280",
+		"title": "Affordable Housing Development",
+		"professor": "Horsford, C.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "URBN PL",
+		"code": "281",
+		"title": "Introduction to History of Built Environment in U.S.",
+		"professor": "Leclerc, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "URBN PL",
+		"code": "297",
+		"title": "Current Issues in Urban Planning: Theory of Planning Abolitionist Futures",
+		"professor": "Vestal, M.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "URBN PL",
+		"code": "M297F",
+		"title": "Career Planning and Management",
+		"professor": "Stephens, M.; Torres Franco, K.A"
+	}
+]
