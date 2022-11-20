@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import CourseCard from './CourseCard'
 
-export default function Quarter({ quarterName }) {
+export default function Quarter({ name }) {
   const [editable, setEditable] = useState(false)
   const [coursesTaken, setCoursesTaken] = useState([])
   const [dumbID, setDumbID] = useState(0)
@@ -13,7 +13,7 @@ export default function Quarter({ quarterName }) {
       department: '',
       course: '',
       professor: '',
-      quarter: quarterName,
+      quarter: name,
       rating: 0,
       feelings: '', 
     })
@@ -23,14 +23,15 @@ export default function Quarter({ quarterName }) {
   
   return (
     <div className='quarter'>
-      <div>{quarterName}</div>
+      <div>{name}</div>
       <button onClick={() => setEditable(!editable)}>{editable ? 'Save' : 'Edit'}</button>
       {coursesTaken.length !== 0 ? (
         coursesTaken.map((course) => (
           <CourseCard
             key={course.id}
             idx={coursesTaken.findIndex(targetCourse => targetCourse.id === course.id)}
-            editable={editable} coursesTaken={coursesTaken}
+            editable={editable}
+            coursesTaken={coursesTaken}
             setCoursesTaken={setCoursesTaken}
           />
         )) 
