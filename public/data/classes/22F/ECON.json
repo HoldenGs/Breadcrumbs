@@ -1,0 +1,499 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "1",
+		"title": "Principles of Economics",
+		"professor": "Rojas, R.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "2",
+		"title": "Principles of Economics",
+		"professor": "Boswell, K.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "11",
+		"title": "Microeconomic Theory",
+		"professor": "Mazzocco, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "11",
+		"title": "Microeconomic Theory",
+		"professor": "Surro, C.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "19",
+		"title": "Introduction to Machine Learning with Python",
+		"professor": "Chetverikov, D.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "19",
+		"title": "Monetary and Financial Architectures",
+		"professor": "Bigio Luks, M.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "41",
+		"title": "Probability and Statistics for Economists",
+		"professor": "Rojas, R.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "89",
+		"title": "Honors Seminars: Honors Seminar for Economics 11",
+		"professor": "Mazzocco, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "97",
+		"title": "Economic Toolkit",
+		"professor": "Leepipatpiboon, P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "101",
+		"title": "Microeconomic Theory",
+		"professor": "Vogel, J.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "102",
+		"title": "Macroeconomic Theory",
+		"professor": "Bigio Luks, M.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "103",
+		"title": "Introduction to Econometrics",
+		"professor": "Convery, P.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "103L",
+		"title": "Econometrics Laboratory",
+		"professor": "Convery, P.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "104",
+		"title": "Data Science for Economists",
+		"professor": "Boswell, K.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "104L",
+		"title": "Data Science for Economists Laboratory",
+		"professor": "Boswell, K.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "106F",
+		"title": "Finance",
+		"professor": "McDevitt, E.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "106FB",
+		"title": "Finance Laboratory",
+		"professor": "McDevitt, E.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "106P",
+		"title": "Pricing and Strategy",
+		"professor": "McDevitt, E.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "106PL",
+		"title": "Pricing and Strategy Laboratory",
+		"professor": "McDevitt, E.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "111",
+		"title": "Theories of Development",
+		"professor": "Osei Twumasi, O.I."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "133",
+		"title": "Intergenerational Poverty in America",
+		"professor": "Lleras-Muney, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "133L",
+		"title": "Intergenerational Poverty in America Laboratory",
+		"professor": "Lleras-Muney, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "134",
+		"title": "Environmental Economics",
+		"professor": "Rafey, W.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "137",
+		"title": "Introduction to Urban and Regional Economics",
+		"professor": "Osei Twumasi, O.I."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "150",
+		"title": "Labor Economics",
+		"professor": "Shem-Tov, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "165",
+		"title": "History of Capitalism in American Economy",
+		"professor": "Surro, C.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "167",
+		"title": "Victims and Villains; Panics and Bubbles",
+		"professor": "Atkeson, A.G.; Simon, W.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "168",
+		"title": "Introduction to Principles of Value Investing",
+		"professor": "Simon, W.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "181",
+		"title": "Development of Economic Institutions in Western Europe",
+		"professor": "Giorcelli, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "181L",
+		"title": "Development of Economic Institutions in Western Europe Laboratory",
+		"professor": "Giorcelli, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "185",
+		"title": "Career Development",
+		"professor": "Ross, S.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Advanced Honors Seminar for Economics 134",
+		"professor": "Rafey, W.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Advanced Honors Seminar for Economics 150",
+		"professor": "Shem-Tov, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Seminar 3  ",
+		"professor": "Vogel, J.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "195A",
+		"title": "Community or Corporate Internships in Economics I",
+		"professor": "McGarry, K.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "195A",
+		"title": "Community or Corporate Internships in Economics I",
+		"professor": "Surro, C.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "198A",
+		"title": "Honors Research in Economics I",
+		"professor": "Londono-Velez, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "198A",
+		"title": "Honors Research in Economics I",
+		"professor": "Surro, C.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "199A",
+		"title": "Directed Research in Economics",
+		"professor": "McGarry, K.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "199A",
+		"title": "Directed Research in Economics",
+		"professor": "Surro, C.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "200",
+		"title": "Mathematical Methods in Economics",
+		"professor": "Obara, I."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "201A",
+		"title": "Microeconomics: Theory of Firm and Consumer",
+		"professor": "Lu, J.Y.; Hirasawa, T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "202A",
+		"title": "Macroeconomics: Dynamics and Growth Theory",
+		"professor": "Ohanian, L.; Yang, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "203A",
+		"title": "Introduction to Econometrics I",
+		"professor": "Hahn, J.; Navjeevan, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "M204A",
+		"title": "Applications of Economic Theory: California Population Research Topical Seminar Series",
+		"professor": "Heuveline, P.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "M204L",
+		"title": "Seminar: Pharmaceutical Economics and Policy",
+		"professor": "Lu, Z.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "209A",
+		"title": "PhD Research Seminar",
+		"professor": "Lleras-Muney, A.; Ohanian, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "211C",
+		"title": "Game Theory and Economic Applications",
+		"professor": "Sadzik, T.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "218A",
+		"title": "Proseminar: Economic Theory",
+		"professor": "Sadzik, T.M.; Bloedel, A.W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "219A",
+		"title": "Workshop: Economic Theory and Mathematical Economics",
+		"professor": "Sadzik, T.M.; Bloedel, A.W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "221A",
+		"title": "Monetary Economics I",
+		"professor": "Bigio Luks, M.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "228A",
+		"title": "Proseminar: Monetary Economics",
+		"professor": "Baqaee, D.R.; Bigio Luks, M.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "229A",
+		"title": "Workshop: Monetary Economics",
+		"professor": "Weill, P.; Baqaee, D.R.; Geerolf, F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "231A",
+		"title": "Advanced Econometrics I",
+		"professor": "Sheng, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "232M",
+		"title": "Topics in Econometrics: Lecture 1  ",
+		"professor": "Ribeiro Antunes Pi"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "238A",
+		"title": "Proseminar: Econometrics",
+		"professor": "Chetverikov, D.N.; Matzkin, R.L.; Liao, Z."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "239A",
+		"title": "Workshop: Econometrics",
+		"professor": "Chetverikov, D.N.; Liao, Z.; Sheng, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "241",
+		"title": "Economic History of Western Europe",
+		"professor": "Giorcelli, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "C246A",
+		"title": "Seminar: Economic History",
+		"professor": "Costa, D.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "248A",
+		"title": "Proseminar: Economic History",
+		"professor": "Costa, D.L.; Giorcelli, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "262A",
+		"title": "Topics in Labor Economics: Lecture 1  ",
+		"professor": "Shem-Tov, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "262D",
+		"title": "Development Economics",
+		"professor": "Bau, N.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "262P",
+		"title": "Topics in Labor Economics: Lecture 1  ",
+		"professor": "Lleras-Muney, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "268A",
+		"title": "Proseminar: Labor and Population",
+		"professor": "Haanwinckel Junque; Londono-Velez, J.; Shem-Tov, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "269A",
+		"title": "Workshop: Labor Economics",
+		"professor": "Haanwinckel Junque; Londono-Velez, J.; Shem-Tov, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "271A",
+		"title": "Industrial Organization, Price Policies, and Regulation I",
+		"professor": "Rafey, W.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "278A",
+		"title": "Proseminar: Industrial Organization and Regulation",
+		"professor": "Hackmann, M.B.; Rafey, W.M.; Rubens, M.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "279A",
+		"title": "Workshop: Business Organization",
+		"professor": "Hackmann, M.B.; Rafey, W.M.; Rubens, M.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "281A",
+		"title": "International Trade Theory",
+		"professor": "Vogel, J.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "C285A",
+		"title": "Seminar: International Economics",
+		"professor": "Fajgelbaum, P.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ECON",
+		"code": "288A",
+		"title": "Proseminar: International and Development Economics",
+		"professor": "Tornell, A."
+	}
+]

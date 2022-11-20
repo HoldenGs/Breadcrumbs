@@ -1,0 +1,51 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "ARMENIA",
+		"code": "101C",
+		"title": "Elementary Modern Western Armenian",
+		"professor": "Kouloujian, H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ARMENIA",
+		"code": "102C",
+		"title": "Intermediate Modern Western Armenian",
+		"professor": "Kouloujian, H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ARMENIA",
+		"code": "104C",
+		"title": "Elementary Modern Eastern Armenian",
+		"professor": "Hovhannisyan, T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ARMENIA",
+		"code": "105C",
+		"title": "Intermediate Modern Eastern Armenian",
+		"professor": "Hovhannisyan, T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ARMENIA",
+		"code": "C153",
+		"title": "Art, Politics, and Nationalism in Modern Armenian Literature",
+		"professor": "Cowe, P.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ARMENIA",
+		"code": "188",
+		"title": "Variable Topics in Armenian: Language in Action: Creative Literacy in Armenian",
+		"professor": "Kouloujian, H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ARMENIA",
+		"code": "231C",
+		"title": "Intermediate Classical Armenian",
+		"professor": "Cowe, P.S."
+	}
+]

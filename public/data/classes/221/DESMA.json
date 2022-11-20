@@ -1,0 +1,79 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "DESMA",
+		"code": "10",
+		"title": "Design Culture",
+		"professor": "Moore, J.F."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "DESMA",
+		"code": "21",
+		"title": "Drawing and Color",
+		"professor": "Person, I.S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "DESMA",
+		"code": "24",
+		"title": "Motion",
+		"professor": "Chen, C."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "DESMA",
+		"code": "25",
+		"title": "Typography",
+		"professor": "Smith Iii, B.J.; Mendez, R."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "DESMA",
+		"code": "160",
+		"title": "Special Topics in Design | Media Arts: Digital Photography",
+		"professor": "Powers, M.D."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "DESMA",
+		"code": "161",
+		"title": "Network Media",
+		"professor": "Moon, H."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "DESMA",
+		"code": "195A",
+		"title": "Community or Corporate Internships in Design | Media Arts",
+		"professor": "Lunenfeld, P.B."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "DESMA",
+		"code": "195B",
+		"title": "Community or Corporate Internships in Design | Media Arts",
+		"professor": "Lucas, W.H."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "DESMA",
+		"code": "195B",
+		"title": "Community or Corporate Internships in Design | Media Arts",
+		"professor": "Mendez, R."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "DESMA",
+		"code": "195B",
+		"title": "Community or Corporate Internships in Design | Media Arts",
+		"professor": "McWilliams, C.B."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "DESMA",
+		"code": "195B",
+		"title": "Community or Corporate Internships in Design | Media Arts",
+		"professor": "Drucker, J.R."
+	}
+]

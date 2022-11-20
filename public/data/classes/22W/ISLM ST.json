@@ -1,0 +1,23 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "ISLM ST",
+		"code": "M111",
+		"title": "Introduction to Islamic Archaeology",
+		"professor": "Burke, K.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ISLM ST",
+		"code": "M115",
+		"title": "Islam and Other Religions",
+		"professor": "Yarbrough, L.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ISLM ST",
+		"code": "201",
+		"title": "Arabo-Islamic Sciences",
+		"professor": "Yarbrough, L.B."
+	}
+]

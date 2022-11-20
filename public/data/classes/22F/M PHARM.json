@@ -1,0 +1,30 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "M PHARM",
+		"code": "200",
+		"title": "Introduction to Laboratory Research",
+		"professor": "Wu, T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "M PHARM",
+		"code": "237",
+		"title": "Research Frontiers in Cellular and Molecular Pharmacology",
+		"professor": "Chow, S.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "M PHARM",
+		"code": "251",
+		"title": "Seminar: Pharmacology",
+		"professor": "Wu, T.; Le, T.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "M PHARM",
+		"code": "291",
+		"title": "Special Topics in Pharmacology",
+		"professor": "Wu, T."
+	}
+]

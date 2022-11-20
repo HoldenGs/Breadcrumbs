@@ -1,0 +1,79 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "KOREA",
+		"code": "3",
+		"title": "Elementary Modern Korean",
+		"professor": "Choi, J.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "KOREA",
+		"code": "3",
+		"title": "Elementary Modern Korean",
+		"professor": "Mitsunaga, J.I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "KOREA",
+		"code": "3A",
+		"title": "Elementary Korean for Korean-Heritage Speakers",
+		"professor": "Ju, H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "KOREA",
+		"code": "6",
+		"title": "Intermediate Modern Korean",
+		"professor": "Jeon, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "KOREA",
+		"code": "75",
+		"title": "Introduction to Korean Literature and Culture",
+		"professor": "Park, H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "KOREA",
+		"code": "100C",
+		"title": "Advanced Modern Korean",
+		"professor": "Yoon, J.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "KOREA",
+		"code": "101C",
+		"title": "Advanced Readings in Modern Korean",
+		"professor": "Mitsunaga, J.I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "KOREA",
+		"code": "103A",
+		"title": "Readings in Sino-Korean Characters",
+		"professor": "Yoon, J.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "KOREA",
+		"code": "124",
+		"title": "Topics in Korean Language and Culture",
+		"professor": "Sohn, S.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "KOREA",
+		"code": "153",
+		"title": "Korea West Encounters",
+		"professor": "Oak, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "KOREA",
+		"code": "296B",
+		"title": "Seminar: Topics in Modern Korean Cultural History",
+		"professor": "Lee, N."
+	}
+]

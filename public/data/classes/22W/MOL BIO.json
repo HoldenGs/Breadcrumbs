@@ -1,0 +1,44 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "MOL BIO",
+		"code": "252",
+		"title": "Writing for Science",
+		"professor": "Kurdistani, S.K.; Carey, M.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MOL BIO",
+		"code": "254C",
+		"title": "Concepts in Molecular Biosciences: Genetic Approaches to Study Metabolism",
+		"professor": "Vallim, T.A.; Payne, G.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MOL BIO",
+		"code": "254C",
+		"title": "Concepts in Molecular Biosciences: Lecture 2  ",
+		"professor": "Lyons, K.M.; Hartenstein, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MOL BIO",
+		"code": "254C",
+		"title": "Concepts in Molecular Biosciences: Mechanisms of Microbial Pathogenesis",
+		"professor": "Miller, J.F.; Bradley, P.J.; Ton-That, H.; Hill, K.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MOL BIO",
+		"code": "254D",
+		"title": "Concepts in Molecular Biosciences: Statistical Tool and Concepts for Molecular Biologists",
+		"professor": "Zaitlen, N.A.; Ali, I.I.; Gamble, A.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MOL BIO",
+		"code": "255",
+		"title": "Scientific Writing",
+		"professor": "Aguiar Vallim, E.J; Marcus, E.; Coller, H.A.; Payne, G.S.; Guo, F.; Hallem, E.A.; Colicelli, J.J.; Sagasti, A.; Covarrubias, A.G.; Vallim, T.A.; Boutros, P.C.; Soragni, A.; Long, J.A."
+	}
+]

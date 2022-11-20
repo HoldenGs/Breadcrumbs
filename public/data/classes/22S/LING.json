@@ -1,0 +1,324 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "1",
+		"title": "Introduction to Study of Language",
+		"professor": "Torrence, W.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "8",
+		"title": "Language in Context",
+		"professor": "Harris, J.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "20",
+		"title": "Introduction to Linguistic Analysis",
+		"professor": "Schutze, C.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "102",
+		"title": "Introduction to Applied Phonetics",
+		"professor": "Bell, E.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "105",
+		"title": "Morphology",
+		"professor": "Operstein, N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "110",
+		"title": "Introduction to Historical Linguistics",
+		"professor": "Silvestri, G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "111",
+		"title": "Intonation",
+		"professor": "Jun, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "119A",
+		"title": "Applied Phonology",
+		"professor": "Bell, E.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "120A",
+		"title": "Phonology I",
+		"professor": "Moore-Cantwell, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "120B",
+		"title": "Syntax I",
+		"professor": "Loccioni, N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "127",
+		"title": "Syntactic Typology and Universals",
+		"professor": "Silvestri, G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "130",
+		"title": "Language Development",
+		"professor": "Loccioni, N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "C140",
+		"title": "Bilingualism and Second Language Acquisition",
+		"professor": "Bahtina, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "M141",
+		"title": "Current Methods of Language Teaching",
+		"professor": "Hualpa, L.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "M146",
+		"title": "Language in Culture",
+		"professor": "Thomson, A.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "165A",
+		"title": "Phonology II",
+		"professor": "Zuraw, K.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "165C",
+		"title": "Semantics II",
+		"professor": "Sharvit, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "170",
+		"title": "Language and Society: Introduction to Sociolinguistics",
+		"professor": "Bahtina, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "M176B",
+		"title": "Structure of Japanese",
+		"professor": "Iwasaki, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "185B",
+		"title": "Computational Linguistics II",
+		"professor": "Hunter, T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "194",
+		"title": "Research Group Seminars: Laboratory Research in Linguistics",
+		"professor": "Rett, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "197",
+		"title": "Individual Studies in Linguistics",
+		"professor": "Torrence, W.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "197",
+		"title": "Individual Studies in Linguistics",
+		"professor": "Sundara, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "197",
+		"title": "Individual Studies in Linguistics",
+		"professor": "Jun, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "197",
+		"title": "Individual Studies in Linguistics",
+		"professor": "Moore-Cantwell, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "197",
+		"title": "Individual Studies in Linguistics",
+		"professor": "Zuraw, K.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "198B",
+		"title": "Honors Research in Linguistics II",
+		"professor": "Bahtina, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "204C",
+		"title": "Speech Perception",
+		"professor": "Sundara, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "209A",
+		"title": "Computational Linguistics I",
+		"professor": "Perkins, L.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "210B",
+		"title": "Field Methods II",
+		"professor": "Torrence, W.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "216",
+		"title": "Syntactic Theory III",
+		"professor": "Mahajan, A.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "219",
+		"title": "Phonological Theory III",
+		"professor": "Hayes, B.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "222",
+		"title": "Semantic Theory III",
+		"professor": "Rett, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "239",
+		"title": "Research Design and Statistical Methods",
+		"professor": "Harris, J.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "252A",
+		"title": "Topics in Syntax and Semantics",
+		"professor": "Keine, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "252B",
+		"title": "Topics in Syntax and Semantics",
+		"professor": "Keine, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "254A",
+		"title": "Topics in Linguistics",
+		"professor": "Hunter, T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "254B",
+		"title": "Topics in Linguistics",
+		"professor": "Hunter, T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "260C",
+		"title": "Seminar: Phonetics",
+		"professor": "Jun, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "261C",
+		"title": "Seminar: Phonology",
+		"professor": "Hayes, B.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "262C",
+		"title": "Syntax Seminar",
+		"professor": "Torrence, W.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "263",
+		"title": "Seminar: Semantics",
+		"professor": "Rett, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "264C",
+		"title": "Seminar: Psycholinguistics/Neurolinguistics",
+		"professor": "Schutze, C.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "265C",
+		"title": "American Indian Linguistics Seminar",
+		"professor": "Munro, P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "275",
+		"title": "Linguistics Colloquium",
+		"professor": "Keating, P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "LING",
+		"code": "276",
+		"title": "Linguistics Colloquium",
+		"professor": "Keating, P."
+	}
+]

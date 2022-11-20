@@ -1,0 +1,58 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB HLT",
+		"code": "10",
+		"title": "Introduction to Public Health",
+		"professor": "Kim-Farley, R.J.; Assaf, R.D.; Pan, Y.; Williams, R.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB HLT",
+		"code": "88S",
+		"title": "Effective Communication of Science and Public Health Messages: Convincing Masses",
+		"professor": "Bui, T.; Kuo, A.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB HLT",
+		"code": "C150",
+		"title": "Fundamentals of Public Health",
+		"professor": "Shafir, S.C.; Guzman, I.Y.; Limas, J.A.; Vidales, J.R.; Vu, K.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB HLT",
+		"code": "M160A",
+		"title": "Health Outreach and Education for At-Risk Populations",
+		"professor": "Esdin, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB HLT",
+		"code": "M160B",
+		"title": "Health Outreach and Education for At-Risk Populations",
+		"professor": "Esdin, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB HLT",
+		"code": "188SC",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Kuo, A.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB HLT",
+		"code": "195CE",
+		"title": "Community and Corporate Internship in Public Health",
+		"professor": "Karapetyan, M.; McJunkin, K.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB HLT",
+		"code": "C201",
+		"title": "Fundamentals of Public Health",
+		"professor": "Shafir, S.C."
+	}
+]

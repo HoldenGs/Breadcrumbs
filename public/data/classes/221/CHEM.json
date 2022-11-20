@@ -1,0 +1,142 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "CHEM",
+		"code": "14A",
+		"title": "General Chemistry for Life Scientists I",
+		"professor": "Zinke, P.W."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "CHEM",
+		"code": "14B",
+		"title": "General Chemistry for Life Scientists II",
+		"professor": "Courey, A.J."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "CHEM",
+		"code": "14BL",
+		"title": "General and Organic Chemistry Laboratory I",
+		"professor": "Henary, M.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "CHEM",
+		"code": "14BL",
+		"title": "General and Organic Chemistry Laboratory I",
+		"professor": "Pang, J.W."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "CHEM",
+		"code": "14C",
+		"title": "Structure of Organic Molecules",
+		"professor": "Reilly, A.J."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "CHEM",
+		"code": "14CL",
+		"title": "General and Organic Chemistry Laboratory II",
+		"professor": "Pang, J.W."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "CHEM",
+		"code": "14CL",
+		"title": "General and Organic Chemistry Laboratory II",
+		"professor": "Henary, M.M.; Baublis, A.J."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "CHEM",
+		"code": "17",
+		"title": "Chemical Principles",
+		"professor": "Ow, F.P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "CHEM",
+		"code": "20A",
+		"title": "Chemical Structure",
+		"professor": "Ow, F.P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "CHEM",
+		"code": "30A",
+		"title": "Organic Chemistry I: Structure and Reactivity",
+		"professor": "Corsello, M.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "CHEM",
+		"code": "30B",
+		"title": "Organic Chemistry II: Reactivity, Synthesis, and Spectroscopy",
+		"professor": "Reilly, A.J."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "CHEM",
+		"code": "101",
+		"title": "Catalysis in Modern Drug Discovery",
+		"professor": "Mehta, M.; Bulger, A.; Wonilowicz, L.; Garg, N.K."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "CHEM",
+		"code": "153A",
+		"title": "Biochemistry: Introduction to Structure, Enzymes, and Metabolism",
+		"professor": "Jarrett, D.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "CHEM",
+		"code": "153B",
+		"title": "Biochemistry: DNA, RNA, and Protein Synthesis",
+		"professor": "He, C."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "CHEM",
+		"code": "153L",
+		"title": "Biochemical Methods I",
+		"professor": "Lannan, R."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "CHEM",
+		"code": "192F",
+		"title": "Methods and Application of Collaborative Learning Theory and Practice",
+		"professor": "Shaked, S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "CHEM",
+		"code": "196A",
+		"title": "Research Apprenticeship in Chemistry and Biochemistry",
+		"professor": "Kaner, R.B."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "CHEM",
+		"code": "196A",
+		"title": "Research Apprenticeship in Chemistry and Biochemistry",
+		"professor": "Rubin, Y.F."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "CHEM",
+		"code": "196A",
+		"title": "Research Apprenticeship in Chemistry and Biochemistry",
+		"professor": "Caram, J.R."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "CHEM",
+		"code": "196B",
+		"title": "Research Apprenticeship in Chemistry and Biochemistry",
+		"professor": "Rodriguez, J.A."
+	}
+]

@@ -1,0 +1,506 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "1A",
+		"title": "Introduction to Western Civilization: Ancient Civilizations, Prehistory to circa AD 843",
+		"professor": "Phillips, D.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "1C",
+		"title": "Introduction to Western Civilization: Circa 1715 to Present",
+		"professor": "Ford, C.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "3A",
+		"title": "History of Science: Renaissance to 1800",
+		"professor": "Alexander, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "9A",
+		"title": "Introduction to Asian Civilizations: History of India",
+		"professor": "Lal, V."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "9D",
+		"title": "Introduction to Asian Civilizations: History of Middle East",
+		"professor": "Gelvin, J.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "10B",
+		"title": "History of Africa, 1800 to Present",
+		"professor": "Worger, W.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "11A",
+		"title": "History of China: To 1000",
+		"professor": "Von Glahn, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "12B",
+		"title": "Inequality: History of Neoliberalism",
+		"professor": "Kelley, R.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "13A",
+		"title": "History of the U.S. and Its Colonial Origins: Colonial Origins and First Nation Building Acts",
+		"professor": "Yirush, C.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "19",
+		"title": "Los Angeles: Architecture and Ethnicity",
+		"professor": "Ruiz, T.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "20",
+		"title": "World History to AD 600",
+		"professor": "Green, N.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "94",
+		"title": "What Is History? An Introduction to Historical Thinking and Practice",
+		"professor": "Tutino, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "96W",
+		"title": "Introduction to Historical Practice: Business Life in China during Age of Capitalism and Imperialism: Myth versus Reality, 1800-1950",
+		"professor": "Hao, X.; McClendon, M.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "96W",
+		"title": "Introduction to Historical Practice: Economic Life in Ottoman Empire, circa 1700 to 1900",
+		"professor": "Adney, K.J.; McClendon, M.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "96W",
+		"title": "Introduction to Historical Practice: Medieval and Early Modern Diasporas, 1450 to 1650",
+		"professor": "Ibarra, R.P.; McClendon, M.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "96W",
+		"title": "Introduction to Historical Practice: Working Toward Freedom: 20th-Century Black Radical Tradition",
+		"professor": "Munoz, J.; McClendon, M.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "97C",
+		"title": "Introduction to Historical Practice: Variable Topics in European History: Seminar 1  ",
+		"professor": "Silverman, D.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "97D",
+		"title": "Introduction to Historical Practice: Variable Topics in U.S. History: Freedom, Power, and Protest in Modern America",
+		"professor": "Kim, K.Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "105A",
+		"title": "Survey of Middle East, 500 to Present: 500 to 1300",
+		"professor": "Morony, M.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "M108C",
+		"title": "Culture Area of Maghrib (North Africa)",
+		"professor": "Boum, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "113A",
+		"title": "History of Ancient Greece: Rise of Greek City-State",
+		"professor": "Phillips, D.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "114A",
+		"title": "History of Rome to Death of Caesar",
+		"professor": "Vivian, A.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "116A",
+		"title": "Byzantine History",
+		"professor": "Langdon, J.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "120B",
+		"title": "East-Central Europe: Short 20th Century, 1918 to 1990",
+		"professor": "McBride, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "124B",
+		"title": "History of France: France, 1715 to 1871",
+		"professor": "Nasiali, M.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "M127A",
+		"title": "History of Russia, Origins to Rise of Muscovy",
+		"professor": "Lenhoff, G.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "127B",
+		"title": "History of Russia: Imperial Russia from Peter the Great to Nicholas II",
+		"professor": "Frank, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "136B",
+		"title": "History of Britain: Making of Modern Britain, 1715 to 1867",
+		"professor": "Paul, T.; Cham, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "148",
+		"title": "Introduction to Public/Applied History",
+		"professor": "Paul, T.; Bell-Wilson, C.; Cham, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "154",
+		"title": "History of California",
+		"professor": "Sladeck, J.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "156",
+		"title": "Topics in U.S. History: Lecture 1  ",
+		"professor": "Williams, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "165",
+		"title": "Topics in African History: African History through History of Things",
+		"professor": "Lydon, G.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "170D",
+		"title": "20th-Century China",
+		"professor": "Wong, R.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "M174D",
+		"title": "Indo-Islamic Interactions, 700 to 1750",
+		"professor": "Subrahmanyam, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "179A",
+		"title": "Variable Topics in History of Medicine: Historic Roots of Healing Arts",
+		"professor": "Zeleny, C.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "187C",
+		"title": "Variable Topics Historiography Proseminar: Europe: Eating and Drinking in Time of Totalitarianism",
+		"professor": "Griffith, B.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "187F",
+		"title": "Variable Topics Historiography Proseminar: Near East: Everyday Ottoman Life: Material Culture and Commodities in Early Modern Period",
+		"professor": "Momdjian, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "C187N",
+		"title": "Topics in Historiography: India: Mughal Empire and Its Neighbors",
+		"professor": "Subrahmanyam, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "McBride, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Lenhoff, G.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Nasiali, M.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "191C",
+		"title": "Capstone Seminar: History--Europe: Imperial Cities",
+		"professor": "Nasiali, M.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "191C",
+		"title": "Capstone Seminar: History--Europe: Urban Unrest in Early Modern European World",
+		"professor": "McClendon, M.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "191C",
+		"title": "Capstone Seminar: History--Europe: World War II, Vichy France, and German Occupation",
+		"professor": "Ford, C.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "191F",
+		"title": "Capstone Seminar: History--Near East: Economic Life in Ottoman Empire",
+		"professor": "Koh, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "C191J",
+		"title": "Topics in History: Africa: Things in History, History of Things: New Approaches to Researching African History",
+		"professor": "Lydon, G.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "C191K",
+		"title": "Topics in History: History of Religions: Muslims, Saints, and Social History",
+		"professor": "Green, N.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "M194DC",
+		"title": "Quarter in Washington, DC, Research Seminar",
+		"professor": "Williams, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "195CE",
+		"title": "Community and Corporate Internships in History",
+		"professor": "Paul, T.; Nath, N.; Cham, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "M195DC",
+		"title": "Quarter in Washington, DC, Internships",
+		"professor": "Williams, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "198B",
+		"title": "Honors Research in History",
+		"professor": "Frank, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "198B",
+		"title": "Honors Research in History",
+		"professor": "Kelley, R.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "198B",
+		"title": "Honors Research in History",
+		"professor": "Alexander, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "198B",
+		"title": "Honors Research in History",
+		"professor": "Ruiz, T.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "198B",
+		"title": "Honors Research in History",
+		"professor": "Yirush, C.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "198B",
+		"title": "Honors Research in History",
+		"professor": "Corey, M.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "198B",
+		"title": "Honors Research in History",
+		"professor": "Langdon, J.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "198B",
+		"title": "Honors Research in History",
+		"professor": "Jovanovic, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "198B",
+		"title": "Honors Research in History",
+		"professor": "Green, N.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "198B",
+		"title": "Honors Research in History",
+		"professor": "Perez-Montesinos,"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "198B",
+		"title": "Honors Research in History",
+		"professor": "Matsumoto, V.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "198B",
+		"title": "Honors Research in History",
+		"professor": "Kim, K.Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "198B",
+		"title": "Honors Research in History",
+		"professor": "Lydon, G.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "198B",
+		"title": "Honors Research in History",
+		"professor": "McClendon, M.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "200J",
+		"title": "Advanced Historiography: Near East: Historiography of Modern Middle East",
+		"professor": "Gelvin, J.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "201B",
+		"title": "Topics in History: Ancient Rome: Romans and Their Slaves",
+		"professor": "Woolf, G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "201I",
+		"title": "Topics in History: Latin America: Seminar 1  ",
+		"professor": "Summerhill, W.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "C201N",
+		"title": "Topics in History: Africa: Things in History, History of Things: New Approaches to Researching African History",
+		"professor": "Lydon, G.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "C201P",
+		"title": "Topics in History: History of Religions: Muslims, Saints, and Social History",
+		"professor": "Green, N.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "204A",
+		"title": "Departmental Seminar: Approaches, Methods, Debates, Practices",
+		"professor": "Pestana, C.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "246A",
+		"title": "Introduction to U.S. History: Colonial Period",
+		"professor": "Yirush, C.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIST",
+		"code": "288A",
+		"title": "Seminar: South Asia",
+		"professor": "Lal, V."
+	}
+]

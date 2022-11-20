@@ -1,0 +1,37 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "MIL SCI",
+		"code": "Z",
+		"title": "Leadership Laboratory",
+		"professor": "Martinez, K.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MIL SCI",
+		"code": "11",
+		"title": "Foundations of Officership",
+		"professor": "Kete, L.R.; Rivera, C.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MIL SCI",
+		"code": "21",
+		"title": "Individual Leadership Development",
+		"professor": "Kete, L.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MIL SCI",
+		"code": "131",
+		"title": "Tactical Planning and Analysis",
+		"professor": "Coyle, C.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MIL SCI",
+		"code": "141",
+		"title": "Leadership and Management",
+		"professor": "Toms, K.E."
+	}
+]

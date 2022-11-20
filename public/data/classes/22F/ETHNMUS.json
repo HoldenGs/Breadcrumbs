@@ -1,0 +1,324 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "M6A",
+		"title": "Introduction to Musicianship",
+		"professor": "Depinna, N.; Culcasi, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "M6A",
+		"title": "Introduction to Musicianship",
+		"professor": "Depinna, N.; Moss, M.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "M6A",
+		"title": "Introduction to Musicianship",
+		"professor": "Depinna, N.; Duran Zarate, C.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "M6A",
+		"title": "Introduction to Musicianship",
+		"professor": "Depinna, N.; Schipper, I.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "M6A",
+		"title": "Introduction to Musicianship",
+		"professor": "Depinna, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "20C",
+		"title": "Musical Cultures of World: Asia",
+		"professor": "Rees, H.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "M25",
+		"title": "Global Pop",
+		"professor": "Ruskin, J.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "46",
+		"title": "India through Music",
+		"professor": "Morcom, A.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "M50A",
+		"title": "Jazz in American Culture: Late 19th Century through 1940s",
+		"professor": "Bolin, M.T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "68A",
+		"title": "World Music Specializations: Music of China--Ensemble",
+		"professor": "Li, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "68B",
+		"title": "World Music Specializations: Music of China--Chinese Opera",
+		"professor": "Li, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "68F",
+		"title": "World Music Specializations: Music of India--Ensemble",
+		"professor": "Neuman, R.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "68F",
+		"title": "World Music Specializations: Music of India--Ensemble",
+		"professor": "Shrewsbery, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "91B",
+		"title": "World Music Performance Organizations: Music of Bali",
+		"professor": "Wenten, I.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "91E",
+		"title": "World Music Performance Organizations: Music and Dance of Ghana",
+		"professor": "Akotuah, F.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "91H",
+		"title": "World Music Performance Organizations: Music of Java",
+		"professor": "Wimboprasetyo, D.W"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "91K",
+		"title": "World Music Performance Organizations: Music of Mexico",
+		"professor": "Guzman, J.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "91Z",
+		"title": "World Music Performance Organizations: Open Ensemble: Klezmer Music Ensemble",
+		"professor": "Black, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "91Z",
+		"title": "World Music Performance Organizations: Open Ensemble: Music of Thailand Ensemble",
+		"professor": "Adler, S.I."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "91Z",
+		"title": "World Music Performance Organizations: Open Ensemble: Music of Turkey Ensemble",
+		"professor": "Beken, M.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "91Z",
+		"title": "World Music Performance Organizations: Open Ensemble: Old-Time String Band Ensemble",
+		"professor": "Bragger, D.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "92",
+		"title": "Private Instruction in Music",
+		"professor": "Taylor, T.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "106A",
+		"title": "Traditional North American Indian Music",
+		"professor": "Browner, T.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "M110B",
+		"title": "African American Musical Heritage",
+		"professor": "Doleac, B.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "M134",
+		"title": "Introduction to Armenian Music",
+		"professor": "Bilal, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "C156A",
+		"title": "Music in China",
+		"professor": "Rees, H.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "161B",
+		"title": "Advanced World Music Performance Organizations: Music of Bali",
+		"professor": "Wenten, I.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "161E",
+		"title": "Advanced World Music Performance Organizations: Music and Dance of Ghana",
+		"professor": "Akotuah, F.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "161H",
+		"title": "Advanced World Music Performance Organizations: Music of Java",
+		"professor": "Wimboprasetyo, D.W"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "161K",
+		"title": "Advanced World Music Performance Organizations: Music of Mexico",
+		"professor": "Guzman, J.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "161P",
+		"title": "Advanced World Music Performance Organizations: African American Music Ensemble",
+		"professor": "White-Clayton, D.L"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "161Z",
+		"title": "Advanced World Music Performance Organizations: Open Ensemble: Klezmer Music Ensemble",
+		"professor": "Black, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "161Z",
+		"title": "Advanced World Music Performance Organizations: Open Ensemble: Music of Turkey Ensemble",
+		"professor": "Beken, M.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "161Z",
+		"title": "Advanced World Music Performance Organizations: Open Ensemble: Old-Time String Band Ensemble",
+		"professor": "Bragger, D.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "162",
+		"title": "Advanced Private Instruction in Music",
+		"professor": "Taylor, T.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "168A",
+		"title": "Advanced World Music Specializations: Music of China--Ensemble",
+		"professor": "Li, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "168B",
+		"title": "Advanced World Music Specializations: Music of China--Zheng",
+		"professor": "Li, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "168F",
+		"title": "Advanced World Music Specializations: Music of India--Ensemble",
+		"professor": "Neuman, R.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "168F",
+		"title": "Advanced World Music Specializations: Music of India--Ensemble",
+		"professor": "Shrewsbery, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "186",
+		"title": "Senior Recital or Project",
+		"professor": "Taylor, T.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "188",
+		"title": "Special Courses in Ethnomusicology: Music of Turkey",
+		"professor": "Beken, M.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "188",
+		"title": "Special Courses in Ethnomusicology: Music, Communities, and Sustainability",
+		"professor": "Schippers, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "215A",
+		"title": "Ethnomusicological Perspectives and Paradigms I: Late 19th Century to 1980s",
+		"professor": "Browner, T.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "216A",
+		"title": "Ethnomusicological Methods I",
+		"professor": "Morcom, A.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "C256A",
+		"title": "Music in China",
+		"professor": "Rees, H.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ETHNMUS",
+		"code": "292B",
+		"title": "Seminar: Special Topics in Ethnomusicology: Survival Skills for Applied Ethnomusicologists",
+		"professor": "Schippers, H."
+	}
+]

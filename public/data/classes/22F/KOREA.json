@@ -1,0 +1,100 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "KOREA",
+		"code": "1",
+		"title": "Elementary Modern Korean",
+		"professor": "Choi, J.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "KOREA",
+		"code": "1",
+		"title": "Elementary Modern Korean",
+		"professor": "Mitsunaga, J.I."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "KOREA",
+		"code": "1A",
+		"title": "Elementary Korean for Korean-Heritage Speakers",
+		"professor": "Ju, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "KOREA",
+		"code": "4",
+		"title": "Intermediate Modern Korean",
+		"professor": "Ju, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "KOREA",
+		"code": "4",
+		"title": "Intermediate Modern Korean",
+		"professor": "Jeon, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "KOREA",
+		"code": "50",
+		"title": "History of Korean Civilization",
+		"professor": "Wang, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "KOREA",
+		"code": "100A",
+		"title": "Advanced Modern Korean",
+		"professor": "Yoon, J.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "KOREA",
+		"code": "101A",
+		"title": "Advanced Readings in Modern Korean",
+		"professor": "Mitsunaga, J.I."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "KOREA",
+		"code": "102A",
+		"title": "Advanced Korean Conversation",
+		"professor": "Choi, J.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "KOREA",
+		"code": "C105A",
+		"title": "Reading Korean Academic Texts",
+		"professor": "Yoon, J.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "KOREA",
+		"code": "184",
+		"title": "Women in History: Korea",
+		"professor": "Jung-Kim, J.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "KOREA",
+		"code": "197",
+		"title": "Individual Studies in Korean",
+		"professor": "Wang, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "KOREA",
+		"code": "200",
+		"title": "Bibliography and Methods of Research in Korean",
+		"professor": "Wang, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "KOREA",
+		"code": "296A",
+		"title": "Seminar: Topics in Modern Korean Cultural History",
+		"professor": "Lee, N."
+	}
+]

@@ -1,0 +1,65 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "ASIAN",
+		"code": "30",
+		"title": "Languages and Cultures of Asia",
+		"professor": "Iwasaki, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ASIAN",
+		"code": "100",
+		"title": "Methods in Asian Linguistics",
+		"professor": "Tao, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ASIAN",
+		"code": "104",
+		"title": "Asian Language Pedagogy",
+		"professor": "Sohn, S.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ASIAN",
+		"code": "135",
+		"title": "Asian Foodways across Borders",
+		"professor": "Jung-Kim, J.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ASIAN",
+		"code": "188SA",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Jung-Kim, J.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ASIAN",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Jung-Kim, J.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ASIAN",
+		"code": "200",
+		"title": "Research Methods in East Asian Linguistics",
+		"professor": "Tao, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ASIAN",
+		"code": "204A",
+		"title": "Issues and Practices in Teaching Asian Languages",
+		"professor": "Sohn, S.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ASIAN",
+		"code": "206A",
+		"title": "Issues in Teaching Asian Languages and Classroom Practices",
+		"professor": "Sohn, S.S."
+	}
+]

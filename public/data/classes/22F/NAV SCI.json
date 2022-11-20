@@ -1,0 +1,30 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "NAV SCI",
+		"code": "Z",
+		"title": "Naval Science Laboratory",
+		"professor": "Loria, I.; Piper, W.S.; Rowan, J.D.; Gabel, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "NAV SCI",
+		"code": "1A",
+		"title": "Introduction to Naval Science",
+		"professor": "Piper, W.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "NAV SCI",
+		"code": "1B",
+		"title": "Naval Ship Systems I",
+		"professor": "Rowan, J.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "NAV SCI",
+		"code": "102C",
+		"title": "Leadership and Ethics",
+		"professor": "Juarez, G."
+	}
+]

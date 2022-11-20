@@ -1,0 +1,303 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "1",
+		"title": "Precalculus",
+		"professor": "Greene, M.P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "31A",
+		"title": "Differential and Integral Calculus",
+		"professor": "Greene, M.P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "31B",
+		"title": "Integration and Infinite Series",
+		"professor": "Sanchez Ocal, P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "32A",
+		"title": "Calculus of Several Variables",
+		"professor": "Lindstrom, M.R.; Jung, C.; Roper, M.L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "32A",
+		"title": "Calculus of Several Variables",
+		"professor": "Tong, M.Y."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "32B",
+		"title": "Calculus of Several Variables",
+		"professor": "Enakoutsa, K."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "33A",
+		"title": "Linear Algebra and Applications",
+		"professor": "Sanchez Ocal, P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "33B",
+		"title": "Differential Equations",
+		"professor": "Smits, T.J.; Roper, M.L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "33B",
+		"title": "Differential Equations",
+		"professor": "Greene, R.E."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "61",
+		"title": "Introduction to Discrete Structures",
+		"professor": "Ouellette, K.R."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "95",
+		"title": "Transition to Upper-Division Mathematics",
+		"professor": "Enakoutsa, K."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "106",
+		"title": "History of Mathematics",
+		"professor": "Ozel, E."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "110A",
+		"title": "Algebra",
+		"professor": "Mutlu Akaturk, H."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "115A",
+		"title": "Linear Algebra",
+		"professor": "Gannon, K.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "115A",
+		"title": "Linear Algebra",
+		"professor": "Gherman, M.M.; Roper, M.L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "131A",
+		"title": "Analysis",
+		"professor": "Ouellette, K.R.; Jung, C."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "131A",
+		"title": "Analysis",
+		"professor": "Menz, G."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "132",
+		"title": "Complex Analysis for Applications",
+		"professor": "Smith, Z.B.; Roper, M.L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "134",
+		"title": "Linear and Nonlinear Systems of Differential Equations",
+		"professor": "Greene, R.E."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "135",
+		"title": "Ordinary Differential Equations",
+		"professor": "Arant, T.J."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "142",
+		"title": "Mathematical Modeling",
+		"professor": "Sprouse, C.S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "151A",
+		"title": "Applied Numerical Methods",
+		"professor": "McKenzie, D.; Blasius, D.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "151B",
+		"title": "Applied Numerical Methods",
+		"professor": "Radke, E.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "156",
+		"title": "Machine Learning",
+		"professor": "Nguyen, M.T."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "164",
+		"title": "Optimization",
+		"professor": "Enakoutsa, K."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "167",
+		"title": "Mathematical Game Theory",
+		"professor": "Radke, E.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "170E",
+		"title": "Introduction to Probability and Statistics 1: Probability",
+		"professor": "Ozel, E."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "170S",
+		"title": "Introduction to Probability and Statistics 2: Statistics",
+		"professor": "Kye, Y."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "174E",
+		"title": "Mathematics of Finance for Mathematics/Economics Students",
+		"professor": "Voss, M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "177",
+		"title": "Theory of Interest and Applications",
+		"professor": "Kye, Y."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "179",
+		"title": "Advanced Topic in Financial Mathematics",
+		"professor": "Kye, Y."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "182",
+		"title": "Algorithms",
+		"professor": "Pak, I."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "195",
+		"title": "Community Internships in Mathematics Education",
+		"professor": "Needell, D."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "195",
+		"title": "Community Internships in Mathematics Education",
+		"professor": "Chatham, R.H."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "195",
+		"title": "Community Internships in Mathematics Education",
+		"professor": "Zame, W.R."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "195",
+		"title": "Community Internships in Mathematics Education",
+		"professor": "Blasius, D.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "195",
+		"title": "Community Internships in Mathematics Education",
+		"professor": "Aceves Sanchez, P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "195",
+		"title": "Community Internships in Mathematics Education",
+		"professor": "Bertozzi, A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "195",
+		"title": "Community Internships in Mathematics Education",
+		"professor": "Montufar Cuartas,"
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "195",
+		"title": "Community Internships in Mathematics Education",
+		"professor": "Barrera, D.S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "195",
+		"title": "Community Internships in Mathematics Education",
+		"professor": "Burnett, S.C."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "197",
+		"title": "Individual Studies in Mathematics",
+		"professor": "Balmer, P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MATH",
+		"code": "296G",
+		"title": "Research Seminar: Analysis",
+		"professor": "Arant, T.J.; Gannon, K.A."
+	}
+]

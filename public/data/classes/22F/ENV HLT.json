@@ -1,0 +1,142 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "ENV HLT",
+		"code": "101",
+		"title": "Fundamentals of Chemistry in Environmental Health",
+		"professor": "Que Hee, S.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENV HLT",
+		"code": "C185A",
+		"title": "Foundations of Environmental Health Sciences",
+		"professor": "Tsai, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENV HLT",
+		"code": "C200A",
+		"title": "Foundations of Environmental Health Sciences",
+		"professor": "Tsai, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENV HLT",
+		"code": "230A",
+		"title": "Interdisciplinary Occupational Health Practice",
+		"professor": "Jones, R.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENV HLT",
+		"code": "255",
+		"title": "Control of Airborne Contaminants in Industry",
+		"professor": "Tsai, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENV HLT",
+		"code": "259B",
+		"title": "Workplace Safety",
+		"professor": "Que Hee, S.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENV HLT",
+		"code": "296A",
+		"title": "Research Topics in Environmental Health Sciences: Psychosocial Factors and Occupational Health",
+		"professor": "Li, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENV HLT",
+		"code": "296B",
+		"title": "Research Topics in Environmental Health Sciences: Teratogenesis",
+		"professor": "Collins, M.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENV HLT",
+		"code": "296C",
+		"title": "Research Topics in Environmental Health Sciences: Social Inequality and Environment",
+		"professor": "Cushing, L.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENV HLT",
+		"code": "296G",
+		"title": "Research Topics in Environmental Health Sciences: Advances in Aerosol Technology",
+		"professor": "Zhu, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENV HLT",
+		"code": "296H",
+		"title": "Research Topics in Environmental Health Sciences: Occupational and Environmental Exposure Assessment",
+		"professor": "Jones, R.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENV HLT",
+		"code": "296I",
+		"title": "Research Topics in Environmental Health Sciences: Industrial and Environmental Hygiene",
+		"professor": "Que Hee, S.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENV HLT",
+		"code": "296J",
+		"title": "Research Topics in Environmental Health Sciences: Work, Fertility, and Family",
+		"professor": "Robbins, W.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENV HLT",
+		"code": "296K",
+		"title": "Research Topics in Environmental Health Sciences: Aquatic Chemistry",
+		"professor": "Suffet, I.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENV HLT",
+		"code": "296L",
+		"title": "Research Topics in Environmental Health Sciences: Water Science and Health",
+		"professor": "Valentine, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENV HLT",
+		"code": "296M",
+		"title": "Research Topics in Environmental Health Sciences: Experimental and Modeling Studies of Atmospheric Pollution",
+		"professor": "Jerrett, M.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENV HLT",
+		"code": "296N",
+		"title": "Research Topics in Environmental Health Sciences: Genetic Toxicology",
+		"professor": "Araujo, J.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENV HLT",
+		"code": "296O",
+		"title": "Research Topics in Environmental Health Sciences: Built Environment and Health",
+		"professor": "Schwarz, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENV HLT",
+		"code": "296P",
+		"title": "Research Topics in Environmental Health Sciences: Global Environmental Change and Health",
+		"professor": "Marlier, M.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENV HLT",
+		"code": "296Q",
+		"title": "Research Topics in Environmental Health Sciences: Occupational and Environmental Exposure Assessment, Industrial Hygiene, and Advances in Emerging Technology",
+		"professor": "Tsai, C."
+	}
+]

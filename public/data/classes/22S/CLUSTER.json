@@ -1,0 +1,583 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "M1CW",
+		"title": "Food: Lens for Environment and Sustainability--Special Topics: Ancient Hunger, Modern World",
+		"professor": "Librandi, D.; McClellan, M.L.; Friscia, A.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "M1CW",
+		"title": "Food: Lens for Environment and Sustainability--Special Topics: Art of Eating Sustainably",
+		"professor": "Schiffler, E.; McClellan, M.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "M1CW",
+		"title": "Food: Lens for Environment and Sustainability--Special Topics: Deep History of Food and Power",
+		"professor": "Wang, Z.; McClellan, M.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "M1CW",
+		"title": "Food: Lens for Environment and Sustainability--Special Topics: Future Food in Multicultural Societies",
+		"professor": "Lee, E.C.; McClellan, M.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "M1CW",
+		"title": "Food: Lens for Environment and Sustainability--Special Topics: Holistic Sustainability: Exploration of Interconnectedness",
+		"professor": "Heckman, J.C.; McClellan, M.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "M1CW",
+		"title": "Food: Lens for Environment and Sustainability--Special Topics: It Starts with Seed: Food, Medicine, and Corporate Inflation",
+		"professor": "Winterboer, K.J.; McClellan, M.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "M1CW",
+		"title": "Food: Lens for Environment and Sustainability--Special Topics: Plant-Based Alternatives, Mock Meats, and Fake Foods",
+		"professor": "Soos, C.N.; McClellan, M.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "M1CW",
+		"title": "Food: Lens for Environment and Sustainability--Special Topics: Sustainable for Whom: Workers in Food Systems",
+		"professor": "Stainier, P.G.; McClellan, M.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "20CW",
+		"title": "Interracial Dynamics in American Culture and Society: Special Topics: African Americans in Contemporary U.S. Society",
+		"professor": "Simpkins, A.M.; Ortiz, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "20CW",
+		"title": "Interracial Dynamics in American Culture and Society: Special Topics: Art, Activism, and Social Movements",
+		"professor": "Dayton, E.C.; Ortiz, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "20CW",
+		"title": "Interracial Dynamics in American Culture and Society: Special Topics: Bad Politics: Feminism, Abolition, and Neocolonial U.S.",
+		"professor": "Deverux, R.E.; Ortiz, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "20CW",
+		"title": "Interracial Dynamics in American Culture and Society: Special Topics: Deconstructing White Supremacy: Relational Formations of Race in Higher Education",
+		"professor": "Gutierrez, R.E.; Ortiz, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "20CW",
+		"title": "Interracial Dynamics in American Culture and Society: Special Topics: Global History of Racial Economies",
+		"professor": "Zipp, D.J.; Ortiz, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "20CW",
+		"title": "Interracial Dynamics in American Culture and Society: Special Topics: Race and Indigeneity: Sociology of Native Racialization",
+		"professor": "Ortiz, V.; Ramirez, A.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "20CW",
+		"title": "Interracial Dynamics in American Culture and Society: Special Topics: Race, Environment, and Hope",
+		"professor": "Bender, C.T.; Ortiz, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "20CW",
+		"title": "Interracial Dynamics in American Culture and Society: Special Topics: Racial Markets: Racism, Whiteness, and Capitalism",
+		"professor": "Mayorga, O.J.; Ortiz, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "20CW",
+		"title": "Interracial Dynamics in American Culture and Society: Special Topics: Shouldering through The Sunken Place: Phenomenology of Rebellion",
+		"professor": "Myers, B.E.; Ortiz, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "20CW",
+		"title": "Interracial Dynamics in American Culture and Society: Special Topics: Touch of Danger: Rebellion, Romance, and Other Interracial Encounters in Los Angeles",
+		"professor": "Deguzman, J.C.; Ortiz, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "20CW",
+		"title": "Interracial Dynamics in American Culture and Society: Special Topics: Unveiling Muslim Americans: Race, Ethnicity, Religion, and Gender",
+		"professor": "Ali, N.S.; Ortiz, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "20CW",
+		"title": "Interracial Dynamics in American Culture and Society: Special Topics: White Nationalism and Nazism in U.S.",
+		"professor": "Ribet, E.R.; Ortiz, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "27CW",
+		"title": "Global Islam: Special Topics: Arab Futures: Contemporary Arabic Speculative Fiction",
+		"professor": "Sayeed, A.; Ryan, B.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "27CW",
+		"title": "Global Islam: Special Topics: Comparative Crusading Literatures",
+		"professor": "Sayeed, A.; Hodali, S.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "27CW",
+		"title": "Global Islam: Special Topics: Grassroots Self-Documentation: Community-Based Archives among North American Muslims",
+		"professor": "Sayeed, A.; Abumeeiz, S.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "27CW",
+		"title": "Global Islam: Special Topics: Introduction to Christian-Muslim Relations",
+		"professor": "Sayeed, A.; Baker, B.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "27CW",
+		"title": "Global Islam: Special Topics: People&#39;s History of Muslim Los Angeles",
+		"professor": "Sayeed, A.; Lekovic, E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "27CW",
+		"title": "Global Islam: Special Topics: Sectarianism in Premodern Islamic World",
+		"professor": "Sayeed, A.; Garrett, T.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "48CW",
+		"title": "Political Violence in Modern World: Causes, Cases, and Consequences--Special Topics: Enthusiasm",
+		"professor": "Diones, A.W.; McBride, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "48CW",
+		"title": "Political Violence in Modern World: Causes, Cases, and Consequences--Special Topics: Fiction of Human Rights",
+		"professor": "Noji, J.; McBride, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "48CW",
+		"title": "Political Violence in Modern World: Causes, Cases, and Consequences--Special Topics: Multidirectional North Africa: Jews and Muslims from Holocaust to Decolonization",
+		"professor": "Glasberg, R.; McBride, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "48CW",
+		"title": "Political Violence in Modern World: Causes, Cases, and Consequences--Special Topics: Nazi Hunting: Ethics, Justice, and Responsibility",
+		"professor": "McBride, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "48CW",
+		"title": "Political Violence in Modern World: Causes, Cases, and Consequences--Special Topics: Political Violence in Central America: 500 Years of Resistance",
+		"professor": "Gonzalez Calderon,; McBride, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "48CW",
+		"title": "Political Violence in Modern World: Causes, Cases, and Consequences--Special Topics: Political Violence in Philippines",
+		"professor": "Cardozo, B.; McBride, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "48CW",
+		"title": "Political Violence in Modern World: Causes, Cases, and Consequences--Special Topics: Political Violence of Photography and Ethic of Representation",
+		"professor": "Agmon, Y.; McBride, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "48CW",
+		"title": "Political Violence in Modern World: Causes, Cases, and Consequences--Special Topics: Postmemories of Holocaust and Nakba",
+		"professor": "McBride, J.; Zelnick, S.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "48CW",
+		"title": "Political Violence in Modern World: Causes, Cases, and Consequences--Special Topics: September 11th and Contemporary Political Theory: Power, Affect, and Memory",
+		"professor": "Cucharo, S.J.; McBride, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "48CW",
+		"title": "Political Violence in Modern World: Causes, Cases, and Consequences--Special Topics: Trauma Drawn: Comics and Political Violence",
+		"professor": "Claudio, E.; McBride, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "60CW",
+		"title": "America in Sixties: Politics, Society, and Culture, 1954 to 1974--Special Topics: 1960s Country Music",
+		"professor": "Ott, C.C.; Decker, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "60CW",
+		"title": "America in Sixties: Politics, Society, and Culture, 1954 to 1974--Special Topics: Concept Album in Long 1960s",
+		"professor": "Hallenbeck, A.; Decker, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "60CW",
+		"title": "America in Sixties: Politics, Society, and Culture, 1954 to 1974--Special Topics: Health, Politics, and Culture: Medicare and&#160;Medicaid&#160;in 1960s",
+		"professor": "Baxter-King, R.G.; Decker, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "60CW",
+		"title": "America in Sixties: Politics, Society, and Culture, 1954 to 1974--Special Topics: Media and Politics of Protest",
+		"professor": "Bakr, A.; Decker, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "60CW",
+		"title": "America in Sixties: Politics, Society, and Culture, 1954 to 1974--Special Topics: Music and Social Movements in Americas",
+		"professor": "Valdez-Guillen, K.; Decker, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "60CW",
+		"title": "America in Sixties: Politics, Society, and Culture, 1954 to 1974--Special Topics: New Religious Movements and Popular Media in 1960s",
+		"professor": "Hanslowe, T.K.; Decker, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "60CW",
+		"title": "America in Sixties: Politics, Society, and Culture, 1954 to 1974--Special Topics: Partisan Realignment and Politics of Civil Rights",
+		"professor": "Peris, A.; Decker, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "60CW",
+		"title": "America in Sixties: Politics, Society, and Culture, 1954 to 1974--Special Topics: Politics of Cold War",
+		"professor": "Ewing, S.; Decker, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "60CW",
+		"title": "America in Sixties: Politics, Society, and Culture, 1954 to 1974--Special Topics: Reading 1960s, Then and Now",
+		"professor": "Chhay, R.M.; Decker, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "60CW",
+		"title": "America in Sixties: Politics, Society, and Culture, 1954 to 1974--Special Topics: Sisters in Song, 1950s to 1970s",
+		"professor": "Kilman, S.; Decker, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "60CW",
+		"title": "America in Sixties: Politics, Society, and Culture, 1954 to 1974--Special Topics: Speak Teen Language: Film and American Postwar Youth Culture",
+		"professor": "James, A.E.; Decker, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "70CW",
+		"title": "Evolution of Cosmos and Life: Special Topics in Life and Physical Sciences: Amateur and Citizen Science",
+		"professor": "Friscia, A.R.; Scroggins, M.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "70CW",
+		"title": "Evolution of Cosmos and Life: Special Topics in Life and Physical Sciences: Astrobiology in Science Journalism",
+		"professor": "Friscia, A.R.; Lewis, B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "70CW",
+		"title": "Evolution of Cosmos and Life: Special Topics in Life and Physical Sciences: Epidemiology 101",
+		"professor": "Etuk, V.; Friscia, A.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "70CW",
+		"title": "Evolution of Cosmos and Life: Special Topics in Life and Physical Sciences: Evolution of Mars",
+		"professor": "Friscia, A.R.; Wang, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "70CW",
+		"title": "Evolution of Cosmos and Life: Special Topics in Life and Physical Sciences: Geospatial Data Science and Hydroinformatics",
+		"professor": "Friscia, A.R.; Vimal, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "70CW",
+		"title": "Evolution of Cosmos and Life: Special Topics in Life and Physical Sciences: Intersection of Consciousness and Unconsciousness: Expedition into Dream Science and Lucid Dreaming",
+		"professor": "Friscia, A.R.; Milewski, D.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "70CW",
+		"title": "Evolution of Cosmos and Life: Special Topics in Life and Physical Sciences: Science and Society",
+		"professor": "Friscia, A.R.; Klingler, A.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "70CW",
+		"title": "Evolution of Cosmos and Life: Special Topics in Life and Physical Sciences: Science and Technology during Cold War",
+		"professor": "Friscia, A.R.; Lawrence, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "70CW",
+		"title": "Evolution of Cosmos and Life: Special Topics in Life and Physical Sciences: Space Missions",
+		"professor": "Graykowski, A.J.; Friscia, A.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "70CW",
+		"title": "Evolution of Cosmos and Life: Special Topics in Life and Physical Sciences: Stories that Matter: Communicating Environmental Issues",
+		"professor": "Friscia, A.R.; Walker, A.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "70CW",
+		"title": "Evolution of Cosmos and Life: Special Topics in Life and Physical Sciences: Working in Wild: Evolution of Animal Minds and Behavior through Field Experience",
+		"professor": "Friscia, A.R.; Robin, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "M71CW",
+		"title": "Biotechnology and Society: Special Topics: Biotechnology Spaces",
+		"professor": "Svehla, R.; Rensel, M.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "M71CW",
+		"title": "Biotechnology and Society: Special Topics: Entrepreneurship, Innovation, and Policy: California Technology and Life Science Industries",
+		"professor": "Dahlin, R.W.; Rensel, M.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "M71CW",
+		"title": "Biotechnology and Society: Special Topics: Global Health Processes: Migration, Fertility, and Mortality",
+		"professor": "Salinas, K.; Rensel, M.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "M71CW",
+		"title": "Biotechnology and Society: Special Topics: Good Life: Children&#39;s Health and Well-Being in Early Years",
+		"professor": "Beck, C.D.; Rensel, M.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "M71CW",
+		"title": "Biotechnology and Society: Special Topics: Health Before, During, and After Pregnancy",
+		"professor": "Shah, S.; Rensel, M.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "M71CW",
+		"title": "Biotechnology and Society: Special Topics: Hormonal Bodies: Hormones as Culprits and Cures in 20th and 21st Centuries",
+		"professor": "Rensel, M.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "M71CW",
+		"title": "Biotechnology and Society: Special Topics: Race, Class, and Gender in Food, Science, and Biotechnology",
+		"professor": "Vaughn, R.A.; Rensel, M.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "M71CW",
+		"title": "Biotechnology and Society: Special Topics: Race, Class, and Gender in Food, Science, and Biotechnology",
+		"professor": "Vaughn, R.A.; Rensel, M.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "M71CW",
+		"title": "Biotechnology and Society: Special Topics: Rights, Authority, and Epistemology in Biotechnology Innovation",
+		"professor": "Brewster, J.; Rensel, M.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "M71CW",
+		"title": "Biotechnology and Society: Special Topics: Science and Inequality",
+		"professor": "Perez, S.M.; Rensel, M.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "M71CW",
+		"title": "Biotechnology and Society: Special Topics: Viruses, Vaccines, and Global Pandemics",
+		"professor": "Tanimoto, C.R.; Rensel, M.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "73CW",
+		"title": "Mind over Matter: History, Science, and Philosophy of Brain--Special Topics: Film Meets Neuroscience",
+		"professor": "Sutherland Kristal; Chandler, S.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "73CW",
+		"title": "Mind over Matter: History, Science, and Philosophy of Brain--Special Topics: History of Drug Policy, Use, and Abuse in U.S.",
+		"professor": "Meldrum, M.; Chandler, S.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "73CW",
+		"title": "Mind over Matter: History, Science, and Philosophy of Brain--Special Topics: Music and Brain",
+		"professor": "Chandler, S.H.; Tramo, M.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "73CW",
+		"title": "Mind over Matter: History, Science, and Philosophy of Brain--Special Topics: Neurolaw: Brain on Stand",
+		"professor": "Zalinski, J.M.; Chandler, S.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "73CW",
+		"title": "Mind over Matter: History, Science, and Philosophy of Brain--Special Topics: Primate Perspectives on Behavior and Brain",
+		"professor": "Florkiewicz, B.; Chandler, S.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "73CW",
+		"title": "Mind over Matter: History, Science, and Philosophy of Brain--Special Topics: Solving Community Mental Health Problems and Health Disparities with Public Health and Art",
+		"professor": "Forrest, A.E.; Chandler, S.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "73CW",
+		"title": "Mind over Matter: History, Science, and Philosophy of Brain--Special Topics: Thing Called I: Past, Present, and Future of Consciousness",
+		"professor": "Chandler, S.H.; Kearney, B.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "80CW",
+		"title": "Frontiers in Human Aging--Special Topics: Cancer Epidemiology and Prevention",
+		"professor": "Hsu, P.T.; Yao, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "80CW",
+		"title": "Frontiers in Human Aging--Special Topics: Exploring Subgroups: Diverse Needs of Older Adults in U.S.",
+		"professor": "Hsu, P.T.; Hahm, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "80CW",
+		"title": "Frontiers in Human Aging--Special Topics: Growing Pains: Aging-Related Diseases",
+		"professor": "Soroosh, A.; Hsu, P.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "80CW",
+		"title": "Frontiers in Human Aging--Special Topics: Health Promotion: How to Live Forever or Die Trying",
+		"professor": "Hsu, P.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "80CW",
+		"title": "Frontiers in Human Aging--Special Topics: Navigating Upstream: Impact of Social Determinants of Health on Aging",
+		"professor": "Hsu, P.T.; de Oliveira, S.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "80CW",
+		"title": "Frontiers in Human Aging--Special Topics: Sex, Kids, and Rock&#39;n&#39;Chairs: Reproductive Health across Life Course",
+		"professor": "Hsu, P.T.; Woofter, R.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLUSTER",
+		"code": "80CW",
+		"title": "Frontiers in Human Aging--Special Topics: Turning Back Clock: Epigenetics of Aging and Anti-Aging Treatments",
+		"professor": "Hsu, P.T.; Zoller, J.A."
+	}
+]

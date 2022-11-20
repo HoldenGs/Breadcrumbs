@@ -1,0 +1,100 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "CHIN",
+		"code": "1",
+		"title": "Elementary Modern Chinese",
+		"professor": "Chief, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHIN",
+		"code": "1",
+		"title": "Elementary Modern Chinese",
+		"professor": "Yao, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHIN",
+		"code": "1A",
+		"title": "Elementary Modern Chinese for Advanced Beginners",
+		"professor": "Sun, X."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHIN",
+		"code": "4",
+		"title": "Intermediate Modern Chinese",
+		"professor": "Shen, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHIN",
+		"code": "4A",
+		"title": "Intermediate Modern Chinese for Advanced Students",
+		"professor": "Yao, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHIN",
+		"code": "M60",
+		"title": "Introduction to Chinese Religions",
+		"professor": "Balkwill, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHIN",
+		"code": "70",
+		"title": "Introduction to Traditional Chinese Literature",
+		"professor": "Mai, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHIN",
+		"code": "100A",
+		"title": "Advanced Modern Chinese",
+		"professor": "Smith, M.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHIN",
+		"code": "101A",
+		"title": "Advanced Readings in Modern Chinese",
+		"professor": "Chief, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHIN",
+		"code": "102A",
+		"title": "Advanced Chinese for International Business",
+		"professor": "Smith, M.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHIN",
+		"code": "105A",
+		"title": "Advanced Chinese Rhetoric and Critical Thinking",
+		"professor": "Shen, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHIN",
+		"code": "110A",
+		"title": "Introduction to Classical Chinese",
+		"professor": "Duthie, N.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHIN",
+		"code": "C137",
+		"title": "How to Read Chinese Poetry",
+		"professor": "Mai, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CHIN",
+		"code": "C237",
+		"title": "How to Read Chinese Poetry",
+		"professor": "Mai, H."
+	}
+]

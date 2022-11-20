@@ -1,0 +1,184 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "NURSING",
+		"code": "13",
+		"title": "Introduction to Human Anatomy",
+		"professor": "Jackson, P.C.; Anderson, S.; Venuto, A.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NURSING",
+		"code": "54A",
+		"title": "Pathophysiology I",
+		"professor": "Bates-Jensen, B.M.; Fung, A.; Gusan, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NURSING",
+		"code": "162B",
+		"title": "Tertiary Prevention and Care of Medical-Surgical Patients and Families",
+		"professor": "Totten, G.G.; Studer, K.M.; Cabrera-Mino, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NURSING",
+		"code": "163",
+		"title": "Nursing Care of Geriatric Patients and Families",
+		"professor": "Khan, Z.A.; Schulz, K.M.; Khanmohammed, H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NURSING",
+		"code": "169",
+		"title": "Clinical Internship: Integration",
+		"professor": "Dudley, M.A.; Knoll, M.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NURSING",
+		"code": "169",
+		"title": "Clinical Internship: Integration",
+		"professor": "Mieure, S.L.; Knoll, M.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NURSING",
+		"code": "169",
+		"title": "Clinical Internship: Integration",
+		"professor": "Okosun, K.F.; Knoll, M.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NURSING",
+		"code": "169",
+		"title": "Clinical Internship: Integration",
+		"professor": "Stephenson, S.N.; Knoll, M.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NURSING",
+		"code": "169",
+		"title": "Clinical Internship: Integration",
+		"professor": "Okah, R.O.; Knoll, M.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NURSING",
+		"code": "169",
+		"title": "Clinical Internship: Integration",
+		"professor": "Saziru, B.; Knoll, M.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NURSING",
+		"code": "171",
+		"title": "Public Health Nursing",
+		"professor": "Wiley, D.J.; Ono, T.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NURSING",
+		"code": "173W",
+		"title": "Introduction to Nursing Research and Writing II",
+		"professor": "Macey, P.M.; Furtick, L.H.; Ayisire, B.O.; Watters, V.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NURSING",
+		"code": "196",
+		"title": "Research Apprenticeship in Nursing",
+		"professor": "Salem, B.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NURSING",
+		"code": "204",
+		"title": "Research Design and Critique",
+		"professor": "Lee, E.E.; Li, J.; Pagano, O.; Abatay, V.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NURSING",
+		"code": "206B",
+		"title": "Nursing Theory Development",
+		"professor": "Lee, E.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NURSING",
+		"code": "207",
+		"title": "Quantitative Research Designs of Clinical Phenomena",
+		"professor": "Brecht, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NURSING",
+		"code": "214",
+		"title": "Seminar: Advanced Concepts in Oncology Nursing",
+		"professor": "Cay, C.V.; Economou, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NURSING",
+		"code": "216B",
+		"title": "Adult/Gerontology Concepts for Advanced Practice Registered Nurses in Acute Care II",
+		"professor": "Cronin, K.H.; Kwan, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NURSING",
+		"code": "225B",
+		"title": "Advanced Pharmacology II",
+		"professor": "Sokolow, S.; Roca, R.E.; Alfandy, F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NURSING",
+		"code": "236",
+		"title": "Pediatric Primary Care for Family Nurse Practitioners",
+		"professor": "Westphaln, K.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NURSING",
+		"code": "238B",
+		"title": "Assessment and Management in Pediatric Chronic Care",
+		"professor": "McGrath, N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NURSING",
+		"code": "239B",
+		"title": "Adult/Gerontology Primary Healthcare for Advanced Practice Registered Nurses II",
+		"professor": "Thomas, E.A.; Smeltzer, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NURSING",
+		"code": "245",
+		"title": "Theoretical Foundations of Clinical Nurse Specialist Practice",
+		"professor": "Economou, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NURSING",
+		"code": "249",
+		"title": "Meeting Health-Related Needs in Underserved Populations",
+		"professor": "Hodge, F.S.; Lucero, R.J.; Verzemnieks, I.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NURSING",
+		"code": "260",
+		"title": "Secondary Prevention",
+		"professor": "Salem, B.E.; Duarte, L.D.; Kim, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NURSING",
+		"code": "267",
+		"title": "Health Care Policy",
+		"professor": "Bralock, A.R.; Cuenca, E.L.; Lazar, J.; Brown, T.A.; Clark, L.; Gutierrez, M.; Watts, C.E."
+	}
+]

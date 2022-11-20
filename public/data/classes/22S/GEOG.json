@@ -1,0 +1,198 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "GEOG",
+		"code": "1",
+		"title": "Earth&#39;s Physical Environment",
+		"professor": "Williams, P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GEOG",
+		"code": "4",
+		"title": "Globalization: Regional Development and World Economy",
+		"professor": "Agnew, H.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GEOG",
+		"code": "5",
+		"title": "People and Earth&#39;s Ecosystems",
+		"professor": "Illes, L.I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GEOG",
+		"code": "6",
+		"title": "World Regions: Concepts and Contemporary Issues",
+		"professor": "Illes, L.I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GEOG",
+		"code": "7",
+		"title": "Introduction to Geographic Information Systems",
+		"professor": "Shin, M.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GEOG",
+		"code": "106",
+		"title": "World Vegetation",
+		"professor": "MacDonald, G.M.; Gallerani, E.M.; Martinez, L.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GEOG",
+		"code": "107",
+		"title": "Forest Ecosystems",
+		"professor": "Robinson, C.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GEOG",
+		"code": "116",
+		"title": "Climatology",
+		"professor": "Ward, J.M.; Perez, F.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GEOG",
+		"code": "130",
+		"title": "Food and Environment",
+		"professor": "Bell, S.A.; Feldblum, S.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GEOG",
+		"code": "133",
+		"title": "Humid Tropics",
+		"professor": "Gillespie, T.W.; George, J.R.; Trivedi, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GEOG",
+		"code": "140",
+		"title": "Social Geography",
+		"professor": "Goodwin-White, J.M"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GEOG",
+		"code": "M144",
+		"title": "Feminist Geography",
+		"professor": "Faier, L.B.; Bennett, E.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GEOG",
+		"code": "146",
+		"title": "Environmental Justice and Climate Change",
+		"professor": "Herrera, J.C.; Beer, C.M.; Frial, Z.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GEOG",
+		"code": "150",
+		"title": "Economic Geography",
+		"professor": "Rigby, D.L.; Schmidt, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GEOG",
+		"code": "174A",
+		"title": "The Mediterranean World",
+		"professor": "Agnew, J.A.; Painter, E.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GEOG",
+		"code": "181B",
+		"title": "Advanced Geographic Information Systems",
+		"professor": "Sheng, Y.; Engel, R.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GEOG",
+		"code": "181C",
+		"title": "Geographic Information Systems Programming and Development",
+		"professor": "Sheng, Y.; Xin, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GEOG",
+		"code": "182B",
+		"title": "Remote Sensing: Digital Image Processing and Analysis",
+		"professor": "Xue, Y.; Ali Ganem, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GEOG",
+		"code": "185",
+		"title": "Field Methods in Physical Geography",
+		"professor": "Cavanaugh, K.C.; Cavanaugh, K.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GEOG",
+		"code": "191",
+		"title": "Variable Topics Research Seminars: Geography: Middle East, Real and Imagined",
+		"professor": "Hamdan, A.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GEOG",
+		"code": "198B",
+		"title": "Honors Research in Geography II",
+		"professor": "Agnew, J.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GEOG",
+		"code": "198B",
+		"title": "Honors Research in Geography II",
+		"professor": "Herrera, J.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GEOG",
+		"code": "200B",
+		"title": "Seminar: Geographical Inquiry",
+		"professor": "Moore, A.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GEOG",
+		"code": "201",
+		"title": "Research Design in Geography",
+		"professor": "Shin, M.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GEOG",
+		"code": "202",
+		"title": "Qualitative Methods and Methodology",
+		"professor": "Moore, A.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GEOG",
+		"code": "211",
+		"title": "Remote Sensing of Environment",
+		"professor": "Cavanaugh, K.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GEOG",
+		"code": "M224",
+		"title": "International Migration",
+		"professor": "Goodwin-White, J.M"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GEOG",
+		"code": "M230B",
+		"title": "Globalization and Regional Development",
+		"professor": "Storper, M.C."
+	}
+]

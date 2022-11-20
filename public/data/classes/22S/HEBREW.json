@@ -1,0 +1,30 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "HEBREW",
+		"code": "1C",
+		"title": "Elementary Hebrew",
+		"professor": "Birnbaum, S.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HEBREW",
+		"code": "102C",
+		"title": "Intermediate Hebrew",
+		"professor": "Birnbaum, S.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HEBREW",
+		"code": "110C",
+		"title": "Readings in Biblical Hebrew",
+		"professor": "Smoak, J.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "HEBREW",
+		"code": "220",
+		"title": "Studies in Hebrew Biblical Literature: Seminar 1  ",
+		"professor": "Schniedewind, W.M."
+	}
+]

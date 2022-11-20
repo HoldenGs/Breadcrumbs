@@ -1,0 +1,37 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "AERO ST",
+		"code": "A",
+		"title": "Leadership Laboratory",
+		"professor": "Nuuhiwa, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "AERO ST",
+		"code": "1A",
+		"title": "Heritage and Values",
+		"professor": "Malone, M.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "AERO ST",
+		"code": "20A",
+		"title": "Team and Leadership Fundamentals",
+		"professor": "Everhart, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "AERO ST",
+		"code": "130A",
+		"title": "Air Force Leadership Studies",
+		"professor": "Nuuhiwa, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "AERO ST",
+		"code": "140A",
+		"title": "National Security Affairs/Preparation for Active Duty",
+		"professor": "Allison, M.A."
+	}
+]

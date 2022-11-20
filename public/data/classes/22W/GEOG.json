@@ -1,0 +1,226 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "3",
+		"title": "Cultural Geography",
+		"professor": "Herrera, J.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "5",
+		"title": "People and Earth&#39;s Ecosystems",
+		"professor": "Cavanaugh, K.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "6",
+		"title": "World Regions: Concepts and Contemporary Issues",
+		"professor": "Diamond, J.M.; Hagen, R.V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "7",
+		"title": "Introduction to Geographic Information Systems",
+		"professor": "Burkhart, S.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "89HC",
+		"title": "Honors Contracts",
+		"professor": "Burkhart, S.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "M102",
+		"title": "Soils and Environment",
+		"professor": "Okin, G.S.; George, J.R.; Ortiz-Villa, E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "M102L",
+		"title": "Soils and Environment: Field",
+		"professor": "Okin, G.S.; George, J.R.; Ortiz-Villa, E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "M131",
+		"title": "Human Impact on Biophysical Environment",
+		"professor": "Xue, Y.; Trivedi, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "M142",
+		"title": "Past People and Their Lessons for Our Own Future",
+		"professor": "Diamond, J.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "145",
+		"title": "Slavery and Human Trafficking",
+		"professor": "Faier, L.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "148",
+		"title": "Political Geography",
+		"professor": "Agnew, H.R.; Ziadie, B.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "162",
+		"title": "Ethnicity in American Cities",
+		"professor": "Goodwin-White, J.M; Malot Chantry, J.Z"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "172C",
+		"title": "Brazil",
+		"professor": "Bell, S.A.; Feldblum, S.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "173A",
+		"title": "Cities of Europe",
+		"professor": "Agnew, J.A.; Schmidt, J.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "175B",
+		"title": "Contemporary China",
+		"professor": "Zackey, J.W.; Painter, E.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "180",
+		"title": "Cartography",
+		"professor": "Shin, M.E.; Badger, J.B.; Perez, F.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "181A",
+		"title": "Intermediate Geographic Information Systems",
+		"professor": "Burkhart, S.N.; Ali Ganem, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "182A",
+		"title": "Introduction to Remote Sensing",
+		"professor": "Gillespie, T.W.; Vimal, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Agnew, H.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "191",
+		"title": "Variable Topics Research Seminars: Geography: Seminar 1  ",
+		"professor": "Lettenmaier, D.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "198A",
+		"title": "Honors Research in Geography I",
+		"professor": "Herrera, J.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "198B",
+		"title": "Honors Research in Geography II",
+		"professor": "Xue, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "200A",
+		"title": "History and Structure of Modern Geography",
+		"professor": "Sheppard, E.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "214",
+		"title": "Advanced Projects in Geographic Information Systems (GIS)/Remote Sensing",
+		"professor": "Gillespie, T.W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "M224",
+		"title": "International Migration",
+		"professor": "Hernandez-Leon, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "M230A",
+		"title": "Theories of Regional Economic Development I",
+		"professor": "Storper, M.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "240",
+		"title": "Seminar: Geographic Thought",
+		"professor": "Agnew, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "248",
+		"title": "Advanced Topics in Economic Geography",
+		"professor": "Sheppard, E.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "256",
+		"title": "Regional Climate and Terrestrial Surface Processes",
+		"professor": "Lettenmaier, D.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "M265",
+		"title": "Environmentalisms: Climate Dimensions and Politics Past, Present, Future",
+		"professor": "Turner, V.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "280",
+		"title": "Advanced Climatology",
+		"professor": "Williams, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GEOG",
+		"code": "290",
+		"title": "South America",
+		"professor": "Bell, S.A."
+	}
+]

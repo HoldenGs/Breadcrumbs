@@ -1,0 +1,191 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "GEOG",
+		"code": "1",
+		"title": "Earth&#39;s Physical Environment",
+		"professor": "Williams, P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GEOG",
+		"code": "3",
+		"title": "Cultural Geography",
+		"professor": "Faier, L.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GEOG",
+		"code": "4",
+		"title": "Globalization: Regional Development and World Economy",
+		"professor": "Hamdan, A.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GEOG",
+		"code": "5",
+		"title": "People and Earth&#39;s Ecosystems",
+		"professor": "Gillespie, T.W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GEOG",
+		"code": "7",
+		"title": "Introduction to Geographic Information Systems",
+		"professor": "Shin, M.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GEOG",
+		"code": "109",
+		"title": "Biogeography of Plant and Animal Invasions",
+		"professor": "Illes, L.I.; Sunchu, R.; Zhang, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GEOG",
+		"code": "M110",
+		"title": "Ecosystem Ecology",
+		"professor": "Robinson, C.M.; Han, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GEOG",
+		"code": "117",
+		"title": "Tropical Climatology",
+		"professor": "Ward, J.M.; Perez, F.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GEOG",
+		"code": "158",
+		"title": "Population Geography",
+		"professor": "Goodwin-White, J.M"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GEOG",
+		"code": "160",
+		"title": "Urban Geography",
+		"professor": "Herrera, J.C.; Irawaty, D.T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GEOG",
+		"code": "162",
+		"title": "Ethnicity in American Cities",
+		"professor": "Goodwin-White, J.M; Schmidt, J.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GEOG",
+		"code": "171A",
+		"title": "North America",
+		"professor": "Kay, K.A.; Frial, Z.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GEOG",
+		"code": "172A",
+		"title": "Spanish South America",
+		"professor": "Bell, S.A.; Kantner, B.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GEOG",
+		"code": "178",
+		"title": "Conservation Geography Field and Professional Practices",
+		"professor": "MacDonald, G.M.; George, J.R.; Nauman, B.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GEOG",
+		"code": "181A",
+		"title": "Intermediate Geographic Information Systems",
+		"professor": "Sheng, Y.; Xin, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GEOG",
+		"code": "184",
+		"title": "Environmental Modeling",
+		"professor": "Cavanaugh, K.C.; Magana, M.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GEOG",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Goodwin-White, J.M"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GEOG",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Kay, K.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GEOG",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Cavanaugh, K.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GEOG",
+		"code": "198A",
+		"title": "Honors Research in Geography I",
+		"professor": "Faier, L.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GEOG",
+		"code": "198A",
+		"title": "Honors Research in Geography I",
+		"professor": "Okin, G.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GEOG",
+		"code": "198A",
+		"title": "Honors Research in Geography I",
+		"professor": "Herrera, J.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GEOG",
+		"code": "200A",
+		"title": "History and Structure of Modern Geography",
+		"professor": "Kay, K.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GEOG",
+		"code": "M206",
+		"title": "Introduction to Biophysical Modeling of Land Surface Processes and Land/Atmosphere Interactions",
+		"professor": "Xue, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GEOG",
+		"code": "214",
+		"title": "Advanced Projects in Geographic Information Systems (GIS)/Remote Sensing",
+		"professor": "Sheng, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GEOG",
+		"code": "236",
+		"title": "Seminar: Cultural Geography",
+		"professor": "Faier, L.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GEOG",
+		"code": "240",
+		"title": "Seminar: Geographic Thought",
+		"professor": "Moore, A.D."
+	}
+]

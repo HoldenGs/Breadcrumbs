@@ -1,0 +1,709 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "1",
+		"title": "Precalculus",
+		"professor": "Meng, T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "3A",
+		"title": "Calculus for Life Sciences Students",
+		"professor": "Greene, M.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "31A",
+		"title": "Differential and Integral Calculus",
+		"professor": "Maimaitiyiming, W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "31A",
+		"title": "Differential and Integral Calculus",
+		"professor": "Wu, J.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "31A",
+		"title": "Differential and Integral Calculus",
+		"professor": "Gannon, T.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "31AL",
+		"title": "Differential and Integral Calculus Laboratory",
+		"professor": "Demiroglu, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "31B",
+		"title": "Integration and Infinite Series",
+		"professor": "Scavia, F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "31B",
+		"title": "Integration and Infinite Series",
+		"professor": "Xiong, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "32A",
+		"title": "Calculus of Several Variables",
+		"professor": "Enakoutsa, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "32A",
+		"title": "Calculus of Several Variables",
+		"professor": "Wong, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "32A",
+		"title": "Calculus of Several Variables",
+		"professor": "Chatham, R.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "32A",
+		"title": "Calculus of Several Variables",
+		"professor": "Suzuki, F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "32AH",
+		"title": "Calculus of Several Variables (Honors)",
+		"professor": "Wong, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "32B",
+		"title": "Calculus of Several Variables",
+		"professor": "Forlano, J.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "32B",
+		"title": "Calculus of Several Variables",
+		"professor": "Gleizer, O."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "33A",
+		"title": "Linear Algebra and Applications",
+		"professor": "Arant, T.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "33A",
+		"title": "Linear Algebra and Applications",
+		"professor": "Hazel, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "33A",
+		"title": "Linear Algebra and Applications",
+		"professor": "Gannon, T.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "33B",
+		"title": "Differential Equations",
+		"professor": "Palmer, A.Z."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "33B",
+		"title": "Differential Equations",
+		"professor": "Tong, M.Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "42",
+		"title": "Introduction to Data-Driven Mathematical Modeling: Life, Universe, and Everything",
+		"professor": "Enakoutsa, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "61",
+		"title": "Introduction to Discrete Structures",
+		"professor": "Robichaux, C.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "61",
+		"title": "Introduction to Discrete Structures",
+		"professor": "Vicaria Angel, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "73XP",
+		"title": "Key Issues in K-12 Mathematics",
+		"professor": "Dallas, H.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "95",
+		"title": "Transition to Upper-Division Mathematics",
+		"professor": "Spitz, B.E.; Roper, M.L.; Bonk, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "100",
+		"title": "Problem Solving",
+		"professor": "Sarkar, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "105A",
+		"title": "Mathematics and Pedagogy for Teaching Secondary School Mathematics",
+		"professor": "Dallas, H.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "110A",
+		"title": "Algebra",
+		"professor": "Mutlu Akaturk, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "110AH",
+		"title": "Algebra (Honors)",
+		"professor": "Totaro, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "110AH",
+		"title": "Algebra (Honors)",
+		"professor": "Elman, R.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "115A",
+		"title": "Linear Algebra",
+		"professor": "Min, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "115A",
+		"title": "Linear Algebra",
+		"professor": "Shin, B.Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "115A",
+		"title": "Linear Algebra",
+		"professor": "Do, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "115AH",
+		"title": "Linear Algebra (Honors)",
+		"professor": "Wang, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "115AH",
+		"title": "Linear Algebra (Honors)",
+		"professor": "Moraga Saez, J.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "118",
+		"title": "Mathematical Methods of Data Theory",
+		"professor": "Kassab, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "120A",
+		"title": "Differential Geometry",
+		"professor": "Varvarezos, K.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "131AH",
+		"title": "Analysis (Honors)",
+		"professor": "Greene, R.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "132",
+		"title": "Complex Analysis for Applications",
+		"professor": "Smith, Z.B.; Roper, M.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "134",
+		"title": "Linear and Nonlinear Systems of Differential Equations",
+		"professor": "Tymochko, S.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "134",
+		"title": "Linear and Nonlinear Systems of Differential Equations",
+		"professor": "Gannon, K.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "135",
+		"title": "Ordinary Differential Equations",
+		"professor": "Hester, E.W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "135",
+		"title": "Ordinary Differential Equations",
+		"professor": "Johnson, C.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "135",
+		"title": "Ordinary Differential Equations",
+		"professor": "Wu, J.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "142",
+		"title": "Mathematical Modeling",
+		"professor": "Biswal, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "142",
+		"title": "Mathematical Modeling",
+		"professor": "Johnson, C.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "156",
+		"title": "Machine Learning",
+		"professor": "Kassab, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "164",
+		"title": "Optimization",
+		"professor": "Li, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "164",
+		"title": "Optimization",
+		"professor": "Gleizer, O."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "164",
+		"title": "Optimization",
+		"professor": "Tong, M.Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "168",
+		"title": "Introduction to Networks",
+		"professor": "Porter, M.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "170A",
+		"title": "Probability Theory I",
+		"professor": "Yin, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "174E",
+		"title": "Mathematics of Finance for Mathematics/Economics Students",
+		"professor": "Voss, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "177",
+		"title": "Theory of Interest and Applications",
+		"professor": "Kye, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "178A",
+		"title": "Foundations of Actuarial Mathematics: Life Insurance and Annuities",
+		"professor": "Nguyen, H.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "179",
+		"title": "Advanced Topic in Financial Mathematics",
+		"professor": "Voss, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "182",
+		"title": "Algorithms",
+		"professor": "Shinko, F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Shinko, F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "M192A",
+		"title": "Introduction to Collaborative Learning Theory and Practice",
+		"professor": "Shaked, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "192B",
+		"title": "Collaborative Learning Theory and Practice",
+		"professor": "Shaked, S.; Roper, M.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "195",
+		"title": "Community Internships in Mathematics Education",
+		"professor": "Needell, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "195",
+		"title": "Community Internships in Mathematics Education",
+		"professor": "Menz, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "197",
+		"title": "Individual Studies in Mathematics",
+		"professor": "Chernikov, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "197",
+		"title": "Individual Studies in Mathematics",
+		"professor": "Tao, T.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "205A",
+		"title": "Number Theory",
+		"professor": "Sharifi, R.T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "206A",
+		"title": "Combinatorial Theory",
+		"professor": "Galashin, P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "M209A",
+		"title": "Cryptography",
+		"professor": "Ostrovsky, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "210A",
+		"title": "Algebra",
+		"professor": "Merkurjev, A.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "215A",
+		"title": "Commutative Algebra",
+		"professor": "Wang, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "216A",
+		"title": "Further Topics in Algebra",
+		"professor": "Rouquier, R.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "M217",
+		"title": "Geometry and Physics",
+		"professor": "Liu, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "220A",
+		"title": "Mathematical Logic",
+		"professor": "Chernikov, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "223S",
+		"title": "Topics in Set Theory",
+		"professor": "Neeman, I."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "225A",
+		"title": "Differential Topology",
+		"professor": "Liu, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "245A",
+		"title": "Real Analysis",
+		"professor": "Gangbo, W.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "246A",
+		"title": "Complex Analysis",
+		"professor": "Killip, R.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "247A",
+		"title": "Classical Fourier Analysis",
+		"professor": "Visan, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "251A",
+		"title": "Introductory Partial Differential Equations",
+		"professor": "Kim, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "254A",
+		"title": "Topics in Real Analysis",
+		"professor": "Tao, T.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "255A",
+		"title": "Functional Analysis",
+		"professor": "Khitrik, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "266A",
+		"title": "Applied Ordinary Differential Equations",
+		"professor": "Roper, M.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "269A",
+		"title": "Advanced Numerical Analysis",
+		"professor": "Jiang, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "270A",
+		"title": "Mathematical Aspects of Scientific Computing: Techniques of Scientific Computing",
+		"professor": "Sonthalia, R.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "273A",
+		"title": "Optimization and Calculus of Variations: Basic Optimization Theory",
+		"professor": "Montufar Cuartas,"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "275A",
+		"title": "Probability Theory",
+		"professor": "Austin, T.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "275D",
+		"title": "Stochastic Calculus",
+		"professor": "Menz, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "285I",
+		"title": "Seminar: Functional Analysis",
+		"professor": "Popa, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "285J",
+		"title": "Seminar: Applied Mathematics",
+		"professor": "Needell, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "285N",
+		"title": "Seminar: Combinatorics",
+		"professor": "Pak, I."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "290B",
+		"title": "Participating Seminar: Current Literature in Number Theory",
+		"professor": "Khare, C.; Sharifi, R.T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "290C",
+		"title": "Participating Seminar: Current Literature in Algebra",
+		"professor": "Balmer, P.; Totaro, B.; Rouquier, R.A.; Moraga Saez, J.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "290D",
+		"title": "Participating Seminar: Current Literature in Logic",
+		"professor": "Neeman, I."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "290D",
+		"title": "Participating Seminar: Current Literature in Logic",
+		"professor": "Marks, A.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "290F",
+		"title": "Participating Seminar: Current Literature in Topology",
+		"professor": "Hill, M.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "290F",
+		"title": "Participating Seminar: Current Literature in Topology",
+		"professor": "Honda, K.; Sarkar, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "296F",
+		"title": "Research Seminar: Topology",
+		"professor": "Hill, M.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "296G",
+		"title": "Research Seminar: Analysis",
+		"professor": "Chernikov, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "296I",
+		"title": "Research Seminar: Functional Analysis",
+		"professor": "Popa, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "296J",
+		"title": "Research Seminar: Applied Mathematics",
+		"professor": "Porter, M.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "296J",
+		"title": "Research Seminar: Applied Mathematics",
+		"professor": "Osher, S.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MATH",
+		"code": "296K",
+		"title": "Research Seminar: Probability",
+		"professor": "Biskup, M.; Yin, J.; Menz, G."
+	}
+]

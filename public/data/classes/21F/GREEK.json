@@ -1,0 +1,37 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "GREEK",
+		"code": "1",
+		"title": "Elementary Greek",
+		"professor": "Borst, Z.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GREEK",
+		"code": "8A",
+		"title": "Elementary Modern Greek",
+		"professor": "Morgan, K.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GREEK",
+		"code": "20",
+		"title": "Intermediate Greek",
+		"professor": "Zenios, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GREEK",
+		"code": "113",
+		"title": "Attic Orators",
+		"professor": "Blank, D.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GREEK",
+		"code": "140",
+		"title": "Topics in Greek Language and Culture: Modern Greek Culture and Language",
+		"professor": "Purves, A.C."
+	}
+]

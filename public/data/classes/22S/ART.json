@@ -1,0 +1,289 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "1A",
+		"title": "Drawing",
+		"professor": "Saldamando, S.; Carabano Gonzalez,"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "1B",
+		"title": "Sculpture",
+		"professor": "Roy, D.A.; Brown, T.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "11A",
+		"title": "Painting",
+		"professor": "Estrada, V.R.; Emenaker, R.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "11B",
+		"title": "Photography",
+		"professor": "Valenzuela, R.A.; Cruz, A.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "11D",
+		"title": "New Genres",
+		"professor": "Garnett, M.J.; Garden, B.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "11E",
+		"title": "Ceramics",
+		"professor": "Santana, T.L.; McDonald, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "31C",
+		"title": "Modernism and Its Discontents",
+		"professor": "Vikram, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "98T",
+		"title": "Traces, Ghosts, and other Unseen Phenomena in Contemporary Art",
+		"professor": "Tata, K.M.; Valenzuela, R.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "130",
+		"title": "Advanced Drawing",
+		"professor": "Olson, A.K.; Fallahpisheh, Z.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "133",
+		"title": "Advanced Painting",
+		"professor": "Toranzo Jaeger, F.; Gao, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "133",
+		"title": "Advanced Painting",
+		"professor": "Tran, T.V.; Rivas, J.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "137",
+		"title": "Advanced New Genres: Studio 1  ",
+		"professor": "Woods, S.A.; Shin, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "140",
+		"title": "Advanced Printmaking",
+		"professor": "Samuel, J.M.; Iveson, J.A.; Dam Ziska, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "145",
+		"title": "Advanced Sculpture",
+		"professor": "Lupo, N.M.; Bazmandegan, F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "145",
+		"title": "Advanced Sculpture",
+		"professor": "Roy, D.A.; Agredano, C.O."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "147A",
+		"title": "Advanced Photography: Topics in Anti-Racism, Equity, Diversity, and Inclusion: It Was All a Dream",
+		"professor": "Woods, S.A.; Schneider, K.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "148",
+		"title": "Advanced Ceramics: Studio 1  ",
+		"professor": "Lin, C.C.; Friedman-Pappas, S"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "150",
+		"title": "Senior Studio",
+		"professor": "Fraser, A.; Haeyoung, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "150",
+		"title": "Senior Studio",
+		"professor": "Queenland, M.; Green, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "150",
+		"title": "Senior Studio",
+		"professor": "Rios, M.T.; Tizol Vivas, V.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "190",
+		"title": "Studio/Research Colloquia in Art",
+		"professor": "Haeyoung, A.; Fraser, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "197",
+		"title": "Individual Studies in Art",
+		"professor": "Morris, R.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "197",
+		"title": "Individual Studies in Art",
+		"professor": "Valenzuela, R.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "197",
+		"title": "Individual Studies in Art",
+		"professor": "Rios, M.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "197",
+		"title": "Individual Studies in Art",
+		"professor": "McMillian, R.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "197",
+		"title": "Individual Studies in Art",
+		"professor": "Sew Hoy, A.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "197",
+		"title": "Individual Studies in Art",
+		"professor": "Olson, A.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "197",
+		"title": "Individual Studies in Art",
+		"professor": "Wickman, P.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "198",
+		"title": "Honors Research in Art",
+		"professor": "Wickman, P.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "271",
+		"title": "Graduate Painting",
+		"professor": "Manuel, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "271",
+		"title": "Graduate Painting",
+		"professor": "Wickman, P.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "271",
+		"title": "Graduate Painting",
+		"professor": "Morris, R.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "271",
+		"title": "Graduate Painting",
+		"professor": "Mulleady Vulliety,"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "274",
+		"title": "Graduate Photography",
+		"professor": "Opie, C.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "274",
+		"title": "Graduate Photography",
+		"professor": "Valenzuela, R.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "275",
+		"title": "Graduate New Genres",
+		"professor": "Esparza, R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "275",
+		"title": "Graduate New Genres",
+		"professor": "Rawls, W.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "276",
+		"title": "Graduate Group Critique",
+		"professor": "Toranzo Jaeger, F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "276",
+		"title": "Graduate Group Critique",
+		"professor": "Fraser, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "277",
+		"title": "Graduate Ceramics",
+		"professor": "Sew Hoy, A.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ART",
+		"code": "277",
+		"title": "Graduate Ceramics",
+		"professor": "Lin, C.C."
+	}
+]

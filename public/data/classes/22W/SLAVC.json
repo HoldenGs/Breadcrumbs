@@ -1,0 +1,51 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "SLAVC",
+		"code": "M40",
+		"title": "Christianities East and West",
+		"professor": "Vroon, R.W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SLAVC",
+		"code": "191TB",
+		"title": "Senior Capstone Thesis in Slavic Languages and Literatures",
+		"professor": "Furman, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SLAVC",
+		"code": "197",
+		"title": "Individual Studies in Slavic Languages and Literatures",
+		"professor": "Lejko-Lacan, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SLAVC",
+		"code": "197",
+		"title": "Individual Studies in Slavic Languages and Literatures",
+		"professor": "Koropeckyj, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SLAVC",
+		"code": "198A",
+		"title": "Honors Research in Slavic, East European, and Eurasian Languages and Cultures",
+		"professor": "Shneyder, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SLAVC",
+		"code": "198B",
+		"title": "Honors Research in Slavic, East European, and Eurasian Languages and Cultures",
+		"professor": "Koropeckyj, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SLAVC",
+		"code": "201",
+		"title": "Introduction to Church Slavic",
+		"professor": "Kresin, S.C."
+	}
+]

@@ -1,0 +1,128 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "JAPAN",
+		"code": "3",
+		"title": "Elementary Modern Japanese",
+		"professor": "Takeuchi, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "JAPAN",
+		"code": "3",
+		"title": "Elementary Modern Japanese",
+		"professor": "Takakura, A.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "JAPAN",
+		"code": "6",
+		"title": "Intermediate Modern Japanese",
+		"professor": "Kawanishi, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "JAPAN",
+		"code": "6",
+		"title": "Intermediate Modern Japanese",
+		"professor": "Nogami, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "JAPAN",
+		"code": "75",
+		"title": "Anime",
+		"professor": "Emmerich, M.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "JAPAN",
+		"code": "100C",
+		"title": "Advanced Modern Japanese",
+		"professor": "Takeuchi, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "JAPAN",
+		"code": "100C",
+		"title": "Advanced Modern Japanese",
+		"professor": "Taylor, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "JAPAN",
+		"code": "101C",
+		"title": "Fourth-Year Japanese: Advanced Reading II",
+		"professor": "Kawanishi, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "JAPAN",
+		"code": "103B",
+		"title": "Fourth-Year Japanese: Advanced Speaking II",
+		"professor": "Takakura, A.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "JAPAN",
+		"code": "CM123",
+		"title": "Structure of Japanese",
+		"professor": "Iwasaki, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "JAPAN",
+		"code": "130C",
+		"title": "Readings in Modern Japanese Literature",
+		"professor": "Lippit, S.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "JAPAN",
+		"code": "155",
+		"title": "Topics in Japanese Cinema",
+		"professor": "Shima, K.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "JAPAN",
+		"code": "197",
+		"title": "Individual Studies in Japanese",
+		"professor": "Duthie, T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "JAPAN",
+		"code": "235B",
+		"title": "Seminar: Selected Topics in Modern Japanse Fiction",
+		"professor": "Lippit, S.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "JAPAN",
+		"code": "C259",
+		"title": "Variable Topics in Culture and Society in Japan",
+		"professor": "Umetada, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "JAPAN",
+		"code": "265B",
+		"title": "Seminar: Japanese Buddhist Texts",
+		"professor": "Bodiford, W.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "JAPAN",
+		"code": "297A",
+		"title": "Seminar: Premodern Japan",
+		"professor": "Kamens, E.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "JAPAN",
+		"code": "297B",
+		"title": "Seminar: Modern Japan: Seminar 1  ",
+		"professor": "Yamazaki, J."
+	}
+]

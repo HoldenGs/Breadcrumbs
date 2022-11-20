@@ -1,0 +1,65 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "BIOMATH",
+		"code": "170A",
+		"title": "Introductory Biomathematics for Medical Investigators",
+		"professor": "Sim, M.; Gornbein, J.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "BIOMATH",
+		"code": "200",
+		"title": "Research Frontiers in Biomathematics",
+		"professor": "Sehl, M.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "BIOMATH",
+		"code": "201",
+		"title": "Deterministic Models in Biology",
+		"professor": "Chou, T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "BIOMATH",
+		"code": "205",
+		"title": "Top Computational Algorithms",
+		"professor": "Lange, K.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "BIOMATH",
+		"code": "M226",
+		"title": "Machine Learning in Bioinformatics",
+		"professor": "Sankararaman, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "BIOMATH",
+		"code": "M260A",
+		"title": "Methodology in Clinical Research I",
+		"professor": "Tseng, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "BIOMATH",
+		"code": "M260C",
+		"title": "Methodology in Clinical Research III",
+		"professor": "Seeman, T.E.; Shaheen, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "BIOMATH",
+		"code": "M261",
+		"title": "Responsible Conduct of Research Involving Humans",
+		"professor": "Korenman, S.G.; Kosakowski, T.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "BIOMATH",
+		"code": "M284",
+		"title": "Methodology of Clinical Trials",
+		"professor": "Wong, W.; Cui, E.H."
+	}
+]

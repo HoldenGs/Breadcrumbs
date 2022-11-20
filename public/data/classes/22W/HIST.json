@@ -1,0 +1,604 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "1A",
+		"title": "Introduction to Western Civilization: Ancient Civilizations, Prehistory to circa AD 843",
+		"professor": "Goldberg, J.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "1B",
+		"title": "Introduction to Western Civilization: Circa 843 to circa 1715",
+		"professor": "McClendon, M.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "1C",
+		"title": "Introduction to Western Civilization: Circa 1715 to Present",
+		"professor": "Nasiali, M.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "3D",
+		"title": "History of Modern Medicine",
+		"professor": "Alexander, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "8B",
+		"title": "Modern Latin America",
+		"professor": "Perez-Montesinos,"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "M10A",
+		"title": "History of Africa to 1800",
+		"professor": "Lydon, G.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "11B",
+		"title": "History of China, circa 1000 to 2000",
+		"professor": "Goldman, A.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "12C",
+		"title": "Inequality: Global History of Anti-Colonial Thought and Struggle",
+		"professor": "Hirano, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "19",
+		"title": "Social World of Jane Austen: Pride and Prejudice",
+		"professor": "Ruiz, T.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "21",
+		"title": "World History, circa 600 to 1760",
+		"professor": "Subrahmanyam, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "M60W",
+		"title": "Achaemenid Civilization and Empire of Alexander",
+		"professor": "Shayegan, M.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "89HC",
+		"title": "Honors Contracts",
+		"professor": "Perez-Montesinos,"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "96W",
+		"title": "Introduction to Historical Practice: History of Women and Gender in Middle East, 1800 to Present",
+		"professor": "Aoun Ghazal, M.; McClendon, M.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "96W",
+		"title": "Introduction to Historical Practice: Land, Labor, and Capital: Social Upheaval in Eastern Mediterranean, 1875 to 1920",
+		"professor": "Adney, K.J.; McClendon, M.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "96W",
+		"title": "Introduction to Historical Practice: Law and Commerce in Early Modern and Modern China",
+		"professor": "Hao, X.; McClendon, M.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "96W",
+		"title": "Introduction to Historical Practice: Limpieza de Sangre, Casta, and Race in Iberian World, 1391 to 1800",
+		"professor": "Ibarra, R.P.; McClendon, M.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "96W",
+		"title": "Introduction to Historical Practice: Seminar 3  ",
+		"professor": "Munoz, J.; McClendon, M.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "97C",
+		"title": "Introduction to Historical Practice: Variable Topics in European History: Philosophy and Utopia in Early Modern Europe",
+		"professor": "Stacey, P.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "97C",
+		"title": "Introduction to Historical Practice: Variable Topics in European History: Roman Inquisition: New Questions, New Perspectives",
+		"professor": "Tutino, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "97G",
+		"title": "Introduction to Historical Practice: Variable Topics in East Asian History: Shanghai&#39;s New Culture, 1895 to 1937",
+		"professor": "Von Glahn, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "98TA",
+		"title": "Jews and Empire: Modern World History",
+		"professor": "Smith, R.E.; Stein, S.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "105B",
+		"title": "Survey of Middle East, 500 to Present: 1300 to 1700",
+		"professor": "Koh, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "111B",
+		"title": "Topics in Middle Eastern History: Early Modern: Middle East, 1300 to 1700: from Nomads to Sultans",
+		"professor": "Momdjian, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "113B",
+		"title": "History of Ancient Greece: Classical Period",
+		"professor": "Phillips, D.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "116B",
+		"title": "Byzantine History",
+		"professor": "Langdon, J.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "122A",
+		"title": "Cultural and Intellectual History of Modern Europe, 15th Century",
+		"professor": "Stacey, P.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "M122E",
+		"title": "Cultural and Intellectual History of Modern Europe, 19th Century",
+		"professor": "Silverman, D.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "124C",
+		"title": "History of France: Making of Modern France, 1871 to Present",
+		"professor": "Ford, C.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "127C",
+		"title": "History of Russia: Revolutionary Russia and Soviet Union",
+		"professor": "McBride, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "129A",
+		"title": "Social History of Spain and Portugal: Age of Silver in Spain and Portugal, 1479 to 1789",
+		"professor": "Ruiz, T.F.; McGuffie, J.N.; Friedman, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "142D",
+		"title": "American Popular Culture",
+		"professor": "Corey, M.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "144",
+		"title": "America in World",
+		"professor": "Kim, K.Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "M150B",
+		"title": "Introduction to Afro-American History",
+		"professor": "Kelley, R.D.; Huang, Q."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "164E",
+		"title": "Topics in African History: Africa, 1945 to Present: African Postcolony",
+		"professor": "Apter, A.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "170A",
+		"title": "Culture and Power in Late Imperial China",
+		"professor": "Von Glahn, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "M174E",
+		"title": "Indo-Islamic Interactions, 1750 to 1950",
+		"professor": "Green, N.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "M178",
+		"title": "Introduction to History and Culture of Iranian Jews",
+		"professor": "Pirnazar, N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "179B",
+		"title": "History of Medicine: Foundations of Modern Medicine: Lecture 1  ",
+		"professor": "Zeleny, C.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "180A",
+		"title": "Topics in History of Science: Transportation History: Mobility between Engineering and Policy",
+		"professor": "Cahn, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "M185F",
+		"title": "History of Early Christians",
+		"professor": "Joseph, S.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "187A",
+		"title": "Variable Topics Historiography Proseminar: Ancient History: Marxism, Racial and Ethnic Studies, and Gender Theory in Ancient Greek History",
+		"professor": "Vivian, A.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "187C",
+		"title": "Variable Topics Historiography Proseminar: Europe: Modern City in Europe",
+		"professor": "Jovanovic, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "187C",
+		"title": "Variable Topics Historiography Proseminar: Europe: Seminar 2  ",
+		"professor": "Nasiali, M.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "187D",
+		"title": "Variable Topics Historiography Proseminar: U.S.: Seminar 1  ",
+		"professor": "Higbie, F.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "187G",
+		"title": "Variable Topics Historiography Proseminar: East Asia: People&#39;s Republic of China as History",
+		"professor": "Goldman, A.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "C187O",
+		"title": "Topics in Historiography: World History: Environmental History in Global Perspective",
+		"professor": "Ford, C.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "C187P",
+		"title": "Topics in Historiography: Theory of History: Poseurs: a History",
+		"professor": "Stein, S.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Advanced Honors Seminar for History 129A",
+		"professor": "Ruiz, T.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Zeleny, C.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "McBride, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "191A",
+		"title": "Capstone Seminar: History--Ancient History: Roman Law",
+		"professor": "Phillips, D.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "191B",
+		"title": "Capstone Seminar: History--Medieval: World of Cairo Geniza",
+		"professor": "Goldberg, J.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "C191D",
+		"title": "Topics in History: U.S.: History of Los Angeles, 1945 to Present",
+		"professor": "Yaroslavsky, Z.; Katz, A.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "C191D",
+		"title": "Topics in History: U.S.: Public History: Commemoration and Los Angeles Street Names",
+		"professor": "Paul, T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "191E",
+		"title": "Capstone Seminar: History--Latin America: Landscapes as History",
+		"professor": "Perez-Montesinos,"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "C191N",
+		"title": "Topics in History: India: Faith, Justice, and Purpose of Life in Indo-Muslim Tradition",
+		"professor": "Green, N.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "C191O",
+		"title": "Topics in History: World: Religion in Early Modern Europe and European Empires",
+		"professor": "Subrahmanyam, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "M194DC",
+		"title": "Quarter in Washington, DC, Research Seminar",
+		"professor": "Williams, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "M195DC",
+		"title": "Quarter in Washington, DC, Internships",
+		"professor": "Williams, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "198C",
+		"title": "Honors Research in History",
+		"professor": "Ruiz, T.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "198C",
+		"title": "Honors Research in History",
+		"professor": "Frank, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "198C",
+		"title": "Honors Research in History",
+		"professor": "Yirush, C.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "198C",
+		"title": "Honors Research in History",
+		"professor": "Lydon, G.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "198C",
+		"title": "Honors Research in History",
+		"professor": "Matsumoto, V.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "198C",
+		"title": "Honors Research in History",
+		"professor": "McClendon, M.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "198C",
+		"title": "Honors Research in History",
+		"professor": "Kelley, R.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "198C",
+		"title": "Honors Research in History",
+		"professor": "Jovanovic, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "198C",
+		"title": "Honors Research in History",
+		"professor": "Langdon, J.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "198C",
+		"title": "Honors Research in History",
+		"professor": "Kim, K.Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "198C",
+		"title": "Honors Research in History",
+		"professor": "Green, N.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "198C",
+		"title": "Honors Research in History",
+		"professor": "Alexander, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "198C",
+		"title": "Honors Research in History",
+		"professor": "Corey, M.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "198C",
+		"title": "Honors Research in History",
+		"professor": "Perez-Montesinos,"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "200J",
+		"title": "Advanced Historiography: Near East: Seminar 1  ",
+		"professor": "Gelvin, J.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "200O",
+		"title": "Advanced Historiography: Science/Technology: History of Science, Medicine, and Technology, 1800 to Present",
+		"professor": "de Chadarevian, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "C201K",
+		"title": "Topics in History: India: Faith, Justice, and Purpose of Life in Indo-Muslim Tradition",
+		"professor": "Green, N.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "C201Q",
+		"title": "Topics in History: Theory of History: Marxism and Culture",
+		"professor": "Hirano, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "C201W",
+		"title": "Topics in History: World: Religion in Early Modern Europe and European Empires",
+		"professor": "Subrahmanyam, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "M210",
+		"title": "Topics in Ancient Iranian History",
+		"professor": "Shayegan, M.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "214",
+		"title": "Topics in World History: Research Approaches and Methods with Rare Books and Archival Materials",
+		"professor": "Wong, R.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "214",
+		"title": "Topics in World History: Seminar 2  ",
+		"professor": "Aslanian, S.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "246B",
+		"title": "Introduction to U.S. History: 1790 to 1900",
+		"professor": "Kim, K.Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "M266C",
+		"title": "Analyzing Historical Texts",
+		"professor": "Yokoyama, O.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "275A",
+		"title": "Colloquium: African History",
+		"professor": "Lydon, G.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "282B",
+		"title": "Seminar: Chinese History: Seminar 1  ",
+		"professor": "Von Glahn, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HIST",
+		"code": "291A",
+		"title": "Seminar: Jewish History: Seminar 1  ",
+		"professor": "Myers, D.N."
+	}
+]

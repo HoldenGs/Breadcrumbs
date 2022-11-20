@@ -1,0 +1,93 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "RUSSN",
+		"code": "1",
+		"title": "Elementary Russian",
+		"professor": "Shneyder, V."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "RUSSN",
+		"code": "4",
+		"title": "Intermediate Russian",
+		"professor": "Varfolomeeva, P.; Kudyma, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "RUSSN",
+		"code": "90B",
+		"title": "Russian Civilization in 20th Century",
+		"professor": "Kresin, S.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "RUSSN",
+		"code": "100A",
+		"title": "Literacy in Russian",
+		"professor": "Kudyma, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "RUSSN",
+		"code": "101A",
+		"title": "Third-Year Russian",
+		"professor": "Kudyma, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "RUSSN",
+		"code": "102A",
+		"title": "Topics in Advanced/Superior Russian",
+		"professor": "Lenhoff, G.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "RUSSN",
+		"code": "103A",
+		"title": "Russian for Native and Near-Native Speakers: Russian National Identity",
+		"professor": "Vroon, R.W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "RUSSN",
+		"code": "M118",
+		"title": "History of Russia, Origins to Rise of Muscovy",
+		"professor": "Furman, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "RUSSN",
+		"code": "120",
+		"title": "Literature and Revolution",
+		"professor": "Koropeckyj, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "RUSSN",
+		"code": "C124C",
+		"title": "Studies in Russian Literature: Chekhov",
+		"professor": "Pilshchikov, I."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "RUSSN",
+		"code": "C124G",
+		"title": "Studies in Russian Literature: Gogol",
+		"professor": "Vroon, R.W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "RUSSN",
+		"code": "212A",
+		"title": "19th-Century Russian Literature: Golden Age",
+		"professor": "Furman, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "RUSSN",
+		"code": "213A",
+		"title": "20th-Century Russian Literature, 1890 to 1929",
+		"professor": "Koropeckyj, R."
+	}
+]

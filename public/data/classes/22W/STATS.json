@@ -1,0 +1,380 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "10",
+		"title": "Introduction to Statistical Reasoning",
+		"professor": "Cha, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "10",
+		"title": "Introduction to Statistical Reasoning",
+		"professor": "Wang, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "13",
+		"title": "Introduction to Statistical Methods for Life and Health Sciences",
+		"professor": "Zanontian, L.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "20",
+		"title": "Introduction to Statistical Programming with R",
+		"professor": "Tsiang, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "21",
+		"title": "Python and Other Technologies for Data Science",
+		"professor": "Chen, M.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "100A",
+		"title": "Introduction to Probability",
+		"professor": "Paik Schoenberg, F"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "100A",
+		"title": "Introduction to Probability",
+		"professor": "Sanchez, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "100B",
+		"title": "Introduction to Mathematical Statistics",
+		"professor": "Madrid Padilla, O."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "100B",
+		"title": "Introduction to Mathematical Statistics",
+		"professor": "Li, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "100B",
+		"title": "Introduction to Mathematical Statistics",
+		"professor": "Christou, N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "100C",
+		"title": "Linear Models",
+		"professor": "Amini, A.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "101A",
+		"title": "Introduction to Data Analysis and Regression",
+		"professor": "Almohalwas, A.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "101A",
+		"title": "Introduction to Data Analysis and Regression",
+		"professor": "Vazquez Alcocer, A"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "102A",
+		"title": "Introduction to Computational Statistics with R",
+		"professor": "Chen, M.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "102A",
+		"title": "Introduction to Computational Statistics with R",
+		"professor": "Wu, G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "140XP",
+		"title": "Practice of Statistical Consulting",
+		"professor": "Lew, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "141XP",
+		"title": "Practice of Statistical Consulting",
+		"professor": "Esfandiari, M.M.; Hwangbo, N.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "141XP",
+		"title": "Practice of Statistical Consulting",
+		"professor": "Zes, D.A.; Kong, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "147",
+		"title": "Data Technologies for Data Scientists",
+		"professor": "Tsiang, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "M148",
+		"title": "Experience of Data Science",
+		"professor": "Gould, R.L.; Huang, S.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "170",
+		"title": "Introduction to Time-Series Analysis",
+		"professor": "Sanchez, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "C173",
+		"title": "Applied Geostatistics",
+		"professor": "Christou, N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "184",
+		"title": "Societal Impacts of Data",
+		"professor": "Handcock, M.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "186",
+		"title": "Careers in Statistics",
+		"professor": "Gould, R.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "195",
+		"title": "Community or Corporate Internships in Statistics",
+		"professor": "Lew, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "195",
+		"title": "Community or Corporate Internships in Statistics",
+		"professor": "Zes, D.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "195",
+		"title": "Community or Corporate Internships in Statistics",
+		"professor": "Tsiang, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "195",
+		"title": "Community or Corporate Internships in Statistics",
+		"professor": "Almohalwas, A.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "195",
+		"title": "Community or Corporate Internships in Statistics",
+		"professor": "Gould, R.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "200B",
+		"title": "Theoretical Statistics",
+		"professor": "Amini, A.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "201B",
+		"title": "Statistical Modeling and Learning",
+		"professor": "Hazlett, C.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "202B",
+		"title": "Matrix Algebra and Optimization",
+		"professor": "Handcock, M.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "210",
+		"title": "Computer Intensive Methods",
+		"professor": "Zhou, Q."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "231B",
+		"title": "Methods of Machine Learning",
+		"professor": "Wu, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "232C",
+		"title": "Cognitive Artificial Intelligence",
+		"professor": "Gao, T.; Jiang, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "M254",
+		"title": "Statistical Methods in Computational Biology",
+		"professor": "Li, J.; Song, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "C273",
+		"title": "Applied Geostatistics",
+		"professor": "Christou, N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "285",
+		"title": "Seminar: Computing for Statistics",
+		"professor": "Zhou, Q."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "285",
+		"title": "Seminar: Computing for Statistics",
+		"professor": "Wu, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "290",
+		"title": "Current Literature in Statistics",
+		"professor": "Xu, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "296",
+		"title": "Participating Seminar: Statistics",
+		"professor": "Li, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "296",
+		"title": "Participating Seminar: Statistics",
+		"professor": "Zhou, Q."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "296",
+		"title": "Participating Seminar: Statistics",
+		"professor": "Paik Schoenberg, F"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "296",
+		"title": "Participating Seminar: Statistics",
+		"professor": "Christou, N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "296",
+		"title": "Participating Seminar: Statistics",
+		"professor": "Xu, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "296",
+		"title": "Participating Seminar: Statistics",
+		"professor": "Gould, R.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "296",
+		"title": "Participating Seminar: Statistics",
+		"professor": "Handcock, M.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "296",
+		"title": "Participating Seminar: Statistics",
+		"professor": "Zhu, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "296",
+		"title": "Participating Seminar: Statistics",
+		"professor": "Fletcher, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "296",
+		"title": "Participating Seminar: Statistics",
+		"professor": "Gao, T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "296",
+		"title": "Participating Seminar: Statistics",
+		"professor": "Li, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "296",
+		"title": "Participating Seminar: Statistics",
+		"professor": "Wu, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "296",
+		"title": "Participating Seminar: Statistics",
+		"professor": "Almohalwas, A.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "STATS",
+		"code": "296",
+		"title": "Participating Seminar: Statistics",
+		"professor": "Cheng, G."
+	}
+]

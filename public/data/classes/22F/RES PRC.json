@@ -1,0 +1,51 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "RES PRC",
+		"code": "97XA",
+		"title": "PEERS Freshman Seminar: Succeeding in Science",
+		"professor": "Barber, P.H.; Hasson, T.W.; Razinia, Z.; Grier, S.R.; Zerecero Marin, E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "RES PRC",
+		"code": "97XB",
+		"title": "PEERS Sophomore Seminar: Pathways in Majors, Careers, and Entry into Research",
+		"professor": "Barber, P.H.; Razinia, Z.; Hasson, T.W.; Grier, S.R.; Zerecero Marin, E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "RES PRC",
+		"code": "110A",
+		"title": "Careers in Libraries and Archives",
+		"professor": "Johnson, M.W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "RES PRC",
+		"code": "191A",
+		"title": "Topics in Research Practice: Research Revealed",
+		"professor": "Kistner, K.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "RES PRC",
+		"code": "193",
+		"title": "Variable Topics: Research Practice Journal Club: UC LEADS Research Discussion and Presentation",
+		"professor": "Gray, D.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "RES PRC",
+		"code": "194A",
+		"title": "Mellon Mays Undergraduate Fellows Research Seminar",
+		"professor": "McClendon, M.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "RES PRC",
+		"code": "194B",
+		"title": "Research Seminar: Writing Research Proposals and Graduate Applications",
+		"professor": "Hasson, T.W."
+	}
+]

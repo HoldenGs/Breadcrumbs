@@ -1,0 +1,72 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EDUC",
+		"code": "35",
+		"title": "Introduction to Inquiry and Research in Education",
+		"professor": "Setoguchi, E.H."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EDUC",
+		"code": "M102",
+		"title": "Mexican Americans and Schools",
+		"professor": "Andalon, R."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EDUC",
+		"code": "M108",
+		"title": "Sociology of Education",
+		"professor": "Andalon, R."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EDUC",
+		"code": "118",
+		"title": "Sociology of Community Colleges",
+		"professor": "Corral, M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EDUC",
+		"code": "120",
+		"title": "Early Childhood Development",
+		"professor": "Cortes, A.E."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EDUC",
+		"code": "123",
+		"title": "Teaching Profession",
+		"professor": "Kwon, L.J."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EDUC",
+		"code": "127",
+		"title": "Educational Psychology",
+		"professor": "Mitchell, K."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EDUC",
+		"code": "132",
+		"title": "Autism: Mind, Brain, and Education",
+		"professor": "Luelmo, P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EDUC",
+		"code": "165",
+		"title": "Educational Program Evaluation",
+		"professor": "Dillman, L.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EDUC",
+		"code": "195CE",
+		"title": "Community or Corporate Internships in Education",
+		"professor": "Dorio, J."
+	}
+]

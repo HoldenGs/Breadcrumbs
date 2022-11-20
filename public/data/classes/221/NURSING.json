@@ -1,0 +1,58 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "NURSING",
+		"code": "3",
+		"title": "Human Physiology for Healthcare Providers",
+		"professor": "Carpenter, C.L.; Venuto, A.L.; Saiki, M.; Kim, M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "NURSING",
+		"code": "13",
+		"title": "Introduction to Human Anatomy",
+		"professor": "Carpenter, C.L.; Anderson, S.; Cabrera-Mino, C."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "NURSING",
+		"code": "50",
+		"title": "Fundamentals of Epidemiology",
+		"professor": "Li, J.; Matthews, T.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "NURSING",
+		"code": "164",
+		"title": "Maternity Nursing",
+		"professor": "Bralock, A.R.; Gusan, A.; Cabrera-Mino, C."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "NURSING",
+		"code": "165",
+		"title": "Pediatric Nursing",
+		"professor": "Rowe, T.J.; Abatay, V.K.; Roca, R.E."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "NURSING",
+		"code": "175",
+		"title": "Physical Assessment for Advanced Practice",
+		"professor": "Fredrickson, J.M.; Trebelhorn, V.G.; Vuong, T.; Gusan, A.; Funes, Y.; Perez, M.; Lai, S.; Ricardo Felix, N.C"
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "NURSING",
+		"code": "213",
+		"title": "Worker Health and Safety: Role and Theory",
+		"professor": "Robbins, W.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "NURSING",
+		"code": "268",
+		"title": "Leadership in Health Care Systems",
+		"professor": "Cuenca, E.L.; Lina, A.A.; Kim, M."
+	}
+]

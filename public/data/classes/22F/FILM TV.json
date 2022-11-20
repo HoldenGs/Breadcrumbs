@@ -1,0 +1,240 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "4",
+		"title": "Introduction to Art and Technique of Filmmaking",
+		"professor": "Huang, G.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "6A",
+		"title": "History of American Motion Picture",
+		"professor": "McDonald, K.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "33",
+		"title": "Introductory Screenwriting",
+		"professor": "Verducci, P.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "M50",
+		"title": "Introduction to Visual Culture",
+		"professor": "Hornby, L.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "101A",
+		"title": "Junior Symposium",
+		"professor": "Greene, S.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "102A",
+		"title": "Senior Symposium",
+		"professor": "McDonald, W.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "106C",
+		"title": "History of African, Asian, and Latin American Film: Lecture 1  ",
+		"professor": "Ravetto, K.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "114",
+		"title": "Film Genres: Screening Los Angeles Film",
+		"professor": "Paredes, V.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "122D",
+		"title": "Film Editing: Overview of History, Technique, and Practice",
+		"professor": "Littenberg, S.M.; Gundlach, W.; Herrera Murcia, P.; Shen, W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "122E",
+		"title": "Digital Cinematography",
+		"professor": "Granados, A.A.; Luna, P.A.; Eady, J.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "135A",
+		"title": "Advanced Screenwriting Workshop",
+		"professor": "Young, K.T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "150",
+		"title": "Cinematography",
+		"professor": "McDonald, W.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "154",
+		"title": "Film Editing",
+		"professor": "Ahmed, I.; Ellison, S.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "163",
+		"title": "Directing Cameras",
+		"professor": "Van Dyk, R.R.; Lacasa, L.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "163",
+		"title": "Directing Cameras",
+		"professor": "Van Dyk, R.R.; Gonzalez, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "175A",
+		"title": "Undergraduate Film Production",
+		"professor": "Rosman, M.E.; Timan, A.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "175A",
+		"title": "Undergraduate Film Production",
+		"professor": "Van Dyk, R.R.; Paul, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "C181A",
+		"title": "Introduction to Animation",
+		"professor": "Sheetz, C.E.; Keener, K.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "C181B",
+		"title": "Writing for Animation",
+		"professor": "Goethe, T.S.; Sheetz, C.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "183B",
+		"title": "Producing II: Entertainment Economics",
+		"professor": "Kinberg, M.H.; Adou, M.A.; Gervet, O.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "184B",
+		"title": "Overview of Contemporary Television Industry",
+		"professor": "Nagle, P.G.; Sagmanli, B.E.; Dolatshahi, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "C186A",
+		"title": "Advanced Documentary Workshop",
+		"professor": "Flanagan, K.; Shi, T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "188A",
+		"title": "Special Courses in Film, Television, and Digital Media: Introduction to One-Hour Television Writing: Spec Script Scenes",
+		"professor": "Goldsmith, J.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "195",
+		"title": "Corporate Internships in Film, Television, and Digital Media",
+		"professor": "Trice, J.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "195",
+		"title": "Corporate Internships in Film, Television, and Digital Media",
+		"professor": "Greene, S.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "195",
+		"title": "Corporate Internships in Film, Television, and Digital Media",
+		"professor": "McDonald, W.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "210",
+		"title": "Viewing and Reading Media",
+		"professor": "Villarejo, A.; Rastegar, R.Z."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "212",
+		"title": "Cinema and Media Studies Graduate Colloquium",
+		"professor": "Paredes, V.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "215",
+		"title": "Seminar: Text and Context in Intermedia Age",
+		"professor": "Ravetto, K.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "219",
+		"title": "Seminar: Film and Society: Seminar 1  ",
+		"professor": "Ekanayake, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "274C",
+		"title": "Research Design 3: Writing Prospectus",
+		"professor": "McHugh, K.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "282A",
+		"title": "TV Development 1",
+		"professor": "Levy, R.J.; Eady, J.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "287A",
+		"title": "Introduction to Art and Business of Producing I",
+		"professor": "Green, P.H.; Somani, I.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FILM TV",
+		"code": "288A",
+		"title": "Feature Film Development I",
+		"professor": "Franklin, A.S."
+	}
+]

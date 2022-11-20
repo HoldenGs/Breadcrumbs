@@ -1,0 +1,163 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "DESMA",
+		"code": "10",
+		"title": "Design Culture",
+		"professor": "Huhtamo, E.I.; Cheung, F.; Orozco, T.M.; Villon, P.L.; Wen, H.; Yook, B.; Zhou, T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DESMA",
+		"code": "21",
+		"title": "Drawing and Color",
+		"professor": "Jiang, Y.; Azcarraga, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DESMA",
+		"code": "22",
+		"title": "Form",
+		"professor": "Esposito, P.C.; Cheung, F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DESMA",
+		"code": "22",
+		"title": "Form",
+		"professor": "Esposito, P.C.; Gilma, B.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DESMA",
+		"code": "24",
+		"title": "Motion",
+		"professor": "Wolfe, J.; Moon, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DESMA",
+		"code": "25",
+		"title": "Typography",
+		"professor": "Elliott, B.A.; Malabre, S.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DESMA",
+		"code": "28",
+		"title": "Interactivity",
+		"professor": "Reas, C.; Man, M.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DESMA",
+		"code": "101",
+		"title": "Media Arts: Introduction",
+		"professor": "Vikram, A.; Ma, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DESMA",
+		"code": "152",
+		"title": "Tangible Media",
+		"professor": "McWilliams, C.B.; Choi, E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DESMA",
+		"code": "154",
+		"title": "Word + Image",
+		"professor": "Elliott, B.A.; Criste, M.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DESMA",
+		"code": "156",
+		"title": "Three-Dimensional Modeling and Motion",
+		"professor": "Fang, Z.; Wiggins, W.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DESMA",
+		"code": "157",
+		"title": "Game Design",
+		"professor": "Stern, E.I.; Luo, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DESMA",
+		"code": "160",
+		"title": "Special Topics in Design | Media Arts: Game Development",
+		"professor": "Crockett, N.J.; Cho, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DESMA",
+		"code": "160",
+		"title": "Special Topics in Design | Media Arts: Introduction to Ecological Art and Justice",
+		"professor": "Cooney, E.J.; Foster, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DESMA",
+		"code": "160",
+		"title": "Special Topics in Design | Media Arts: Photography and Ecology",
+		"professor": "Muller, Y.M.; Edler, D.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DESMA",
+		"code": "171",
+		"title": "Topics in Interactivity and Games: Disability, Design, and Web",
+		"professor": "McCarthy, L.L.; Kearney-Volpe, C.L; Espinoza, T.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DESMA",
+		"code": "172",
+		"title": "Topics in Video and Animation: Interactive Animation",
+		"professor": "Caravello, J.B.; Ruder, I.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DESMA",
+		"code": "173",
+		"title": "Topics in Visual Communication and Image: Social and Environmental Poster: Zone of Experiment",
+		"professor": "Severina, O.; Chen, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DESMA",
+		"code": "195B",
+		"title": "Community or Corporate Internships in Design | Media Arts",
+		"professor": "Lunenfeld, P.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DESMA",
+		"code": "200",
+		"title": "Design | Media Arts Faculty Seminar",
+		"professor": "Mendez, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DESMA",
+		"code": "252A",
+		"title": "Programming Media 1",
+		"professor": "McWilliams, C.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DESMA",
+		"code": "289",
+		"title": "Special Topics in Media Arts: 50 Years of Software Artists: Plotters to Nonfungible Tokens",
+		"professor": "Reas, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DESMA",
+		"code": "289",
+		"title": "Special Topics in Media Arts: Contemporary Media Arts",
+		"professor": "Willis, H.L."
+	}
+]

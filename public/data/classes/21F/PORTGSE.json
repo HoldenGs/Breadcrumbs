@@ -1,0 +1,72 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "PORTGSE",
+		"code": "1",
+		"title": "Elementary Portuguese",
+		"professor": "Barber, T.T.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PORTGSE",
+		"code": "11A",
+		"title": "Intensive Portuguese",
+		"professor": "Carvalho, I.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PORTGSE",
+		"code": "27",
+		"title": "Writing Studies: Afro-Luso-Brazilian World",
+		"professor": "Ramos, C.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PORTGSE",
+		"code": "M35",
+		"title": "Spanish, Portuguese, and Nature of Language",
+		"professor": "Mateu, V."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PORTGSE",
+		"code": "46",
+		"title": "Brazil and Portuguese-Speaking World",
+		"professor": "de Paula Santos, A; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PORTGSE",
+		"code": "100B",
+		"title": "Syntax",
+		"professor": "Quicoli, A.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PORTGSE",
+		"code": "130B",
+		"title": "Introduction to Literature in Portuguese",
+		"professor": "Passos, J.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PORTGSE",
+		"code": "M180",
+		"title": "Variable Topics in Visual Culture: History, Memory, Truth, Fiction: Documentary Practices in Latin America",
+		"professor": "Cohen, G.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PORTGSE",
+		"code": "M180",
+		"title": "Variable Topics in Visual Culture: Science Fiction Film from Latin America",
+		"professor": "Tobin, S.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PORTGSE",
+		"code": "290",
+		"title": "Special Topics: On Kindness",
+		"professor": "Passos, J.L."
+	}
+]

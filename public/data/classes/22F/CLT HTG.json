@@ -1,0 +1,58 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "CLT HTG",
+		"code": "M215",
+		"title": "Cultural Materials Science I: Analytical Imaging and Documentation in Conservation of Materials",
+		"professor": "Kakoulli, I."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CLT HTG",
+		"code": "M221",
+		"title": "Principles, Practice, and Ethics in Conservation of Cultural Heritage: Seminar 1  ",
+		"professor": "Wharton, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CLT HTG",
+		"code": "230",
+		"title": "Conservation Laboratory: Ceramics, Glass, Glazes",
+		"professor": "Boccia, A.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CLT HTG",
+		"code": "260",
+		"title": "Structure, Properties, and Deterioration of Materials: Ceramics, Glass, Glazes",
+		"professor": "Boccia, A.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CLT HTG",
+		"code": "262",
+		"title": "Structure, Properties, and Deterioration of Materials: Organics I",
+		"professor": "Pearlstein, E.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CLT HTG",
+		"code": "290",
+		"title": "Conservation Program Internship",
+		"professor": "Kakoulli, I."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CLT HTG",
+		"code": "290",
+		"title": "Conservation Program Internship",
+		"professor": "Pearlstein, E.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CLT HTG",
+		"code": "290",
+		"title": "Conservation Program Internship",
+		"professor": "Wharton, G."
+	}
+]

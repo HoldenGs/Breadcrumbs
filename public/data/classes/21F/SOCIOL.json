@@ -1,0 +1,457 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "1",
+		"title": "Introductory Sociology",
+		"professor": "Small-Rodriguez, D"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "1",
+		"title": "Introductory Sociology",
+		"professor": "Villarreal, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "19",
+		"title": "Adventure Time: Sociological Exploration of Childhood Play",
+		"professor": "Collett, J.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "19",
+		"title": "Promise and Perils of a Relational Society",
+		"professor": "Emigh, R.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "19",
+		"title": "Refugees and Asylum Seekers: Understanding Roots of Today&#39;s Crisis",
+		"professor": "Waldinger, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "20",
+		"title": "Introduction to Sociological Research Methods",
+		"professor": "Rossi, G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "20",
+		"title": "Introduction to Sociological Research Methods",
+		"professor": "Yu, W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "89",
+		"title": "Honors Seminars: Honors Seminar for Sociology 1",
+		"professor": "Small-Rodriguez, D"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "89",
+		"title": "Honors Seminars: Honors Seminar for Sociology 1",
+		"professor": "Villarreal, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "89",
+		"title": "Honors Seminars: Honors Seminar for Sociology 20",
+		"professor": "Yu, W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "89",
+		"title": "Honors Seminars: Honors Seminar for Sociology 20",
+		"professor": "Rossi, G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "101",
+		"title": "Development of Sociological Theory",
+		"professor": "Sprague, J.H.; Collett, J.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "101",
+		"title": "Development of Sociological Theory",
+		"professor": "Sigmon, J.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "102",
+		"title": "Contemporary Sociological Theory",
+		"professor": "Jepson, M.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "110",
+		"title": "Comparative and Historical Methods",
+		"professor": "Speer, I.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "113",
+		"title": "Statistical and Computer Methods for Social Research",
+		"professor": "Miric, N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "121",
+		"title": "Sociology of Religion",
+		"professor": "Sexton, J.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "CM125",
+		"title": "Talk and Social Institutions",
+		"professor": "Clayman, S.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "131",
+		"title": "Careers in Sociology",
+		"professor": "Andalon, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "134",
+		"title": "Culture and Personality",
+		"professor": "Kim, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "M144",
+		"title": "Stress and Society: Biology and Inequality",
+		"professor": "Rensel, M.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "145",
+		"title": "Sociology of Deviant Behavior",
+		"professor": "Ribet, E.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "147A",
+		"title": "Sociology of Crime",
+		"professor": "Numan, H.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "M148",
+		"title": "Sociology of Mental Illness",
+		"professor": "Anderson, T.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "158",
+		"title": "Urban Sociology",
+		"professor": "Johnson, J.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "M162",
+		"title": "Sociology of Gender",
+		"professor": "Quadlin, N.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "173",
+		"title": "Economy and Society",
+		"professor": "Rossman, G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "M176",
+		"title": "Sociology of Mass Communication",
+		"professor": "Yeritsian, G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "180A",
+		"title": "Special Topics in Sociology: Reproductive Politics and Everyday Life",
+		"professor": "Karakus, K.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Advanced Honors Seminar for Sociology M162",
+		"professor": "Quadlin, N.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Johnson, J.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Quadlin, N.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "191C",
+		"title": "Undergraduate Seminar: Money and Emotions",
+		"professor": "Berend, Z."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "M194DC",
+		"title": "Quarter in Washington, DC, Research Seminar",
+		"professor": "Williams, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "195",
+		"title": "Community or Corporate Internships in Sociology",
+		"professor": "Collett, J.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "195CE",
+		"title": "Community and Corporate Internships in Sociology",
+		"professor": "Collett, J.L.; Torgrimson, S.; Gordillo Marquina,"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "195CE",
+		"title": "Community and Corporate Internships in Sociology",
+		"professor": "Kelty, C.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "M195DC",
+		"title": "Quarter in Washington, DC, Internships",
+		"professor": "Williams, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "198A",
+		"title": "Honors Research in Sociology",
+		"professor": "Berend, Z."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "198B",
+		"title": "Honors Research in Sociology",
+		"professor": "Berend, Z."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "198C",
+		"title": "Honors Research in Sociology",
+		"professor": "Berend, Z."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "201A",
+		"title": "Proseminar: Sociology",
+		"professor": "Yu, W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "202A",
+		"title": "Theory and Research in Sociology",
+		"professor": "Menjivar, T.; Lizardo, O.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "204",
+		"title": "Topics in Sociological Theorizing: Contemporary Outgrowths of Classical Sociological Theory",
+		"professor": "Emigh, R.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "210A",
+		"title": "Intermediate Statistical Methods I",
+		"professor": "Gaddis, S.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "M213A",
+		"title": "Introduction to Demographic Methods",
+		"professor": "Heuveline, P.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "217B",
+		"title": "Ethnographic Fieldwork",
+		"professor": "Lee, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "M225A",
+		"title": "California Population Research Topical Seminar Series",
+		"professor": "Heuveline, P.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "236A",
+		"title": "International Migration",
+		"professor": "Agadjanian, V."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "237",
+		"title": "Seminar: Theory and Research in Comparative Social Analysis",
+		"professor": "Harris, K.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "240",
+		"title": "Sociology of Education",
+		"professor": "Quadlin, N.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "245",
+		"title": "Cultural Sociology: Classical and Contemporary Approaches",
+		"professor": "Rossman, G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "C258",
+		"title": "Talk and Social Institutions",
+		"professor": "Clayman, S.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "289A",
+		"title": "Practicum in Conversation Analysis: Data Analysis",
+		"professor": "Rossi, G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "295",
+		"title": "Working Group in Sociology",
+		"professor": "Collett, J.L.; Gaddis, S.M.; Quadlin, N.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "295",
+		"title": "Working Group in Sociology",
+		"professor": "Rossi, G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "295",
+		"title": "Working Group in Sociology",
+		"professor": "Collett, J.L.; Sweeney, M.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "295",
+		"title": "Working Group in Sociology",
+		"professor": "Saguy, A.C.; Menjivar, T.; Kligman, G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "295",
+		"title": "Working Group in Sociology",
+		"professor": "Waldinger, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "295",
+		"title": "Working Group in Sociology",
+		"professor": "Ortiz, V."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "295",
+		"title": "Working Group in Sociology",
+		"professor": "Timmermans, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "295",
+		"title": "Working Group in Sociology",
+		"professor": "Foster, J.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "295",
+		"title": "Working Group in Sociology",
+		"professor": "Brand, J.E.; Gaddis, S.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "295",
+		"title": "Working Group in Sociology",
+		"professor": "Brown, K.L.; Guhin, J.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SOCIOL",
+		"code": "295",
+		"title": "Working Group in Sociology",
+		"professor": "Lee, C."
+	}
+]

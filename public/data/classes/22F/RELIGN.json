@@ -1,0 +1,79 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "RELIGN",
+		"code": "11",
+		"title": "Religion in Los Angeles",
+		"professor": "Joseph, S.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "RELIGN",
+		"code": "M20",
+		"title": "Introduction to Islam",
+		"professor": "Sayeed, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "RELIGN",
+		"code": "55",
+		"title": "Spirit of Medicine",
+		"professor": "Gillespie, R.T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "RELIGN",
+		"code": "M60D",
+		"title": "Religion in Classical India: Introduction",
+		"professor": "Loukota Sanclement"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "RELIGN",
+		"code": "M105A",
+		"title": "Bah&#225;&#39;&#237; Faith in Iran: Historical and Sociological Survey",
+		"professor": "Saiedi, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "RELIGN",
+		"code": "110",
+		"title": "Religion and Violence: Seminar 1  ",
+		"professor": "Joseph, S.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "RELIGN",
+		"code": "M132",
+		"title": "Ancient Egyptian Religion",
+		"professor": "Wendrich, W.Z."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "RELIGN",
+		"code": "M161B",
+		"title": "Japanese Buddhism",
+		"professor": "Bodiford, W.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "RELIGN",
+		"code": "M175",
+		"title": "Topics in Philosophy of Religion: Lecture 1  ",
+		"professor": "Johnson, M.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "RELIGN",
+		"code": "177",
+		"title": "Variable Topics in Religion: Animals in Religious Literature",
+		"professor": "Hoose, A.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "RELIGN",
+		"code": "177",
+		"title": "Variable Topics in Religion: Global Jainism",
+		"professor": "Hoose, A.G."
+	}
+]

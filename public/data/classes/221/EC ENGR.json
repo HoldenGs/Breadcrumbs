@@ -1,0 +1,79 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EC ENGR",
+		"code": "3",
+		"title": "Introduction to Electrical Engineering",
+		"professor": "Briggs, D.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EC ENGR",
+		"code": "M16",
+		"title": "Logic Design of Digital Systems",
+		"professor": "Darabi, H."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EC ENGR",
+		"code": "M16",
+		"title": "Logic Design of Digital Systems",
+		"professor": "Ghaforyfard, P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EC ENGR",
+		"code": "100",
+		"title": "Electrical and Electronic Circuits",
+		"professor": "Moloudi, S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EC ENGR",
+		"code": "102",
+		"title": "Systems and Signals",
+		"professor": "Shoarinejad, K."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EC ENGR",
+		"code": "216B",
+		"title": "VLSI Signal Processing",
+		"professor": "Markovic, D."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EC ENGR",
+		"code": "232E",
+		"title": "Large Scale Social and Complex Networks: Design and Algorithms",
+		"professor": "Roychowdhury, V.P.; Monsoor, T."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EC ENGR",
+		"code": "233",
+		"title": "Wireless Communications System Design, Modeling, and Implementation",
+		"professor": "Cabric, D.; Boljanovic, V."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EC ENGR",
+		"code": "235A",
+		"title": "Mathematical Foundations of Data Storage Systems",
+		"professor": "TA; Dolecek, L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EC ENGR",
+		"code": "297",
+		"title": "Seminar Series: Electrical Engineering: Seminar 1  ",
+		"professor": "Vandenberghe, L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "EC ENGR",
+		"code": "297",
+		"title": "Seminar Series: Electrical Engineering: Seminar 2  ",
+		"professor": "Vandenberghe, L."
+	}
+]

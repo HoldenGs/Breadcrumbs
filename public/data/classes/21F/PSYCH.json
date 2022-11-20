@@ -1,0 +1,1864 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "10",
+		"title": "Introductory Psychology",
+		"professor": "Paquette-Smith, M.; Imundo, M.N.; Baskerville, W.; Chang, M.; Davis, B.J.; Isenberg, B.M.; Meza Lazaro, Y.; Nagaswami, M.V."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "10",
+		"title": "Introductory Psychology",
+		"professor": "Clark, C.M.; Imundo, M.N.; Al-Suwaidi, M.; MacNaughton, G.A.; Onipede, Z.A.; Ramirez, E.S.; Rshtouni, M.; Sargent, K.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "15",
+		"title": "Introductory Psychobiology",
+		"professor": "Shirinyan, D.; Laughlin, L.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "19",
+		"title": "Coping and Resilience",
+		"professor": "Silvers, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "20A",
+		"title": "MATLAB Programming for Behavioral Sciences",
+		"professor": "Mansolf, M.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "20B",
+		"title": "Advanced Topics in MATLAB Programming for Behavioral Sciences",
+		"professor": "Frane, A.V.; Singh, G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "85",
+		"title": "Introduction to Cognitive Science",
+		"professor": "Kellman, P.; Jacoby, V.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "100A",
+		"title": "Psychological Statistics",
+		"professor": "Enders, C.K.; Patel, P.K.; Rastogi, R.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "100A",
+		"title": "Psychological Statistics",
+		"professor": "Montoya, A.K.; Luna, M.L.; Kline, N.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "100B",
+		"title": "Research Methods in Psychology",
+		"professor": "Firstenberg, I.; Whatley, M.C.; Brabec, J.A.; Sklar, V.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "101",
+		"title": "General Psychology Laboratory",
+		"professor": "McAuliffe, S.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "110",
+		"title": "Fundamentals of Learning",
+		"professor": "Sharpe, M.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "115",
+		"title": "Principles of Behavioral Neuroscience",
+		"professor": "Schein, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "116A",
+		"title": "Behavioral Neuroscience Laboratory",
+		"professor": "Krasne, F.; Izquierdo Edler, A; Grisham, W.E.; Wong, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "116A",
+		"title": "Behavioral Neuroscience Laboratory",
+		"professor": "Izquierdo Edler, A; Grisham, W.E.; Wong, J.; Krasne, F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "116B",
+		"title": "Human Neuropsychology Laboratory",
+		"professor": "Grisham, W.E.; Markowitz, S.Y.; Watson, S.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "M117A",
+		"title": "Neuroscience: From Molecules to Mind--Cellular and Systems Neuroscience",
+		"professor": "Piri, N.; Chandler, S.H.; White, S.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "118",
+		"title": "Comparative Psychobiology",
+		"professor": "Blaisdell, A.P.; Wang, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "119I",
+		"title": "Integration of Face and Brain",
+		"professor": "Zaidel, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "119M",
+		"title": "Neural Circuits of Learning and Memory",
+		"professor": "Kennedy, P.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "119Y",
+		"title": "Psychobiology of Sexual Behavior",
+		"professor": "Wong, J.; Reid, A.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "120A",
+		"title": "Cognitive Psychology",
+		"professor": "Rissman, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "120B",
+		"title": "Sensation and Perception",
+		"professor": "Shams, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "121",
+		"title": "Laboratory in Cognitive Psychology",
+		"professor": "Cheng, P.; Haygood, S.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "121",
+		"title": "Laboratory in Cognitive Psychology",
+		"professor": "McAuliffe, S.P.; Walters, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "124A",
+		"title": "Language as Cognitive Science",
+		"professor": "Blank, I."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "124B",
+		"title": "Fundamentals of User Experience",
+		"professor": "Fuchser, V.F.; Cui, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "124C",
+		"title": "Human Memory",
+		"professor": "Clewett, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "127B",
+		"title": "Abnormal Psychology: Biological Bases",
+		"professor": "Karlsgodt, K.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "130",
+		"title": "Developmental Psychology",
+		"professor": "Silvers, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "131",
+		"title": "Research in Developmental Psychology",
+		"professor": "Sandhofer, C.M.; Smola, X."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "131",
+		"title": "Research in Developmental Psychology",
+		"professor": "Goff, B.S.; So, F.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "132B",
+		"title": "Mental Health in Schools: Policy and Practice",
+		"professor": "Adelman, H.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "133C",
+		"title": "Language Development",
+		"professor": "Ankowski, A.N.; Tucker, M.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "133E",
+		"title": "Perceptual Development",
+		"professor": "Johnson, S.P.; Levinson, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "134A",
+		"title": "Applied Developmental Psychology: Infant/Toddler Care and Education",
+		"professor": "Gross, E.F.; Pashtunyar, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "134D",
+		"title": "Fieldwork in Applied Developmental Psychology",
+		"professor": "Gross, E.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "134K",
+		"title": "Effects of Early Adversity and Trauma",
+		"professor": "Goff, B.S.; Zhang, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "135",
+		"title": "Social Psychology",
+		"professor": "Lieberman, M.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "136B",
+		"title": "Nonexperimental Methods in Social Psychology",
+		"professor": "Huo, Y.J.; Chin, J.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "136B",
+		"title": "Nonexperimental Methods in Social Psychology",
+		"professor": "Huo, Y.J.; Sabillo, R.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "137A",
+		"title": "Neuroscience of Social Perception",
+		"professor": "Parkinson, C.M.; Parrish, M.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "137I",
+		"title": "Social Influence",
+		"professor": "Smurda, J.D.; Fisher, P.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "137K",
+		"title": "Psychology of Emotion",
+		"professor": "Eisenberger, N.I.; Shen, L.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "150",
+		"title": "Introduction to Health Psychology",
+		"professor": "Sumner, J.A.; Hofschneider, L.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "151",
+		"title": "Research Methods in Health Psychology",
+		"professor": "Williamson, T.J.; Lee, K.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "151",
+		"title": "Research Methods in Health Psychology",
+		"professor": "Williamson, T.J.; Radin, A.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "162",
+		"title": "Psychology of Addiction",
+		"professor": "Ray, L.A.; McKinney, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "186C",
+		"title": "Cognitive Science Laboratory: Psychophysical Theories and Methods",
+		"professor": "Liu, Z.; Huang, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "186D",
+		"title": "Laboratory in Functional Neuroimaging",
+		"professor": "Monti, M.M.; Cain, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "188B",
+		"title": "Special Courses in Psychology: Fundamentals of User Experience",
+		"professor": "Fuchser, V.F.; Cui, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "188SA",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Lindholm, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Advanced Honors Seminar for Psychology 115",
+		"professor": "Schein, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Advanced Honors Seminar for Psychology 115",
+		"professor": "Schein, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Advanced Honors Seminar for Psychology 130",
+		"professor": "Silvers, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "White, S.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Ankowski, A.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Johnson, S.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Parkinson, C.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "191AH",
+		"title": "Departmental Honors Research Seminars",
+		"professor": "Lieberman, M.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "192",
+		"title": "Educational Practices in Psychology",
+		"professor": "Gross, E.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "192",
+		"title": "Educational Practices in Psychology",
+		"professor": "Goff, B.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "194A",
+		"title": "Internship Seminars: Psychology",
+		"professor": "Donato, S.H.; Repetti, R.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "194C",
+		"title": "Research Group Seminars: Cognitive Science",
+		"professor": "Lu, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "195A",
+		"title": "Community Internships in Psychology",
+		"professor": "Holt, L.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "195A",
+		"title": "Community Internships in Psychology",
+		"professor": "Knowlton, B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "195A",
+		"title": "Community Internships in Psychology",
+		"professor": "Gong-Guy, E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "195B",
+		"title": "Corporate Internships in Cognitive Science",
+		"professor": "Fuchser, V.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "195B",
+		"title": "Corporate Internships in Cognitive Science",
+		"professor": "Knowlton, B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Chorpita, B.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Liu, Z."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Brannon, T.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Eisenberger, N.I."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Juvonen, J.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Evan, E.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Adelman, H.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Lenartowicz, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Venugopal, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Grammer, J.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Knowlton, B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Givvin, K.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Tehranian, Y.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Bower, J.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Kellman, P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Tomiyama, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Stanton, A.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Dunkel Schetter, C"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Stigler, J.W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Montoya, A.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Glasner, S.V."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Wikenheiser, A.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Robles, T.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Karney, B.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Sandhofer, C.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Mays, V.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Shams, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Hershfield, H.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Hajal, N.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Cartmill, E.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196B",
+		"title": "Research Apprenticeship in Cognitive Science",
+		"professor": "Johnson, S.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196B",
+		"title": "Research Apprenticeship in Cognitive Science",
+		"professor": "Lenartowicz, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196B",
+		"title": "Research Apprenticeship in Cognitive Science",
+		"professor": "Chen, X."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196B",
+		"title": "Research Apprenticeship in Cognitive Science",
+		"professor": "Lu, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196B",
+		"title": "Research Apprenticeship in Cognitive Science",
+		"professor": "Enders, C.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196B",
+		"title": "Research Apprenticeship in Cognitive Science",
+		"professor": "Sandhofer, C.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196B",
+		"title": "Research Apprenticeship in Cognitive Science",
+		"professor": "Givvin, K.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196B",
+		"title": "Research Apprenticeship in Cognitive Science",
+		"professor": "Castel, A.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196B",
+		"title": "Research Apprenticeship in Cognitive Science",
+		"professor": "Gao, T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196B",
+		"title": "Research Apprenticeship in Cognitive Science",
+		"professor": "Grammer, J.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196B",
+		"title": "Research Apprenticeship in Cognitive Science",
+		"professor": "Lieberman, M.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196B",
+		"title": "Research Apprenticeship in Cognitive Science",
+		"professor": "Liu, Z."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196B",
+		"title": "Research Apprenticeship in Cognitive Science",
+		"professor": "Wu, H.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196B",
+		"title": "Research Apprenticeship in Cognitive Science",
+		"professor": "Wikenheiser, A.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196B",
+		"title": "Research Apprenticeship in Cognitive Science",
+		"professor": "Stigler, J.W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196B",
+		"title": "Research Apprenticeship in Cognitive Science",
+		"professor": "Bjork, E.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196B",
+		"title": "Research Apprenticeship in Cognitive Science",
+		"professor": "Karney, B.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196B",
+		"title": "Research Apprenticeship in Cognitive Science",
+		"professor": "Shams, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196B",
+		"title": "Research Apprenticeship in Cognitive Science",
+		"professor": "Fuchser, V.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "196B",
+		"title": "Research Apprenticeship in Cognitive Science",
+		"professor": "Harris, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Bjork, E.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Brannon, T.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Castel, A.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Chavira, D.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Clewett, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Fanselow, M.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Gao, T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Holyoak, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Izquierdo Edler, A"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Johnson, S.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Juvonen, J.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Knowlton, B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Lee, S.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Lu, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Mays, V.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Monti, M.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Ng, L.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Perez, E.O."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Ray, L.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Robles, T.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Stigler, J.W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Tomiyama, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Kleinrock, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "199A",
+		"title": "Senior Project in Psychology",
+		"professor": "Grisham, W.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "199A",
+		"title": "Senior Project in Psychology",
+		"professor": "Castel, A.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "199A",
+		"title": "Senior Project in Psychology",
+		"professor": "Glasner, S.V."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "199A",
+		"title": "Senior Project in Psychology",
+		"professor": "Haselton, M.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "199A",
+		"title": "Senior Project in Psychology",
+		"professor": "Kleinrock, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "199A",
+		"title": "Senior Project in Psychology",
+		"professor": "Ankowski, A.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "199B",
+		"title": "Senior Project in Psychology",
+		"professor": "Blaisdell, A.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "199B",
+		"title": "Senior Project in Psychology",
+		"professor": "Harris, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "199B",
+		"title": "Senior Project in Psychology",
+		"professor": "Lu, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "200A",
+		"title": "Pavlovian Processes",
+		"professor": "Fanselow, M.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "207",
+		"title": "Seminar in Behavioral Neuroscience: Seminar 1  ",
+		"professor": "Wikenheiser, A.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "212",
+		"title": "Evaluation of Research Literature in Physiological Psychology",
+		"professor": "Kennedy, P.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "215A",
+		"title": "Health Psychology",
+		"professor": "Tomiyama, J.; Robles, T.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "219",
+		"title": "Health Psychology Lecture Series",
+		"professor": "Tomiyama, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "220A",
+		"title": "Social Psychology",
+		"professor": "Karney, B.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "226A",
+		"title": "Current Literature in Social Psychology",
+		"professor": "Brannon, T.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "241",
+		"title": "Current Developments in Developmental Psychology",
+		"professor": "Johnson, S.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "249",
+		"title": "Current Issues in Quantitative Psychology",
+		"professor": "Du, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "250A",
+		"title": "Advanced Psychological Statistics",
+		"professor": "Reise, S.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Blair, H.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Brannon, T.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Callaghan, B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Chavira, D.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Chorpita, B.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Clewett, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Craske, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Fanselow, M.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Fuligni, A.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Haselton, M.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Huo, Y.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Johnson, S.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Juvonen, J.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Karlsgodt, K.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Karney, B.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Johnson, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Kellman, P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Knowlton, B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Chung, A.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Lee, S.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Lieberman, M.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Lu, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Monti, M.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Ng, L.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Parkinson, C.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Shams, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Sharpe, M.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Silvers, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Stanton, A.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Stigler, J.W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Tomiyama, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Yee-Bradbury, C.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Sumner, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "256A",
+		"title": "Introduction to Multilevel Modeling",
+		"professor": "Enders, C.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "260A",
+		"title": "Proseminar: Cognitive Psychology",
+		"professor": "Clewett, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "265",
+		"title": "Computational Methods for Neuroimaging",
+		"professor": "Monti, M.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "270A",
+		"title": "Foundations of Clinical Psychology",
+		"professor": "Bradbury, T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "271A",
+		"title": "Clinical Psychological Methods",
+		"professor": "Forman, S.; Sayegh, P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "271D",
+		"title": "Clinical Research Laboratory",
+		"professor": "Currin, D.L.; Yee-Bradbury, C.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "271G",
+		"title": "Evidence-Based Intervention for Childhood Problems",
+		"professor": "Chorpita, B.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "272G",
+		"title": "Advanced Clinical Psychological Methods: Marital Therapies",
+		"professor": "Christensen, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "273A",
+		"title": "Professional and Ethical Issues in Clinical Psychology",
+		"professor": "Tuohy, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "289A",
+		"title": "Current Issues in Clinical Psychology",
+		"professor": "Repetti, R.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Adhikari, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Blair, H.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Blaisdell, A.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Blank, I."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Bower, J.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Brannon, T.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Callaghan, B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Castel, A.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Chavira, D.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Chorpita, B.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Craske, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Du, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Dunkel Schetter, C"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Eisenberger, N.I."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Enders, C.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Fanselow, M.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Galvan, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Greenfield, P.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Haselton, M.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Huo, Y.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Izquierdo Edler, A"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Johnson, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Johnson, S.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Juvonen, J.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Karlsgodt, K.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Karney, B.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Kennedy, P.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Knowlton, B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Chung, A.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Lau, C.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Lee, S.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Liu, Z."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Mays, V.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Monti, M.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Montoya, A.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Parkinson, C.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Ray, L.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Reise, S.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Repetti, R.L.; Robles, T.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Rissman, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Robles, T.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Sandhofer, C.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Sears, D.O."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Shams, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Sharpe, M.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Shih, M.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Silvers, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Stanton, A.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Stigler, J.W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Tomiyama, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Wassum, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Wikenheiser, A.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Ng, L.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Perez, E.O."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Bjork, R.A.; Bjork, E.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Bjork, R.A.; Castel, A.D.; Knowlton, B.; Bjork, E.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Cheng, P.; Holyoak, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Huo, Y.J.; Brannon, T.N.; Perez, E.O.; Sears, D.O."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Kellman, P.; Lu, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Lieberman, M.D.; Eisenberger, N.I.; Silvers, J.A.; Parkinson, C.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Miller, G.A.; Yee-Bradbury, C.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCH",
+		"code": "296A",
+		"title": "Research Topics in Psychology",
+		"professor": "Sumner, J.A."
+	}
+]

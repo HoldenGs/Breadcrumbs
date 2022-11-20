@@ -1,0 +1,128 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "A&O SCI",
+		"code": "1",
+		"title": "Climate Change: From Puzzles to Policy",
+		"professor": "Arias-Young, T.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "A&O SCI",
+		"code": "1L",
+		"title": "Climate Change: From Puzzles to Policy--Laboratory",
+		"professor": "Arias-Young, T.M.; Giraldo Cardenas,; Stumbaugh, D.L.; Sandoval Belmar, M; Chang, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "A&O SCI",
+		"code": "3",
+		"title": "Introduction to Atmospheric Environment",
+		"professor": "Chamecki, M.; Branco Rodakoviski; Graves, S.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "A&O SCI",
+		"code": "3L",
+		"title": "Introduction to Atmospheric Environment Laboratory",
+		"professor": "Chamecki, M.; Branco Rodakoviski; Graves, S.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "A&O SCI",
+		"code": "19",
+		"title": "Oceanographic Field Trip",
+		"professor": "Treude, T.I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "A&O SCI",
+		"code": "51",
+		"title": "Fundamentals of Climate Science",
+		"professor": "Hall, A.D.; Ding, X."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "A&O SCI",
+		"code": "M100",
+		"title": "Earth and Its Environment",
+		"professor": "Li, Q."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "A&O SCI",
+		"code": "107",
+		"title": "Biological Oceanography",
+		"professor": "Shipe, R.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "A&O SCI",
+		"code": "112",
+		"title": "Climate Change Assessment",
+		"professor": "Neelin, J.D.; Emmenegger, T.W."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "A&O SCI",
+		"code": "CM114",
+		"title": "Aquatic Geomicrobiology",
+		"professor": "Treude, T.I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "A&O SCI",
+		"code": "145",
+		"title": "Atmospheric Physics: Radiation, Clouds, and Aerosols",
+		"professor": "Li, Q."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "A&O SCI",
+		"code": "200D",
+		"title": "Scientific Communication for Atmospheric and Oceanic Scientists",
+		"professor": "Seibt, U."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "A&O SCI",
+		"code": "230B",
+		"title": "Atmospheric Chemistry II",
+		"professor": "Paulson, S.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "A&O SCI",
+		"code": "CM237",
+		"title": "Aquatic Geomicrobiology",
+		"professor": "Treude, T.I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "A&O SCI",
+		"code": "250B",
+		"title": "Solar System Microscopic Plasma Processes",
+		"professor": "Bortnik, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "A&O SCI",
+		"code": "270",
+		"title": "Seminar: Atmospheric Sciences",
+		"professor": "Saide Peralta, P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "A&O SCI",
+		"code": "271",
+		"title": "Seminar: Atmospheric Dynamics",
+		"professor": "Stewart, A.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "A&O SCI",
+		"code": "274",
+		"title": "Seminar: Atmospheric Composition and Processes",
+		"professor": "Kok, J.F."
+	}
+]

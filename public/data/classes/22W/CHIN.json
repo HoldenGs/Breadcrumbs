@@ -1,0 +1,100 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "CHIN",
+		"code": "2",
+		"title": "Elementary Modern Chinese",
+		"professor": "Yao, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHIN",
+		"code": "2",
+		"title": "Elementary Modern Chinese",
+		"professor": "Chief, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHIN",
+		"code": "2A",
+		"title": "Elementary Modern Chinese for Advanced Beginners",
+		"professor": "Sun, X."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHIN",
+		"code": "5",
+		"title": "Intermediate Modern Chinese",
+		"professor": "Shen, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHIN",
+		"code": "5A",
+		"title": "Intermediate Modern Chinese for Advanced Students",
+		"professor": "Sun, X."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHIN",
+		"code": "50",
+		"title": "Chinese Civilization",
+		"professor": "Li, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHIN",
+		"code": "98T",
+		"title": "Listening to Subaltern through Multimedia: Voices of Ethnic Minorities in China",
+		"professor": "Zhou, C.; Berry, M.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHIN",
+		"code": "100B",
+		"title": "Advanced Modern Chinese",
+		"professor": "Smith, M.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHIN",
+		"code": "101B",
+		"title": "Advanced Readings in Modern Chinese",
+		"professor": "Chief, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHIN",
+		"code": "102B",
+		"title": "Advanced Chinese for International Business",
+		"professor": "Shen, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHIN",
+		"code": "103",
+		"title": "Topics in Chinese Language and Culture",
+		"professor": "Wu, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHIN",
+		"code": "110B",
+		"title": "Introduction to Classical Chinese",
+		"professor": "Duthie, N.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHIN",
+		"code": "124",
+		"title": "Taiwanese Language and Culture",
+		"professor": "Yeh, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHIN",
+		"code": "226A",
+		"title": "Seminar: Topics in Chinese Applied Linguistics: Seminar 1  ",
+		"professor": "Tao, H."
+	}
+]

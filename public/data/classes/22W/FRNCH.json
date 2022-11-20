@@ -1,0 +1,198 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "FRNCH",
+		"code": "1",
+		"title": "Elementary French",
+		"professor": "Salha, H.; Jansma, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FRNCH",
+		"code": "1",
+		"title": "Elementary French",
+		"professor": "Gobeille, C.J.; Jansma, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FRNCH",
+		"code": "1",
+		"title": "Elementary French",
+		"professor": "Avoine, S.; Jansma, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FRNCH",
+		"code": "2",
+		"title": "Elementary French",
+		"professor": "Hadjeris, F.; Jansma, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FRNCH",
+		"code": "2",
+		"title": "Elementary French",
+		"professor": "Hovsepyan, L.R.; Jansma, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FRNCH",
+		"code": "2",
+		"title": "Elementary French",
+		"professor": "Barger, A.; Jansma, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FRNCH",
+		"code": "2",
+		"title": "Elementary French",
+		"professor": "Presberg, B.L.; Jansma, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FRNCH",
+		"code": "2",
+		"title": "Elementary French",
+		"professor": "Mengual, M.; Jansma, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FRNCH",
+		"code": "3",
+		"title": "Elementary French",
+		"professor": "Sackett, A.R.; Jansma, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FRNCH",
+		"code": "3",
+		"title": "Elementary French",
+		"professor": "Gueidon, E.; Jansma, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FRNCH",
+		"code": "3",
+		"title": "Elementary French",
+		"professor": "Lamontagne, S.R.; Jansma, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FRNCH",
+		"code": "4",
+		"title": "Intermediate French",
+		"professor": "Hanzalik, D.M.; Denie Higney, L.M.; Jansma, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FRNCH",
+		"code": "4",
+		"title": "Intermediate French",
+		"professor": "Melikyan, A.; Denie Higney, L.M.; Jansma, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FRNCH",
+		"code": "5",
+		"title": "Intermediate French",
+		"professor": "Duval, E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FRNCH",
+		"code": "6",
+		"title": "Intermediate French",
+		"professor": "Chaffee, K.I.; Denie Higney, L.M.; Jansma, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FRNCH",
+		"code": "6",
+		"title": "Intermediate French",
+		"professor": "Denie Higney, L.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FRNCH",
+		"code": "14",
+		"title": "Introduction to French Culture and Civilization in English",
+		"professor": "Pruss, C.; Jansma, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FRNCH",
+		"code": "101",
+		"title": "Advanced Expository Writing: Techniques of Argumentation",
+		"professor": "Denie Higney, L.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FRNCH",
+		"code": "104",
+		"title": "Theory and Correction of Diction",
+		"professor": "Jansma, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FRNCH",
+		"code": "107",
+		"title": "Advanced Oral Expression",
+		"professor": "Jansma, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FRNCH",
+		"code": "108",
+		"title": "Advanced Practical Translation",
+		"professor": "Thomas, D.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FRNCH",
+		"code": "119",
+		"title": "Studies in 19th-Century French Culture and Literature",
+		"professor": "Murat, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FRNCH",
+		"code": "120",
+		"title": "Studies in 20th-Century French Culture and Literature: Lecture 1  ",
+		"professor": "Stefanovska, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FRNCH",
+		"code": "141",
+		"title": "French Cinema: Lecture 1  ",
+		"professor": "Stefanovska, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FRNCH",
+		"code": "142",
+		"title": "Francophone Cinema: Lecture 1  ",
+		"professor": "Thomas, D.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FRNCH",
+		"code": "191B",
+		"title": "Variable Topics Research Seminars: French: Seminar 1  ",
+		"professor": "Carron, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FRNCH",
+		"code": "201",
+		"title": "Techniques of Literary Analysis",
+		"professor": "Thomas, D.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FRNCH",
+		"code": "219",
+		"title": "19th Century",
+		"professor": "Murat, L."
+	}
+]

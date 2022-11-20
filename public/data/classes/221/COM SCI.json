@@ -1,0 +1,65 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COM SCI",
+		"code": "31",
+		"title": "Introduction to Computer Science I",
+		"professor": "Stahl, H.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COM SCI",
+		"code": "32",
+		"title": "Introduction to Computer Science II",
+		"professor": "Ambrosio, E.O."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COM SCI",
+		"code": "33",
+		"title": "Introduction to Computer Organization",
+		"professor": "Ghaforyfard, P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COM SCI",
+		"code": "M51A",
+		"title": "Logic Design of Digital Systems",
+		"professor": "Darabi, H."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COM SCI",
+		"code": "M51A",
+		"title": "Logic Design of Digital Systems",
+		"professor": "Ghaforyfard, P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COM SCI",
+		"code": "111",
+		"title": "Operating Systems Principles",
+		"professor": "Reiher, P.L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COM SCI",
+		"code": "180",
+		"title": "Introduction to Algorithms and Complexity",
+		"professor": "Campbell, M.L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COM SCI",
+		"code": "181",
+		"title": "Introduction to Formal Languages and Automata Theory",
+		"professor": "Campbell, M.L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COM SCI",
+		"code": "192",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Shaked, S."
+	}
+]

@@ -1,0 +1,51 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "DGT HUM",
+		"code": "101",
+		"title": "Introduction to Digital Humanities",
+		"professor": "Albrezzi, F.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "DGT HUM",
+		"code": "110",
+		"title": "User Experience and Design",
+		"professor": "Cho, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "DGT HUM",
+		"code": "150",
+		"title": "Advanced Topics in Digital Humanities: Seminar 2  ",
+		"professor": "MacFadyen, D.W.; Gonzalez, S.I.; Wilder, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "DGT HUM",
+		"code": "151",
+		"title": "Advanced Topics in Urban Humanities: Seminar 1  ",
+		"professor": "Kawano, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "DGT HUM",
+		"code": "187",
+		"title": "Capstone Seminar in Digital Humanities",
+		"professor": "Johanson, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "DGT HUM",
+		"code": "195",
+		"title": "Community or Corporate Internships in Digital Humanities",
+		"professor": "Johanson, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "DGT HUM",
+		"code": "250",
+		"title": "Special Topics in Digital Humanities: Seminar 1  ",
+		"professor": "Kurtz, W."
+	}
+]

@@ -1,0 +1,373 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "1A",
+		"title": "Physics for Scientists and Engineers: Mechanics",
+		"professor": "Kamaha, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "1AH",
+		"title": "Physics for Scientists and Engineers: Mechanics (Honors)",
+		"professor": "Bauer, D.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "1B",
+		"title": "Physics for Scientists and Engineers: Oscillations, Waves, Electric and Magnetic Fields",
+		"professor": "Corbin, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "4AL",
+		"title": "Physics Laboratory for Scientists and Engineers: Mechanics",
+		"professor": "Dash, A.; Arisaka, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "4AL",
+		"title": "Physics Laboratory for Scientists and Engineers: Mechanics",
+		"professor": "Galkin, A.; Arisaka, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "4AL",
+		"title": "Physics Laboratory for Scientists and Engineers: Mechanics",
+		"professor": "Banerjee, A.; Arisaka, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "4AL",
+		"title": "Physics Laboratory for Scientists and Engineers: Mechanics",
+		"professor": "Jones, D.R.; Arisaka, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "4AL",
+		"title": "Physics Laboratory for Scientists and Engineers: Mechanics",
+		"professor": "Chang, E.H.; Arisaka, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "4AL",
+		"title": "Physics Laboratory for Scientists and Engineers: Mechanics",
+		"professor": "Anabi, J.; Arisaka, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "5A",
+		"title": "Physics for Life Sciences Majors: Mechanics and Energy",
+		"professor": "Tung, N.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "5A",
+		"title": "Physics for Life Sciences Majors: Mechanics and Energy",
+		"professor": "Schriver, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "5A",
+		"title": "Physics for Life Sciences Majors: Mechanics and Energy",
+		"professor": "Rombes Iii, N.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "5B",
+		"title": "Physics for Life Sciences Majors: Thermodynamics, Fluids, Waves, Light, and Optics",
+		"professor": "Holczer, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "5B",
+		"title": "Physics for Life Sciences Majors: Thermodynamics, Fluids, Waves, Light, and Optics",
+		"professor": "Bauer, D.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "5C",
+		"title": "Physics for Life Sciences Majors: Electricity, Magnetism, and Modern Physics",
+		"professor": "Jiang, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "5C",
+		"title": "Physics for Life Sciences Majors: Electricity, Magnetism, and Modern Physics",
+		"professor": "Hamilton, D.W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "10",
+		"title": "Physics",
+		"professor": "Chakravarty, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "17",
+		"title": "Modern Physics",
+		"professor": "Regan, B.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "19",
+		"title": "Can Physics Solve Mystery of Consciousness and Intelligence?",
+		"professor": "Arisaka, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "19",
+		"title": "Sustainable Fabrication: Digital Workflow from Design to Realization I",
+		"professor": "Holczer, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "19",
+		"title": "Why are We Here: Origin of Universe, Life, and Brains",
+		"professor": "Arisaka, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "32",
+		"title": "Mathematical Methods",
+		"professor": "Gelmini, G.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "89HC",
+		"title": "Honors Contracts",
+		"professor": "Bauer, D.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "105A",
+		"title": "Analytic Mechanics",
+		"professor": "Gutperle, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "105B",
+		"title": "Analytic Mechanics",
+		"professor": "Bozovic, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "110B",
+		"title": "Electricity and Magnetism",
+		"professor": "Bachtis, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "112",
+		"title": "Thermal Physics",
+		"professor": "Wang, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "115A",
+		"title": "Quantum Mechanics",
+		"professor": "Ni, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "115B",
+		"title": "Quantum Mechanics",
+		"professor": "Hamilton, P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "M122",
+		"title": "Introduction to Plasma Electronics",
+		"professor": "Carter, T.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "124",
+		"title": "Nuclear Physics",
+		"professor": "Kang, Z."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "140A",
+		"title": "Introduction to Solid-State Physics",
+		"professor": "Gutierrez, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "150",
+		"title": "Physics of Charged-Particle and Laser Beams",
+		"professor": "Musumeci, P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "170A",
+		"title": "Electronics for Physics Measurement",
+		"professor": "Hauser, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "170N",
+		"title": "Computational Physics and Astronomy Laboratory",
+		"professor": "Da Costa Alves, E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "180D",
+		"title": "Acoustics Laboratory",
+		"professor": "Kogar, A.; Lee, J.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "180F",
+		"title": "Elementary Particle Laboratory",
+		"professor": "Ong, R.A.; Ancelin, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "M180G",
+		"title": "Soft Matter Laboratory",
+		"professor": "Arisaka, K.; Carmona, J.; Kulkarni, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "192",
+		"title": "Undergraduate Practicum in Physics",
+		"professor": "Arisaka, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "192M",
+		"title": "Methods and Application of Collaborative Learning Theory in Physical Sciences",
+		"professor": "Samani, J.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "M192S",
+		"title": "Introduction to Collaborative Learning Theory and Practice",
+		"professor": "Shaked, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "198",
+		"title": "Honors Research in Physics",
+		"professor": "Huang, H.Z."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "220",
+		"title": "Classical Mechanics",
+		"professor": "Putterman, S.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "221A",
+		"title": "Quantum Mechanics",
+		"professor": "Tserkovnyak, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "222A",
+		"title": "Plasma Physics",
+		"professor": "Mori, W.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "226A",
+		"title": "Elementary Particle Physics",
+		"professor": "Saltzberg, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "230A",
+		"title": "Quantum Field Theory",
+		"professor": "D'Hoker, E.; Kim, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "232A",
+		"title": "Relativity",
+		"professor": "Solon, M.P.; Reiten, J.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "M236",
+		"title": "Geometry and Physics",
+		"professor": "Liu, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "237A",
+		"title": "String Theory",
+		"professor": "Dumitrescu, T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "241A",
+		"title": "Solid-State Physics",
+		"professor": "Roy, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "245",
+		"title": "Quantum Computation",
+		"professor": "Hudson, E.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHYSICS",
+		"code": "293",
+		"title": "Research Tutorial: Current Topics in Physics",
+		"professor": "Arisaka, K."
+	}
+]

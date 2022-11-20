@@ -1,0 +1,37 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "MIL SCI",
+		"code": "Z",
+		"title": "Leadership Laboratory",
+		"professor": "Martinez, K.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIL SCI",
+		"code": "12",
+		"title": "Basic Military Leadership",
+		"professor": "Kete, L.R.; Rivera, C.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIL SCI",
+		"code": "22",
+		"title": "Leadership Development and Military Planning",
+		"professor": "Kete, L.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIL SCI",
+		"code": "132",
+		"title": "Army Officership and Communication",
+		"professor": "Coyle, C.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MIL SCI",
+		"code": "142",
+		"title": "Leadership, Ethics, and Military Law",
+		"professor": "Crosen, M.G."
+	}
+]

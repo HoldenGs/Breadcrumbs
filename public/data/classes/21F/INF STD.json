@@ -1,0 +1,107 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "INF STD",
+		"code": "19",
+		"title": "Campus Art outside Museums: Sculpture, Murals, Special Rooms, and Buildings",
+		"professor": "Steele, V."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "INF STD",
+		"code": "20",
+		"title": "Digital Cultures and Societies",
+		"professor": "Srinivasan, R.; Stokes, D.I.; Pascal, U.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "INF STD",
+		"code": "M121",
+		"title": "Introduction to Media Literacies",
+		"professor": "Share, J.; Gambino, A.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "INF STD",
+		"code": "M135",
+		"title": "Environmental Justice through Lens of Media and Education",
+		"professor": "Share, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "INF STD",
+		"code": "180",
+		"title": "Special Topics in Information Studies: History and Practice of Information Visualization",
+		"professor": "Drucker, J.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "INF STD",
+		"code": "211",
+		"title": "Artifacts and Cultures",
+		"professor": "Furner, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "INF STD",
+		"code": "212",
+		"title": "Values and Communities in Information Professions",
+		"professor": "Gosart, J.O."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "INF STD",
+		"code": "214",
+		"title": "Informatics: Principles and Practices",
+		"professor": "Srinivasan, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "INF STD",
+		"code": "240",
+		"title": "Management of Digital Records",
+		"professor": "Gilliland, A.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "INF STD",
+		"code": "M254",
+		"title": "Medical Information Infrastructures and Internet Technologies",
+		"professor": "Bui, A.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "INF STD",
+		"code": "280",
+		"title": "Social Science Research Methodology for Information Studies",
+		"professor": "Gosart, J.O."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "INF STD",
+		"code": "289",
+		"title": "Seminar: Special Issues in Information Studies: Digital Asset Management",
+		"professor": "Tadic, L.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "INF STD",
+		"code": "289",
+		"title": "Seminar: Special Issues in Information Studies: Museums in Digital Age",
+		"professor": "Carbone, K.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "INF STD",
+		"code": "290",
+		"title": "Research Seminar: Information Studies",
+		"professor": "Leazer, G.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "INF STD",
+		"code": "291A",
+		"title": "Doctoral Seminar: Theoretical Traditions in Information Studies",
+		"professor": "Vancour, S.G."
+	}
+]

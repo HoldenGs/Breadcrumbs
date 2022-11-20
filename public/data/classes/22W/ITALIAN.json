@@ -1,0 +1,86 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "ITALIAN",
+		"code": "1",
+		"title": "Elementary Italian--Beginning",
+		"professor": "Weisberg, A.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ITALIAN",
+		"code": "1",
+		"title": "Elementary Italian--Beginning",
+		"professor": "Truong, H.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ITALIAN",
+		"code": "1",
+		"title": "Elementary Italian--Beginning",
+		"professor": "Blaisdell, M.; Lavagnino, C.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ITALIAN",
+		"code": "2",
+		"title": "Elementary Italian--Continued",
+		"professor": "Nespoli, M.; Lavagnino, C.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ITALIAN",
+		"code": "2",
+		"title": "Elementary Italian--Continued",
+		"professor": "Truong, H.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ITALIAN",
+		"code": "2",
+		"title": "Elementary Italian--Continued",
+		"professor": "Di Rienzo, D.; Lavagnino, C.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ITALIAN",
+		"code": "5",
+		"title": "Intermediate Italian",
+		"professor": "Kim, H.; Lavagnino, C.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ITALIAN",
+		"code": "6",
+		"title": "Intermediate Italian",
+		"professor": "Lavagnino, C.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ITALIAN",
+		"code": "114B",
+		"title": "Middle Ages: Medieval Humor, Moralism, and Society: Lecture 1  ",
+		"professor": "Burns, R.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ITALIAN",
+		"code": "116B",
+		"title": "Italian Renaissance: Power and Imagination in Renaissance",
+		"professor": "Gaylard, S.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ITALIAN",
+		"code": "120",
+		"title": "Modern and Contemporary Literature",
+		"professor": "Burns, R.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ITALIAN",
+		"code": "191",
+		"title": "Variable Topics Research Seminars: Italian Studies: Seminar 1  ",
+		"professor": "Gaylard, S.L."
+	}
+]

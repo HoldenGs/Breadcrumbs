@@ -1,0 +1,30 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "HEBREW",
+		"code": "1A",
+		"title": "Elementary Hebrew",
+		"professor": "Birnbaum, S.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HEBREW",
+		"code": "102A",
+		"title": "Intermediate Hebrew",
+		"professor": "Birnbaum, S.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HEBREW",
+		"code": "188FL",
+		"title": "Special Studies: Readings in Hebrew",
+		"professor": "Smoak, J.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HEBREW",
+		"code": "220",
+		"title": "Studies in Hebrew Biblical Literature: Seminar 1  ",
+		"professor": "Bonesho, C.E."
+	}
+]

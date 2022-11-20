@@ -1,0 +1,37 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "C&S BIO",
+		"code": "M130",
+		"title": "Fundamentals of Digital Imaging and Image Processing",
+		"professor": "Shah, P.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "C&S BIO",
+		"code": "185",
+		"title": "Thesis Research Opportunities in Computational and Systems Biology",
+		"professor": "Wollman, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "C&S BIO",
+		"code": "195",
+		"title": "Community or Corporate Internships in Computational and Systems Biology",
+		"professor": "Hoffmann, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "C&S BIO",
+		"code": "195",
+		"title": "Community or Corporate Internships in Computational and Systems Biology",
+		"professor": "Pellegrini, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "C&S BIO",
+		"code": "198A",
+		"title": "Honors Research in Computational and Systems Biology",
+		"professor": "Pellegrini, M."
+	}
+]

@@ -1,0 +1,121 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "AF AMER",
+		"code": "1",
+		"title": "Introduction to Black Studies",
+		"professor": "Pierre, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "AF AMER",
+		"code": "M7A",
+		"title": "Elementary Yoruba",
+		"professor": "Adegbola, M.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "AF AMER",
+		"code": "M9A",
+		"title": "Elementary Amharic",
+		"professor": "Adhanom, A.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "AF AMER",
+		"code": "M12A",
+		"title": "African American Musical Heritage",
+		"professor": "Doleac, B.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "AF AMER",
+		"code": "M104A",
+		"title": "Early African American Literature",
+		"professor": "Yarborough, R.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "AF AMER",
+		"code": "M104E",
+		"title": "Topics in African American Literature and Culture: Lecture 2  ",
+		"professor": "Turner, P.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "AF AMER",
+		"code": "M104E",
+		"title": "Topics in African American Literature and Culture: Poetics of Soul Food",
+		"professor": "Mullen, H.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "AF AMER",
+		"code": "105B",
+		"title": "Issues in Pan-African Biography and Autobiography",
+		"professor": "Hudson, P.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "AF AMER",
+		"code": "112A",
+		"title": "Sunken Place: Racism, Survival, and Black Horror Aesthetic",
+		"professor": "Due, T.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "AF AMER",
+		"code": "CM113B",
+		"title": "Legislative Theater for Race and Gender Justice",
+		"professor": "Bain, B.R.; Pena, C.L.; Franklin-Edmondson"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "AF AMER",
+		"code": "M121",
+		"title": "Afro-Indigenous History: from Enslavement and Settlement to Black Lives Matter and Indigenous Sovereignty",
+		"professor": "Mays, K.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "AF AMER",
+		"code": "M179A",
+		"title": "Topics in African American Literature: Seminar 1  ",
+		"professor": "Streeter, C.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "AF AMER",
+		"code": "184A",
+		"title": "Research in Black Life, Institutions, and Culture",
+		"professor": "Allen, W.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "AF AMER",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Yarborough, R.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "AF AMER",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Due, T.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "AF AMER",
+		"code": "201A",
+		"title": "Survey of Black Studies Research: Themes, Issues, and Concepts",
+		"professor": "Pierre, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "AF AMER",
+		"code": "CM213B",
+		"title": "Legislative Theater for Race and Gender Justice",
+		"professor": "Bain, B.R.; Pena, C.L."
+	}
+]

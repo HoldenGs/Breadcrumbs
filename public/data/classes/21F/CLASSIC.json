@@ -1,0 +1,93 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "CLASSIC",
+		"code": "10",
+		"title": "Discovering Greeks",
+		"professor": "Kirkland, B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CLASSIC",
+		"code": "42",
+		"title": "Cinema and Ancient World",
+		"professor": "Martelli, F.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CLASSIC",
+		"code": "47",
+		"title": "Medical Terminology: Origins, Nature, and Practice",
+		"professor": "Beckelhymer, S.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CLASSIC",
+		"code": "88GE",
+		"title": "General Education Seminar Sequences: Plagues in Greece and Rome",
+		"professor": "Radcliffe, B.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CLASSIC",
+		"code": "89HC",
+		"title": "Honors Contracts",
+		"professor": "Kirkland, B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CLASSIC",
+		"code": "142",
+		"title": "Ancient Epic",
+		"professor": "Borst, Z.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CLASSIC",
+		"code": "M147",
+		"title": "Aristotle",
+		"professor": "Cook, R.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CLASSIC",
+		"code": "M153K",
+		"title": "Classical Archaeology: Greco-Roman Painting",
+		"professor": "Papadopoulos, J.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CLASSIC",
+		"code": "166A",
+		"title": "Greek Religion",
+		"professor": "Morris, S.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CLASSIC",
+		"code": "185",
+		"title": "Origins and Nature of English Vocabulary",
+		"professor": "Vine, B.H.; Zhang, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CLASSIC",
+		"code": "188SA",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Beckmann, S.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CLASSIC",
+		"code": "193",
+		"title": "Journal Club Seminars: Classics: Cicero in Book History",
+		"professor": "Spielberg, L.M.; Fitzgerald, D.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CLASSIC",
+		"code": "287",
+		"title": "Graduate Colloquium in Classical Literature",
+		"professor": "Martelli, F.K."
+	}
+]

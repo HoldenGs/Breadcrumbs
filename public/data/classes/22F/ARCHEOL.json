@@ -1,0 +1,23 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "ARCHEOL",
+		"code": "M201A",
+		"title": "Graduate Core Seminar: Archaeology",
+		"professor": "Lesure, R.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ARCHEOL",
+		"code": "M205A",
+		"title": "Selected Laboratory Topics in Archaeology: Lecture 1  ",
+		"professor": "Wake, T.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ARCHEOL",
+		"code": "M205A",
+		"title": "Selected Laboratory Topics in Archaeology: Paleoethnobotany",
+		"professor": "Shahat, A.K."
+	}
+]

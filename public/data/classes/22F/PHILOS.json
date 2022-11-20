@@ -1,0 +1,142 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "PHILOS",
+		"code": "4",
+		"title": "Philosophical Analysis of Contemporary Moral Issues",
+		"professor": "DeWitt, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHILOS",
+		"code": "8",
+		"title": "Introduction to Philosophy of Science",
+		"professor": "Smith, S.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHILOS",
+		"code": "21",
+		"title": "Skepticism and Rationality",
+		"professor": "Hsu, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHILOS",
+		"code": "31",
+		"title": "Logic, First Course",
+		"professor": "Levy, S.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHILOS",
+		"code": "100A",
+		"title": "History of Greek Philosophy",
+		"professor": "Crager, A.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHILOS",
+		"code": "M103A",
+		"title": "Ancient Greek and Roman Philosophy",
+		"professor": "Ellis, R.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHILOS",
+		"code": "C110",
+		"title": "Spinoza",
+		"professor": "Carriero, J.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHILOS",
+		"code": "C119",
+		"title": "Topics in History of Philosophy: Two-Wills Moral Psychology of Anselm and Kant",
+		"professor": "DeWitt, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHILOS",
+		"code": "C127A",
+		"title": "Philosophy of Language: Lecture 1  ",
+		"professor": "Cumming, S.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHILOS",
+		"code": "130",
+		"title": "Philosophy of Space and Time",
+		"professor": "Smith, S.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHILOS",
+		"code": "150",
+		"title": "Society and Morals: Global Poverty and Obligations of Aid",
+		"professor": "McHose, J.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHILOS",
+		"code": "155A",
+		"title": "Medical Ethics: Lecture 1  ",
+		"professor": "McHose, J.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHILOS",
+		"code": "C156",
+		"title": "Topics in Political Philosophy: Alienation and Estrangement",
+		"professor": "Scott, K.H.; Julius, A.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHILOS",
+		"code": "M175",
+		"title": "Topics in Philosophy of Religion: Lecture 1  ",
+		"professor": "Johnson, M.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHILOS",
+		"code": "183",
+		"title": "Theory of Knowledge: Lecture 1  ",
+		"professor": "Hsu, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHILOS",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Johnson, M.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHILOS",
+		"code": "200A",
+		"title": "Seminar for First-Year Graduate Students",
+		"professor": "Kaplan, D.B.; Rescorla, M.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHILOS",
+		"code": "206",
+		"title": "Topics in Medieval Philosophy: Lecture 1  ",
+		"professor": "Copenhaver, B.P.; Normore, C.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHILOS",
+		"code": "C210",
+		"title": "Spinoza",
+		"professor": "Carriero, J.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PHILOS",
+		"code": "248",
+		"title": "Problems in Moral Philosophy: Seminar 1  ",
+		"professor": "Herman, B.; Shiffrin, S."
+	}
+]

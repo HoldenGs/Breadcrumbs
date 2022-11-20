@@ -1,0 +1,37 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "CLASSIC",
+		"code": "10",
+		"title": "Discovering Greeks",
+		"professor": "Vivian, A.L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "CLASSIC",
+		"code": "20",
+		"title": "Discovering Romans",
+		"professor": "Akiyama-Kim, J.A.; Borst, Z.P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "CLASSIC",
+		"code": "30",
+		"title": "Classical Mythology",
+		"professor": "Borst, Z.P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "CLASSIC",
+		"code": "47",
+		"title": "Medical Terminology: Origins, Nature, and Practice",
+		"professor": "Beckelhymer, S.D."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "CLASSIC",
+		"code": "185",
+		"title": "Origins and Nature of English Vocabulary",
+		"professor": "Motter, T.C.; Borst, Z.P."
+	}
+]

@@ -1,0 +1,324 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "2",
+		"title": "Archaeology: Introduction",
+		"professor": "Schachner, G.T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "3",
+		"title": "Culture and Society",
+		"professor": "Lemelson, R.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "4",
+		"title": "Culture and Communication",
+		"professor": "Alim, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "89",
+		"title": "Honors Seminars: Honors Seminar for Anthropology 3",
+		"professor": "Lemelson, R.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "89HC",
+		"title": "Honors Contracts",
+		"professor": "Schachner, G.T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "113P",
+		"title": "Archaeology of North America",
+		"professor": "Neubauer, F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "116P",
+		"title": "Archaeology of South Asia",
+		"professor": "Smith, M.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "C117",
+		"title": "Selected Laboratory Topics in Archaeology: Lecture 1  ",
+		"professor": "Wake, T.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "C117",
+		"title": "Selected Laboratory Topics in Archaeology: Paleoethnobotany",
+		"professor": "Shahat, A.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "124Q",
+		"title": "Evolutionary Psychology",
+		"professor": "Barrett, H.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "126N",
+		"title": "Genes, Disease, and Culture",
+		"professor": "Bigham, A.W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "126P",
+		"title": "Paleopathology",
+		"professor": "Rashidi, J.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "M128T",
+		"title": "Amazon in Anthropocene",
+		"professor": "Lynch, J.W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "129",
+		"title": "Selected Topics in Biological Anthropology: Social Learning and Culture in Nonhumans and Humans",
+		"professor": "Perry, S.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "130",
+		"title": "Study of Culture",
+		"professor": "Thein, S.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "135R",
+		"title": "Multimedia Ethnography",
+		"professor": "Mendoza-Denton, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "136B",
+		"title": "Introduction to Psychological Anthropology: Current Topics and Research",
+		"professor": "Hollan, D.W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "141",
+		"title": "Careers in Anthropology",
+		"professor": "Loyd, H.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "155",
+		"title": "Native American Languages and Their Speakers",
+		"professor": "Kroskrity, P.V."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "188SA",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Lynch, J.W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Seminar 1  ",
+		"professor": "Thein, S.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Neubauer, F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Bigham, A.W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Smith, M.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "191HC",
+		"title": "Data Analysis",
+		"professor": "Miyake, L.R.; Yakal, M.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "194",
+		"title": "Research Group Seminars: Anthropology",
+		"professor": "Fessler, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "194",
+		"title": "Research Group Seminars: Anthropology",
+		"professor": "Cartmill, E.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "194",
+		"title": "Research Group Seminars: Anthropology",
+		"professor": "Fox, M.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "195CE",
+		"title": "Community and Corporate Internships in Anthropology",
+		"professor": "Bigham, A.W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "197",
+		"title": "Individual Studies in Anthropology",
+		"professor": "Acabado, S.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "200",
+		"title": "Anthropology Graduate Proseminar",
+		"professor": "Barrett, H.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "M201A",
+		"title": "Graduate Core Seminar: Archaeology",
+		"professor": "Lesure, R.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "202A",
+		"title": "Core Seminar: Biological Anthropology Colloquium",
+		"professor": "Hauser, B.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "203A",
+		"title": "Core Seminar: Sociocultural Anthropology--Historical and Philosophical Foundations of Anthropology",
+		"professor": "Yan, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "204A",
+		"title": "Core Seminar: Linguistic Anthropology",
+		"professor": "Mendoza-Denton, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "M216",
+		"title": "Topics in Asian Archaeology: Seminar 1  ",
+		"professor": "Von Falkenhausen,"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "CM217",
+		"title": "Selected Laboratory Topics in Archaeology: Lecture 1  ",
+		"professor": "Wake, T.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "CM217",
+		"title": "Selected Laboratory Topics in Archaeology: Paleoethnobotany",
+		"professor": "Shahat, A.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "219",
+		"title": "Selected Topics in Anthropological/Archaeological Theory: Archaeology of Ancient Ontologies",
+		"professor": "Lesure, R.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "221",
+		"title": "Behavior, Evolution, and Culture",
+		"professor": "Perry, S.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "223",
+		"title": "Experimental Biological Anthropology",
+		"professor": "Fessler, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "234",
+		"title": "Mind, Medicine, and Culture",
+		"professor": "Aciksoz, S.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "241",
+		"title": "Culture, Power, Social Change",
+		"professor": "Speed, S.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "249",
+		"title": "Selected Topics in Social Anthropology: Critical Study of Migration",
+		"professor": "Park, K.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "254",
+		"title": "Discourse Laboratory",
+		"professor": "Mendoza-Denton, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ANTHRO",
+		"code": "259",
+		"title": "Selected Topics in Linguistic Anthropology: Seminar 1  ",
+		"professor": "Mendoza-Denton, N."
+	}
+]

@@ -1,0 +1,107 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "JAPAN",
+		"code": "1",
+		"title": "Elementary Modern Japanese",
+		"professor": "Takakura, A.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "JAPAN",
+		"code": "1",
+		"title": "Elementary Modern Japanese",
+		"professor": "Takeuchi, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "JAPAN",
+		"code": "4",
+		"title": "Intermediate Modern Japanese",
+		"professor": "Nogami, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "JAPAN",
+		"code": "4",
+		"title": "Intermediate Modern Japanese",
+		"professor": "Kawanishi, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "JAPAN",
+		"code": "50",
+		"title": "Japanese Civilization",
+		"professor": "Duthie, T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "JAPAN",
+		"code": "89HC",
+		"title": "Honors Contracts",
+		"professor": "Duthie, T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "JAPAN",
+		"code": "100A",
+		"title": "Advanced Modern Japanese",
+		"professor": "Nishijima, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "JAPAN",
+		"code": "100A",
+		"title": "Advanced Modern Japanese",
+		"professor": "Taylor, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "JAPAN",
+		"code": "100R",
+		"title": "Third-Year Advanced Reading in Modern Japanese",
+		"professor": "Kawanishi, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "JAPAN",
+		"code": "101A",
+		"title": "Kanji for Advanced Reading",
+		"professor": "Nogami, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "JAPAN",
+		"code": "130A",
+		"title": "Readings in Modern Japanese Literature",
+		"professor": "Shima, K.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "JAPAN",
+		"code": "C159",
+		"title": "Variable Topics in Culture and Society in Japan: Japanese Pop Culture in Critical Framework",
+		"professor": "Shima, K.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "JAPAN",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Shima, K.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "JAPAN",
+		"code": "200",
+		"title": "Japanese Studies Seminar",
+		"professor": "Duthie, T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "JAPAN",
+		"code": "240A",
+		"title": "Seminar: Selected Topics in Japanese Literature",
+		"professor": "Emmerich, M.D."
+	}
+]

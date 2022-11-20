@@ -1,0 +1,79 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "IRANIAN",
+		"code": "1B",
+		"title": "Elementary Persian",
+		"professor": "Pourzangi, B.; Shayegan, M.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "IRANIAN",
+		"code": "20B",
+		"title": "Accelerated Elementary Persian",
+		"professor": "Hagigi, L.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "IRANIAN",
+		"code": "M60W",
+		"title": "Achaemenid Civilization and Empire of Alexander",
+		"professor": "Shayegan, M.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "IRANIAN",
+		"code": "102B",
+		"title": "Intermediate Persian",
+		"professor": "Hagigi, L.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "IRANIAN",
+		"code": "103B",
+		"title": "Advanced Persian: Introduction to Classical Persian Prose",
+		"professor": "Ingenito, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "IRANIAN",
+		"code": "M105B",
+		"title": "Bah&#225;&#39;&#237; Faith in Iran: Survey of Bah&#225;&#39;&#237; Scriptures and Thought",
+		"professor": "Saiedi, N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "IRANIAN",
+		"code": "M178",
+		"title": "Introduction to History and Culture of Iranian Jews",
+		"professor": "Pirnazar, N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "IRANIAN",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Ingenito, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "IRANIAN",
+		"code": "M210",
+		"title": "Topics in Ancient Iranian History: Seminar 1  ",
+		"professor": "Shayegan, M.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "IRANIAN",
+		"code": "M222B",
+		"title": "Vedic",
+		"professor": "Jamison, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "IRANIAN",
+		"code": "M230B",
+		"title": "Old Iranian",
+		"professor": "Shayegan, M.R."
+	}
+]

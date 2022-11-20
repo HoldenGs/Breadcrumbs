@@ -1,0 +1,51 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "IRANIAN",
+		"code": "20A",
+		"title": "Accelerated Elementary Persian",
+		"professor": "Ingenito, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "IRANIAN",
+		"code": "55",
+		"title": "Gender and Sexuality in Arts and Literatures of Iran and Middle East",
+		"professor": "Hagigi, L.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "IRANIAN",
+		"code": "103A",
+		"title": "Advanced Persian: Introduction to Classical Persian Poetry",
+		"professor": "Saiedi, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "IRANIAN",
+		"code": "M105A",
+		"title": "Bah&#225;&#39;&#237; Faith in Iran: Historical and Sociological Survey",
+		"professor": "Mousavi, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "IRANIAN",
+		"code": "164",
+		"title": "Ancient Cities of Iran: Archaeological Survey of Historic Cities and Sites of Iran from 4000 BC to 1900 AD",
+		"professor": "Ingenito, D.; Afzali, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "IRANIAN",
+		"code": "187",
+		"title": "Variable Topics in Iranian Studies: Medieval Persian Texts: Literary Philology and Textual Criticism",
+		"professor": "Ingenito, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "IRANIAN",
+		"code": "197",
+		"title": "Individual Studies in Iranian",
+		"professor": "Ingenito, D."
+	}
+]

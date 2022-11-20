@@ -1,0 +1,44 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "CLT HTG",
+		"code": "C220",
+		"title": "Field Methods in Archaeological Conservation: Readiness, Response, and Recovery",
+		"professor": "Boccia, A.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLT HTG",
+		"code": "239",
+		"title": "Conservation Laboratory: Metals II",
+		"professor": "Boccia, A.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLT HTG",
+		"code": "M250",
+		"title": "Conservation Laboratory: Rock Art, Wall Paintings, and Mosaics",
+		"professor": "Kakoulli, I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLT HTG",
+		"code": "290",
+		"title": "Conservation Program Internship",
+		"professor": "Fischer, C.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLT HTG",
+		"code": "290",
+		"title": "Conservation Program Internship",
+		"professor": "Kakoulli, I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CLT HTG",
+		"code": "290",
+		"title": "Conservation Program Internship",
+		"professor": "Pearlstein, E.J."
+	}
+]

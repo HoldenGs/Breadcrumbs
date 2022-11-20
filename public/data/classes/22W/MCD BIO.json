@@ -1,0 +1,1283 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "50",
+		"title": "Stem Cell Biology, Politics, and Ethics: Teasing Apart Issues",
+		"professor": "Lee, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "90",
+		"title": "Human Stem Cells and Medicine",
+		"professor": "Austin, T.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "104AL",
+		"title": "Research Immersion Laboratory in Developmental Biology",
+		"professor": "Lee, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "M130",
+		"title": "Fundamentals of Digital Imaging and Image Processing",
+		"professor": "Shah, P.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "138",
+		"title": "Developmental Biology",
+		"professor": "Hartenstein, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "M140",
+		"title": "Cancer Cell Biology",
+		"professor": "Colicelli, J.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "144",
+		"title": "Molecular Biology of Cellular Processes",
+		"professor": "Nakano, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "150AL",
+		"title": "Research Immersion Laboratory in Plant-Microbe Ecology",
+		"professor": "Hirsch, A.M.; Nikolov, L.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "CM156",
+		"title": "Human Genetics and Genomics",
+		"professor": "Reue, K.; Cohn, D.H.; Lusis, A.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "160",
+		"title": "Principles of Light Microscopy",
+		"professor": "Prunet, N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "165A",
+		"title": "Biology of Cells",
+		"professor": "Sagasti, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "168",
+		"title": "Stem Cell Biology",
+		"professor": "Mikkola, H.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "M175B",
+		"title": "Neuroscience: From Molecules to Mind--Molecular and Developmental Neuroscience",
+		"professor": "Babiec, W.E.; Cannon, S.C.; Akin, O."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "180A",
+		"title": "Scientific Analysis and Communication I",
+		"professor": "Rigueur, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "180B",
+		"title": "Scientific Analysis and Communication II",
+		"professor": "Rigueur, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Babiec, W.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Colicelli, J.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "191",
+		"title": "Variable Topics Research Seminars: Molecular, Cell, and Developmental Biology: Epigenetics",
+		"professor": "Jacobsen, S.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "191",
+		"title": "Variable Topics Research Seminars: Molecular, Cell, and Developmental Biology: p53 Transcriptional Network: Guardian Against Cancer",
+		"professor": "Zamudio, J.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "191",
+		"title": "Variable Topics Research Seminars: Molecular, Cell, and Developmental Biology: RNA in Disease and Medicine",
+		"professor": "Zamudio, J.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "192A",
+		"title": "Undergraduate Practicum in Molecular, Cell, and Developmental Biology",
+		"professor": "Lee, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "192A",
+		"title": "Undergraduate Practicum in Molecular, Cell, and Developmental Biology",
+		"professor": "Johnson, T.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "192B",
+		"title": "Undergraduate Practicum: CityLab",
+		"professor": "Long, J.A.; Coller, H.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "193",
+		"title": "Journal Club Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Adams, J.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "193",
+		"title": "Journal Club Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Banerjee, U."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "193",
+		"title": "Journal Club Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Braybrook, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "193",
+		"title": "Journal Club Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Chen, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "193",
+		"title": "Journal Club Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Clark, A.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "193",
+		"title": "Journal Club Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Cohn, D.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "193",
+		"title": "Journal Club Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Coller, H.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "193",
+		"title": "Journal Club Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Goldberg, R.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "193",
+		"title": "Journal Club Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Goldstein, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "193",
+		"title": "Journal Club Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Hartenstein, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "193",
+		"title": "Journal Club Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Hirsch, A.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "193",
+		"title": "Journal Club Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Iruela-Arispe, L.M"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "193",
+		"title": "Journal Club Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Jacobsen, S.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "193",
+		"title": "Journal Club Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Johnson, T.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "193",
+		"title": "Journal Club Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Jones, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "193",
+		"title": "Journal Club Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Laski, F.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "193",
+		"title": "Journal Club Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Lee, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "193",
+		"title": "Journal Club Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Lin, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "193",
+		"title": "Journal Club Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Lin, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "193",
+		"title": "Journal Club Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Long, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "193",
+		"title": "Journal Club Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Lowry, W.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "193",
+		"title": "Journal Club Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Lyons, K.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "193",
+		"title": "Journal Club Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Mikkola, H.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "193",
+		"title": "Journal Club Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Nakano, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "193",
+		"title": "Journal Club Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Nikolov, L.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "193",
+		"title": "Journal Club Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Pellegrini, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "193",
+		"title": "Journal Club Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Sagasti, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "193",
+		"title": "Journal Club Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Zamudio, J.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "193",
+		"title": "Journal Club Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Shah, P.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "194A",
+		"title": "Research Group Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Adams, J.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "194A",
+		"title": "Research Group Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Banerjee, U."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "194A",
+		"title": "Research Group Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Braybrook, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "194A",
+		"title": "Research Group Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Chen, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "194A",
+		"title": "Research Group Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Clark, A.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "194A",
+		"title": "Research Group Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Cohn, D.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "194A",
+		"title": "Research Group Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Coller, H.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "194A",
+		"title": "Research Group Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Goldberg, R.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "194A",
+		"title": "Research Group Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Goldstein, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "194A",
+		"title": "Research Group Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Hartenstein, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "194A",
+		"title": "Research Group Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Hirsch, A.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "194A",
+		"title": "Research Group Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Iruela-Arispe, L.M"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "194A",
+		"title": "Research Group Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Jacobsen, S.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "194A",
+		"title": "Research Group Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Johnson, T.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "194A",
+		"title": "Research Group Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Jones, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "194A",
+		"title": "Research Group Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Laski, F.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "194A",
+		"title": "Research Group Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Lee, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "194A",
+		"title": "Research Group Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Lin, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "194A",
+		"title": "Research Group Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Lin, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "194A",
+		"title": "Research Group Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Long, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "194A",
+		"title": "Research Group Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Lowry, W.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "194A",
+		"title": "Research Group Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Lyons, K.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "194A",
+		"title": "Research Group Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Mikkola, H.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "194A",
+		"title": "Research Group Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Nakano, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "194A",
+		"title": "Research Group Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Nikolov, L.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "194A",
+		"title": "Research Group Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Pellegrini, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "194A",
+		"title": "Research Group Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Sagasti, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "194A",
+		"title": "Research Group Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Zamudio, J.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "194A",
+		"title": "Research Group Seminars: Molecular, Cell, and Developmental Biology",
+		"professor": "Shah, P.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "196A",
+		"title": "Research Apprenticeship I in Molecular, Cell, and Developmental Biology",
+		"professor": "Sun, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "196A",
+		"title": "Research Apprenticeship I in Molecular, Cell, and Developmental Biology",
+		"professor": "Nikolov, L.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "196A",
+		"title": "Research Apprenticeship I in Molecular, Cell, and Developmental Biology",
+		"professor": "Hu, J.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "196A",
+		"title": "Research Apprenticeship I in Molecular, Cell, and Developmental Biology",
+		"professor": "Wikenheiser, A.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "196A",
+		"title": "Research Apprenticeship I in Molecular, Cell, and Developmental Biology",
+		"professor": "Coller, H.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "196A",
+		"title": "Research Apprenticeship I in Molecular, Cell, and Developmental Biology",
+		"professor": "de Robertis, E.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "196A",
+		"title": "Research Apprenticeship I in Molecular, Cell, and Developmental Biology",
+		"professor": "Weidhaas, J.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "196A",
+		"title": "Research Apprenticeship I in Molecular, Cell, and Developmental Biology",
+		"professor": "Kurdistani, S.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "196A",
+		"title": "Research Apprenticeship I in Molecular, Cell, and Developmental Biology",
+		"professor": "Braybrook, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "196A",
+		"title": "Research Apprenticeship I in Molecular, Cell, and Developmental Biology",
+		"professor": "Chanfreau, G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "196A",
+		"title": "Research Apprenticeship I in Molecular, Cell, and Developmental Biology",
+		"professor": "Li, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "196A",
+		"title": "Research Apprenticeship I in Molecular, Cell, and Developmental Biology",
+		"professor": "Yang, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "196A",
+		"title": "Research Apprenticeship I in Molecular, Cell, and Developmental Biology",
+		"professor": "Nathanson, D.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "196B",
+		"title": "Research Apprenticeship II in Molecular, Cell, and Developmental Biology",
+		"professor": "Vondriska, T.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "196B",
+		"title": "Research Apprenticeship II in Molecular, Cell, and Developmental Biology",
+		"professor": "Plath, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "196B",
+		"title": "Research Apprenticeship II in Molecular, Cell, and Developmental Biology",
+		"professor": "Jacobs, J.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "196B",
+		"title": "Research Apprenticeship II in Molecular, Cell, and Developmental Biology",
+		"professor": "Piri, N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "196B",
+		"title": "Research Apprenticeship II in Molecular, Cell, and Developmental Biology",
+		"professor": "Williams, D.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198A",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Lai, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198A",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Hevener, A.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198A",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Goldstein, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198A",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Hill, K.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198A",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Coller, H.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198A",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Teitell, M.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198A",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Hartenstein, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Giovannini, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Garraway, I.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Rowat, A.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Yang, X."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Braybrook, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Coller, H.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Reue, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Radu, C.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Nikolov, L.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Aguiar Vallim, E.J"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Pellegrini, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Martinez, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Yang, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Hugo, W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Zamudio, J.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Zhen, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Carmichael, S.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Clark, A.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Prins, R.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Weidhaas, J.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Long, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Hsiao, E.Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Hinman, J.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Krantz, D.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Chazenbalk, G.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Wu, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Sternini, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Novitch, B.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Hartenstein, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Slamon, D.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Nakano, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Johnson, T.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Pyle, A.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Lowry, W.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Wu, T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "198B",
+		"title": "Honors Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Wohlschlegel, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "199A",
+		"title": "Directed Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Wikenheiser, A.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "199A",
+		"title": "Directed Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Coller, H.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "199A",
+		"title": "Directed Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Crompton, J.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "199A",
+		"title": "Directed Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Mittelman, S.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "199A",
+		"title": "Directed Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Cheng, G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "199A",
+		"title": "Directed Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Chen, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "199A",
+		"title": "Directed Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Hartenstein, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "199A",
+		"title": "Directed Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Deeds, E.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "199B",
+		"title": "Directed Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Nikolov, L.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "199B",
+		"title": "Directed Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Yang, O.O."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "199B",
+		"title": "Directed Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Rao, D.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "199B",
+		"title": "Directed Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Lin, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "199B",
+		"title": "Directed Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Huang, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "199C",
+		"title": "Directed Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Miller, J.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "199D",
+		"title": "Directed Research in Molecular, Cell, and Developmental Biology",
+		"professor": "Goldstein, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "M230B",
+		"title": "Structural Molecular Biology",
+		"professor": "Yeates, T.O.; Clubb, R.T.; Eisenberg, D.S.; Feigon, J.F.; Rodriguez, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "M230D",
+		"title": "Structural Molecular Biology Laboratory",
+		"professor": "Yeates, T.O.; Clubb, R.T.; Eisenberg, D.S.; Feigon, J.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "296",
+		"title": "Advanced Topics in Molecular, Cellular, and Developmental Biology",
+		"professor": "Banerjee, U."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "296",
+		"title": "Advanced Topics in Molecular, Cellular, and Developmental Biology",
+		"professor": "Long, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "296",
+		"title": "Advanced Topics in Molecular, Cellular, and Developmental Biology",
+		"professor": "Chen, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "296",
+		"title": "Advanced Topics in Molecular, Cellular, and Developmental Biology",
+		"professor": "Goldberg, R.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "296",
+		"title": "Advanced Topics in Molecular, Cellular, and Developmental Biology",
+		"professor": "Hartenstein, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "296",
+		"title": "Advanced Topics in Molecular, Cellular, and Developmental Biology",
+		"professor": "Hirsch, A.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "296",
+		"title": "Advanced Topics in Molecular, Cellular, and Developmental Biology",
+		"professor": "Iruela-Arispe, L.M"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "296",
+		"title": "Advanced Topics in Molecular, Cellular, and Developmental Biology",
+		"professor": "Jacobsen, S.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "296",
+		"title": "Advanced Topics in Molecular, Cellular, and Developmental Biology",
+		"professor": "Lake, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "296",
+		"title": "Advanced Topics in Molecular, Cellular, and Developmental Biology",
+		"professor": "Laski, F.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "296",
+		"title": "Advanced Topics in Molecular, Cellular, and Developmental Biology",
+		"professor": "Lin, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "296",
+		"title": "Advanced Topics in Molecular, Cellular, and Developmental Biology",
+		"professor": "Lin, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "296",
+		"title": "Advanced Topics in Molecular, Cellular, and Developmental Biology",
+		"professor": "Lyons, K.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "296",
+		"title": "Advanced Topics in Molecular, Cellular, and Developmental Biology",
+		"professor": "Merriam, J.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "296",
+		"title": "Advanced Topics in Molecular, Cellular, and Developmental Biology",
+		"professor": "Nakano, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "296",
+		"title": "Advanced Topics in Molecular, Cellular, and Developmental Biology",
+		"professor": "Clark, A.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "296",
+		"title": "Advanced Topics in Molecular, Cellular, and Developmental Biology",
+		"professor": "Lowry, W.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "296",
+		"title": "Advanced Topics in Molecular, Cellular, and Developmental Biology",
+		"professor": "Mikkola, H.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "296",
+		"title": "Advanced Topics in Molecular, Cellular, and Developmental Biology",
+		"professor": "Sagasti, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "296",
+		"title": "Advanced Topics in Molecular, Cellular, and Developmental Biology",
+		"professor": "Pellegrini, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "296",
+		"title": "Advanced Topics in Molecular, Cellular, and Developmental Biology",
+		"professor": "Cohn, D.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "296",
+		"title": "Advanced Topics in Molecular, Cellular, and Developmental Biology",
+		"professor": "Adams, J.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "296",
+		"title": "Advanced Topics in Molecular, Cellular, and Developmental Biology",
+		"professor": "Johnson, T.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MCD BIO",
+		"code": "296",
+		"title": "Advanced Topics in Molecular, Cellular, and Developmental Biology",
+		"professor": "Jones, L."
+	}
+]

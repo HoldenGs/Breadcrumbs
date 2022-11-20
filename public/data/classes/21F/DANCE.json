@@ -1,0 +1,198 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "DANCE",
+		"code": "1",
+		"title": "Global Perspectives on Dance",
+		"professor": "Magalhaes, M.O."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DANCE",
+		"code": "5",
+		"title": "Moving Voice: Studio 1  ",
+		"professor": "Een, R.W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DANCE",
+		"code": "6",
+		"title": "Beginning West African Dance: Studio 1  ",
+		"professor": "Souly, W.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DANCE",
+		"code": "9",
+		"title": "Beginning Hip-Hop Dance: Studio 1  ",
+		"professor": "Foaad, L.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DANCE",
+		"code": "10",
+		"title": "Beginning Martial Arts: Studio 1  ",
+		"professor": "Tsou, J.C.; Krug Paiva, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DANCE",
+		"code": "11",
+		"title": "Yoga: Studio 1  ",
+		"professor": "Kheradyar, A.T.; Blu Wakpa, T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DANCE",
+		"code": "13",
+		"title": "Beginning Ballet: Studio 1  ",
+		"professor": "Hood, M.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DANCE",
+		"code": "15",
+		"title": "Beginning Modern/Postmodern Dance: Laboratory 1  ",
+		"professor": "Rousseve, D.J.; Olivier, H.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DANCE",
+		"code": "16",
+		"title": "Beginning Improvisation in Dance",
+		"professor": "Carlson, A.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DANCE",
+		"code": "59",
+		"title": "Intermediate Hip-Hop Dance: Studio 1  ",
+		"professor": "Lopez, J.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DANCE",
+		"code": "60",
+		"title": "Intermediate Martial Arts: Studio 1  ",
+		"professor": "Tsou, J.C.; Krug Paiva, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DANCE",
+		"code": "63",
+		"title": "Intermediate Ballet: Studio 1  ",
+		"professor": "Tomita, N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DANCE",
+		"code": "65",
+		"title": "Intermediate Modern/Postmodern Dance: Studio 1  ",
+		"professor": "Coad, G.W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DANCE",
+		"code": "67A",
+		"title": "Theories and Methods in Dance Composition I: Languages",
+		"professor": "Rousseve, D.J.; Allen, A.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DANCE",
+		"code": "70",
+		"title": "Production Practicum",
+		"professor": "Holguin, G.; Heller, J.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DANCE",
+		"code": "C106A",
+		"title": "Advanced West African Dance: Studio 1  ",
+		"professor": "Souly, W.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DANCE",
+		"code": "C113A",
+		"title": "Advanced Ballet: Studio 1  ",
+		"professor": "Tomita, N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DANCE",
+		"code": "116",
+		"title": "Advanced Improvisation in Dance: Studio 1  ",
+		"professor": "Warby, R.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DANCE",
+		"code": "117B",
+		"title": "Theories and Methods in Dance Composition IV: Impacts",
+		"professor": "Foster, S.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DANCE",
+		"code": "117C",
+		"title": "Advanced Topics in Choreography: Lecture 1  ",
+		"professor": "Yu, C.; Een, R.W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DANCE",
+		"code": "C145XP",
+		"title": "Selected Topics in Dance Studies: History and Art of Hip-Hop Culture",
+		"professor": "Gabbert, K.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DANCE",
+		"code": "160",
+		"title": "Topics in Body Mechanics: Lecture 1  ",
+		"professor": "Djordjevich, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DANCE",
+		"code": "170",
+		"title": "Advanced Production",
+		"professor": "Holguin, G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DANCE",
+		"code": "C184",
+		"title": "Production Arts Seminar",
+		"professor": "Froot, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DANCE",
+		"code": "211A",
+		"title": "Advanced Choreography",
+		"professor": "Rousseve, D.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DANCE",
+		"code": "211D",
+		"title": "Advanced Choreography",
+		"professor": "Warby, R.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DANCE",
+		"code": "C243",
+		"title": "Production Arts Seminar",
+		"professor": "Froot, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "DANCE",
+		"code": "C245XP",
+		"title": "Selected Topics in Dance Studies: History and Art of Hip-Hop Culture",
+		"professor": "Gabbert, K.J."
+	}
+]

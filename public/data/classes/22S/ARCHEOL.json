@@ -1,0 +1,30 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "ARCHEOL",
+		"code": "M112",
+		"title": "Archaeology and Art of Christian and Islamic Egypt",
+		"professor": "Burke, K.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ARCHEOL",
+		"code": "M201C",
+		"title": "Archaeological Research Design",
+		"professor": "Schachner, G.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ARCHEOL",
+		"code": "M205A",
+		"title": "Selected Laboratory Topics in Archaeology: Lecture 1  ",
+		"professor": "Wake, T.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ARCHEOL",
+		"code": "C220",
+		"title": "Special Topics in Archaeology: Archaeology of Colonialism",
+		"professor": "Papadopoulos, J.K."
+	}
+]

@@ -1,0 +1,114 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOSTAT",
+		"code": "100A",
+		"title": "Introduction to Biostatistics",
+		"professor": "Lee, M.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOSTAT",
+		"code": "200C",
+		"title": "Methods in Biostatistics C",
+		"professor": "Fei, Z."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOSTAT",
+		"code": "202B",
+		"title": "Mathematical Statistics B",
+		"professor": "Senturk, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOSTAT",
+		"code": "231",
+		"title": "Statistical Power and Sample Size Methods for Health Research",
+		"professor": "Crespi-Chun, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOSTAT",
+		"code": "M232",
+		"title": "Statistical Analysis of Incomplete Data",
+		"professor": "Belin, T.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOSTAT",
+		"code": "M236",
+		"title": "Longitudinal Data",
+		"professor": "Weiss, R.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOSTAT",
+		"code": "M238",
+		"title": "Methodology of Clinical Trials",
+		"professor": "Wong, W."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOSTAT",
+		"code": "244",
+		"title": "Master&#39;s Seminar and Research Resources for Graduating Biostatistics MS Students",
+		"professor": "Ramirez, C.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOSTAT",
+		"code": "245",
+		"title": "Advanced Seminar: Biostatistics",
+		"professor": "Sugar, C.A.; Li, G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOSTAT",
+		"code": "246",
+		"title": "Doctoral Students Seminar",
+		"professor": "Sugar, C.A.; Li, G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOSTAT",
+		"code": "250C",
+		"title": "Multivariate Biostatistics",
+		"professor": "Telesca, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOSTAT",
+		"code": "257",
+		"title": "Computational Methods for Biostatistical Research",
+		"professor": "Zhou, H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOSTAT",
+		"code": "270",
+		"title": "Stochastic Processes",
+		"professor": "Holbrook, A.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOSTAT",
+		"code": "274",
+		"title": "Topics in Statistical Machine Learning",
+		"professor": "Fei, Z."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOSTAT",
+		"code": "277",
+		"title": "Robustness and Modern Nonparametrics",
+		"professor": "Li, G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOSTAT",
+		"code": "285",
+		"title": "Advanced Topics: Recent Developments: Advanced Bayesian Computing",
+		"professor": "Holbrook, A.J."
+	}
+]

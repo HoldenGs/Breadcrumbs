@@ -1,0 +1,65 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "RELIGN",
+		"code": "M60W",
+		"title": "Introduction to Buddhism",
+		"professor": "Bodiford, W.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "RELIGN",
+		"code": "101",
+		"title": "History of Study of Religion",
+		"professor": "Gillespie, R.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "RELIGN",
+		"code": "M105C",
+		"title": "Bah&#225;&#39;&#237; Faith in Iran: 20th-Century Iran and the Bah&#225;&#39;&#237;s",
+		"professor": "Saiedi, N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "RELIGN",
+		"code": "M142C",
+		"title": "History of Religion in U.S.",
+		"professor": "Joseph, S.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "RELIGN",
+		"code": "150",
+		"title": "Women, Gender, and Religion",
+		"professor": "Muldoon-Hules, K.M"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "RELIGN",
+		"code": "M161D",
+		"title": "Buddhism in India",
+		"professor": "Loukota Sanclement"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "RELIGN",
+		"code": "177",
+		"title": "Variable Topics in Religion: Bible in Justice Movements",
+		"professor": "Martin, E.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "RELIGN",
+		"code": "177",
+		"title": "Variable Topics in Religion: Religion and Liberation",
+		"professor": "Martin, E.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "RELIGN",
+		"code": "M182A",
+		"title": "Ancient Jewish History",
+		"professor": "Smoak, J.D."
+	}
+]

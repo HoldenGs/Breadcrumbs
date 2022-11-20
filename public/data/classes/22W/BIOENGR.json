@@ -1,0 +1,275 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "C101",
+		"title": "Engineering Principles for Drug Delivery",
+		"professor": "Kamei, D.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "C107",
+		"title": "Polymer Chemistry for Bioengineers",
+		"professor": "Deming, T.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "120",
+		"title": "Biomedical Transducers",
+		"professor": "Schmidt, J.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "C139A",
+		"title": "Biomolecular Materials Science I",
+		"professor": "Wong, G.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "CM140",
+		"title": "Introduction to Biomechanics",
+		"professor": "Gupta, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "M153",
+		"title": "Introduction to Microscale and Nanoscale Manufacturing",
+		"professor": "Chen, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "C155",
+		"title": "Fluid-Particle and Fluid-Structure Interactions in Microflows",
+		"professor": "Di Carlo, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "175",
+		"title": "Machine Learning and Data-Driven Modeling in Bioengineering",
+		"professor": "Meyer, A.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "177B",
+		"title": "Bioengineering Capstone Design II",
+		"professor": "Gao, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "180",
+		"title": "System Integration in Biology, Engineering, and Medicine I",
+		"professor": "Linsley, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "M182",
+		"title": "Dynamic Biosystem Modeling and Simulation Methodology",
+		"professor": "Distefano, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "C185",
+		"title": "Introduction to Tissue Engineering",
+		"professor": "Kasko, A.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "188",
+		"title": "Special Courses in Bioengineering: Case Studies in Drug Development",
+		"professor": "Wilson, J.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "188",
+		"title": "Special Courses in Bioengineering: Cell Engineering",
+		"professor": "Li, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "188",
+		"title": "Special Courses in Bioengineering: Nanogenerators for Bioengineering",
+		"professor": "Chen, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "188SB",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Li, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "C201",
+		"title": "Engineering Principles for Drug Delivery",
+		"professor": "Kamei, D.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "C207",
+		"title": "Polymer Chemistry for Bioengineers",
+		"professor": "Deming, T.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "M219",
+		"title": "Principles and Applications of Magnetic Resonance Imaging",
+		"professor": "Sung, K.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "223B",
+		"title": "Programming Laboratory for Medical and Imaging Informatics II",
+		"professor": "Speier, W.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "224A",
+		"title": "Physics and Informatics of Medical Imaging",
+		"professor": "Taira, R.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "M228",
+		"title": "Medical Decision Making",
+		"professor": "Sayre, J.; Hsu, W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "CM240",
+		"title": "Introduction to Biomechanics",
+		"professor": "Gupta, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "M250B",
+		"title": "Microelectromechanical Systems (MEMS) Fabrication",
+		"professor": "Chiou, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "C255",
+		"title": "Fluid-Particle and Fluid-Structure Interactions in Microflows",
+		"professor": "Di Carlo, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "M263",
+		"title": "Anatomy of Central Nervous System",
+		"professor": "Bisley, J.W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "C285",
+		"title": "Introduction to Tissue Engineering",
+		"professor": "Kasko, A.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "295A",
+		"title": "Seminar: Research Topics in Bioengineering--Biomaterial Research",
+		"professor": "Kasko, A.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "295B",
+		"title": "Seminar: Research Topics in Bioengineering--Biomaterials and Tissue Engineering Research",
+		"professor": "Wu, B.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "295D",
+		"title": "Seminar: Research Topics in Bioengineering--Hybrid Device Research",
+		"professor": "Schmidt, J.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "295E",
+		"title": "Seminar: Research Topics in Bioengineering--Molecular Cell Bioengineering Research",
+		"professor": "Kamei, D.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "295F",
+		"title": "Seminar: Research Topics in Bioengineering--Biopolymer Materials and Chemistry",
+		"professor": "Deming, T.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "295G",
+		"title": "Seminar: Research Topics in Bioengineering--Biomicrofluidics and Bionanotechnology Research",
+		"professor": "Di Carlo, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "295H",
+		"title": "Seminar: Research Topics in Bioengineering--Biomimetic System Research",
+		"professor": "Liu, W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "295K",
+		"title": "Seminar: Research Topics in Bioengineering--Research in Synthetic Immunology and Microbiology",
+		"professor": "Wong, G.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "295L",
+		"title": "Seminar: Research Topics in Bioengineering--Cell and Tissue Engineering",
+		"professor": "Li, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "295M",
+		"title": "Seminar: Research Topics in Bioengineering--Research in Biological Systems Engineering",
+		"professor": "Meyer, A.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "295N",
+		"title": "Seminar: Research Topics in Bioengineering--Research in Biophotonics",
+		"professor": "Gao, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOENGR",
+		"code": "295O",
+		"title": "Seminar: Research Topics in Bioengineering--Research in Modeling of Drug Effects",
+		"professor": "Wilson, J.L."
+	}
+]

@@ -1,0 +1,51 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "PSYCTRY",
+		"code": "19",
+		"title": "Mental Illness and Movies",
+		"professor": "Taylor, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PSYCTRY",
+		"code": "79",
+		"title": "Applied Positive Neuroscience: Skills for Improving Productivity and Well-Being",
+		"professor": "Korb, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PSYCTRY",
+		"code": "174",
+		"title": "Brain and Behavioral Health: Childhood and Adolescence",
+		"professor": "Fuligni, A.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PSYCTRY",
+		"code": "188",
+		"title": "Mental Health: Bias, Inequities, and Racism",
+		"professor": "Evans, C.J.; Bath, E.P.; Meza, J.I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PSYCTRY",
+		"code": "236C",
+		"title": "Psychology Interns Seminar",
+		"professor": "Sena, R.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PSYCTRY",
+		"code": "281C",
+		"title": "Behavioral Therapy in Educational Settings",
+		"professor": "Freeman, S.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PSYCTRY",
+		"code": "293",
+		"title": "Professional Development: Presentations and Preparation for Academic Interviews",
+		"professor": "Murphy, D.A."
+	}
+]

@@ -1,0 +1,835 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "1B",
+		"title": "Introduction to Dance for Music Theater",
+		"professor": "Tomita, N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "1B",
+		"title": "Introduction to Dance for Music Theater",
+		"professor": "Hood, M.R.; Tomita, N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "2B",
+		"title": "Tai Chi II",
+		"professor": "Wang, W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "10",
+		"title": "Introduction to Theater",
+		"professor": "Gorshein, D.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "13",
+		"title": "Play Reading and Analysis",
+		"professor": "O'Connor, T.K.; Gone, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "14B",
+		"title": "Introduction to Design",
+		"professor": "Fogarty, A.; Conran, B.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "15",
+		"title": "Introduction to Directing",
+		"professor": "Mize, S.R.; Scott, A.R.; Edmonds, C.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "20",
+		"title": "Acting Fundamentals",
+		"professor": "Araiza, J.E.; Ehikhamhen, O.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "20",
+		"title": "Acting Fundamentals",
+		"professor": "Noble, N.; Araiza, J.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "20",
+		"title": "Acting Fundamentals",
+		"professor": "Salazar, J.A.; Araiza, J.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "23A",
+		"title": "Introduction to Musical Literacy for Singing Actors",
+		"professor": "Belzer, D.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "24B",
+		"title": "Voice in Performance",
+		"professor": "Wright, A.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "28A",
+		"title": "Acting, Voice, and Movement Workshop I: Acting and Body Viewpoints: Investigation of Theatrical Time and Space",
+		"professor": "Corkins, M.M.; Araiza, J.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "30",
+		"title": "Dramatic Writing: Writing Essential Worker",
+		"professor": "Ceesay, M.; Villarreal, E.E.; Watts, A.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "30",
+		"title": "Dramatic Writing: Writing Theater in Public Spaces",
+		"professor": "Villarreal, E.E.; Watts, A.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "34B",
+		"title": "Ballet II",
+		"professor": "Tomita, N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "35B",
+		"title": "Advanced Group Singing Techniques",
+		"professor": "Kerns, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "50",
+		"title": "Theater Production: Laboratory 10  ",
+		"professor": "Burke, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "50",
+		"title": "Theater Production: Theater Production Audience Services",
+		"professor": "Burke, J.A.; Araujo Gutierrez,"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "50",
+		"title": "Theater Production: Theater Production Crew",
+		"professor": "Burke, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "50",
+		"title": "Theater Production: Theater Production Crew",
+		"professor": "Burke, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "50",
+		"title": "Theater Production: Theater Production Crew",
+		"professor": "Burke, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "50",
+		"title": "Theater Production: Theater Production Crew",
+		"professor": "Burke, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "50",
+		"title": "Theater Production: Theater Production Props",
+		"professor": "Burke, J.A.; Trivuth, P.T.; Beeman, E.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "50",
+		"title": "Theater Production: Theater Production Props",
+		"professor": "Burke, J.A.; Trivuth, P.T.; Beeman, E.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "50",
+		"title": "Theater Production: Theater Production Props",
+		"professor": "Burke, J.A.; Trivuth, P.T.; Beeman, E.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "50",
+		"title": "Theater Production: Theater Production Special",
+		"professor": "Burke, J.A.; Girard, P.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "95",
+		"title": "Introduction to Community or Corporate Internships in Theater, Film, and Television",
+		"professor": "Olivieri, J.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "M103E",
+		"title": "Modern African American Drama: Harlem Renaissance to Black Arts Movement: Lecture 1  ",
+		"professor": "Taylor, D.A.; Yang, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "M103G",
+		"title": "Contemporary Chicano Theater: Chicano Theater since 1980",
+		"professor": "Araiza, J.E.; O'Shea, F.E.; Franco, N.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "104D",
+		"title": "New Playwrights, New Playwriting",
+		"professor": "Oswald, S.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "116A",
+		"title": "Psychological Systems of Acting: Foundations",
+		"professor": "Fox, M.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "116B",
+		"title": "Psychological Systems of Acting: Practice",
+		"professor": "Moreland, J.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "117",
+		"title": "Topics in Physical Performance: Partnering: Performing with and through Other",
+		"professor": "O'Connor, T.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "118D",
+		"title": "ArtsBridge Teaching Practicum",
+		"professor": "Daniel, P.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "120B",
+		"title": "Acting and Performance in Film",
+		"professor": "Shushtari, P.J.; Arreguin, R.A.; Kaplan, C.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "121",
+		"title": "Acting Workshop",
+		"professor": "Scott, A.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "124A",
+		"title": "Intermediate Voice and Speech: Vocal Energy in Classical Text",
+		"professor": "Wagar, P.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "124B",
+		"title": "Intermediate Voice and Speech II: Creating Complete Warm-Up for Theatrical Productions",
+		"professor": "Wagar, P.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "124D",
+		"title": "Acting for Microphone",
+		"professor": "Mullick, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "125B",
+		"title": "Physical Awareness and Combat for Theater, Film, and Television",
+		"professor": "Monaghan, E.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "126B",
+		"title": "Acting Classical Texts",
+		"professor": "Olivieri, J.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "128A",
+		"title": "Acting, Voice, and Movement Workshop II",
+		"professor": "Rodrigue, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "CM129",
+		"title": "Contemporary Topics in Theater, Film, and Television: Lecture 1  ",
+		"professor": "Landis, D.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "134B",
+		"title": "Dance for Musical Theater II",
+		"professor": "Tomita, N.; Baxter-Ratliff, C.; Martino, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "134E",
+		"title": "Dance for Musical Theater III",
+		"professor": "Tomita, N.; Baxter-Ratliff, C.; Martino, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "135B",
+		"title": "Musical Theater: Creating and Playing Subtext on Standard Ballad",
+		"professor": "Mann, J.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "135E",
+		"title": "Musical Theater: Creating and Playing Character from Musical Text",
+		"professor": "Rodrigue, J.; Mann, J.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "135F",
+		"title": "Singing: Individual Instruction",
+		"professor": "Mann, J.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "135F",
+		"title": "Singing: Individual Instruction",
+		"professor": "Mann, J.L.; Kerns, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "135F",
+		"title": "Singing: Individual Instruction",
+		"professor": "Belzer, D.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "138",
+		"title": "Special Problems in Performance Techniques: Chamber Theater",
+		"professor": "O'Connor, T.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "138",
+		"title": "Special Problems in Performance Techniques: Studio 1  ",
+		"professor": "Monaghan, E.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "148",
+		"title": "Special Courses in Design and Technical Theater: Lecture 1  ",
+		"professor": "Rhyne, A.M.; Chu, R.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "150",
+		"title": "Theater Production and Performance: Laboratory 15  ",
+		"professor": "Moreland, J.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "150",
+		"title": "Theater Production and Performance: Theater Production Cast",
+		"professor": "Hackett, M.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "150",
+		"title": "Theater Production and Performance: Theater Production Cast",
+		"professor": "Lyons, S.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "150",
+		"title": "Theater Production and Performance: Theater Production Cast",
+		"professor": "Oswald, S.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "150",
+		"title": "Theater Production and Performance: Theater Production Cast",
+		"professor": "Oswald, S.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "150",
+		"title": "Theater Production and Performance: Theater Production Crew",
+		"professor": "Burke, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "150",
+		"title": "Theater Production and Performance: Theater Production Crew",
+		"professor": "Burke, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "150",
+		"title": "Theater Production and Performance: Theater Production Crew",
+		"professor": "Burke, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "150",
+		"title": "Theater Production and Performance: Theater Production Crew",
+		"professor": "Burke, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "150",
+		"title": "Theater Production and Performance: Theater Production Props",
+		"professor": "Burke, J.A.; Trivuth, P.T.; Beeman, E.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "150",
+		"title": "Theater Production and Performance: Theater Production Props",
+		"professor": "Burke, J.A.; Trivuth, P.T.; Beeman, E.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "150",
+		"title": "Theater Production and Performance: Theater Production Props",
+		"professor": "Burke, J.A.; Trivuth, P.T.; Beeman, E.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "150",
+		"title": "Theater Production and Performance: Theater Production Special",
+		"professor": "Burke, J.A.; Girard, P.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "C151B",
+		"title": "Scenic Design for Theater",
+		"professor": "Ostling, D.S.; Cho, M.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "C154B",
+		"title": "Sound Design for Musicals",
+		"professor": "Burke, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "C154D",
+		"title": "Script Analysis for Sound Design",
+		"professor": "Snipes, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "C155E",
+		"title": "Graphic Representation of Design: Life Drawing",
+		"professor": "Ramdeen, A.; Karvonides Dushenk"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "C157B",
+		"title": "Costume Construction Techniques",
+		"professor": "Girard, P.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "163A",
+		"title": "Directing for Stage",
+		"professor": "Scott, A.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "167B",
+		"title": "Audition Preparation for Singing Actor",
+		"professor": "Halus, E.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "172",
+		"title": "Production Practice in Theater, Film, Video, and Digital Media: Studio 1  ",
+		"professor": "Oswald, S.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "172",
+		"title": "Production Practice in Theater, Film, Video, and Digital Media: Studio 2  ",
+		"professor": "Olivieri, J.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "173A",
+		"title": "Design Assignment: Assistant Designer",
+		"professor": "Karvonides Dushenk"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "173A",
+		"title": "Design Assignment: Assistant Designer",
+		"professor": "Chu, R.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "173A",
+		"title": "Design Assignment: Assistant Designer",
+		"professor": "Ostling, D.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "173A",
+		"title": "Design Assignment: Assistant Designer",
+		"professor": "Burke, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "173A",
+		"title": "Design Assignment: Assistant Designer",
+		"professor": "Ruhm, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "173A",
+		"title": "Design Assignment: Assistant Designer",
+		"professor": "Rothenberg, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "173A",
+		"title": "Design Assignment: Assistant Designer",
+		"professor": "Snipes, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "173A",
+		"title": "Design Assignment: Assistant Designer",
+		"professor": "Gale, B.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "173A",
+		"title": "Design Assignment: Assistant Designer",
+		"professor": "Cho, M.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "173A",
+		"title": "Design Assignment: Assistant Designer",
+		"professor": "Santiago-Brandwein"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "173A",
+		"title": "Design Assignment: Assistant Designer",
+		"professor": "Maloof, J.W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "173B",
+		"title": "Production Design Assignment: Designer",
+		"professor": "Ostling, D.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "173B",
+		"title": "Production Design Assignment: Designer",
+		"professor": "Kondrath, R.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "173B",
+		"title": "Production Design Assignment: Designer",
+		"professor": "Cho, M.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "173B",
+		"title": "Production Design Assignment: Designer",
+		"professor": "Burke, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "173B",
+		"title": "Production Design Assignment: Designer",
+		"professor": "Izumihara, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "173B",
+		"title": "Production Design Assignment: Designer",
+		"professor": "Rothenberg, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "173B",
+		"title": "Production Design Assignment: Designer",
+		"professor": "Snipes, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "173B",
+		"title": "Production Design Assignment: Designer",
+		"professor": "Gale, B.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "173B",
+		"title": "Production Design Assignment: Designer",
+		"professor": "Santiago-Brandwein"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "174B",
+		"title": "Project in Stage Management",
+		"professor": "Burke, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "174C",
+		"title": "Project in Stage Management",
+		"professor": "Burke, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "C176B",
+		"title": "Production Practice in Theater with Emerging Technologies II",
+		"professor": "Burke, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "180",
+		"title": "Senior Project",
+		"professor": "Chu, R.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "180",
+		"title": "Senior Project",
+		"professor": "Karvonides Dushenk"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "180",
+		"title": "Senior Project",
+		"professor": "Wagar, P.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "180",
+		"title": "Senior Project",
+		"professor": "Burke, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "180",
+		"title": "Senior Project",
+		"professor": "Gale, B.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "180",
+		"title": "Senior Project",
+		"professor": "Santiago-Brandwein"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "180",
+		"title": "Senior Project",
+		"professor": "Ostling, D.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "180",
+		"title": "Senior Project",
+		"professor": "Belzer, D.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "181",
+		"title": "Career Development for Actors",
+		"professor": "Measures, M.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "195",
+		"title": "Community or Corporate Internships in Theater, Film, and Television",
+		"professor": "Olivieri, J.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "216A",
+		"title": "Approaches to Representation",
+		"professor": "Vermy, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "220",
+		"title": "Graduate Forum",
+		"professor": "Kim, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "CM229",
+		"title": "Contemporary Topics in Theater, Film, and Television: Lecture 1  ",
+		"professor": "Landis, D.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "230B",
+		"title": "Writing for Contemporary Theater: Full-Length Play",
+		"professor": "Taylor, D.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "231",
+		"title": "Special Topics in Playwriting: Writing Singular Voice in Multiple-Character Play",
+		"professor": "Villarreal, E.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "242",
+		"title": "Introduction to Design in Production",
+		"professor": "Chu, R.L.; Darrah, J.E.; Ostling, D.S.; Karvonides Dushenk"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "263",
+		"title": "Production Project in Direction for Stage",
+		"professor": "Lyons, S.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "272",
+		"title": "Production Practice in Theater, Film, Video, and Digital Media",
+		"professor": "Keystone, N.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "272",
+		"title": "Production Practice in Theater, Film, Video, and Digital Media",
+		"professor": "Lyons, S.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "THEATER",
+		"code": "272",
+		"title": "Production Practice in Theater, Film, Video, and Digital Media",
+		"professor": "Gomez, F.E.; Bauer, M.C."
+	}
+]

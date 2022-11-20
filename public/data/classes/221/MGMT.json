@@ -1,0 +1,107 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MGMT",
+		"code": "1A",
+		"title": "Principles of Accounting",
+		"professor": "Woo, E.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MGMT",
+		"code": "1B",
+		"title": "Principles of Accounting",
+		"professor": "Gardner Treloar, J"
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MGMT",
+		"code": "108",
+		"title": "Business Law",
+		"professor": "Klein, G.L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MGMT",
+		"code": "120A",
+		"title": "Intermediate Financial Accounting I",
+		"professor": "Lu, M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MGMT",
+		"code": "127A",
+		"title": "Tax Principles and Policy",
+		"professor": "Klein, G.L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MGMT",
+		"code": "127B",
+		"title": "Corporate and Partnership Taxation",
+		"professor": "Gardner Treloar, J"
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MGMT",
+		"code": "142A",
+		"title": "Analytics in Accounting I",
+		"professor": "Ravetch, D.S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MGMT",
+		"code": "142B",
+		"title": "Analytics in Accounting II",
+		"professor": "Ravetch, D.S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MGMT",
+		"code": "160",
+		"title": "Entrepreneurship and Venture Initiation",
+		"professor": "Wilson, N.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MGMT",
+		"code": "163",
+		"title": "Entrepreneurship and New Product Development",
+		"professor": "Rostamian, F.D."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MGMT",
+		"code": "180",
+		"title": "Special Topics in Management: Business Interpersonal Communication",
+		"professor": "Ullmen, J.B."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MGMT",
+		"code": "180",
+		"title": "Special Topics in Management: Business Interpersonal Communication",
+		"professor": "Ullmen, J.B."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MGMT",
+		"code": "182",
+		"title": "Leadership Principles and Practice",
+		"professor": "Ullmen, J.B."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MGMT",
+		"code": "195",
+		"title": "Community or Corporate Internships in Management",
+		"professor": "Caskey, J."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MGMT",
+		"code": "195",
+		"title": "Community or Corporate Internships in Management",
+		"professor": "Wilson, N.M."
+	}
+]

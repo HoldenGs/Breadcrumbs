@@ -1,0 +1,107 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "INF STD",
+		"code": "30",
+		"title": "Internet and Society",
+		"professor": "Vancour, S.G.; Nunez, R.L.; Riley, M.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "INF STD",
+		"code": "C115",
+		"title": "Introduction to Information Literacies",
+		"professor": "Carbone, K.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "INF STD",
+		"code": "202",
+		"title": "History of Books and Literacy Technologies",
+		"professor": "Drucker, J.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "INF STD",
+		"code": "226",
+		"title": "Indigenous Librarianship",
+		"professor": "Gosart, J.O."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "INF STD",
+		"code": "241",
+		"title": "Digital Preservation",
+		"professor": "Gilliland, A.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "INF STD",
+		"code": "M244",
+		"title": "Collection Management for Archives, Libraries, and Museums",
+		"professor": "Pearlstein, E.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "INF STD",
+		"code": "M255",
+		"title": "Medical Decision Making",
+		"professor": "Sayre, J.; Hsu, W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "INF STD",
+		"code": "262A",
+		"title": "Data Management and Practice",
+		"professor": "Wallis, J.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "INF STD",
+		"code": "270",
+		"title": "Systems and Infrastructures",
+		"professor": "Posner, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "INF STD",
+		"code": "279",
+		"title": "User Experience Design",
+		"professor": "Boyden, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "INF STD",
+		"code": "289",
+		"title": "Seminar: Special Issues in Information Studies: Ethnographic Research Methods",
+		"professor": "Carbone, K.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "INF STD",
+		"code": "289",
+		"title": "Seminar: Special Issues in Information Studies: Justice in Theory and Practice",
+		"professor": "Montoya, R.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "INF STD",
+		"code": "289",
+		"title": "Seminar: Special Issues in Information Studies: Moving Image Technology",
+		"professor": "Everett, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "INF STD",
+		"code": "290",
+		"title": "Research Seminar: Information Studies",
+		"professor": "Leazer, G.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "INF STD",
+		"code": "291B",
+		"title": "Special Topics in Theory of Information Studies: Seminar 1  ",
+		"professor": "Lievrouw, L.A."
+	}
+]

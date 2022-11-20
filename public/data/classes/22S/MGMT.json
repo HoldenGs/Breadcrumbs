@@ -1,0 +1,422 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "1A",
+		"title": "Principles of Accounting",
+		"professor": "Woo, E.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "1B",
+		"title": "Principles of Accounting",
+		"professor": "Gardner Treloar, J"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "108",
+		"title": "Business Law",
+		"professor": "Guerin, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "108",
+		"title": "Business Law",
+		"professor": "Klein, G.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "120A",
+		"title": "Intermediate Financial Accounting I",
+		"professor": "Lu, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "120B",
+		"title": "Intermediate Financial Accounting II",
+		"professor": "Lu, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "120B",
+		"title": "Intermediate Financial Accounting II",
+		"professor": "Klein, G.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "122",
+		"title": "Management Accounting",
+		"professor": "Kumar, N.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "123",
+		"title": "Auditing",
+		"professor": "Gardner Treloar, J"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "124",
+		"title": "Advanced Accounting",
+		"professor": "Woo, E.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "126",
+		"title": "Financial Statement Analysis",
+		"professor": "Borman, C.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "127A",
+		"title": "Tax Principles and Policy",
+		"professor": "Berges, T.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "127B",
+		"title": "Corporate and Partnership Taxation",
+		"professor": "Klein, G.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "128",
+		"title": "Special Topics in Accounting: Lecture 1  ",
+		"professor": "Gardner Treloar, J"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "130A",
+		"title": "Basic Managerial Finance",
+		"professor": "Kim, M.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "142C",
+		"title": "Analytics in Accounting III",
+		"professor": "Ravetch, D.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "159",
+		"title": "Foundations of Business and Entrepreneurship",
+		"professor": "Patt, S.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "160",
+		"title": "Entrepreneurship and Venture Initiation",
+		"professor": "Weinhaus, E.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "160",
+		"title": "Entrepreneurship and Venture Initiation",
+		"professor": "Pierce, M.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "161",
+		"title": "Business Plan Development",
+		"professor": "Yi, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "162",
+		"title": "Entrepreneurship and Technology Commercialization",
+		"professor": "Wilson, N.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "163",
+		"title": "Entrepreneurship and New Product Development",
+		"professor": "Rostamian, F.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "164",
+		"title": "Entrepreneurial Finance and Accounting",
+		"professor": "Kumar, N.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "165",
+		"title": "Marketing Principles for Entrepreneurs",
+		"professor": "Zhang, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "167",
+		"title": "Social Entrepreneurship",
+		"professor": "Northrop, G.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "168",
+		"title": "Personal Financial Health: Theory and Practice",
+		"professor": "Ravetch, D.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "169",
+		"title": "Entrepreneurial Leadership and Practical Experience",
+		"professor": "Wilson, N.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "169",
+		"title": "Entrepreneurial Leadership and Practical Experience",
+		"professor": "Weinhaus, E.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "170",
+		"title": "Real Estate Finance and Investments",
+		"professor": "Karlan, M.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "195",
+		"title": "Community or Corporate Internships in Management",
+		"professor": "Caskey, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "205A",
+		"title": "International Business Economics",
+		"professor": "Nickelsburg, G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "209",
+		"title": "Managing Complex Business Deals",
+		"professor": "Hartman, S.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "215A",
+		"title": "Negotiations Analysis",
+		"professor": "Bikhchandani, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "215B",
+		"title": "Market Entry Strategy",
+		"professor": "Lieberman, M.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "218",
+		"title": "Tools and Analysis for Business Strategy",
+		"professor": "Sakakibara, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "220",
+		"title": "Corporate Financial Reporting",
+		"professor": "Caskey, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "M225",
+		"title": "Law and Management of Nonprofit Organizations",
+		"professor": "Guerin, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "228",
+		"title": "Financial Statement Analysis",
+		"professor": "Caskey, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "232A",
+		"title": "Investment Management",
+		"professor": "Herskovic, B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "240E",
+		"title": "Managing Entrepreneurial Operations",
+		"professor": "Alderton, D.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "240F",
+		"title": "Global Supply Chain Management",
+		"professor": "Caro, F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "252",
+		"title": "Persuasion and Influence",
+		"professor": "Goldstein, N.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "260A",
+		"title": "Customer Assessment and Analytics",
+		"professor": "Hollenbeck, B.W."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "261A",
+		"title": "Sales and Channel Management",
+		"professor": "Bucklin, R.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "261B",
+		"title": "Global Marketing Management",
+		"professor": "Zhang, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "263A",
+		"title": "Consumer Behavior",
+		"professor": "Drolet Rossi, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "265",
+		"title": "Brand Management",
+		"professor": "Drolet Rossi, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "267",
+		"title": "Digital Marketing Analytics",
+		"professor": "Bodapati, A.V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "268",
+		"title": "Selected Topics in Marketing: Entertainment Marketing",
+		"professor": "Frons, B.S.; Neil, D.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "275",
+		"title": "Current Topics in Emerging Technologies and Markets: Health Care Technology",
+		"professor": "McCaney, J.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "275",
+		"title": "Current Topics in Emerging Technologies and Markets: Product Management Delivery for Large Technology Companies",
+		"professor": "Rao, A.; Zhou, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "277B",
+		"title": "Real Estate Finance Law",
+		"professor": "Nelson, G.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "278A",
+		"title": "Urban Real Estate Financing and Investing",
+		"professor": "Habibi, P.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "279B",
+		"title": "Entrepreneurial Real Estate Development",
+		"professor": "Habibi, P.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "281B",
+		"title": "People in Organizations",
+		"professor": "Culbert, S.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "286",
+		"title": "Negotiations Behavior",
+		"professor": "Whitson, J.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "295A",
+		"title": "Entrepreneurship and Venture Initiation",
+		"professor": "Alderton, D.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "295C",
+		"title": "Corporate Entrepreneurship",
+		"professor": "Lenet, S.H.; Kearns, L.A.; Geiger, W.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "295D",
+		"title": "Business Plan Development",
+		"professor": "Funk, J.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MGMT",
+		"code": "295F",
+		"title": "Social Entrepreneurship",
+		"professor": "Northrop, G.S."
+	}
+]

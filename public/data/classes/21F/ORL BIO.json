@@ -1,0 +1,23 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "ORL BIO",
+		"code": "212",
+		"title": "Proseminar: Oral Biology Research",
+		"professor": "Law, C.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ORL BIO",
+		"code": "215A",
+		"title": "Fundamentals of Immunology",
+		"professor": "Maida, C.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ORL BIO",
+		"code": "226",
+		"title": "Craniofacial Growth and Development",
+		"professor": "Hu, S.; Kim, Y."
+	}
+]

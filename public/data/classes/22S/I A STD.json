@@ -1,0 +1,30 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "I A STD",
+		"code": "M6C",
+		"title": "Elementary Amharic",
+		"professor": "Adhanom, A.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "I A STD",
+		"code": "M7C",
+		"title": "Elementary Yoruba",
+		"professor": "Adegbola, M.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "I A STD",
+		"code": "188",
+		"title": "Special Courses in International and Area Studies: Introduction to Taiwan Studies",
+		"professor": "Dai, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "I A STD",
+		"code": "191",
+		"title": "Variable Topics Senior Research Seminars: International and Area Studies: International Politics, Development Policies, Globalization, and Everyday Life in Cambodia",
+		"professor": "Heuveline, P.C."
+	}
+]

@@ -1,0 +1,44 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "GREEK",
+		"code": "1",
+		"title": "Elementary Greek",
+		"professor": "Borst, Z.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GREEK",
+		"code": "8A",
+		"title": "Elementary Modern Greek",
+		"professor": "Zenios, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GREEK",
+		"code": "20",
+		"title": "Intermediate Greek",
+		"professor": "Morris, S.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GREEK",
+		"code": "121",
+		"title": "Plato",
+		"professor": "Blank, D.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GREEK",
+		"code": "226",
+		"title": "Imperial Greek Literature",
+		"professor": "Kirkland, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "GREEK",
+		"code": "229",
+		"title": "Strengthening Greek",
+		"professor": "Kirkland, B."
+	}
+]

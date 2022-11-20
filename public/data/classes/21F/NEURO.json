@@ -1,0 +1,100 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "NEURO",
+		"code": "M202",
+		"title": "Cellular Neurophysiology",
+		"professor": "Wilke, L.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NEURO",
+		"code": "M206",
+		"title": "Neuroengineering",
+		"professor": "Maidment, N.T.; Colwell, C.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NEURO",
+		"code": "210A",
+		"title": "Introduction to Current Literature in Neuroscience",
+		"professor": "Rissman, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NEURO",
+		"code": "211A",
+		"title": "Evaluation of Research Literature in Neuroscience",
+		"professor": "Buonomano, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Current Research Topics in Neuroimaging",
+		"professor": "Novitch, B.G.; Zhang, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Learning and Memory",
+		"professor": "Micevych, P.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Neural Development, Degeneration, and Repair",
+		"professor": "Suthana, N.A.; Wassum, K.; Markovic, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Neuroendocrinology, Sex Differences, and Reproduction",
+		"professor": "Suthana, N.A.; Markovic, D.; Lu, D.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Neuroscience Communication and Policy",
+		"professor": "Hong, W.; Donlea, J.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: NeuroTechnology Translation",
+		"professor": "London, E.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Synapse to Circuit",
+		"professor": "Sampath, A.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Translational Neuroscience of Drug Abuse",
+		"professor": "Paul, K.N.; Poe, G.R.; Colwell, C.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Visual Neurosciences",
+		"professor": "Olde Loohuis, L.M.; Hoftman, G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "NEURO",
+		"code": "240",
+		"title": "Phenotypic Measurement of Complex Traits",
+		"professor": "Ellingson, B.M."
+	}
+]

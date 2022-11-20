@@ -1,0 +1,156 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "A&O SCI",
+		"code": "1",
+		"title": "Climate Change: From Puzzles to Policy",
+		"professor": "Bianchi, D.; McCoy, D.E.; Hoel, P.F.; Sandoval Belmar, M"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "A&O SCI",
+		"code": "1L",
+		"title": "Climate Change: From Puzzles to Policy--Laboratory",
+		"professor": "Bianchi, D.; McCoy, D.E.; Hoel, P.F.; Sandoval Belmar, M"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "A&O SCI",
+		"code": "2",
+		"title": "Air Pollution",
+		"professor": "Li, Q.; Banach, C.A.; Fritzmann, A.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "A&O SCI",
+		"code": "2L",
+		"title": "Air Pollution Laboratory",
+		"professor": "Li, Q.; Banach, C.A.; Fritzmann, A.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "A&O SCI",
+		"code": "3",
+		"title": "Introduction to Atmospheric Environment",
+		"professor": "Mitchell, J.L.; Cheng, X."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "A&O SCI",
+		"code": "3L",
+		"title": "Introduction to Atmospheric Environment Laboratory",
+		"professor": "Mitchell, J.L.; Cheng, X."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "A&O SCI",
+		"code": "M7",
+		"title": "Perils of Space: Introduction to Space Weather",
+		"professor": "Velli, M.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "A&O SCI",
+		"code": "M71",
+		"title": "Introduction to Computing for Geoscientists",
+		"professor": "Lithgow-Bertelloni"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "A&O SCI",
+		"code": "101",
+		"title": "Fundamentals of Atmospheric Dynamics and Thermodynamics",
+		"professor": "Arias-Young, T.M.; Branco Rodakoviski"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "A&O SCI",
+		"code": "103",
+		"title": "Physical Oceanography",
+		"professor": "Stewart, A.L.; Si, Y.; Robinson, D.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "A&O SCI",
+		"code": "M106",
+		"title": "Applied Climatology: Principles of Climate Impact on Natural Environment",
+		"professor": "Xue, Y.; Cao, Z.; Qu, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "A&O SCI",
+		"code": "C111",
+		"title": "Introduction to Machine Learning for Physical Sciences",
+		"professor": "Bortnik, J.; Ma, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "A&O SCI",
+		"code": "123",
+		"title": "Climate Change Adaptation Challenge",
+		"professor": "Hall, A.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "A&O SCI",
+		"code": "141",
+		"title": "Introduction to Atmospheric Chemistry and Air Pollution",
+		"professor": "Li, Q."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "A&O SCI",
+		"code": "C160",
+		"title": "Remote Sensing of Atmosphere and Oceans",
+		"professor": "Stutz, J.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "A&O SCI",
+		"code": "200A",
+		"title": "Introduction to Atmospheric and Oceanic Fluid",
+		"professor": "Chamecki, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "A&O SCI",
+		"code": "200B",
+		"title": "Introduction to Dynamics of Earth System",
+		"professor": "Chen, G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "A&O SCI",
+		"code": "M203A",
+		"title": "Introduction to Atmospheric Chemistry",
+		"professor": "Paulson, S.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "A&O SCI",
+		"code": "C204",
+		"title": "Introduction to Machine Learning for Physical Sciences",
+		"professor": "Bortnik, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "A&O SCI",
+		"code": "211",
+		"title": "Planetary Wave Dynamics and Teleconnections in Atmosphere/Ocean",
+		"professor": "Neelin, J.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "A&O SCI",
+		"code": "270",
+		"title": "Seminar: Atmospheric Sciences",
+		"professor": "Neelin, J.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "A&O SCI",
+		"code": "271",
+		"title": "Seminar: Atmospheric Dynamics",
+		"professor": "Chen, G."
+	}
+]

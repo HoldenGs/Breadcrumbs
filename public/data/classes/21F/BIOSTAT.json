@@ -1,0 +1,79 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOSTAT",
+		"code": "100A",
+		"title": "Introduction to Biostatistics",
+		"professor": "Lee, M.L.; Arputhasamy, V."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOSTAT",
+		"code": "200A",
+		"title": "Methods in Biostatistics A",
+		"professor": "Gjertson, D.W.; Sheth, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOSTAT",
+		"code": "201A",
+		"title": "Topics in Applied Regression",
+		"professor": "Belin, T.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOSTAT",
+		"code": "202C",
+		"title": "Theory of Bayesian Statistics",
+		"professor": "Weiss, R.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOSTAT",
+		"code": "203A",
+		"title": "Introduction to Data Management and Statistical Computing",
+		"professor": "Kim, G.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOSTAT",
+		"code": "M208",
+		"title": "Introduction to Demographic Methods",
+		"professor": "Heuveline, P.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOSTAT",
+		"code": "M215",
+		"title": "Survival Analysis",
+		"professor": "Li, G.; Li, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOSTAT",
+		"code": "216",
+		"title": "Mathematical Methods for Biostatistics",
+		"professor": "Zhou, H.; Kim, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOSTAT",
+		"code": "245",
+		"title": "Advanced Seminar: Biostatistics",
+		"professor": "Senturk, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOSTAT",
+		"code": "250A",
+		"title": "Linear Statistical Models",
+		"professor": "Wong, W.; Cui, E.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOSTAT",
+		"code": "255A",
+		"title": "Advanced Probability and Statistics",
+		"professor": "Banerjee, S."
+	}
+]

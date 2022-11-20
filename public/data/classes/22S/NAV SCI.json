@@ -1,0 +1,30 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "NAV SCI",
+		"code": "Z",
+		"title": "Naval Science Laboratory",
+		"professor": "Loria, I.; Piper, W.S.; Rowan, J.D.; Gabel, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NAV SCI",
+		"code": "20B",
+		"title": "Seapower and Maritime Affairs",
+		"professor": "Rowan, J.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NAV SCI",
+		"code": "102B",
+		"title": "Leadership and Management",
+		"professor": "Ragadio, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NAV SCI",
+		"code": "102C",
+		"title": "Leadership and Ethics",
+		"professor": "Juarez, G."
+	}
+]

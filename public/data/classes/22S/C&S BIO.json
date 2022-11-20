@@ -1,0 +1,58 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "C&S BIO",
+		"code": "10",
+		"title": "Preparation for Research in Computational Biology",
+		"professor": "Nadel, B.; Suresh, H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "C&S BIO",
+		"code": "M150",
+		"title": "Biological Modeling: Mathematical and Computational Approaches",
+		"professor": "Venugopal, S.; Lin, J.; Hong, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "C&S BIO",
+		"code": "M186",
+		"title": "Computational Systems Biology: Modeling and Simulation of Biological Systems",
+		"professor": "Distefano, J.; Zheng, D.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "C&S BIO",
+		"code": "M187",
+		"title": "Research Communication in Computational and Systems Biology",
+		"professor": "Pellegrini, M.; Tward, D.J.; Kang, J.; Lee, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "C&S BIO",
+		"code": "195",
+		"title": "Community or Corporate Internships in Computational and Systems Biology",
+		"professor": "Coller, H.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "C&S BIO",
+		"code": "198A",
+		"title": "Honors Research in Computational and Systems Biology",
+		"professor": "Pellegrini, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "C&S BIO",
+		"code": "198A",
+		"title": "Honors Research in Computational and Systems Biology",
+		"professor": "Wilson, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "C&S BIO",
+		"code": "198B",
+		"title": "Honors Research in Computational and Systems Biology",
+		"professor": "Pellegrini, M."
+	}
+]
