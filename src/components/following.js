@@ -1,54 +1,48 @@
-import React, { useRef, useState, useEffect } from "react"
-import Profile from "./Profile.js"
-import { Link , Navigate, useNavigate, useParams} from "react-router-dom"
+import React, { useState, useEffect } from "react"
+import { Link } from "react-router-dom"
 import "../scss/components/_following.scss"
-import {default as useAuth} from "./authContext"
+import {default as useAuth} from "./AuthContext"
+import { useLocation} from "react-router-dom"
 import { db} from "../firebase"
-import { collection, getDocs } from "firebase/firestore";
-
+import { collection, getDocs, where, query } from "firebase/firestore";
 
 export default function Following() {
   const { currentUser } = useAuth()
+  const location = useLocation()
+  const {from} = location.state
+  const user = Object.values(from).toString()
 
-  const [data2, setData2] = useState([])
-  const [username, setUsername] = useState([])
+  const [following, setFollowing] = useState([])
   
   useEffect(() => {
-    const donorsData = []
-    setData2([])
-    db
-      .collection("user")
-      .where("userID", "==", currentUser.uid.toString())
-      .get()
-      .then((results) => {
-        results.forEach((doc) => {
-          setUsername(doc.data().username)
-          donorsData.push(doc.data().followers)
-          // setData( arr => [...arr, doc.data().followers]);
+
+    setFollowing([])
+    const asyncFetchDailyData = async() => {
+      const followingIDs = []
+      const querySnapshot =  await getDocs(query(collection(db, "user"), where("username", "==", user)))
+      querySnapshot.forEach((doc) => {
+        followingIDs.push(doc.data().followers)
         });
-        // setData(donorsData);
-        // console.log("donorsdata");
-        console.log(donorsData[0])
-        for(let i = 0; i<donorsData[0].length; i++) {
-          const donorsData2 = []
-          db
-            .collection("user")
-            .where("userID", "==", donorsData[0][i])
-            .get()
-            .then((result) => {
-              result.forEach((docs) => {
-                donorsData2.push(docs.data().firstName);
-                setData2( arr => [...arr, docs.data().username])
-              })
-              
-            })
+        for(let i = 0; i<followingIDs[0].length; i++) {
+          const followingUsernames = []
+          const asyncFetchDailyData2 = async() => {
+            const querySnapshot =  await getDocs(query(collection(db, "user"), where("userID", "==", followingIDs[0][i])))
+            querySnapshot.forEach((doc) => {
+              followingUsernames.push(doc.data().firstName);
+              setFollowing( arr => [...arr, doc.data().username])
+              });
+          }
+          asyncFetchDailyData2();
         }
-      })
+      }
+      asyncFetchDailyData();
   }, [])
 
-  const renderList = data2.map((item) => 
+  
+
+  const renderList = following.map((username) => 
   <div>
-   <Link to={`/profile/${item}`} state={{from: {item}}}> {`@${item}`} </Link> 
+   <Link to={`/profile/${username}`} state={{from: {username}}}> {`@${username}`} </Link> 
   </div> 
   );
 
