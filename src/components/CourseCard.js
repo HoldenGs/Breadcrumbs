@@ -65,7 +65,7 @@ export default function CourseCard({ idx, editable, coursesTaken, setCoursesTake
         </>
       ) : (
         <>
-          <div><strong>{coursesTaken[idx].department + " " + coursesTaken[idx].course}</strong></div>
+          <div><strong>{coursesTaken[idx].department + ' ' + coursesTaken[idx].course}</strong></div>
           <div>{coursesTaken[idx].professor}</div>
           <Rating count={10} value={coursesTaken[idx].rating} readOnly />
           <div>{coursesTaken[idx].feelings}</div>

@@ -22,9 +22,9 @@ export default function Quarter({ quarterName }) {
   }
   
   return (
-    <div className="quarter">
+    <div className='quarter'>
       <div>{quarterName}</div>
-      <button onClick={() => setEditable(!editable)}>{editable ? "Save" : "Edit"}</button>
+      <button onClick={() => setEditable(!editable)}>{editable ? 'Save' : 'Edit'}</button>
       {coursesTaken.length !== 0 ? (
         coursesTaken.map((course) => (
           <CourseCard
