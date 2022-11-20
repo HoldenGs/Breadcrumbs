@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react'
-import { useLocation } from 'react-router-dom'
+import { Link, useLocation } from 'react-router-dom'
 import '../scss/components/_profile.scss'
-import { default as useAuth } from './authContext'
+import { default as useAuth } from './AuthContext'
 import { db } from '../firebase'
-import { arrayUnion } from 'firebase/firestore'
+import { arrayRemove, arrayUnion } from 'firebase/firestore'
 import {
 	query,
 	getDocs,
@@ -18,6 +18,8 @@ export default function Profile({ state }) {
 	const location = useLocation()
 	const user = location.state
 	//const user = Object.values(currentUser).toString()
+	console.log(location.pathname.split("/").at(-1))
+	const userNameState = location.pathname.split("/").at(-1)
 
 	const [first, setFirst] = useState([])
 	const [last, setLast] = useState([])
@@ -30,6 +32,8 @@ export default function Profile({ state }) {
 	const [minor2, setMinor2] = useState("")
 	const [minor3, setMinor3] = useState("")
 	const [userId, setUserId] = useState("")
+	const [currentUsersFollowing, setCUF] = useState([])
+const [firestoreDocIDforCurrUser, setFDCU] = useState([])
 
 	useEffect(() => {
 
@@ -55,6 +59,17 @@ export default function Profile({ state }) {
 		if (userId === "") {
 			fetchData()
 		}
+		const asyncFetchCurrentUserFollowers = async() => {
+			const querySnapshot2 =  await getDocs(query(collection(db, "user"), where("userID", "==", currentUser.uid.toString())))
+			  querySnapshot2.forEach((doc) => {
+				if(doc.data().followers.includes(userId.toString())) {
+				  setCUF(true)
+				}
+				// setCUF(doc.data().followers)
+				});
+		  }
+		
+		  asyncFetchCurrentUserFollowers();
 		
 	}, [user, userId, location.pathname])
 
@@ -83,23 +98,64 @@ export default function Profile({ state }) {
 		return <h4>{`Minor: ${minor1}, ${minor2}, ${minor3}`}</h4>
 	}
 
-	function followBtn(currUserId, userToFollow) {
-
-		async function handleFollow(currUserId, userToFollow) {
-			if (currentUser != null) currUserId = currentUser.uid.toString()
-			if (userToFollow === currentUser.uid.toString() || userToFollow === 0) return
+	function handleUnfollow(userIDToUnfollow) {
+		const asyncFetchData = async() => {
+		  const querySnapshot2 =  await getDocs(query(collection(db, "user"), where("userID", "==", currentUser.uid.toString())))
+			querySnapshot2.forEach((doc) => {
+			  setFDCU(doc.id)
+			  }
+			)}
+			  asyncFetchData();
+			const unfollow = async() => {
+			  console.log(firestoreDocIDforCurrUser)
+			  const ref = doc(db, "user", firestoreDocIDforCurrUser)
+			   await updateDoc(ref, {
+				followers: arrayRemove(userIDToUnfollow.toString())
+			})
+			}
+			unfollow();
+	  }
 	
-			const loginUpdateRef = await doc(db, "user", userToFollow)
-			await updateDoc(loginUpdateRef, {followers: arrayUnion(currUserId)})
-			.catch((err) => {console.log("Error adding follower to user id {}: ", userToFollow, err)})	
-		}
+	  function handleFollow(userIDToFollow) {
+		const asyncFetchData = async() => {
+		  const querySnapshot2 =  await getDocs(query(collection(db, "user"), where("userID", "==", currentUser.uid.toString())))
+			querySnapshot2.forEach((doc) => {
+			  setFDCU(doc.id)
+			  }
+			)}
+			  asyncFetchData();
+	
+			const follow = async() => {
+			  console.log(firestoreDocIDforCurrUser)
+			  const ref2 = doc(db, "user", firestoreDocIDforCurrUser)
+			   await updateDoc(ref2, {
+				followers: arrayUnion(userIDToFollow.toString())
+			})
+			}
+			follow();
+	  }
 
-		return (
-			<button className="profile__button" onClick={handleFollow}>
-				Follow
-			</button>
-		)
-	}
+	function followBtn(currUserId, userToFollow) {
+		if (currentUser != null) currUserId = currentUser.uid.toString()
+		if (userToFollow === currentUser.uid.toString() || userToFollow === 0) {
+			console.log("hey")
+	return
+  }
+  else if(currentUsersFollowing===true) {
+	return (
+	  <button className="profile__button" onClick={handleUnfollow(userId)}>
+	  Unfollow
+	  </button>
+	)
+  }
+  else {
+	return (
+	<button className="profile__button" onClick={handleFollow(userId)}>
+	  Follow
+	</button>
+  )
+}
+}
 
 	const renderListMajor = listMajor(major1, major2, major3)
 	const renderListMinor = listMinor(minor1, minor2, minor3)
@@ -114,10 +170,10 @@ export default function Profile({ state }) {
 					{" "}
 					Update Profile{" "}
 				</a>{" "}
-				<a className="profile__a" href="/following">
-					{" "}
-					{"   "}Following{" "}
-				</a>
+				<Link to={`/following`} state={{from: {userNameState}}} > Following </Link>
+				<button onClick={() => {navigator.clipboard.writeText(`${window.location.href}`)}}>
+                   Share
+               </button>
 			</h2>
 			<h1 className="profile__h1"> {`${first} ${last}`}</h1>
 			<h2>{`@${username}`}</h2>
@@ -126,3 +182,4 @@ export default function Profile({ state }) {
 		</div>
 	)
 }
+
