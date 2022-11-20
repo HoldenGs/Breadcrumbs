@@ -1,0 +1,16 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "HIN-URD",
+		"code": "1",
+		"title": "Introductory Hindi-Urdu",
+		"professor": "Mahajan, G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "HIN-URD",
+		"code": "100A",
+		"title": "Intermediate Hindi-Urdu",
+		"professor": "Mahajan, G."
+	}
+]

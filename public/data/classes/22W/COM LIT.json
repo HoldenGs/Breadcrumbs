@@ -1,0 +1,100 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "COM LIT",
+		"code": "1E",
+		"title": "Social Media and Storytelling: Comparing Cultures",
+		"professor": "MacFadyen, D.W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM LIT",
+		"code": "2DW",
+		"title": "Survey of Literature: Great Books from World at Large",
+		"professor": "Mufti, A.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM LIT",
+		"code": "4DW",
+		"title": "Literature and Writing: Great Books from World at Large",
+		"professor": "Farley, R.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM LIT",
+		"code": "100",
+		"title": "Introduction to Literary and Critical Theory",
+		"professor": "Gana, N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM LIT",
+		"code": "M101",
+		"title": "Hebrew Literature in English: Literary Traditions of Ancient Israel--Bible and Apocrypha",
+		"professor": "Smoak, J.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM LIT",
+		"code": "M120",
+		"title": "Women and Literature in Southeastern Europe",
+		"professor": "Galateanu, G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM LIT",
+		"code": "M142",
+		"title": "Travel Narratives, Testimony, Autobiography: Lecture 1  ",
+		"professor": "Passos, J.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM LIT",
+		"code": "191",
+		"title": "Variable Topics in Comparative Literature: Bangtan Universe: BTS and Transmedia Storytelling",
+		"professor": "Felipe, L.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM LIT",
+		"code": "191",
+		"title": "Variable Topics in Comparative Literature: Translation Theory and Practice",
+		"professor": "Rahmani, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM LIT",
+		"code": "200B",
+		"title": "Methodology of Comparative Literature",
+		"professor": "Mufti, A.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM LIT",
+		"code": "271",
+		"title": "Imaginary Women",
+		"professor": "Kaufman, E.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM LIT",
+		"code": "M281",
+		"title": "Studies in Contemporary Spanish-American Literature",
+		"professor": "Kristal, E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM LIT",
+		"code": "290",
+		"title": "Contemporary Theories of Criticism: Experimental Critical Theory: Comparative Thinking",
+		"professor": "Stahuljak, Z."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM LIT",
+		"code": "290",
+		"title": "Contemporary Theories of Criticism: Postcolonialism, Psychoanalysis, and Religion",
+		"professor": "Gana, N."
+	}
+]

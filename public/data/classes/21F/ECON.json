@@ -1,0 +1,506 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "1",
+		"title": "Principles of Economics",
+		"professor": "Ohanian, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "2",
+		"title": "Principles of Economics",
+		"professor": "Boswell, K.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "11",
+		"title": "Microeconomic Theory",
+		"professor": "Mazzocco, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "11",
+		"title": "Microeconomic Theory",
+		"professor": "Surro, C.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "41",
+		"title": "Probability and Statistics for Economists",
+		"professor": "Boswell, K.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "41",
+		"title": "Probability and Statistics for Economists",
+		"professor": "Rojas, R.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "89",
+		"title": "Honors Seminars: Honors Seminar for Economics 11",
+		"professor": "Mazzocco, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "97",
+		"title": "Economic Toolkit",
+		"professor": "Heinzman, S.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "101",
+		"title": "Microeconomic Theory",
+		"professor": "Vogel, J.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "102",
+		"title": "Macroeconomic Theory",
+		"professor": "Surro, C.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "103",
+		"title": "Introduction to Econometrics",
+		"professor": "Convery, P.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "103L",
+		"title": "Econometrics Laboratory",
+		"professor": "Convery, P.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "104",
+		"title": "Data Science for Economists",
+		"professor": "Rojas, R.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "104L",
+		"title": "Data Science for Economists Laboratory",
+		"professor": "Rojas, R.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "106F",
+		"title": "Finance",
+		"professor": "Convery, P.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "106FB",
+		"title": "Finance Laboratory",
+		"professor": "Convery, P.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "106M",
+		"title": "Financial Markets and Financial Institutions",
+		"professor": "Williams, T.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "106ML",
+		"title": "Financial Markets and Financial Institutions Laboratory",
+		"professor": "Williams, T.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "106P",
+		"title": "Pricing and Strategy",
+		"professor": "McDevitt, E.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "106PL",
+		"title": "Pricing and Strategy Laboratory",
+		"professor": "McDevitt, E.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "111",
+		"title": "Theories of Development",
+		"professor": "Osei Twumasi, O.I."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "123",
+		"title": "Forecasting Exchange Rates and Constructing Currency Portfolios",
+		"professor": "Tornell, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "123L",
+		"title": "Forecasting Exchange Rates and Constructing Currency Portfolios Laboratory",
+		"professor": "Tornell, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "132",
+		"title": "Topics in Taxation and Social Insurance",
+		"professor": "Londono-Velez, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "137",
+		"title": "Introduction to Urban and Regional Economics",
+		"professor": "Osei Twumasi, O.I."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "148",
+		"title": "Behavioral Economics",
+		"professor": "Lu, J.Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "160",
+		"title": "Money and Banking",
+		"professor": "McDevitt, E.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "167",
+		"title": "Victims and Villains; Panics and Bubbles",
+		"professor": "Atkeson, A.G.; Simon, W.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "168",
+		"title": "Introduction to Principles of Value Investing",
+		"professor": "Simon, W.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "171",
+		"title": "Industrial Organization: Policy and Regulation",
+		"professor": "Hopenhayn, H.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "M188XP",
+		"title": "Practicum in Social Entrepreneurship",
+		"professor": "Atkeson, A.G.; Staub, S.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Advanced Honors Seminar for Economics 101",
+		"professor": "Vogel, J.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "195A",
+		"title": "Community or Corporate Internships in Economics I",
+		"professor": "McGarry, K.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "198A",
+		"title": "Honors Research in Economics I",
+		"professor": "Bailey, M.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "198A",
+		"title": "Honors Research in Economics I",
+		"professor": "Ohanian, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "198A",
+		"title": "Honors Research in Economics I",
+		"professor": "Hackmann, M.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "198A",
+		"title": "Honors Research in Economics I",
+		"professor": "Meyer-Ter-Vehn, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "199A",
+		"title": "Directed Research in Economics",
+		"professor": "Lu, J.Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "199A",
+		"title": "Directed Research in Economics",
+		"professor": "Surro, C.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "199A",
+		"title": "Directed Research in Economics",
+		"professor": "McGarry, K.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "199A",
+		"title": "Directed Research in Economics",
+		"professor": "Rojas, R.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "200",
+		"title": "Mathematical Methods in Economics",
+		"professor": "Obara, I."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "201A",
+		"title": "Microeconomics: Theory of Firm and Consumer",
+		"professor": "Yoo, J.; Obara, I."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "202A",
+		"title": "Macroeconomics: Dynamics and Growth Theory",
+		"professor": "Boejeryd, J.H.; Hansen, G.D.; Ohanian, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "203A",
+		"title": "Introduction to Econometrics I",
+		"professor": "Navjeevan, M.; Hahn, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "M204A",
+		"title": "Applications of Economic Theory: California Population Research Topical Seminar Series",
+		"professor": "Heuveline, P.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "M204L",
+		"title": "Seminar: Pharmaceutical Economics and Policy",
+		"professor": "Lu, Z.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "M208",
+		"title": "Introduction to Demographic Methods",
+		"professor": "Heuveline, P.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "211C",
+		"title": "Game Theory and Economic Applications",
+		"professor": "Sadzik, T.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "214A",
+		"title": "Topics in Mathematical Economics: General Equilibrium Theory",
+		"professor": "Meyer-Ter-Vehn, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "218A",
+		"title": "Proseminar: Economic Theory",
+		"professor": "Sadzik, T.M.; Obara, I."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "219A",
+		"title": "Workshop: Economic Theory and Mathematical Economics",
+		"professor": "Board, S.A.; Sadzik, T.M.; Meyer-Ter-Vehn, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "221A",
+		"title": "Monetary Economics I",
+		"professor": "Hansen, G.D.; Ohanian, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "228A",
+		"title": "Proseminar: Monetary Economics",
+		"professor": "Baqaee, D.R.; Geerolf, F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "229A",
+		"title": "Workshop: Monetary Economics",
+		"professor": "Weill, P.; Baqaee, D.R.; Geerolf, F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "231A",
+		"title": "Advanced Econometrics I",
+		"professor": "Sheng, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "238A",
+		"title": "Proseminar: Econometrics",
+		"professor": "Chetverikov, D.N.; Matzkin, R.L.; Liao, Z."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "239A",
+		"title": "Workshop: Econometrics",
+		"professor": "Chetverikov, D.N.; Liao, Z.; Sheng, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "241",
+		"title": "Economic History of Western Europe",
+		"professor": "Costa, D.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "C246A",
+		"title": "Seminar: Economic History",
+		"professor": "Costa, D.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "248A",
+		"title": "Proseminar: Economic History",
+		"professor": "Costa, D.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "253A",
+		"title": "Topics in Public Finance",
+		"professor": "Londono-Velez, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "261A",
+		"title": "Labor Economics I",
+		"professor": "Mazzocco, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "269A",
+		"title": "Workshop: Labor Economics",
+		"professor": "Santos Da Silveira; Bau, N.D.; Haanwinckel Junque"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "271A",
+		"title": "Industrial Organization, Price Policies, and Regulation I",
+		"professor": "Asker, J.W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "278A",
+		"title": "Proseminar: Industrial Organization and Regulation",
+		"professor": "Hackmann, M.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "279A",
+		"title": "Workshop: Business Organization",
+		"professor": "Hackmann, M.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "281A",
+		"title": "International Trade Theory",
+		"professor": "Vogel, J.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "281B",
+		"title": "International Finance",
+		"professor": "Tornell, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "C285A",
+		"title": "Seminar: International Economics",
+		"professor": "Burstein, A.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "288A",
+		"title": "Proseminar: International and Development Economics",
+		"professor": "Tornell, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ECON",
+		"code": "288A",
+		"title": "Proseminar: International and Development Economics",
+		"professor": "Burstein, A.T."
+	}
+]

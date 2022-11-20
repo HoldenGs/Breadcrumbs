@@ -1,0 +1,331 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "33W",
+		"title": "Materials Structure and Technology in Archaeology and Architecture",
+		"professor": "Kakoulli, I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "90L",
+		"title": "Physical Measurement in Materials Engineering",
+		"professor": "Kodambaka, S.; Wu, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "104",
+		"title": "Science of Engineering Materials",
+		"professor": "Yang, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "104",
+		"title": "Science of Engineering Materials",
+		"professor": "Bescher, E.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "111L",
+		"title": "Introduction to Materials Characterization B Laboratory",
+		"professor": "Prikhodko, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "121",
+		"title": "Materials Science of Semiconductors",
+		"professor": "Abraham, D.E.; Raman, A.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "121L",
+		"title": "Materials Science of Semiconductors Laboratory",
+		"professor": "Liao, M.E.; Goorsky, M.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "121L",
+		"title": "Materials Science of Semiconductors Laboratory",
+		"professor": "Goorsky, M.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "132",
+		"title": "Structure and Properties of Metallic Alloys",
+		"professor": "Wang, Y.; Zhu, J.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "140B",
+		"title": "Materials Selection and Engineering Design B",
+		"professor": "Pozuelo, M.; Xu, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "151",
+		"title": "Structure and Properties of Composite Materials",
+		"professor": "Yu, H.; Pozuelo, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "161L",
+		"title": "Laboratory in Ceramics",
+		"professor": "Zhang, Y.; Balonis, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "161L",
+		"title": "Laboratory in Ceramics",
+		"professor": "Balonis, M.; Zhang, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "201",
+		"title": "Principles of Materials Science II",
+		"professor": "Banerjee, A.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "210",
+		"title": "Diffraction Methods in Science of Materials",
+		"professor": "Goorsky, M.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "221",
+		"title": "Science of Electronic Materials",
+		"professor": "Streit, D.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "246A",
+		"title": "Mechanical Properties of Nonmetallic Crystalline Solids",
+		"professor": "Kodambaka, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "270",
+		"title": "Computer Simulations of Materials",
+		"professor": "Marian, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "282",
+		"title": "Exploration of Advanced Topics in Materials Science and Engineering",
+		"professor": "Xie, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Banerjee, A.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Dunn, B.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Goorsky, M.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "He, X."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Huang, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Kakoulli, I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Kodambaka, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Marian, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Mosleh, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Pei, Q."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Raman, A.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Streit, D.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Xie, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Yang, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Yang, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Chen, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Wang, K.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Wu, B.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Chang, J.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Carman, G.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Ghoniem, N.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Gupta, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Iyer, S.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Kaner, R.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Li, X."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Sant, G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Tolbert, S.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Weiss, P.S."
+	}
+]

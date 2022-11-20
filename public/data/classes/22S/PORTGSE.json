@@ -1,0 +1,58 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "PORTGSE",
+		"code": "3",
+		"title": "Intermediate Portuguese",
+		"professor": "Barber, T.T.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PORTGSE",
+		"code": "11B",
+		"title": "Intensive Portuguese",
+		"professor": "Carvalho, I.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PORTGSE",
+		"code": "27",
+		"title": "Writing Studies: Afro-Luso-Brazilian World",
+		"professor": "Ramos, C.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PORTGSE",
+		"code": "46",
+		"title": "Brazil and Portuguese-Speaking World",
+		"professor": "de Paula Santos, A"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PORTGSE",
+		"code": "141A",
+		"title": "Literature and Film in Portuguese: Afro-Luso-Brazilian Cinema and Short Filmmaking",
+		"professor": "Martins Lino, P.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PORTGSE",
+		"code": "142B",
+		"title": "Brazil and Portugal in Comparative Perspective: Popular Culture and Artistic Movements in Brazil",
+		"professor": "de Paula Santos, A"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PORTGSE",
+		"code": "M205A",
+		"title": "Development of Portuguese and Spanish Languages",
+		"professor": "Quicoli, A.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PORTGSE",
+		"code": "290",
+		"title": "Special Topics: Academic and Creative Writing Practice",
+		"professor": "Martins Lino, P.S."
+	}
+]

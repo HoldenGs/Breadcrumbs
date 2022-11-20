@@ -1,0 +1,282 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "1A",
+		"title": "Principles of Accounting",
+		"professor": "Woo, E.A.; Bwalya, C.; Shim, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "1A",
+		"title": "Principles of Accounting",
+		"professor": "Gardner Treloar, J"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "1B",
+		"title": "Principles of Accounting",
+		"professor": "Gardner Treloar, J"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "108",
+		"title": "Business Law",
+		"professor": "Guerin, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "108",
+		"title": "Business Law",
+		"professor": "Klein, G.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "120A",
+		"title": "Intermediate Financial Accounting I",
+		"professor": "Woo, E.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "120A",
+		"title": "Intermediate Financial Accounting I",
+		"professor": "Lu, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "120B",
+		"title": "Intermediate Financial Accounting II",
+		"professor": "Klein, G.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "120B",
+		"title": "Intermediate Financial Accounting II",
+		"professor": "Lu, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "121",
+		"title": "Ethical Leadership in Accounting",
+		"professor": "Borman, C.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "122",
+		"title": "Management Accounting",
+		"professor": "Devito, D.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "123",
+		"title": "Auditing",
+		"professor": "Gardner Treloar, J"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "124",
+		"title": "Advanced Accounting",
+		"professor": "Woo, E.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "127A",
+		"title": "Tax Principles and Policy",
+		"professor": "Berges, T.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "127A",
+		"title": "Tax Principles and Policy",
+		"professor": "Klein, G.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "142A",
+		"title": "Analytics in Accounting I",
+		"professor": "Ravetch, D.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "159",
+		"title": "Foundations of Business and Entrepreneurship",
+		"professor": "Nathanson, D.A.; Cam, C.; Dorenfeld, D.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "160",
+		"title": "Entrepreneurship and Venture Initiation",
+		"professor": "Wilson, N.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "161",
+		"title": "Business Plan Development",
+		"professor": "Nathanson, D.A.; Brauer, K.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "163",
+		"title": "Entrepreneurship and New Product Development",
+		"professor": "Rostamian, F.D.; Tran, V."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "164",
+		"title": "Entrepreneurial Finance and Accounting",
+		"professor": "Borman, C.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "167",
+		"title": "Social Entrepreneurship",
+		"professor": "Northrop, G.S.; Heverly, B.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "168",
+		"title": "Personal Financial Health: Theory and Practice",
+		"professor": "Patt, S.S.; Ben-David, O.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "170",
+		"title": "Real Estate Finance and Investments",
+		"professor": "Karlan, M.S.; Ferguson, J.; Kolar, R.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "180",
+		"title": "Special Topics in Management: Entrepreneurial Strategy and Law",
+		"professor": "Weinhaus, E.A.; Terteryan, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "195",
+		"title": "Community or Corporate Internships in Management",
+		"professor": "Wilson, N.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "224",
+		"title": "Business Law for Managers and Entrepreneurs",
+		"professor": "Guerin, J.; Stebbins, S.A.; Stroud, R.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "228",
+		"title": "Financial Statement Analysis",
+		"professor": "Sussman, E.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "231E",
+		"title": "Managing Finance and Financing Emerging Enterprises",
+		"professor": "Cockrum, W.M.; Newton, B.G.; Ramelah, L.M.; Prandelli, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "260A",
+		"title": "Customer Assessment and Analytics",
+		"professor": "Zeithammer, R.; Paridar, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "264A",
+		"title": "Market Research",
+		"professor": "Esteves-Sorenson,; Zeng, Z."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "266A",
+		"title": "New Product Development",
+		"professor": "Terech, A.; Jacob, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "275",
+		"title": "Current Topics in Emerging Technologies and Markets: Technological Innovations in Media and Entertainment",
+		"professor": "Montgomery, M.J.; Krejci, B.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "278A",
+		"title": "Urban Real Estate Financing and Investing",
+		"professor": "Habibi, P.B.; Avarello, G.A.; Schierhorn, B.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "279A",
+		"title": "Cases in Real Estate Investments",
+		"professor": "Sussman, E.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "281B",
+		"title": "People in Organizations",
+		"professor": "Culbert, S.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "282",
+		"title": "Optimizing Team Performance",
+		"professor": "Bendersky, C.B.; Deutsch, D.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "286",
+		"title": "Negotiations Behavior",
+		"professor": "Whitson, J.A.; Wang, P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "293C",
+		"title": "Ethical Considerations in Business",
+		"professor": "Cockrum, W.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMT",
+		"code": "295D",
+		"title": "Business Plan Development",
+		"professor": "Labran, R.E.; Pearson, A.M."
+	}
+]

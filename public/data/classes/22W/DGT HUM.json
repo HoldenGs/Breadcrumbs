@@ -1,0 +1,79 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "DGT HUM",
+		"code": "140",
+		"title": "Coding for Humanities",
+		"professor": "Winjum, B.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "DGT HUM",
+		"code": "M145",
+		"title": "Literary Texts and Literary Languages: Strategies of Analysis and Digital Tools",
+		"professor": "Pilshchikov, I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "DGT HUM",
+		"code": "150",
+		"title": "Advanced Topics in Digital Humanities: Digital Reconstructions on Broadway",
+		"professor": "Caldwell, A.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "DGT HUM",
+		"code": "150",
+		"title": "Advanced Topics in Digital Humanities: Mediterranean Pirates: Perceptions Past and Present through Computational Text Analysis",
+		"professor": "Sanders, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "DGT HUM",
+		"code": "187",
+		"title": "Capstone Seminar in Digital Humanities",
+		"professor": "Kurtz, W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "DGT HUM",
+		"code": "195",
+		"title": "Community or Corporate Internships in Digital Humanities",
+		"professor": "Sanders, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "DGT HUM",
+		"code": "195",
+		"title": "Community or Corporate Internships in Digital Humanities",
+		"professor": "Drucker, J.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "DGT HUM",
+		"code": "201",
+		"title": "Introduction to Digital Humanities",
+		"professor": "Posner, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "DGT HUM",
+		"code": "250",
+		"title": "Special Topics in Digital Humanities: Seminar 1  ",
+		"professor": "Sanders, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "DGT HUM",
+		"code": "250",
+		"title": "Special Topics in Digital Humanities: Seminar 2  ",
+		"professor": "Winjum, B.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "DGT HUM",
+		"code": "250",
+		"title": "Special Topics in Digital Humanities: Seminar 3  ",
+		"professor": "Caldwell, A.F."
+	}
+]

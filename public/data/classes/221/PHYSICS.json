@@ -1,0 +1,142 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSICS",
+		"code": "1A",
+		"title": "Physics for Scientists and Engineers: Mechanics",
+		"professor": "Martini, L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSICS",
+		"code": "1A",
+		"title": "Physics for Scientists and Engineers: Mechanics",
+		"professor": "Bauer, D.J."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSICS",
+		"code": "1B",
+		"title": "Physics for Scientists and Engineers: Oscillations, Waves, Electric and Magnetic Fields",
+		"professor": "Powell, I.E."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSICS",
+		"code": "1B",
+		"title": "Physics for Scientists and Engineers: Oscillations, Waves, Electric and Magnetic Fields",
+		"professor": "Corbin, B."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSICS",
+		"code": "1C",
+		"title": "Physics for Scientists and Engineers: Electrodynamics, Optics, and Special Relativity",
+		"professor": "Hamilton, D.W."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSICS",
+		"code": "1C",
+		"title": "Physics for Scientists and Engineers: Electrodynamics, Optics, and Special Relativity",
+		"professor": "Rombes Iii, N.D."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSICS",
+		"code": "4AL",
+		"title": "Physics Laboratory for Scientists and Engineers: Mechanics",
+		"professor": "Metzler-Winslow, C; Arisaka, K."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSICS",
+		"code": "4AL",
+		"title": "Physics Laboratory for Scientists and Engineers: Mechanics",
+		"professor": "McConley, J.; Arisaka, K."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSICS",
+		"code": "4AL",
+		"title": "Physics Laboratory for Scientists and Engineers: Mechanics",
+		"professor": "Simpson, A.N.; Arisaka, K."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSICS",
+		"code": "4AL",
+		"title": "Physics Laboratory for Scientists and Engineers: Mechanics",
+		"professor": "Tao, X.; Arisaka, K."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSICS",
+		"code": "4BL",
+		"title": "Physics Laboratory for Scientists and Engineers: Electricity and Magnetism",
+		"professor": "Ofek, Y.; Arisaka, K."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSICS",
+		"code": "4BL",
+		"title": "Physics Laboratory for Scientists and Engineers: Electricity and Magnetism",
+		"professor": "Reitz, D.R.; Arisaka, K."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSICS",
+		"code": "4BL",
+		"title": "Physics Laboratory for Scientists and Engineers: Electricity and Magnetism",
+		"professor": "Chau, T.; Arisaka, K."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSICS",
+		"code": "5A",
+		"title": "Physics for Life Sciences Majors: Mechanics and Energy",
+		"professor": "Rombes Iii, N.D."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSICS",
+		"code": "5A",
+		"title": "Physics for Life Sciences Majors: Mechanics and Energy",
+		"professor": "Tung, N.C."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSICS",
+		"code": "5B",
+		"title": "Physics for Life Sciences Majors: Thermodynamics, Fluids, Waves, Light, and Optics",
+		"professor": "Pau, J.T."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSICS",
+		"code": "5C",
+		"title": "Physics for Life Sciences Majors: Electricity, Magnetism, and Modern Physics",
+		"professor": "Waung, R."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSICS",
+		"code": "10",
+		"title": "Physics",
+		"professor": "Faber, J.D."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSICS",
+		"code": "192M",
+		"title": "Methods and Application of Collaborative Learning Theory in Physical Sciences",
+		"professor": "Shaked, S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSICS",
+		"code": "197",
+		"title": "Individual Studies in Physics",
+		"professor": "Malkan, M.A."
+	}
+]

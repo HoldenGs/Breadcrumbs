@@ -1,0 +1,212 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB AFF",
+		"code": "10",
+		"title": "Social Problems and Social Change",
+		"professor": "Ritterbusch, A.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB AFF",
+		"code": "20",
+		"title": "Power, Politics, and Policy Change",
+		"professor": "Sherrer, T.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB AFF",
+		"code": "40",
+		"title": "Microeconomics for Public Affairs",
+		"professor": "Shah, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB AFF",
+		"code": "50",
+		"title": "Foundations and Debates in Public Thought",
+		"professor": "Anheier, H.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB AFF",
+		"code": "60",
+		"title": "Using Data to Learn about Society: Introduction to Empirical Research and Statistics",
+		"professor": "Loya, J.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB AFF",
+		"code": "70",
+		"title": "Information, Evidence, and Persuasion",
+		"professor": "Crane, R.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB AFF",
+		"code": "89HC",
+		"title": "Honors Contracts",
+		"professor": "Loya, J.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB AFF",
+		"code": "110",
+		"title": "Urban Revolution: Space and Society in Global Context",
+		"professor": "Roy, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB AFF",
+		"code": "111",
+		"title": "Microeconomics: Market Failures and Inequality",
+		"professor": "Park, R.; Horshin, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB AFF",
+		"code": "112",
+		"title": "Social Movements",
+		"professor": "Herrera, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB AFF",
+		"code": "116",
+		"title": "Using Qualitative Methods to Understand Social Problems and Their Potential Solutions",
+		"professor": "Hill, J.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB AFF",
+		"code": "121",
+		"title": "Race, Class, Gender, and Spatial Inequality",
+		"professor": "Covington, K.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB AFF",
+		"code": "M122",
+		"title": "Participatory Action Research on Youth Organizing for Racial Justice",
+		"professor": "Terriquez, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB AFF",
+		"code": "M130",
+		"title": "Biomedical, Social, and Policy Frontiers in Human Aging",
+		"professor": "Levy-Storms, L.F.; Costello, N.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB AFF",
+		"code": "M131",
+		"title": "Diversity in Aging: Roles of Gender and Ethnicity",
+		"professor": "Torres-Gil, F.M.; Chen, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB AFF",
+		"code": "134",
+		"title": "Politics of U.S. Health Policy",
+		"professor": "Peterson, M.A.; Morales, B.; Ballou, J.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB AFF",
+		"code": "137",
+		"title": "Gangs, Criminal Justice, and Mass Incarceration",
+		"professor": "Leap, J.J.; Applegarth, D.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB AFF",
+		"code": "M153",
+		"title": "Parking and City",
+		"professor": "Shoup, D.C.; Gray, M.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB AFF",
+		"code": "187C",
+		"title": "Experiential Learning Capstone",
+		"professor": "Crane, R.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB AFF",
+		"code": "M191P",
+		"title": "Variable Topics Seminar: Public Policy: Advanced Technology: Public Policy, Regulation, and Law",
+		"professor": "Zipperstein, S.E.; Gilens, M.I.; Cheema, K.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB AFF",
+		"code": "195",
+		"title": "Community or Corporate Internships in Public Affairs",
+		"professor": "Phillips, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB AFF",
+		"code": "195",
+		"title": "Community or Corporate Internships in Public Affairs",
+		"professor": "Ong, P.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB AFF",
+		"code": "195CE",
+		"title": "Community or Corporate Internships in Public Affairs",
+		"professor": "Phillips, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB AFF",
+		"code": "M195DC",
+		"title": "Quarter in Washington, DC, Internships",
+		"professor": "Williams, J.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB AFF",
+		"code": "196",
+		"title": "Research Apprenticeship in Public Affairs",
+		"professor": "Roy, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB AFF",
+		"code": "196",
+		"title": "Research Apprenticeship in Public Affairs",
+		"professor": "Covington, K.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB AFF",
+		"code": "198C",
+		"title": "Honors Research in Public Affairs",
+		"professor": "Monkkonen, P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB AFF",
+		"code": "198C",
+		"title": "Honors Research in Public Affairs",
+		"professor": "Phillips, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB AFF",
+		"code": "198C",
+		"title": "Honors Research in Public Affairs",
+		"professor": "Weisburst, E.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PUB AFF",
+		"code": "198C",
+		"title": "Honors Research in Public Affairs",
+		"professor": "Schwarz, K."
+	}
+]

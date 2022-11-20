@@ -1,0 +1,65 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "IRANIAN",
+		"code": "1C",
+		"title": "Elementary Persian",
+		"professor": "Hagigi, L.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "IRANIAN",
+		"code": "20C",
+		"title": "Accelerated Elementary Persian",
+		"professor": "Ingenito, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "IRANIAN",
+		"code": "55",
+		"title": "Gender and Sexuality in Arts and Literatures of Iran and Middle East",
+		"professor": "Hagigi, L.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "IRANIAN",
+		"code": "103C",
+		"title": "Advanced Persian: Introduction to Contemporary Persian Poetry and Prose",
+		"professor": "Saiedi, N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "IRANIAN",
+		"code": "M105C",
+		"title": "Bah&#225;&#39;&#237; Faith in Iran: 20th Century-Iran and the Bah&#225;&#39;&#237;s",
+		"professor": "Karimi-Hakkak, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "IRANIAN",
+		"code": "150A",
+		"title": "Survey of Persian Literature in English",
+		"professor": "Mousavi, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "IRANIAN",
+		"code": "CM163",
+		"title": "Archaeology of Iran",
+		"professor": "Mousavi, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "IRANIAN",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Jamison, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "IRANIAN",
+		"code": "M222B",
+		"title": "Vedic",
+		"professor": "Ingenito, D."
+	}
+]

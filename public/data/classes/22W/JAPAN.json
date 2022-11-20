@@ -1,0 +1,128 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "JAPAN",
+		"code": "2",
+		"title": "Elementary Modern Japanese",
+		"professor": "Takakura, A.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "JAPAN",
+		"code": "2",
+		"title": "Elementary Modern Japanese",
+		"professor": "Takeuchi, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "JAPAN",
+		"code": "5",
+		"title": "Intermediate Modern Japanese",
+		"professor": "Nogami, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "JAPAN",
+		"code": "5",
+		"title": "Intermediate Modern Japanese",
+		"professor": "Kawanishi, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "JAPAN",
+		"code": "80",
+		"title": "How Does It Move? Action and Moving Image in Modern Japan",
+		"professor": "Yamazaki, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "JAPAN",
+		"code": "100B",
+		"title": "Advanced Modern Japanese",
+		"professor": "Takeuchi, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "JAPAN",
+		"code": "100B",
+		"title": "Advanced Modern Japanese",
+		"professor": "Taylor, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "JAPAN",
+		"code": "101B",
+		"title": "Fourth-Year Japanese: Advanced Reading I",
+		"professor": "Nogami, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "JAPAN",
+		"code": "103A",
+		"title": "Fourth-Year Japanese: Advanced Speaking I",
+		"professor": "Takakura, A.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "JAPAN",
+		"code": "110A",
+		"title": "Introduction to Classical Japanese: Basic Grammar",
+		"professor": "Duthie, T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "JAPAN",
+		"code": "130B",
+		"title": "Readings in Modern Japanese Literature",
+		"professor": "Shima, K.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "JAPAN",
+		"code": "CM160",
+		"title": "Japanese Buddhism",
+		"professor": "Bodiford, W.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "JAPAN",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Duthie, T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "JAPAN",
+		"code": "191B",
+		"title": "Variable Topics Research Seminars: Modern Japan: Sound and Music in Japanese Cinema",
+		"professor": "Yamazaki, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "JAPAN",
+		"code": "235A",
+		"title": "Seminar: Selected Topics in Modern Japanese Fiction: Seminar 1  ",
+		"professor": "Lippit, S.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "JAPAN",
+		"code": "240B",
+		"title": "Seminar: Selected Topics in Japanese Literature",
+		"professor": "Emmerich, M.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "JAPAN",
+		"code": "C260",
+		"title": "Japanese Buddhism",
+		"professor": "Bodiford, W.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "JAPAN",
+		"code": "265A",
+		"title": "Seminar: Japanese Buddhist Texts",
+		"professor": "Bodiford, W.M."
+	}
+]

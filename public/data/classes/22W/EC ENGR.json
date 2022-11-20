@@ -1,0 +1,478 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "2H",
+		"title": "Physics for Electrical Engineers (Honors)",
+		"professor": "Williams, B.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "10",
+		"title": "Circuit Theory I",
+		"professor": "Pamarti, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "11L",
+		"title": "Circuits Laboratory I",
+		"professor": "Pamarti, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "M16",
+		"title": "Logic Design of Digital Systems",
+		"professor": "Srivastava, M.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "100",
+		"title": "Electrical and Electronic Circuits",
+		"professor": "Zhang, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "101A",
+		"title": "Engineering Electromagnetics",
+		"professor": "Candler, R.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "101B",
+		"title": "Electromagnetic Waves",
+		"professor": "Jarrahi, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "102",
+		"title": "Systems and Signals",
+		"professor": "Cabric, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "110H",
+		"title": "Circuit Theory II (Honors)",
+		"professor": "Abidi, A.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "110L",
+		"title": "Circuit Measurements Laboratory",
+		"professor": "Mesghali, F.; Hung, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "110L",
+		"title": "Circuit Measurements Laboratory",
+		"professor": "Mesghali, F.; Ding, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "111L",
+		"title": "Circuits Laboratory II",
+		"professor": "Abidi, A.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "113",
+		"title": "Digital Signal Processing",
+		"professor": "Alwan, A.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "113DB",
+		"title": "Digital Signal Processing Design",
+		"professor": "Briggs, D.M.; Zhang, J.; Tu, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "115B",
+		"title": "Analog Electronic Circuits II",
+		"professor": "Moloudi, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "115C",
+		"title": "Digital Electronic Circuits",
+		"professor": "Basir-Kazeruni, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "M116C",
+		"title": "Computer Systems Architecture",
+		"professor": "Reinman, G.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "M116L",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Gwak, M.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "M116L",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Sahu, D.R.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "M116L",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Albarran, T.D.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "M116L",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Qiu, S.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "M116L",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Lee, S.J.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "M116L",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Shah, P.R.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "121B",
+		"title": "Principles of Semiconductor Device Design",
+		"professor": "Emaminejad, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "123A",
+		"title": "Fundamentals of Solid-State I",
+		"professor": "Aiello, C.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "131A",
+		"title": "Probability and Statistics",
+		"professor": "Dolecek, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "133A",
+		"title": "Applied Numerical Computing",
+		"professor": "Yang, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "141",
+		"title": "Principles of Feedback Control",
+		"professor": "Gharesi Fard, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "M146",
+		"title": "Introduction to Machine Learning",
+		"professor": "Sankararaman, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "C147",
+		"title": "Neural Networks and Deep Learning",
+		"professor": "Kao, J.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "M148",
+		"title": "Introduction to Data Science",
+		"professor": "Mirzasoleiman, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "M153",
+		"title": "Introduction to Microscale and Nanoscale Manufacturing",
+		"professor": "Chen, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "163C",
+		"title": "Introduction to Microwave Systems",
+		"professor": "Wang, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "163DA",
+		"title": "Microwave and Wireless Design I",
+		"professor": "Babakhani, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "164DA",
+		"title": "Radio Frequency Design Project I",
+		"professor": "Darabi, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "170A",
+		"title": "Principles of Photonics",
+		"professor": "Carbajo, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "180DA",
+		"title": "Systems Design",
+		"professor": "Pottie, G.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "180DB",
+		"title": "Systems Design",
+		"professor": "Shoarinejad, K.; Tan, M.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "183DA",
+		"title": "Design of Robotic Systems I",
+		"professor": "Mehta, A.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "188",
+		"title": "Special Courses in Electrical Engineering: Introduction to FinFET Semiconductor Design and Manufacturing",
+		"professor": "Chang, M.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Advanced Honors Seminar for Electrical and Computer Engineering 101A",
+		"professor": "Candler, R.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "194",
+		"title": "Research Group Seminars: Electrical Engineering",
+		"professor": "Ozcan, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "201D",
+		"title": "Design in Nanoscale Technologies",
+		"professor": "Gupta, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "201D",
+		"title": "Design in Nanoscale Technologies",
+		"professor": "Gupta, P.; Romaszkan, W.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "209AS",
+		"title": "Special Topics in Circuits and Embedded Systems: Human-Computer Interaction",
+		"professor": "Chen, X."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "209BS",
+		"title": "Seminar: Circuits and Embedded Systems: Seminar 1  ",
+		"professor": "Abidi, A.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "209BS",
+		"title": "Seminar: Circuits and Embedded Systems: Seminar 2  ",
+		"professor": "Gupta, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "215C",
+		"title": "Analysis and Design of RF Circuits and Systems",
+		"professor": "Razavi, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "215C",
+		"title": "Analysis and Design of RF Circuits and Systems",
+		"professor": "Razavi, B.; Khanna, P.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "215E",
+		"title": "Signaling and Synchronization",
+		"professor": "Pamarti, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "216B",
+		"title": "VLSI Signal Processing",
+		"professor": "Markovic, D.; Ling, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "223",
+		"title": "Solid-State Electronics I",
+		"professor": "Wong, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "224",
+		"title": "Solid-State Electronics II",
+		"professor": "Wang, K.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "230A",
+		"title": "Detection and Estimation in Communication",
+		"professor": "Cabric, D.; Li, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "230B",
+		"title": "Digital Communication Systems",
+		"professor": "Pottie, G.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "232B",
+		"title": "Queueing Systems and Intelligent Transportation Networks",
+		"professor": "Rubin, I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "232B",
+		"title": "Queueing Systems and Intelligent Transportation Networks",
+		"professor": "Rubin, I.; Wang, Z."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "236B",
+		"title": "Convex Optimization",
+		"professor": "Vandenberghe, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "239AS",
+		"title": "Special Topics in Signals and Systems: Computational Imaging",
+		"professor": "Kadambi, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "M242A",
+		"title": "Nonlinear Dynamic Systems",
+		"professor": "Tabuada, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "C247",
+		"title": "Neural Networks and Deep Learning",
+		"professor": "Kao, J.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "C247",
+		"title": "Neural Networks and Deep Learning",
+		"professor": "Kao, J.C.; Lu, P.; Li, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "M250B",
+		"title": "Microelectromechanical Systems (MEMS) Fabrication",
+		"professor": "Chiou, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "M257",
+		"title": "Nanoscience and Technology",
+		"professor": "Chen, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "260B",
+		"title": "Advanced Engineering Electrodynamics",
+		"professor": "Rahmat-Samii, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "271",
+		"title": "Classical Laser Theory",
+		"professor": "Joshi, C.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "273",
+		"title": "Nonlinear Photonics",
+		"professor": "Liu, J.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EC ENGR",
+		"code": "297",
+		"title": "Seminar Series: Electrical Engineering: Seminar 1  ",
+		"professor": "Sehatbakhsh, N."
+	}
+]

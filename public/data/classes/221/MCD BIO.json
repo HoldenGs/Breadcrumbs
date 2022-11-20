@@ -1,0 +1,44 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MCD BIO",
+		"code": "50",
+		"title": "Stem Cell Biology, Politics, and Ethics: Teasing Apart Issues",
+		"professor": "Gallagher, K.J."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MCD BIO",
+		"code": "60",
+		"title": "Biomedical Ethics",
+		"professor": "Rigueur, D."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MCD BIO",
+		"code": "138",
+		"title": "Developmental Biology",
+		"professor": "Rigueur, D."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MCD BIO",
+		"code": "144",
+		"title": "Molecular Biology of Cellular Processes",
+		"professor": "McWhorter, A.L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MCD BIO",
+		"code": "165A",
+		"title": "Biology of Cells",
+		"professor": "Kaczor-Urbanowicz,"
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "MCD BIO",
+		"code": "187AL",
+		"title": "Research Immersion Laboratory in Genomic Biology",
+		"professor": "Reue, K."
+	}
+]

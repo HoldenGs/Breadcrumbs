@@ -1,0 +1,30 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "AM IND",
+		"code": "M10",
+		"title": "Introduction to American Indian Studies",
+		"professor": "Teeter, W.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "AM IND",
+		"code": "M123",
+		"title": "Afro-Indigenous History: from Enslavement and Settlement to Black Lives Matter and Indigenous Sovereignty",
+		"professor": "Mays, K.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "AM IND",
+		"code": "M187A",
+		"title": "Special Topics in American Indian and Gender Studies: Indigenous Others and Gaze",
+		"professor": "Mithlo, N.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "AM IND",
+		"code": "202",
+		"title": "Key Theories and Concepts in American Indian Studies",
+		"professor": "Mithlo, N.M."
+	}
+]

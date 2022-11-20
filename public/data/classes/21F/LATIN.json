@@ -1,0 +1,65 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "LATIN",
+		"code": "1",
+		"title": "Elementary Latin",
+		"professor": "Akiyama-Kim, J.A.; Lunardi, V.; Beckelhymer, S.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LATIN",
+		"code": "1",
+		"title": "Elementary Latin",
+		"professor": "Beckelhymer, S.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LATIN",
+		"code": "1",
+		"title": "Elementary Latin",
+		"professor": "Sabattini, P.; Beckelhymer, S.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LATIN",
+		"code": "1",
+		"title": "Elementary Latin",
+		"professor": "Radcliffe, B.A.; Beckelhymer, S.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LATIN",
+		"code": "3",
+		"title": "Elementary Latin",
+		"professor": "Hoose, A.G.; Beckelhymer, S.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LATIN",
+		"code": "20",
+		"title": "Elementary Latin: Comprehensive Review",
+		"professor": "Ellis, R.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LATIN",
+		"code": "113",
+		"title": "Cicero: Orations",
+		"professor": "Spielberg, L.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LATIN",
+		"code": "216",
+		"title": "Roman Rhetoric",
+		"professor": "Spielberg, L.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "LATIN",
+		"code": "242",
+		"title": "Italic Dialects and Latin Historical Grammar",
+		"professor": "Vine, B.H."
+	}
+]

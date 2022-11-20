@@ -1,0 +1,695 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "M6A",
+		"title": "Introduction to Musicianship",
+		"professor": "Depinna, N.; Culcasi, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "M6A",
+		"title": "Introduction to Musicianship",
+		"professor": "Depinna, N.; Moss, M.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "M6A",
+		"title": "Introduction to Musicianship",
+		"professor": "Depinna, N.; Duran Zarate, C.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "M6A",
+		"title": "Introduction to Musicianship",
+		"professor": "Depinna, N.; Schipper, I.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "M6A",
+		"title": "Introduction to Musicianship",
+		"professor": "Depinna, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "19",
+		"title": "Faculty Violin Recital: Look from Behind Screen",
+		"professor": "Pogossian, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "19",
+		"title": "Great Composers of UCLA",
+		"professor": "Krouse, I."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "20A",
+		"title": "Music Theory I",
+		"professor": "Meites, N.G.; Li, E.Z.; Owens, G.N.; Jones, F.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "20A",
+		"title": "Music Theory I",
+		"professor": "Phelps, B.J.; Li, S.; Owens, G.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "20A",
+		"title": "Music Theory I",
+		"professor": "Oba, H.M.; Ohanian, V.A.; Wolz, R.N.; Owens, G.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "20A",
+		"title": "Music Theory I",
+		"professor": "Milburn, D.S.; Jones, F.L.; Reynolds, M.E.; Owens, G.N.; Li, E.Z."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "60B",
+		"title": "Instrumental Studio: Oboe",
+		"professor": "Davis, J.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "60C",
+		"title": "Instrumental Studio: Bassoon",
+		"professor": "Steinmetz, J.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "60F",
+		"title": "Instrumental Studio: French Horn",
+		"professor": "Sanchez, A.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "60G",
+		"title": "Instrumental Studio: Trumpet",
+		"professor": "Lindemann, J.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "60H",
+		"title": "Instrumental Studio: Trombone",
+		"professor": "Miller, J.T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "60I",
+		"title": "Instrumental Studio: Tuba/Euphonium",
+		"professor": "Foard, A.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "60J",
+		"title": "Instrumental Studio: Percussion",
+		"professor": "Dimond, T.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "60J",
+		"title": "Instrumental Studio: Percussion",
+		"professor": "Goodall, G.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "60M",
+		"title": "Instrumental Studio: Cello",
+		"professor": "Brown, N.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "60N",
+		"title": "Instrumental Studio: String Bass",
+		"professor": "Hanulik, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "60O",
+		"title": "Instrumental Studio: Harp",
+		"professor": "Neill, L.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "60P",
+		"title": "Instrumental Studio: Guitar",
+		"professor": "Yates, P.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "60S",
+		"title": "Instrumental Studio: Piano",
+		"professor": "Faliks, I.; Pan, P.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "60S",
+		"title": "Instrumental Studio: Piano",
+		"professor": "Kaplan, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "60S",
+		"title": "Instrumental Studio: Piano",
+		"professor": "Kinderman, W.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "60T",
+		"title": "Instrumental Studio: Organ",
+		"professor": "Bull, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "61A",
+		"title": "Voice Studio",
+		"professor": "Dean, M.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "61A",
+		"title": "Voice Studio",
+		"professor": "Gondek, J.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "61A",
+		"title": "Voice Studio",
+		"professor": "Chernov, V."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "61A",
+		"title": "Voice Studio",
+		"professor": "Dean, M.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "61C",
+		"title": "Voice Coaching for Music Education Specialists",
+		"professor": "Malkin, I."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "M90T",
+		"title": "Early Music Ensemble",
+		"professor": "Winkle, M.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "106A",
+		"title": "Orchestration I",
+		"professor": "Rhie, K.K.; Meites, N.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "C109A",
+		"title": "Oboe Reed Making",
+		"professor": "Davis, J.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "C109B",
+		"title": "Bassoon Reed Making",
+		"professor": "Arano, S.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "110B",
+		"title": "Musicality and Creativity in Childhood",
+		"professor": "Chen-Hafteck, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "114A",
+		"title": "Study of Instrumental Techniques: High Strings",
+		"professor": "Gamboa-Kroesen, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "114C",
+		"title": "Vocal Techniques for Music Education I",
+		"professor": "Dean, M.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "115A",
+		"title": "Study of Instrumental Techniques: Woodwinds",
+		"professor": "Brennan, D.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "116",
+		"title": "Introduction to Conducting",
+		"professor": "Milburn, D.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "120A",
+		"title": "Music Theory IV",
+		"professor": "Lefkowitz, D.S.; Nesterov, S.Y.; Ali, A.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "120A",
+		"title": "Music Theory IV",
+		"professor": "de Silva, D.L.; Good, R.W.; Hollywood, J.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "C158C",
+		"title": "Advanced Vocal Repertoire, Diction, and Interpretation: German",
+		"professor": "Gondek, J.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "160B",
+		"title": "Advanced Instrumental Studio: Oboe",
+		"professor": "Davis, J.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "160C",
+		"title": "Advanced Instrumental Studio: Bassoon",
+		"professor": "Steinmetz, J.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "160E",
+		"title": "Advanced Instrumental Studio: Saxophone",
+		"professor": "Berry Baker, J.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "160F",
+		"title": "Advanced Instrumental Studio: French Horn",
+		"professor": "Sanchez, A.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "160G",
+		"title": "Advanced Instrumental Studio: Trumpet",
+		"professor": "Lindemann, J.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "160H",
+		"title": "Advanced Instrumental Studio: Trombone",
+		"professor": "Miller, J.T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "160I",
+		"title": "Advanced Instrumental Studio: Tuba/Euphonium",
+		"professor": "Foard, A.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "160J",
+		"title": "Advanced Instrumental Studio: Percussion",
+		"professor": "Dimond, T.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "160J",
+		"title": "Advanced Instrumental Studio: Percussion",
+		"professor": "Goodall, G.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "160K",
+		"title": "Advanced Instrumental Studio: Violin",
+		"professor": "Pogossian, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "160K",
+		"title": "Advanced Instrumental Studio: Violin",
+		"professor": "Manouelian, V.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "160K",
+		"title": "Advanced Instrumental Studio: Violin",
+		"professor": "Flanagan Lysy, M.M"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "160K",
+		"title": "Advanced Instrumental Studio: Violin",
+		"professor": "An, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "160L",
+		"title": "Advanced Instrumental Studio: Viola",
+		"professor": "Chen, C.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "160M",
+		"title": "Advanced Instrumental Studio: Cello",
+		"professor": "Brown, N.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "160N",
+		"title": "Advanced Instrumental Studio: String Bass",
+		"professor": "Hanulik, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "160P",
+		"title": "Advanced Instrumental Studio: Guitar",
+		"professor": "Yates, P.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "160S",
+		"title": "Advanced Instrumental Studio: Piano",
+		"professor": "Faliks, I.; Pan, P.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "160S",
+		"title": "Advanced Instrumental Studio: Piano",
+		"professor": "Kaplan, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "160T",
+		"title": "Advanced Instrumental Studio: Organ",
+		"professor": "Bull, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "161A",
+		"title": "Advanced Voice Studio",
+		"professor": "Dean, M.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "161A",
+		"title": "Advanced Voice Studio",
+		"professor": "Gondek, J.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "161A",
+		"title": "Advanced Voice Studio",
+		"professor": "Chernov, V."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "161A",
+		"title": "Advanced Voice Studio",
+		"professor": "Dean, M.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "167F",
+		"title": "Capstone Instrumental Recital: French Horn",
+		"professor": "Sanchez, A.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "C171",
+		"title": "Selected Topics in Keyboard Literature: Lecture 2  ",
+		"professor": "Faliks, I.; Pan, P.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "C175A",
+		"title": "Chamber Ensembles: Brass: Activity 1  ",
+		"professor": "Rodman, A.R.; Lindemann, J.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "C175B",
+		"title": "Chamber Ensembles: Guitar",
+		"professor": "Yates, P.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "C175C",
+		"title": "Chamber Ensembles: Piano",
+		"professor": "Faliks, I."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "C175D",
+		"title": "Chamber Ensembles: Percussion",
+		"professor": "Dimond, T.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "C175E",
+		"title": "Chamber Ensembles: Strings",
+		"professor": "Pogossian, M.; Brown, N.E.; Sheehy, M.M.; Zavala, D.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "C175F",
+		"title": "Chamber Ensembles: Woodwinds",
+		"professor": "Berry Baker, J.N.; Jo, J.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "C175G",
+		"title": "Chamber Ensembles: Flux Contemporary",
+		"professor": "Cheng, G.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "C185A",
+		"title": "UCLA Chorale",
+		"professor": "Bass, J.; Robertson, T.M.; Yum, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "C185B",
+		"title": "Chamber Singers",
+		"professor": "Bass, J.; Robertson, T.M.; Yum, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "C185C",
+		"title": "Opera Workshop",
+		"professor": "Manich, C.M.; Hak, R.R.; Rice, M.T.; Acupan, G.R.; Rompczyk, J.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "C185D",
+		"title": "Symphony Orchestra",
+		"professor": "Stulberg, N.H.; Acupan, G.R.; Rompczyk, J.D.; Freiman, J.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "C185E",
+		"title": "Philharmonia",
+		"professor": "Stulberg, N.H.; Acupan, G.R.; Rompczyk, J.D.; Freiman, J.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "185F",
+		"title": "Symphonic Band",
+		"professor": "Cross, T.J.; James, M.T.; Junker, N.M.; Adam, S.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "C185G",
+		"title": "Wind Ensemble",
+		"professor": "Cross, T.J.; James, M.T.; Junker, N.M.; Adam, S.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "185H",
+		"title": "Marching and Varsity Bands",
+		"professor": "Fisher, K.G.; James, M.T.; Junker, N.M.; Jurado, V.C.; Barajas, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "C186A",
+		"title": "Piano/Keyboard Accompanying",
+		"professor": "Lent, J.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "M201",
+		"title": "Repertory and Analysis",
+		"professor": "Lefkowitz, D.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "204",
+		"title": "Music Bibliography for Performers",
+		"professor": "Kaplan, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "204",
+		"title": "Music Bibliography for Performers",
+		"professor": "Berry Baker, J.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "C209A",
+		"title": "Oboe Reed Making",
+		"professor": "Davis, J.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "C209B",
+		"title": "Bassoon Reed Making",
+		"professor": "Arano, S.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "261D",
+		"title": "Problems in Performance Practices: Classical",
+		"professor": "Richman, W.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "266",
+		"title": "Graduate Composition Studio",
+		"professor": "Lefkowitz, D.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "266",
+		"title": "Graduate Composition Studio",
+		"professor": "Golub, P.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "266",
+		"title": "Graduate Composition Studio",
+		"professor": "Rhie, K.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "266",
+		"title": "Graduate Composition Studio",
+		"professor": "Danielpour, R.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "266",
+		"title": "Graduate Composition Studio",
+		"professor": "Krouse, I."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "C271",
+		"title": "Selected Topics in Keyboard Literature: Lecture 1  ",
+		"professor": "Kaplan, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MUSC",
+		"code": "C271",
+		"title": "Selected Topics in Keyboard Literature: Lecture 2  ",
+		"professor": "Faliks, I.; Pan, P.J."
+	}
+]

@@ -1,0 +1,100 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "COM LIT",
+		"code": "1B",
+		"title": "World Literature: Middle Ages to 17th Century",
+		"professor": "Kristal, E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM LIT",
+		"code": "4DW",
+		"title": "Literature and Writing: Great Books from World at Large",
+		"professor": "Farley, R.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM LIT",
+		"code": "100",
+		"title": "Introduction to Literary and Critical Theory",
+		"professor": "Mufti, A.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM LIT",
+		"code": "C163",
+		"title": "Crisis of Consciousness in Modern Literature",
+		"professor": "Komar, K.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM LIT",
+		"code": "191",
+		"title": "Variable Topics in Comparative Literature: 20th- and 21st-Century World Literature: New Works in Translation",
+		"professor": "Rahmani, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM LIT",
+		"code": "191",
+		"title": "Variable Topics in Comparative Literature: Digital Analysis Tools for Literature",
+		"professor": "MacFadyen, D.W.; Gonzalez, S.I.; Wilder, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM LIT",
+		"code": "197",
+		"title": "Individual Studies in Comparative Literature",
+		"professor": "Kristal, E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM LIT",
+		"code": "197",
+		"title": "Individual Studies in Comparative Literature",
+		"professor": "Felipe, L.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM LIT",
+		"code": "198",
+		"title": "Honors Research in Comparative Literature",
+		"professor": "Arnold, W.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM LIT",
+		"code": "C263",
+		"title": "Crisis of Consciousness in Modern Literature",
+		"professor": "Komar, K.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM LIT",
+		"code": "290",
+		"title": "Contemporary Theories of Criticism: Bioethics, Narrative, and Phenomenology Approaches to Philosophy of Illness",
+		"professor": "Kaufman, E.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM LIT",
+		"code": "290",
+		"title": "Contemporary Theories of Criticism: Experimental Critical Theory: Comparative Thinking",
+		"professor": "Sissa, G.; Stahuljak, Z."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM LIT",
+		"code": "290",
+		"title": "Contemporary Theories of Criticism: Mimesis/Aesthesis: Connections, Disconnections, and Questions",
+		"professor": "McClure, K.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM LIT",
+		"code": "290",
+		"title": "Contemporary Theories of Criticism: Race and Psychoanalysis",
+		"professor": "Flores, A.I."
+	}
+]

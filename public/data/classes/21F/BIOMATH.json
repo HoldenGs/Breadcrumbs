@@ -1,0 +1,58 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOMATH",
+		"code": "170A",
+		"title": "Introductory Biomathematics for Medical Investigators",
+		"professor": "Sim, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOMATH",
+		"code": "200",
+		"title": "Research Frontiers in Biomathematics",
+		"professor": "Sehl, M.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOMATH",
+		"code": "201",
+		"title": "Deterministic Models in Biology",
+		"professor": "Chou, T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOMATH",
+		"code": "205",
+		"title": "Top Computational Algorithms",
+		"professor": "Lange, K.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOMATH",
+		"code": "M260A",
+		"title": "Methodology in Clinical Research I",
+		"professor": "Tseng, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOMATH",
+		"code": "M260C",
+		"title": "Methodology in Clinical Research III",
+		"professor": "Shaheen, M.; Seeman, T.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOMATH",
+		"code": "M261",
+		"title": "Responsible Conduct of Research Involving Humans",
+		"professor": "Korenman, S.G.; Kosakowski, T.A.; Raffel, L.J.; Detels, R.; Pollack, A.M.; Peckman, S.; Wenger, N.S.; Naiberg, A.H.; Lindenbaum, M.; Kantelo, K.M.; Hiatt, J.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOMATH",
+		"code": "M281",
+		"title": "Survival Analysis",
+		"professor": "Li, S.; Li, G."
+	}
+]

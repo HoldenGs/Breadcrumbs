@@ -1,0 +1,135 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "CH ENGR",
+		"code": "10",
+		"title": "Introduction to Chemical and Biomolecular Engineering",
+		"professor": "Tang, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CH ENGR",
+		"code": "100",
+		"title": "Fundamentals of Chemical and Biomolecular Engineering",
+		"professor": "Li, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CH ENGR",
+		"code": "101A",
+		"title": "Transport Phenomena I",
+		"professor": "Eisler, C.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CH ENGR",
+		"code": "104B",
+		"title": "Chemical and Biomolecular Engineering Laboratory II",
+		"professor": "Srivastava, S.; Park, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CH ENGR",
+		"code": "106",
+		"title": "Chemical Reaction Engineering",
+		"professor": "Lu, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CH ENGR",
+		"code": "109",
+		"title": "Numerical and Mathematical Methods in Chemical and Biological Engineering",
+		"professor": "Christofides, P.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CH ENGR",
+		"code": "C115",
+		"title": "Biochemical Reaction Engineering",
+		"professor": "Annabi, N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CH ENGR",
+		"code": "C121",
+		"title": "Membrane Science and Technology",
+		"professor": "Cohen, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CH ENGR",
+		"code": "CM145",
+		"title": "Molecular Biotechnology for Engineers",
+		"professor": "Chen, I."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CH ENGR",
+		"code": "M153",
+		"title": "Introduction to Microscale and Nanoscale Manufacturing",
+		"professor": "Chiou, P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CH ENGR",
+		"code": "188SA",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Li, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CH ENGR",
+		"code": "194",
+		"title": "Research Group Seminars: Chemical Engineering",
+		"professor": "TA; Manousiouthakis, V"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CH ENGR",
+		"code": "200",
+		"title": "Advanced Engineering Thermodynamics",
+		"professor": "Sautet, P.; Sumaria, V.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CH ENGR",
+		"code": "CM215",
+		"title": "Biochemical Reaction Engineering",
+		"professor": "Annabi, N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CH ENGR",
+		"code": "C221",
+		"title": "Membrane Science and Technology",
+		"professor": "Cohen, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CH ENGR",
+		"code": "CM245",
+		"title": "Molecular Biotechnology for Engineers",
+		"professor": "Chen, I."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CH ENGR",
+		"code": "259",
+		"title": "Theory of Applied Mathematics for Chemical Engineers",
+		"professor": "Manousiouthakis, V; Nocon, K.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CH ENGR",
+		"code": "M280A",
+		"title": "Linear Dynamic Systems",
+		"professor": "Jonas, J.S.; M'Closkey, R.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "CH ENGR",
+		"code": "M280A",
+		"title": "Linear Dynamic Systems",
+		"professor": "Tabuada, P."
+	}
+]

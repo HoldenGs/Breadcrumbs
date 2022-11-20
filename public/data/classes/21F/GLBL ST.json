@@ -1,0 +1,44 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "GLBL ST",
+		"code": "1",
+		"title": "Introduction to Globalization",
+		"professor": "Potts, S.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GLBL ST",
+		"code": "160",
+		"title": "Selected Topics in Global Studies: Backlash Against Globalization",
+		"professor": "Zipperstein, S.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GLBL ST",
+		"code": "191",
+		"title": "Variable Topics Research Seminars: Global Studies--Senior Seminar: Debt and Development",
+		"professor": "Potts, S.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GLBL ST",
+		"code": "191",
+		"title": "Variable Topics Research Seminars: Global Studies--Senior Seminar: Refugee Politics",
+		"professor": "Peters, M.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GLBL ST",
+		"code": "191",
+		"title": "Variable Topics Research Seminars: Global Studies--Senior Seminar: War and Diplomacy",
+		"professor": "Min, E.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GLBL ST",
+		"code": "194",
+		"title": "Research Group Seminars: Global Studies",
+		"professor": "Peters, M.E.; Swindell, C.A."
+	}
+]

@@ -1,0 +1,72 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "GERMAN",
+		"code": "2",
+		"title": "Elementary German",
+		"professor": "Truper, L.S.; Tarnawska Senel, M"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GERMAN",
+		"code": "2",
+		"title": "Elementary German",
+		"professor": "Fuchs, R.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GERMAN",
+		"code": "3",
+		"title": "Elementary German",
+		"professor": "Tarnawska Senel, M"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GERMAN",
+		"code": "3",
+		"title": "Elementary German",
+		"professor": "Saupe, W.; Tarnawska Senel, M"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GERMAN",
+		"code": "4",
+		"title": "Intermediate German",
+		"professor": "Stevens, C.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GERMAN",
+		"code": "6",
+		"title": "Intermediate German",
+		"professor": "Fuchs, R.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GERMAN",
+		"code": "112",
+		"title": "Feminist Issues in German Literature and Culture",
+		"professor": "de Zubiaurre, M.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GERMAN",
+		"code": "152",
+		"title": "Conversation and Composition on Contemporary German Culture and Society I",
+		"professor": "Stevens, C.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GERMAN",
+		"code": "191C",
+		"title": "Capstone Seminar",
+		"professor": "Tarnawska Senel, M"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GERMAN",
+		"code": "197",
+		"title": "Individual Studies in German",
+		"professor": "Stevens, C.M."
+	}
+]

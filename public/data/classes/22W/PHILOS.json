@@ -1,0 +1,261 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "3",
+		"title": "Historical Introduction to Philosophy",
+		"professor": "Dover, D.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "7",
+		"title": "Introduction to Philosophy of Mind",
+		"professor": "Andrada de Gregori"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "21",
+		"title": "Skepticism and Rationality",
+		"professor": "Hsu, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "22W",
+		"title": "Introduction to Ethical Theory",
+		"professor": "Herman, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "31",
+		"title": "Logic, First Course",
+		"professor": "Levy, S.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "98T",
+		"title": "Nature and Limits of Forgiveness",
+		"professor": "Ranweiler, D.J.; Herman, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "100B",
+		"title": "Medieval and Early Modern Philosophy",
+		"professor": "King, P.O."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "M101B",
+		"title": "Plato--Later Dialogues",
+		"professor": "Cook, R.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "C110",
+		"title": "Spinoza",
+		"professor": "Carriero, J.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "C115",
+		"title": "Kant",
+		"professor": "Burge, C.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "C127A",
+		"title": "Philosophy of Language: Lecture 1  ",
+		"professor": "Cumming, S.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "C133B",
+		"title": "Probability and Inductive Logic: Lecture 1  ",
+		"professor": "Rescorla, M.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "136",
+		"title": "Modal Logic",
+		"professor": "Crager, A.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "152A",
+		"title": "Topics in Moral Philosophy: Emotions and Psychology of Good and Evil",
+		"professor": "DeWitt, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "M152B",
+		"title": "Topics in Moral Philosophy: Evil: Nature, Source, and Motivation of Evil",
+		"professor": "Johnson, M.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "155A",
+		"title": "Medical Ethics: Lecture 1  ",
+		"professor": "Cook, R.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "C156",
+		"title": "Topics in Political Philosophy: Freedom, Property, and Politics",
+		"professor": "McHose, J.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "170",
+		"title": "Philosophy of Mind: Lecture 1  ",
+		"professor": "Burge, C.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "177B",
+		"title": "Historical Studies in Existentialism: Nietzsche&#39;s Thus Spoke Zarathustra",
+		"professor": "Johnson, M.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "180",
+		"title": "Philosophy of Action: Lecture 1  ",
+		"professor": "Buehler, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "184",
+		"title": "Topics in Metaphysics: Identity: through Time and across Worlds",
+		"professor": "Elliott, K.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "185",
+		"title": "Major Philosophers of 20th Century: Wittgenstein&#39;s Philosophical Investigations",
+		"professor": "Hsu, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Cumming, S.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "191",
+		"title": "Variable Topics Research Seminars: Philosophy: Forms of Moral Nonideality",
+		"professor": "Flynn, A.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "191",
+		"title": "Variable Topics Research Seminars: Philosophy: Plato&#39;s Republic",
+		"professor": "Crager, A.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "198A",
+		"title": "Honors Research in Philosophy",
+		"professor": "DeWitt, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "198B",
+		"title": "Honors Research in Philosophy",
+		"professor": "McHose, J.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "200B",
+		"title": "Seminar for First-Year Graduate Students",
+		"professor": "Hieronymi, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "206",
+		"title": "Topics in Medieval Philosophy: Lecture 1  ",
+		"professor": "King, P.O."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "C210",
+		"title": "Spinoza",
+		"professor": "Carriero, J.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "220",
+		"title": "Seminar: Topics in History of Philosophy: Seminar 1  ",
+		"professor": "Dover, D.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "C225",
+		"title": "Probability and Inductive Logic: Lecture 1  ",
+		"professor": "Rescorla, M.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "246",
+		"title": "Seminar: Ethical Theory: Seminar 1  ",
+		"professor": "Julius, A.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "254A",
+		"title": "Legal Theory Workshop",
+		"professor": "Shiffrin, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "M257",
+		"title": "Philosophy Legal Theory: Seminar 1  ",
+		"professor": "Chilovi, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "259",
+		"title": "Philosophical Research in Ethics and Value Theory",
+		"professor": "Hieronymi, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHILOS",
+		"code": "281",
+		"title": "Seminar: Philosophy of Mind: Seminar 1  ",
+		"professor": "Greenberg, G.J."
+	}
+]

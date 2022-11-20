@@ -1,0 +1,37 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "INTL DV",
+		"code": "1",
+		"title": "Introduction to International Development Studies",
+		"professor": "Anjum, E."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "INTL DV",
+		"code": "110",
+		"title": "Culture, Power, and Development",
+		"professor": "Wright, J.H.; Orellana, M.E."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "INTL DV",
+		"code": "M120",
+		"title": "Political Economy of Development",
+		"professor": "Michel, J.; Orellana, M.E."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "INTL DV",
+		"code": "130",
+		"title": "Theory and History in International Development",
+		"professor": "Chkhenkeli, M.; Orellana, M.E."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "INTL DV",
+		"code": "195",
+		"title": "Community or Corporate Internships in International Development Studies",
+		"professor": "Moore, A.D."
+	}
+]

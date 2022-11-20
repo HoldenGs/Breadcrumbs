@@ -1,0 +1,86 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "PORTGSE",
+		"code": "2",
+		"title": "Elementary Portuguese",
+		"professor": "Barber, T.T.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PORTGSE",
+		"code": "8A",
+		"title": "Portuguese Conversation",
+		"professor": "de Paula Santos, A; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PORTGSE",
+		"code": "11A",
+		"title": "Intensive Portuguese",
+		"professor": "Carvalho, I.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PORTGSE",
+		"code": "11B",
+		"title": "Intensive Portuguese",
+		"professor": "Ramos, C.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PORTGSE",
+		"code": "46",
+		"title": "Brazil and Portuguese-Speaking World",
+		"professor": "de Paula Santos, A; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PORTGSE",
+		"code": "89HC",
+		"title": "Honors Contracts",
+		"professor": "de Paula Santos, A"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PORTGSE",
+		"code": "142A",
+		"title": "Brazil and Its Culture: Diversity, Rhythms, People, and Places",
+		"professor": "de Paula Santos, A"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PORTGSE",
+		"code": "M142C",
+		"title": "Travel Narratives, Testimony, Autobiography: Lecture 1  ",
+		"professor": "Passos, J.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PORTGSE",
+		"code": "175",
+		"title": "Topics in Creative Writing and Literary Translation: Translation Workshop",
+		"professor": "Passos, J.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PORTGSE",
+		"code": "M180",
+		"title": "Variable Topics in Visual Culture: Cinema, Politics, and Aesthetics: Case of Sergio Castilla",
+		"professor": "Cortinez, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PORTGSE",
+		"code": "M180",
+		"title": "Variable Topics in Visual Culture: Visual Dystopias: Optical Technologies in Spanish American Culture",
+		"professor": "Tobin, S.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PORTGSE",
+		"code": "290",
+		"title": "Special Topics: Pluriversal Universes, Poetry, and Empathetic Canon",
+		"professor": "Martins Lino, P.S."
+	}
+]

@@ -1,0 +1,184 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "POL SCI",
+		"code": "6",
+		"title": "Introduction to Data Analysis",
+		"professor": "Hamilton, J.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "POL SCI",
+		"code": "10",
+		"title": "Introduction to Political Theory",
+		"professor": "Norton, A.D."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "POL SCI",
+		"code": "20",
+		"title": "World Politics",
+		"professor": "Perry, J.B."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "POL SCI",
+		"code": "40",
+		"title": "Introduction to American Politics",
+		"professor": "Privett, C.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "POL SCI",
+		"code": "40",
+		"title": "Introduction to American Politics",
+		"professor": "Ewing, S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "POL SCI",
+		"code": "50",
+		"title": "Introduction to Comparative Politics",
+		"professor": "Friedman, J."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "POL SCI",
+		"code": "119",
+		"title": "Special Studies in Political Theory: Fascism",
+		"professor": "Cucharo, S.J."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "POL SCI",
+		"code": "119",
+		"title": "Special Studies in Political Theory: Feminism on World Stage: Feminist Internationalism Political Theory",
+		"professor": "Diones, A.W."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "POL SCI",
+		"code": "119",
+		"title": "Special Studies in Political Theory: Laws of War and Peace: International Political Theory",
+		"professor": "Pooudomsak, V.V."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "POL SCI",
+		"code": "119",
+		"title": "Special Studies in Political Theory: Politics of Popular Aesthetics: Kitsch, Memes, and VideoGam es",
+		"professor": "Campbell, J.W."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "POL SCI",
+		"code": "122A",
+		"title": "World Order",
+		"professor": "Shevchenko, A.V."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "POL SCI",
+		"code": "135",
+		"title": "International Relations of China",
+		"professor": "Shevchenko, A.V."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "POL SCI",
+		"code": "139",
+		"title": "Special Studies in International Relations: Climate Change in International Relations",
+		"professor": "Simpson, M.O."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "POL SCI",
+		"code": "139",
+		"title": "Special Studies in International Relations: Politics of Migration: Causes, Consequences, and Responses",
+		"professor": "Park, J."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "POL SCI",
+		"code": "140A",
+		"title": "National Institutions: Congress",
+		"professor": "Privett, C.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "POL SCI",
+		"code": "149",
+		"title": "Special Topics in American Government and Politics: Careers in Political Science",
+		"professor": "Rush, T.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "POL SCI",
+		"code": "150",
+		"title": "Political Violence",
+		"professor": "Simon, J.D."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "POL SCI",
+		"code": "169",
+		"title": "Special Studies in Comparative Politics: Democratic Erosion and How to Stop It",
+		"professor": "Michel, J."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "POL SCI",
+		"code": "169",
+		"title": "Special Studies in Comparative Politics: Political Economy of Central America",
+		"professor": "Trejo, A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "POL SCI",
+		"code": "181A",
+		"title": "Politics of Latino Communities",
+		"professor": "de La Vega, I.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "POL SCI",
+		"code": "M182",
+		"title": "Ethnic Politics: African American Politics",
+		"professor": "Davis, A.J."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "POL SCI",
+		"code": "186",
+		"title": "Special Studies in Race, Ethnicity, and Politics: Introduction to Race, Sex, and Constitution",
+		"professor": "Acuna, S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "POL SCI",
+		"code": "186",
+		"title": "Special Studies in Race, Ethnicity, and Politics: Latinx Politics, Health, and Identity in U.S.",
+		"professor": "Alegre, C.V."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "POL SCI",
+		"code": "195CE",
+		"title": "Community and Corporate Internships in Political Science",
+		"professor": "Tausanovitch, C.N.; Wang, S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "POL SCI",
+		"code": "195CE",
+		"title": "Community and Corporate Internships in Political Science",
+		"professor": "Blair, G.D."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "POL SCI",
+		"code": "M195DC",
+		"title": "Quarter in Washington, DC, Internships",
+		"professor": "Tausanovitch, C.N."
+	}
+]

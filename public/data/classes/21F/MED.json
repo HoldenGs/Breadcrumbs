@@ -1,0 +1,51 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "MED",
+		"code": "19",
+		"title": "Raising Racial, Cultural, and Social Awareness in Health Care",
+		"professor": "Tran, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MED",
+		"code": "19",
+		"title": "Science in the Making: Cutting-Edge Lab Life of Molecular Test Development",
+		"professor": "Deng, M.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MED",
+		"code": "M160A",
+		"title": "Health Outreach and Education for At-Risk Populations",
+		"professor": "Esdin, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MED",
+		"code": "M160B",
+		"title": "Health Outreach and Education for At-Risk Populations",
+		"professor": "Esdin, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MED",
+		"code": "M260A",
+		"title": "Methodology in Clinical Research I",
+		"professor": "Tseng, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MED",
+		"code": "M260C",
+		"title": "Methodology in Clinical Research III",
+		"professor": "Shaheen, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MED",
+		"code": "M261",
+		"title": "Responsible Conduct of Research Involving Humans",
+		"professor": "Korenman, S.G.; Kosakowski, T.A.; Raffel, L.J.; Detels, R.; Pollack, A.M.; Peckman, S.; Wenger, N.S.; Naiberg, A.H.; Lindenbaum, M.; Kantelo, K.M.; Hiatt, J.R."
+	}
+]

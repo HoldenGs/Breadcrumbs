@@ -1,0 +1,527 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "1",
+		"title": "Principles of Economics",
+		"professor": "Rojas, R.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "2",
+		"title": "Principles of Economics",
+		"professor": "Boswell, K.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "11",
+		"title": "Microeconomic Theory",
+		"professor": "Surro, C.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "19",
+		"title": "How Can Education be Made to Work for Everyone?",
+		"professor": "Bau, N.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "19",
+		"title": "Personal Finance",
+		"professor": "McGarry, K.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "19",
+		"title": "Personal Finance",
+		"professor": "McGarry, K.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "41",
+		"title": "Probability and Statistics for Economists",
+		"professor": "Sheng, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "89HC",
+		"title": "Honors Contracts",
+		"professor": "Surro, C.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "101",
+		"title": "Microeconomic Theory",
+		"professor": "Haanwinckel Junque"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "102",
+		"title": "Macroeconomic Theory",
+		"professor": "Baqaee, D.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "103",
+		"title": "Introduction to Econometrics",
+		"professor": "Boswell, K.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "103L",
+		"title": "Econometrics Laboratory",
+		"professor": "Boswell, K.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "104",
+		"title": "Data Science for Economists",
+		"professor": "Rojas, R.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "104L",
+		"title": "Data Science for Economists Laboratory",
+		"professor": "Rojas, R.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "106F",
+		"title": "Finance",
+		"professor": "Convery, P.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "106FB",
+		"title": "Finance Laboratory",
+		"professor": "Convery, P.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "106I",
+		"title": "Organization of Firms",
+		"professor": "Meyer-Ter-Vehn, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "106IL",
+		"title": "Organization of Firms Laboratory",
+		"professor": "Meyer-Ter-Vehn, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "107",
+		"title": "History of Economic Theory",
+		"professor": "Ozler, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "112",
+		"title": "Policies for Economic Development",
+		"professor": "Osei Twumasi, O.I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "113",
+		"title": "Globalization and Gender",
+		"professor": "Ozler, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "121",
+		"title": "International Trade Theory",
+		"professor": "McDevitt, E.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "122",
+		"title": "International Finance",
+		"professor": "Itskhoki, O."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "134",
+		"title": "Environmental Economics",
+		"professor": "Rafey, W.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "143",
+		"title": "Advanced Econometrics",
+		"professor": "Matzkin, R.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "144",
+		"title": "Economic Forecasting",
+		"professor": "Rojas, R.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "147",
+		"title": "Computational Finance and Data Analysis for Financial Engineering",
+		"professor": "Liao, Z."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "147L",
+		"title": "Computational Finance and Data Analysis for Financial Engineering Laboratory",
+		"professor": "Liao, Z."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "165",
+		"title": "History of Capitalism in American Economy",
+		"professor": "Surro, C.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "169",
+		"title": "Applied Value Investing",
+		"professor": "Simon, W.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "170",
+		"title": "Industrial Organization: Theory and Tactics",
+		"professor": "Hopenhayn, H.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "173AX",
+		"title": "Introduction to Social Entrepreneurship",
+		"professor": "Atkeson, A.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "185",
+		"title": "Career Development",
+		"professor": "Ross, S.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Seminar 1  ",
+		"professor": "Haanwinckel Junque"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Seminar 2  ",
+		"professor": "Rafey, W.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Rafey, W.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "195A",
+		"title": "Community or Corporate Internships in Economics I",
+		"professor": "McGarry, K.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "198A",
+		"title": "Honors Research in Economics I",
+		"professor": "McGarry, K.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "198A",
+		"title": "Honors Research in Economics I",
+		"professor": "Costa, D.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "198A",
+		"title": "Honors Research in Economics I",
+		"professor": "Surro, C.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "198A",
+		"title": "Honors Research in Economics I",
+		"professor": "Londono-Velez, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "198B",
+		"title": "Honors Research in Economics II",
+		"professor": "Ohanian, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "198B",
+		"title": "Honors Research in Economics II",
+		"professor": "Bailey, M.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "198B",
+		"title": "Honors Research in Economics II",
+		"professor": "Hackmann, M.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "198B",
+		"title": "Honors Research in Economics II",
+		"professor": "Meyer-Ter-Vehn, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "199A",
+		"title": "Directed Research in Economics",
+		"professor": "Surro, C.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "199A",
+		"title": "Directed Research in Economics",
+		"professor": "Poliquin, C.W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "199B",
+		"title": "Directed Research in Economics/International Area Studies",
+		"professor": "Costa, D.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "201B",
+		"title": "Microeconomics: Basic Concepts and Techniques of Noncooperative Game Theory and Information Economics",
+		"professor": "Meyer-Ter-Vehn, M.; Aleksenko, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "202B",
+		"title": "Macroeconomics: Business Cycles",
+		"professor": "Weill, P.; Atkeson, A.G.; Kwicklis, N.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "203B",
+		"title": "Introduction to Econometrics II",
+		"professor": "Santos, A.; Zhang, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "M204A",
+		"title": "Applications of Economic Theory: California Population Research Topical Seminar Series",
+		"professor": "Brand, J.E.; Heuveline, P.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "M204M",
+		"title": "Seminar: Pharmaceutical Economics and Policy",
+		"professor": "Comanor, W.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "212B",
+		"title": "Topics in Advanced Theory: Applied Game Theory",
+		"professor": "Lu, J.Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "218B",
+		"title": "Proseminar: Economic Theory",
+		"professor": "Sadzik, T.M.; Meyer-Ter-Vehn, M.; Lu, J.Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "219B",
+		"title": "Workshop: Economic Theory and Mathematical Economics",
+		"professor": "Sadzik, T.M.; Meyer-Ter-Vehn, M.; Lu, J.Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "221B",
+		"title": "Monetary Economics II",
+		"professor": "Atkeson, A.G.; Weill, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "222B",
+		"title": "Topics in Monetary Economics",
+		"professor": "Baqaee, D.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "228B",
+		"title": "Proseminar: Monetary Economics",
+		"professor": "Baqaee, D.R.; Geerolf, F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "229B",
+		"title": "Workshop: Monetary Economics",
+		"professor": "Baqaee, D.R.; Geerolf, F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "231B",
+		"title": "Advanced Econometrics II",
+		"professor": "Liao, Z."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "238B",
+		"title": "Proseminar: Econometrics",
+		"professor": "Sheng, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "239B",
+		"title": "Workshop: Econometrics",
+		"professor": "Sheng, S.; Chetverikov, D.N.; Liao, Z."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "C246B",
+		"title": "Seminar: Economic History",
+		"professor": "Costa, D.L.; Giorcelli, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "248B",
+		"title": "Proseminar: Economic History",
+		"professor": "Costa, D.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "261B",
+		"title": "Labor Economics II",
+		"professor": "Haanwinckel Junque"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "262A",
+		"title": "Topics in Labor Economics: Lecture 1  ",
+		"professor": "Goncalves, F.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "262D",
+		"title": "Topics in Labor Economics: Development Economics",
+		"professor": "Bau, N.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "268B",
+		"title": "Proseminar: Labor and Population",
+		"professor": "Von Wachter, T.; Goncalves, F.M.; Bau, N.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "269B",
+		"title": "Workshop: Labor Economics",
+		"professor": "Von Wachter, T.; Goncalves, F.M.; Bau, N.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "271B",
+		"title": "Industrial Organization, Price Policies, and Regulation II",
+		"professor": "Hopenhayn, H.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "272A",
+		"title": "Topics in Industrial Organization: Lecture 1  ",
+		"professor": "Rafey, W.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "278B",
+		"title": "Proseminar: Industrial Organization and Regulation",
+		"professor": "Hackmann, M.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "279B",
+		"title": "Workshop: Business Organization",
+		"professor": "Hackmann, M.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ECON",
+		"code": "282B",
+		"title": "Topics in International Economics: Lecture 1  ",
+		"professor": "Burstein, A.T.; Itskhoki, O."
+	}
+]

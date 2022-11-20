@@ -1,0 +1,72 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "EPIDEM",
+		"code": "200A",
+		"title": "Methods I: Basic Concepts and Study Designs",
+		"professor": "Chen, L.; Bratcher, A.M.; Zhang, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EPIDEM",
+		"code": "M204",
+		"title": "Logic, Causation, and Probability",
+		"professor": "Arah, O.A.; Assaf, R.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EPIDEM",
+		"code": "231",
+		"title": "Principles of Control of Infectious Diseases",
+		"professor": "Kim-Farley, R.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EPIDEM",
+		"code": "232",
+		"title": "Methods in Research of Marginalized and Hidden Populations",
+		"professor": "Gorbach, P.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EPIDEM",
+		"code": "241",
+		"title": "Epidemiology of Obesity and Diabetes",
+		"professor": "Chen, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EPIDEM",
+		"code": "242",
+		"title": "Cancer Epidemiology",
+		"professor": "Zhang, Z.; Pan, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EPIDEM",
+		"code": "247",
+		"title": "Lifecourse Epidemiology",
+		"professor": "Mayeda, E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EPIDEM",
+		"code": "268",
+		"title": "Introduction to Pharmacoepidemiology",
+		"professor": "Bradbury, B.D.; Dluzniewski, P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EPIDEM",
+		"code": "292",
+		"title": "Advanced Seminar: Epidemiology",
+		"professor": "Gorbach, P.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EPIDEM",
+		"code": "295",
+		"title": "Seminar: Epidemiology--Cancer",
+		"professor": "Zhang, Z."
+	}
+]

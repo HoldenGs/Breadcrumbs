@@ -1,0 +1,191 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "MECH&AE",
+		"code": "1",
+		"title": "Undergraduate Seminar",
+		"professor": "Eldredge, J.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MECH&AE",
+		"code": "M20",
+		"title": "Introduction to Computer Programming with MATLAB",
+		"professor": "Lopez Droguett, E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MECH&AE",
+		"code": "82",
+		"title": "Mathematics of Engineering",
+		"professor": "Chatterjee, A.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MECH&AE",
+		"code": "94",
+		"title": "Introduction to Computer-Aided Design and Drafting",
+		"professor": "Gao, E.X."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MECH&AE",
+		"code": "101",
+		"title": "Statics and Strength of Materials",
+		"professor": "Gupta, V."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MECH&AE",
+		"code": "102",
+		"title": "Dynamics of Particles and Rigid Bodies",
+		"professor": "Ruter, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MECH&AE",
+		"code": "103",
+		"title": "Elementary Fluid Mechanics",
+		"professor": "Kavehpour, H.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MECH&AE",
+		"code": "105A",
+		"title": "Introduction to Engineering Thermodynamics",
+		"professor": "Amar, R.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MECH&AE",
+		"code": "105D",
+		"title": "Transport Phenomena",
+		"professor": "Lavine, A.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MECH&AE",
+		"code": "107",
+		"title": "Introduction to Modeling and Analysis of Dynamic Systems",
+		"professor": "Kim, D.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MECH&AE",
+		"code": "131A",
+		"title": "Intermediate Heat Transfer",
+		"professor": "Dhir, V.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MECH&AE",
+		"code": "C131G",
+		"title": "Microscopic Energy Transport",
+		"professor": "Fisher, T.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MECH&AE",
+		"code": "C137",
+		"title": "Design and Analysis of Smart Grids",
+		"professor": "Gadh, R.; Calderon, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MECH&AE",
+		"code": "C138",
+		"title": "Introduction to Statistical Thermodynamics",
+		"professor": "Ju, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MECH&AE",
+		"code": "150A",
+		"title": "Intermediate Fluid Mechanics",
+		"professor": "Eldredge, J.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MECH&AE",
+		"code": "C150P",
+		"title": "Aircraft Propulsion Systems",
+		"professor": "Abrantes, R.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MECH&AE",
+		"code": "154B",
+		"title": "Design of Aerospace Structures",
+		"professor": "Toohey, D.M.; Yan, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MECH&AE",
+		"code": "154S",
+		"title": "Flight Mechanics, Stability, and Control of Aircraft",
+		"professor": "Toohey, D.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MECH&AE",
+		"code": "155",
+		"title": "Intermediate Dynamics",
+		"professor": "Kinsey, R.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MECH&AE",
+		"code": "156A",
+		"title": "Advanced Strength of Materials",
+		"professor": "Jin, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MECH&AE",
+		"code": "157",
+		"title": "Basic Mechanical and Aerospace Engineering Laboratory",
+		"professor": "Hu, Y.; Qin, Z.; Li, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MECH&AE",
+		"code": "157",
+		"title": "Basic Mechanical and Aerospace Engineering Laboratory",
+		"professor": "Sepulveda, A.E.; Nabiee, M.; Ghoshal, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MECH&AE",
+		"code": "157",
+		"title": "Basic Mechanical and Aerospace Engineering Laboratory",
+		"professor": "Ayyaswamy, P.S.; Wu, H.; Li, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MECH&AE",
+		"code": "161A",
+		"title": "Introduction to Astronautics",
+		"professor": "Davoyan, A.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MECH&AE",
+		"code": "162A",
+		"title": "Introduction to Mechanisms and Mechanical Systems",
+		"professor": "Matthes, C.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MECH&AE",
+		"code": "C163A",
+		"title": "Kinematics of Robotic Systems",
+		"professor": "Hong, D.W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MECH&AE",
+		"code": "166A",
+		"title": "Analysis of Aerospace Structures",
+		"professor": "Sepulveda, A.E."
+	}
+]

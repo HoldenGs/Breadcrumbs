@@ -1,0 +1,177 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "PHILOS",
+		"code": "4",
+		"title": "Philosophical Analysis of Contemporary Moral Issues",
+		"professor": "DeWitt, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHILOS",
+		"code": "6",
+		"title": "Introduction to Political Philosophy",
+		"professor": "Gallagher, K.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHILOS",
+		"code": "7",
+		"title": "Introduction to Philosophy of Mind",
+		"professor": "Rescorla, M.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHILOS",
+		"code": "M24",
+		"title": "Language and Identity",
+		"professor": "Armstrong, J.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHILOS",
+		"code": "31",
+		"title": "Logic, First Course",
+		"professor": "Levy, S.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHILOS",
+		"code": "100A",
+		"title": "History of Greek Philosophy",
+		"professor": "Cook, R.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHILOS",
+		"code": "M102",
+		"title": "Aristotle",
+		"professor": "Cook, R.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHILOS",
+		"code": "C110",
+		"title": "Spinoza",
+		"professor": "Hiltunen, A.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHILOS",
+		"code": "117",
+		"title": "Late 19th- and Early 20th-Century Philosophy: Wittgenstein&#39;s Tractatus",
+		"professor": "Hsu, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHILOS",
+		"code": "125",
+		"title": "Philosophy of Science: Contemporary",
+		"professor": "Zhao, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHILOS",
+		"code": "135",
+		"title": "Introduction to Metalogic",
+		"professor": "Boon, I.; Kaplan, D.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHILOS",
+		"code": "150",
+		"title": "Society and Morals: Global Poverty and Obligations of Aid",
+		"professor": "McHose, J.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHILOS",
+		"code": "153A",
+		"title": "Topics in Ethical Theory: Normative Ethics: Love",
+		"professor": "Flynn, A.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHILOS",
+		"code": "168",
+		"title": "Philosophy of Race",
+		"professor": "Schaeffer, R.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHILOS",
+		"code": "172",
+		"title": "Philosophy of Language and Communication",
+		"professor": "Armstrong, J.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHILOS",
+		"code": "M175",
+		"title": "Topics in Philosophy of Religion: Lecture 1  ",
+		"professor": "Johnson, M.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHILOS",
+		"code": "177A",
+		"title": "Existentialism: Martin Heidegger&#39;s Being and Time",
+		"professor": "Johnson, M.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHILOS",
+		"code": "178",
+		"title": "Phenomenology",
+		"professor": "Hsu, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHILOS",
+		"code": "198A",
+		"title": "Honors Research in Philosophy",
+		"professor": "Johnson, M.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHILOS",
+		"code": "198A",
+		"title": "Honors Research in Philosophy",
+		"professor": "McHose, J.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHILOS",
+		"code": "200A",
+		"title": "Seminar for First-Year Graduate Students",
+		"professor": "Kaplan, D.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHILOS",
+		"code": "220",
+		"title": "Seminar: Topics in History of Philosophy: Seminar 1  ",
+		"professor": "DeWitt, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHILOS",
+		"code": "244",
+		"title": "Topics in Value Theory: Rationality and Action: Seminar 1  ",
+		"professor": "Hieronymi, P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHILOS",
+		"code": "259",
+		"title": "Philosophical Research in Ethics and Value Theory",
+		"professor": "Hieronymi, P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHILOS",
+		"code": "281",
+		"title": "Seminar: Philosophy of Mind: Seminar 1  ",
+		"professor": "Rescorla, M.A."
+	}
+]

@@ -1,0 +1,72 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "CLASSIC",
+		"code": "10",
+		"title": "Discovering Greeks",
+		"professor": "Haselswerdt, E.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CLASSIC",
+		"code": "19",
+		"title": "UCLA Architecture and History of Westwood",
+		"professor": "Gurval, R.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CLASSIC",
+		"code": "47",
+		"title": "Medical Terminology: Origins, Nature, and Practice",
+		"professor": "Beckelhymer, S.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CLASSIC",
+		"code": "51A",
+		"title": "Art and Archaeology of Ancient Greece",
+		"professor": "Papadopoulos, J.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CLASSIC",
+		"code": "89HC",
+		"title": "Honors Contracts",
+		"professor": "Haselswerdt, E.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CLASSIC",
+		"code": "M121",
+		"title": "Ancient and Medieval Political Theory",
+		"professor": "Sissa, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CLASSIC",
+		"code": "M145A",
+		"title": "Ancient Greek and Roman Philosophy",
+		"professor": "Ellis, R.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CLASSIC",
+		"code": "152A",
+		"title": "Ancient City: Greek World: Lecture 1  ",
+		"professor": "Papadopoulos, J.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CLASSIC",
+		"code": "198A",
+		"title": "Honors Research in Classics",
+		"professor": "Morris, S.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CLASSIC",
+		"code": "250",
+		"title": "Topics in Greek and Roman Culture and Literature: Vesuvian Cities",
+		"professor": "Lapatin, K.D."
+	}
+]

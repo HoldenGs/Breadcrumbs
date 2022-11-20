@@ -1,0 +1,30 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "IL AMER",
+		"code": "5C",
+		"title": "Elementary Nahuatl",
+		"professor": "de La Cruz, S.C.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "IL AMER",
+		"code": "15C",
+		"title": "Intermediate Nahuatl",
+		"professor": "de La Cruz, S.C.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "IL AMER",
+		"code": "18C",
+		"title": "Elementary Quechua",
+		"professor": "de La Torre, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "IL AMER",
+		"code": "115C",
+		"title": "Advanced Nahuatl",
+		"professor": "de La Cruz, S.C.; Falce-Robinson, J."
+	}
+]

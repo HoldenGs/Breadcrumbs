@@ -1,0 +1,37 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOINFO",
+		"code": "201",
+		"title": "Seminar: Advanced Methods in Computational Biology",
+		"professor": "Ping, P.; Li, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOINFO",
+		"code": "M221",
+		"title": "Introduction to Bioinformatics",
+		"professor": "Pimentel, H.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOINFO",
+		"code": "M225",
+		"title": "Computational Methods in Genomics",
+		"professor": "Pasaniuc, B.; Ernst, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOINFO",
+		"code": "275A",
+		"title": "Applied Bioinformatics Lab for Biologists: Fundamentals",
+		"professor": "Pellegrini, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOINFO",
+		"code": "275B",
+		"title": "Applied Bioinformatics Lab for Biologists: Intermediate",
+		"professor": "Pellegrini, M."
+	}
+]

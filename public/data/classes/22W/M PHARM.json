@@ -1,0 +1,44 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "M PHARM",
+		"code": "19",
+		"title": "Brain Chemistry and Human Behaviors",
+		"professor": "Silverman, D.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "M PHARM",
+		"code": "194",
+		"title": "Group Seminars and Discussions: Cross-Disciplinary Scholars in Science and Technology Project",
+		"professor": "Sun, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "M PHARM",
+		"code": "200",
+		"title": "Introduction to Laboratory Research",
+		"professor": "Chow, S.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "M PHARM",
+		"code": "M205B",
+		"title": "Issues on Chemistry/Biology Interface",
+		"professor": "Maynard, H.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "M PHARM",
+		"code": "251",
+		"title": "Seminar: Pharmacology",
+		"professor": "Wu, T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "M PHARM",
+		"code": "291",
+		"title": "Special Topics in Pharmacology",
+		"professor": "Ikotun, O."
+	}
+]

@@ -1,0 +1,23 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PUB HLT",
+		"code": "C150",
+		"title": "Fundamentals of Public Health",
+		"professor": "Waggoner, J.P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PUB HLT",
+		"code": "195CE",
+		"title": "Community and Corporate Internship in Public Health",
+		"professor": "McJunkin, K.S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PUB HLT",
+		"code": "195CE",
+		"title": "Community and Corporate Internship in Public Health",
+		"professor": "Barrera, D.S."
+	}
+]

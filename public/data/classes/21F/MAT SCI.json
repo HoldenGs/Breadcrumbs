@@ -1,0 +1,331 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "10",
+		"title": "Freshman Seminar: New Materials",
+		"professor": "Banerjee, A.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "104",
+		"title": "Science of Engineering Materials",
+		"professor": "Kakoulli, I."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "104",
+		"title": "Science of Engineering Materials",
+		"professor": "He, X."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "105",
+		"title": "Principles of Nanoscience and Nanotechnology",
+		"professor": "Freiman, G.; Yin, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "110",
+		"title": "Introduction to Materials Characterization A (Crystal Structure, Nanostructures, and X-Ray Scattering)",
+		"professor": "Goorsky, M.S.; Liao, M.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "110L",
+		"title": "Introduction to Materials Characterization A Laboratory",
+		"professor": "Wang, Y.; Goorsky, M.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "110L",
+		"title": "Introduction to Materials Characterization A Laboratory",
+		"professor": "Goorsky, M.S.; Carson, B.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "120",
+		"title": "Physics of Materials",
+		"professor": "Xie, Y.; Li, T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "130",
+		"title": "Phase Relations in Solids",
+		"professor": "Balonis, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "160",
+		"title": "Introduction to Ceramics and Glasses",
+		"professor": "Bescher, E.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "CM180",
+		"title": "Introduction to Biomaterials",
+		"professor": "Kasko, A.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "200",
+		"title": "Principles of Materials Science I",
+		"professor": "Xie, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "243A",
+		"title": "Fracture of Structural Materials",
+		"professor": "Ono, K.; Lin, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "243C",
+		"title": "Dislocations and Strengthening Mechanisms in Solids",
+		"professor": "Wang, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "247",
+		"title": "Nanoscale Materials: Challenges and Opportunities",
+		"professor": "Huang, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "248",
+		"title": "Materials and Physics of Solar Cells",
+		"professor": "Raman, A.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "252",
+		"title": "Organic Polymer Electronic Materials",
+		"professor": "Pei, Q."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "CM280",
+		"title": "Introduction to Biomaterials",
+		"professor": "Kasko, A.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "282",
+		"title": "Exploration of Advanced Topics in Materials Science and Engineering",
+		"professor": "Wang, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Banerjee, A.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Carman, G.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Chang, J.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Chen, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Dunn, B.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Goorsky, M.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Gupta, V."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "He, X."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Huang, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Iyer, S.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Kakoulli, I."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Kaner, R.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Kodambaka, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Li, X."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Marian, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Mosleh, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Pei, Q."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Raman, A.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Sant, G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Streit, D.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Tolbert, S.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Wang, K.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Wang, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Weiss, P.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Wu, B.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Xie, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Yang, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MAT SCI",
+		"code": "296",
+		"title": "Seminar: Advanced Topics in Materials Science and Engineering",
+		"professor": "Yang, Y."
+	}
+]

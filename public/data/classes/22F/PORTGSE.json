@@ -1,0 +1,58 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "PORTGSE",
+		"code": "1",
+		"title": "Elementary Portuguese",
+		"professor": "Carvalho, I.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PORTGSE",
+		"code": "11A",
+		"title": "Intensive Portuguese",
+		"professor": "Ramos, C.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PORTGSE",
+		"code": "M35",
+		"title": "Spanish, Portuguese, and Nature of Language",
+		"professor": "Mateu, V."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PORTGSE",
+		"code": "100B",
+		"title": "Syntax",
+		"professor": "Quicoli, A.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PORTGSE",
+		"code": "191",
+		"title": "Undergraduate Variable Topics Seminars: Portuguese: Luso-Brazilian Literary Short Forms",
+		"professor": "Martins Lino, P.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PORTGSE",
+		"code": "290",
+		"title": "Special Topics: Expanded Brazilian Poetry",
+		"professor": "Martins Lino, P.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PORTGSE",
+		"code": "M297A",
+		"title": "Proseminar I",
+		"professor": "Fuchs, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PORTGSE",
+		"code": "M297B",
+		"title": "Proseminar II",
+		"professor": "Fuchs, B."
+	}
+]

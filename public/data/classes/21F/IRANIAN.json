@@ -1,0 +1,65 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "IRANIAN",
+		"code": "1A",
+		"title": "Elementary Persian",
+		"professor": "Pourzangi, B.; Shayegan, M.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "IRANIAN",
+		"code": "20A",
+		"title": "Accelerated Elementary Persian",
+		"professor": "Hagigi, L.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "IRANIAN",
+		"code": "102A",
+		"title": "Intermediate Persian",
+		"professor": "Hagigi, L.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "IRANIAN",
+		"code": "103A",
+		"title": "Advanced Persian: Introduction to Classical Persian Poetry",
+		"professor": "Ingenito, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "IRANIAN",
+		"code": "M105A",
+		"title": "Bah&#225;&#39;&#237; Faith in Iran: Historical and Sociological Survey",
+		"professor": "Saiedi, N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "IRANIAN",
+		"code": "164",
+		"title": "Ancient Cities of Iran: Archaeological Survey of Historic Cities and Sites of Iran from 4000 BC to 1900 AD",
+		"professor": "Mousavi, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "IRANIAN",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Mousavi, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "IRANIAN",
+		"code": "M222A",
+		"title": "Vedic",
+		"professor": "Jamison, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "IRANIAN",
+		"code": "M230A",
+		"title": "Old Iranian",
+		"professor": "Shayegan, M.R."
+	}
+]

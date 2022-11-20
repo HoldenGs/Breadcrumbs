@@ -1,0 +1,478 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "19",
+		"title": "Using Neurobiology for Maintaining Brain Health",
+		"professor": "Prins, M.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "M101B",
+		"title": "Neuroscience: From Molecules to Mind--Molecular and Developmental Neuroscience",
+		"professor": "Babiec, W.E.; Akin, O.; Cannon, S.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "101L",
+		"title": "Neuroscience Laboratory",
+		"professor": "Grisham, W.E.; Babiec, W.E.; Lin, Q."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "142",
+		"title": "Neurophilosophy: Introduction and Assessment from Neuroscience Perspective",
+		"professor": "Le Belle, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "M145",
+		"title": "Neural Mechanisms Controlling Movement",
+		"professor": "Chandler, S.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "M176",
+		"title": "Auditory Neuroscience of Speech Perception and Vocal Communication",
+		"professor": "Tramo, M.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "C177",
+		"title": "Drugs of Abuse: Translational Neurobiology",
+		"professor": "Evans, C.J.; London, E.D.; Romero, R.; Dagher, M.; Baliaouri, N.V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Babiec, W.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Akin, O."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Cannon, S.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "192BX",
+		"title": "Project Brainstorm: Neuroscience K-12 Outreach",
+		"professor": "Babiec, W.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "198A",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Andrews, A.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "198A",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Levy-Storms, L.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "198A",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Micevych, P.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "198A",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Carmichael, S.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "198A",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Golshani, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "198A",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Green, S.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "198A",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Silverman, D.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "198A",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Silva, A.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "198A",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Staba, R.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "198A",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Harper, R.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "198A",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Kornblum, H.I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "198A",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Donlea, J.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "198A",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Dapretto, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "198A",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Frye, M.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "198A",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Mehta, M.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "198A",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Geschwind, D.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "198A",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Lai, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "198A",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Schweizer, F.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "198A",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Rissman, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "198A",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Ghiani, C.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "198A",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Yee-Bradbury, C.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "198A",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Venugopal, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "198B",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Fanselow, M.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "198B",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Fogel, B.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "198B",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Shattuck, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "198B",
+		"title": "Honors Research in Neuroscience",
+		"professor": "Levine, M.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199A",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Trachtenberg, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199A",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Bookheimer, S.Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199A",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Cahill, C.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199A",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Williams, D.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199A",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Wilke, S.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199A",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Wassum, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199A",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Edgerton, V.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199A",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Colwell, C.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199A",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Babiec, W.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199A",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Bilder, R.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199A",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Gupta, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199A",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Donlea, J.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199A",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Blaisdell, A.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199A",
+		"title": "Directed Research in Neuroscience",
+		"professor": "de La Torre-Ubieta"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199A",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Sharpe, M.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199A",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Di Carlo, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199A",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Buonomano, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199A",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Harris, N.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199A",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Staba, R.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199A",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Kornblum, H.I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199B",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Voskuhl, R.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199B",
+		"title": "Directed Research in Neuroscience",
+		"professor": "London, E.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199B",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Brecha, N.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199B",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Hinman, J.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199B",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Venugopal, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199B",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Andrews, A.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199B",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Ellingson, B.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199B",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Staba, R.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199B",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Cross, K.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199B",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Lu, D.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "NEUROSC",
+		"code": "199B",
+		"title": "Directed Research in Neuroscience",
+		"professor": "Butler, S.J."
+	}
+]

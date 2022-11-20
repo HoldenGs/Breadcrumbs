@@ -1,0 +1,100 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "NEURO",
+		"code": "201",
+		"title": "Cell, Developmental, and Molecular Neurobiology",
+		"professor": "Butler, S.J.; Williams, D.S.; Schweizer, F.E.; Flint, J.; Mayer, E.; Zhang, Y.; Novitch, B.G.; Krantz, D.E.; Gandal, M.J.; Portera-Cailliau,; Donlea, J.M.; Yang, X.W.; Wilke, L.A.; Rathbun, E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEURO",
+		"code": "210C",
+		"title": "Introduction to Current Literature in Neuroscience",
+		"professor": "Feldman, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Current Research Topics in Neuroimaging",
+		"professor": "Rissman, J.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Learning and Memory",
+		"professor": "Buonomano, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Neural Development, Degeneration, and Repair",
+		"professor": "Novitch, B.G.; Zhang, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Neuroendocrinology, Sex Differences, and Reproduction",
+		"professor": "Micevych, P.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Neuroscience Communication and Policy",
+		"professor": "Suthana, N.A.; Wassum, K.; Markovic, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: NeuroTechnology Translation",
+		"professor": "Suthana, N.A.; Markovic, D.; Lu, D.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Synapse to Circuit",
+		"professor": "Hong, W.; Donlea, J.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Translational Neuroscience of Drug Abuse",
+		"professor": "London, E.D.; Ray, L.A.; Maidment, N.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEURO",
+		"code": "215",
+		"title": "Variable Topics Research Literature Seminars: Neuroscience: Visual Neurosciences",
+		"professor": "Sampath, A.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEURO",
+		"code": "M220",
+		"title": "Biology of Learning and Memory",
+		"professor": "Glanzman, D.L.; Silva, A.J.; Suthana, N.A.; Fanselow, M.S.; Mathews, P.J.; Wilke, L.A.; Donlea, J.M.; Colwell, C.S.; Mehta, M.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEURO",
+		"code": "222",
+		"title": "Brain Imaging and Brain Stimulation",
+		"professor": "Iacoboni, M.; Shattuck, D.; Joshi, S.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "NEURO",
+		"code": "C251",
+		"title": "Computational Neuroscience for Interdisciplinary Scientists",
+		"professor": "Venugopal, S."
+	}
+]

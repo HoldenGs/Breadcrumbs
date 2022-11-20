@@ -1,0 +1,394 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "19",
+		"title": "From Impossible to I&#39;m Possible: Analysis of Impostor Phenomenon",
+		"professor": "Kim, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "31",
+		"title": "Introduction to Computer Science I",
+		"professor": "Huang, B.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "31",
+		"title": "Introduction to Computer Science I",
+		"professor": "Stahl, H.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "32",
+		"title": "Introduction to Computer Science II",
+		"professor": "Nachenberg, C.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "32",
+		"title": "Introduction to Computer Science II",
+		"professor": "Smallberg, D.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "35L",
+		"title": "Software Construction",
+		"professor": "Eggert, P.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "M51A",
+		"title": "Logic Design of Digital Systems",
+		"professor": "He, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "111",
+		"title": "Operating Systems Principles",
+		"professor": "Xu, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "118",
+		"title": "Computer Network Fundamentals",
+		"professor": "Zhang, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "CM121",
+		"title": "Introduction to Bioinformatics",
+		"professor": "Pimentel, H.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "130",
+		"title": "Software Engineering",
+		"professor": "Elaasar, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "131",
+		"title": "Programming Languages",
+		"professor": "Eggert, P.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "136",
+		"title": "Introduction to Computer Security",
+		"professor": "Reiher, P.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "M146",
+		"title": "Introduction to Machine Learning",
+		"professor": "Sankararaman, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "M148",
+		"title": "Introduction to Data Science",
+		"professor": "Mirzasoleiman, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "M151B",
+		"title": "Computer Systems Architecture",
+		"professor": "Reinman, G.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "M152A",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Gwak, M.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "M152A",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Sahu, D.R.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "M152A",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Albarran, T.D.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "M152A",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Qiu, S.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "M152A",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Lee, S.J.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "M152A",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Shah, P.R.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "152B",
+		"title": "Digital Design Project Laboratory",
+		"professor": "Ershadi, G.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "161",
+		"title": "Fundamentals of Artificial Intelligence",
+		"professor": "Gu, Q."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "174A",
+		"title": "Introduction to Computer Graphics",
+		"professor": "Law, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "180",
+		"title": "Introduction to Algorithms and Complexity",
+		"professor": "Gafni, E.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "181",
+		"title": "Introduction to Formal Languages and Automata Theory",
+		"professor": "Sahai, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "M182",
+		"title": "Dynamic Biosystem Modeling and Simulation Methodology",
+		"professor": "Distefano, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "188",
+		"title": "Special Courses in Computer Science: Deep Learning for Computer Vision",
+		"professor": "Zhou, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "188SB",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "He, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "188SB",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Kadambi, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "188SB",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Sahai, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "188SB",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Reinman, G.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "M192A",
+		"title": "Introduction to Collaborative Learning Theory and Practice",
+		"professor": "Shaked, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "201",
+		"title": "Computer Science Seminar",
+		"professor": "Gu, Q."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "219",
+		"title": "Current Topics in Computer System Modeling Analysis: Cloud Computing",
+		"professor": "Lu, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "219",
+		"title": "Current Topics in Computer System Modeling Analysis: Network Verification and Creative Habit",
+		"professor": "Varghese, G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "CM221",
+		"title": "Introduction to Bioinformatics",
+		"professor": "Pimentel, H.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "M225",
+		"title": "Computational Methods in Genomics",
+		"professor": "Pasaniuc, B.; Ernst, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "231",
+		"title": "Types and Programming Languages",
+		"professor": "Millstein, T.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "236",
+		"title": "Computer Security",
+		"professor": "Kung, K.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "238",
+		"title": "Quantum Programming",
+		"professor": "Palsberg, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "239",
+		"title": "Current Topics in Computer Science: Programming Languages and Systems: Automated Testing for Data and Compute-Intensive Systems",
+		"professor": "Kim, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "247",
+		"title": "Advanced Data Mining",
+		"professor": "Sun, Y.; Qin, Z."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "249",
+		"title": "Current Topics in Data Structures: Lecture 80  ",
+		"professor": "Shirani-Mehr, H.; Cheng, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "249",
+		"title": "Current Topics in Data Structures: Machine Learning",
+		"professor": "Wang, W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "251A",
+		"title": "Advanced Computer Architecture",
+		"professor": "Nowatzki, A.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "251B",
+		"title": "Parallel Computer Architectures",
+		"professor": "Tamir, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "260B",
+		"title": "Algorithmic Machine Learning",
+		"professor": "Meka, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "260C",
+		"title": "Deep Learning",
+		"professor": "Hsieh, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "260C",
+		"title": "Deep Learning",
+		"professor": "Hsieh, C.; Wang, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "262A",
+		"title": "Learning and Reasoning with Bayesian Networks",
+		"professor": "Darwiche, A.Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "269",
+		"title": "Seminar: Current Topics in Artificial Intelligence: Deep Generative Models",
+		"professor": "Grover, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "269",
+		"title": "Seminar: Current Topics in Artificial Intelligence: Recent Topics in Probabilistic Modeling",
+		"professor": "Van den Broeck, G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "281A",
+		"title": "Computability and Complexity",
+		"professor": "Sherstov, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "COM SCI",
+		"code": "M282B",
+		"title": "Cryptographic Protocols",
+		"professor": "Ostrovsky, R."
+	}
+]

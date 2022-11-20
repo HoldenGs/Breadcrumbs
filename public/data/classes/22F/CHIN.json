@@ -1,0 +1,100 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "CHIN",
+		"code": "1",
+		"title": "Elementary Modern Chinese",
+		"professor": "Chief, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CHIN",
+		"code": "1",
+		"title": "Elementary Modern Chinese",
+		"professor": "Yao, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CHIN",
+		"code": "1A",
+		"title": "Elementary Modern Chinese for Advanced Beginners",
+		"professor": "Sun, X."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CHIN",
+		"code": "4",
+		"title": "Intermediate Modern Chinese",
+		"professor": "Shen, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CHIN",
+		"code": "4A",
+		"title": "Intermediate Modern Chinese for Advanced Students",
+		"professor": "Yao, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CHIN",
+		"code": "40",
+		"title": "Popular Culture in Modern Chinese Societies",
+		"professor": "Berry, M.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CHIN",
+		"code": "89HC",
+		"title": "Honors Contracts",
+		"professor": "Berry, M.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CHIN",
+		"code": "100A",
+		"title": "Advanced Modern Chinese",
+		"professor": "Smith, M.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CHIN",
+		"code": "101A",
+		"title": "Advanced Readings in Modern Chinese",
+		"professor": "Shen, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CHIN",
+		"code": "102A",
+		"title": "Advanced Chinese for International Business",
+		"professor": "Smith, M.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CHIN",
+		"code": "103",
+		"title": "Topics in Chinese Language and Culture",
+		"professor": "Chiu, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CHIN",
+		"code": "110A",
+		"title": "Introduction to Classical Chinese",
+		"professor": "Duthie, N.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CHIN",
+		"code": "151",
+		"title": "Chinese Literature in Translation: Modern Literature",
+		"professor": "Qin, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CHIN",
+		"code": "187",
+		"title": "Chinese Etymology and Calligraphy",
+		"professor": "Kao, Y."
+	}
+]

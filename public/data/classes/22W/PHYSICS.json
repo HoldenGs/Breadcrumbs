@@ -1,0 +1,471 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "1A",
+		"title": "Physics for Scientists and Engineers: Mechanics",
+		"professor": "Corbin, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "1A",
+		"title": "Physics for Scientists and Engineers: Mechanics",
+		"professor": "Zocchi, G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "1A",
+		"title": "Physics for Scientists and Engineers: Mechanics",
+		"professor": "Tung, N.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "1A",
+		"title": "Physics for Scientists and Engineers: Mechanics",
+		"professor": "Williams, G.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "1B",
+		"title": "Physics for Scientists and Engineers: Oscillations, Waves, Electric and Magnetic Fields",
+		"professor": "Wang, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "1B",
+		"title": "Physics for Scientists and Engineers: Oscillations, Waves, Electric and Magnetic Fields",
+		"professor": "Corbin, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "1BH",
+		"title": "Physics for Scientists and Engineers: Oscillations, Waves, Electric and Magnetic Fields (Honors)",
+		"professor": "Gutierrez, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "1C",
+		"title": "Physics for Scientists and Engineers: Electrodynamics, Optics, and Special Relativity",
+		"professor": "Kang, Z."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "1C",
+		"title": "Physics for Scientists and Engineers: Electrodynamics, Optics, and Special Relativity",
+		"professor": "Hamilton, D.W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "4AL",
+		"title": "Physics Laboratory for Scientists and Engineers: Mechanics",
+		"professor": "Ni, N.; Sharma, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "4AL",
+		"title": "Physics Laboratory for Scientists and Engineers: Mechanics",
+		"professor": "Ni, N.; Chen, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "4AL",
+		"title": "Physics Laboratory for Scientists and Engineers: Mechanics",
+		"professor": "Ni, N.; Banerjee, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "4AL",
+		"title": "Physics Laboratory for Scientists and Engineers: Mechanics",
+		"professor": "Ni, N.; Simpson, A.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "4AL",
+		"title": "Physics Laboratory for Scientists and Engineers: Mechanics",
+		"professor": "Ni, N.; Taneja, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "4AL",
+		"title": "Physics Laboratory for Scientists and Engineers: Mechanics",
+		"professor": "Ni, N.; Seth, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "4AL",
+		"title": "Physics Laboratory for Scientists and Engineers: Mechanics",
+		"professor": "Ni, N.; Narayana Gowda, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "5A",
+		"title": "Physics for Life Sciences Majors: Mechanics and Energy",
+		"professor": "Rombes Iii, N.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "5B",
+		"title": "Physics for Life Sciences Majors: Thermodynamics, Fluids, Waves, Light, and Optics",
+		"professor": "Musumeci, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "5B",
+		"title": "Physics for Life Sciences Majors: Thermodynamics, Fluids, Waves, Light, and Optics",
+		"professor": "Lancaster, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "5B",
+		"title": "Physics for Life Sciences Majors: Thermodynamics, Fluids, Waves, Light, and Optics",
+		"professor": "Samani, J.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "5B",
+		"title": "Physics for Life Sciences Majors: Thermodynamics, Fluids, Waves, Light, and Optics",
+		"professor": "Powell, I.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "5C",
+		"title": "Physics for Life Sciences Majors: Electricity, Magnetism, and Modern Physics",
+		"professor": "Bauer, D.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "17",
+		"title": "Elements of Quantum Mechanics and Statistical Mechanics",
+		"professor": "Putterman, S.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "18L",
+		"title": "Modern Physics Laboratory",
+		"professor": "Huang, H.Z."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "19",
+		"title": "Physical Origin of Consciousness, Intelligence, and Creativity",
+		"professor": "Arisaka, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "105A",
+		"title": "Analytic Mechanics",
+		"professor": "Naoz, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "105B",
+		"title": "Analytic Mechanics",
+		"professor": "Vassiliev, V.V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "110A",
+		"title": "Electricity and Magnetism",
+		"professor": "Bachtis, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "110B",
+		"title": "Electricity and Magnetism",
+		"professor": "Naranjo, B.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "115B",
+		"title": "Quantum Mechanics",
+		"professor": "Regan, B.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "115C",
+		"title": "Quantum Mechanics",
+		"professor": "Jiang, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "117",
+		"title": "Electronics for Physics Measurement",
+		"professor": "Saltzberg, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "126",
+		"title": "Elementary Particle Physics",
+		"professor": "Ong, R.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "131",
+		"title": "Mathematical Methods of Physics",
+		"professor": "Solon, M.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "132",
+		"title": "Mathematical Methods of Physics",
+		"professor": "Kraus, P.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "140B",
+		"title": "Properties of Solids",
+		"professor": "Kogar, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "144",
+		"title": "Polymer Physics",
+		"professor": "Bozovic, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "180A",
+		"title": "Nuclear Physics Laboratory",
+		"professor": "Huang, H.Z.; Wu, X.; Xu, Z."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "180C",
+		"title": "Solid-State Laboratory",
+		"professor": "Brown, S.; Chronister, A.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "180E",
+		"title": "Plasma Physics Laboratory",
+		"professor": "Niemann, C.; Perez, J.A.; Wug-Jerez, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "180F",
+		"title": "Elementary Particle Laboratory",
+		"professor": "Bachtis, M.; Lo, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "M180G",
+		"title": "Soft Matter Laboratory",
+		"professor": "Miao, J.; Chang, D.J.; Carmona, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "180M",
+		"title": "Machine Learning for Physical Sciences Laboratory",
+		"professor": "Do, T.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "C186",
+		"title": "Neurophysics: Brain-Mind Problem",
+		"professor": "Mehta, M.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "C187A",
+		"title": "Biological Physics I: Life at Rest",
+		"professor": "Bruinsma, R.F.; Mizrahi, I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Advanced Honors Seminar for Physics 105A",
+		"professor": "Corbin, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "192",
+		"title": "Undergraduate Practicum in Physics",
+		"professor": "Arisaka, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "192M",
+		"title": "Methods and Application of Collaborative Learning Theory in Physical Sciences",
+		"professor": "Shaked, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "M192S",
+		"title": "Introduction to Collaborative Learning Theory and Practice",
+		"professor": "Shaked, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "198",
+		"title": "Honors Research in Physics",
+		"professor": "Carter, T.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "201Q",
+		"title": "Modern Physics Research Areas",
+		"professor": "Roy, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "210A",
+		"title": "Electromagnetic Theory",
+		"professor": "Carter, T.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "213A",
+		"title": "Advanced Atomic, Molecular, and Optical Physics",
+		"professor": "Hamilton, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "221B",
+		"title": "Quantum Mechanics",
+		"professor": "Gutperle, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "222B",
+		"title": "Plasma Physics",
+		"professor": "Da Costa Alves, E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "226C",
+		"title": "Elementary Particle Physics",
+		"professor": "Gelmini, G.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "230B",
+		"title": "Quantum Field Theory",
+		"professor": "D'Hoker, E.; de Firmian, C.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "230D",
+		"title": "Quantum Field Theory",
+		"professor": "Dumitrescu, T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "232B",
+		"title": "Relativity",
+		"professor": "Bern, Z."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "M236",
+		"title": "Geometry and Physics",
+		"professor": "Liu, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "241B",
+		"title": "Solid State Physics",
+		"professor": "Chakravarty, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "242B",
+		"title": "Advanced Solid-State Theory",
+		"professor": "Tserkovnyak, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "C286",
+		"title": "Neurophysics: Brain-Mind Problem",
+		"professor": "Mehta, M.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "291",
+		"title": "Research Tutorial: Elementary Particle Theory",
+		"professor": "Dumitrescu, T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "293",
+		"title": "Research Tutorial: Current Topics in Physics",
+		"professor": "Arisaka, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "296",
+		"title": "Research Topics in Physics",
+		"professor": "D'Hoker, E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSICS",
+		"code": "296",
+		"title": "Research Topics in Physics",
+		"professor": "Samani, J.F."
+	}
+]

@@ -1,0 +1,86 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "THEATER",
+		"code": "10",
+		"title": "Introduction to Theater",
+		"professor": "Gorshein, D.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "THEATER",
+		"code": "21",
+		"title": "Acting for Camera",
+		"professor": "Shushtari, P.J."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "THEATER",
+		"code": "50",
+		"title": "Theater Production: Laboratory 1  ",
+		"professor": "Burke, J.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "THEATER",
+		"code": "M103C",
+		"title": "Origins and Evolution of Chicano Theater",
+		"professor": "Aviles, G.G."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "THEATER",
+		"code": "106",
+		"title": "History of American Theater and Drama",
+		"professor": "Oswald, S.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "THEATER",
+		"code": "107",
+		"title": "Drama of Diversity",
+		"professor": "Carriger, M.L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "THEATER",
+		"code": "110",
+		"title": "History of American Musical Theater",
+		"professor": "Gorshein, D.M.; Schiffler, E.; Yang, Q."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "THEATER",
+		"code": "120A",
+		"title": "Acting and Performance in Film",
+		"professor": "Olivieri, J.M.; Watts, A.C."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "THEATER",
+		"code": "150",
+		"title": "Theater Production and Performance: Laboratory 1  ",
+		"professor": "Burke, J.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "THEATER",
+		"code": "173B",
+		"title": "Production Design Assignment: Designer",
+		"professor": "Burke, J.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "THEATER",
+		"code": "195",
+		"title": "Community or Corporate Internships in Theater, Film, and Television",
+		"professor": "Olivieri, J.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "THEATER",
+		"code": "195",
+		"title": "Community or Corporate Internships in Theater, Film, and Television",
+		"professor": "Splint, M.A."
+	}
+]

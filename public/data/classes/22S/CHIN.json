@@ -1,0 +1,114 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "CHIN",
+		"code": "3",
+		"title": "Elementary Modern Chinese",
+		"professor": "Chief, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CHIN",
+		"code": "3",
+		"title": "Elementary Modern Chinese",
+		"professor": "Yao, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CHIN",
+		"code": "3A",
+		"title": "Elementary Modern Chinese for Advanced Beginners",
+		"professor": "Sun, X."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CHIN",
+		"code": "6",
+		"title": "Intermediate Modern Chinese",
+		"professor": "Shen, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CHIN",
+		"code": "6A",
+		"title": "Intermediate Modern Chinese for Advanced Students",
+		"professor": "Sun, X."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CHIN",
+		"code": "50",
+		"title": "Chinese Civilization",
+		"professor": "Wu, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CHIN",
+		"code": "100C",
+		"title": "Advanced Modern Chinese",
+		"professor": "Smith, M.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CHIN",
+		"code": "101C",
+		"title": "Advanced Readings in Modern Chinese",
+		"professor": "Yao, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CHIN",
+		"code": "103",
+		"title": "Topics in Chinese Language and Culture",
+		"professor": "Wu, H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CHIN",
+		"code": "105B",
+		"title": "Advanced Chinese Rhetoric and Critical Thinking",
+		"professor": "Smith, M.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CHIN",
+		"code": "110C",
+		"title": "Introduction to Classical Chinese",
+		"professor": "Wu, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CHIN",
+		"code": "159",
+		"title": "Variable Topics in Culture and Society in China: Lecture 2  ",
+		"professor": "Wang, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CHIN",
+		"code": "C175",
+		"title": "Introduction to Chinese Thought",
+		"professor": "Duthie, N.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CHIN",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Duthie, N.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CHIN",
+		"code": "210",
+		"title": "Modern Chinese Literary History",
+		"professor": "Berry, M.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "CHIN",
+		"code": "C238",
+		"title": "Travel Writing in Premodern China",
+		"professor": "Li, M."
+	}
+]

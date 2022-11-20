@@ -1,0 +1,93 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "ITALIAN",
+		"code": "1",
+		"title": "Elementary Italian--Beginning",
+		"professor": "Valdarno, L.; Lavagnino, C.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ITALIAN",
+		"code": "1",
+		"title": "Elementary Italian--Beginning",
+		"professor": "Truong, H.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ITALIAN",
+		"code": "2",
+		"title": "Elementary Italian--Continued",
+		"professor": "Blaisdell, M.; Lavagnino, C.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ITALIAN",
+		"code": "2",
+		"title": "Elementary Italian--Continued",
+		"professor": "Weisberg, A.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ITALIAN",
+		"code": "6",
+		"title": "Intermediate Italian",
+		"professor": "Kim, H.; Lavagnino, C.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ITALIAN",
+		"code": "46",
+		"title": "Italian Cinema and Culture in English: Lecture 1  ",
+		"professor": "Harrison, T.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ITALIAN",
+		"code": "89HC",
+		"title": "Honors Contracts",
+		"professor": "Harrison, T.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ITALIAN",
+		"code": "121",
+		"title": "Literature and Film",
+		"professor": "Harrison, T.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ITALIAN",
+		"code": "122",
+		"title": "Italian Theater",
+		"professor": "Ciavolella, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ITALIAN",
+		"code": "191",
+		"title": "Variable Topics Research Seminars: Italian Studies: Disease and Disabilities in Medieval and Early Modern Art and Literature",
+		"professor": "Ciavolella, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ITALIAN",
+		"code": "199B",
+		"title": "Directed Capstone Research in Italian and Italian and Special Fields",
+		"professor": "Ciavolella, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ITALIAN",
+		"code": "216D",
+		"title": "Studies in the Renaissance: Renaissance Theater",
+		"professor": "Ciavolella, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ITALIAN",
+		"code": "260C",
+		"title": "Studies in Italian Cinema: Lecture 1  ",
+		"professor": "Harrison, T.J."
+	}
+]

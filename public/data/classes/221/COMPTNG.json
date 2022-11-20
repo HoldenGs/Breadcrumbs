@@ -1,0 +1,16 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COMPTNG",
+		"code": "10A",
+		"title": "Introduction to Programming",
+		"professor": "Lee, W."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COMPTNG",
+		"code": "16A",
+		"title": "Python with Applications I",
+		"professor": "Burnett, S.C."
+	}
+]

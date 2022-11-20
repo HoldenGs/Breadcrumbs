@@ -1,0 +1,443 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "1",
+		"title": "Introductory Sociology",
+		"professor": "Anderson, T.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "19",
+		"title": "Body Language in Conversation",
+		"professor": "Rossi, G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "19",
+		"title": "Internet Misinformation: Is There a Solution?",
+		"professor": "Bonacich, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "19",
+		"title": "Physician-Patient Interaction in Medical Visit",
+		"professor": "Stivers, T.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "20",
+		"title": "Introduction to Sociological Research Methods",
+		"professor": "Sweeney, M.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "20",
+		"title": "Introduction to Sociological Research Methods",
+		"professor": "Stivers, T.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "89",
+		"title": "Honors Seminars: Honors Seminar for Sociology 20",
+		"professor": "Stivers, T.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "89",
+		"title": "Honors Seminars: Honors Seminar for Sociology 20",
+		"professor": "Sweeney, M.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "101",
+		"title": "Development of Sociological Theory",
+		"professor": "Sigmon, J.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "101",
+		"title": "Development of Sociological Theory",
+		"professor": "Ayala, C.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "102",
+		"title": "Contemporary Sociological Theory",
+		"professor": "Sigmon, J.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "102",
+		"title": "Contemporary Sociological Theory",
+		"professor": "Speer, I.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "111",
+		"title": "Social Networks",
+		"professor": "Lizardo, O.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "121",
+		"title": "Sociology of Religion",
+		"professor": "Sexton, J.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "132",
+		"title": "Social Psychology: Sociological Approaches",
+		"professor": "Ribet, E.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "133",
+		"title": "Collective Behavior",
+		"professor": "Yeritsian, G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "134",
+		"title": "Culture and Personality",
+		"professor": "Jepson, M.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "135",
+		"title": "Sociology of Body",
+		"professor": "Anderson, T.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "171",
+		"title": "Occupations and Professions",
+		"professor": "Andalon, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "173",
+		"title": "Economy and Society",
+		"professor": "Berend, Z."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "M176",
+		"title": "Sociology of Mass Communication",
+		"professor": "Rossman, G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "180A",
+		"title": "Special Topics in Sociology: Asian Community: Border-Crossing, Diasporic Formation, and Social Transformation",
+		"professor": "Zhou, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "181A",
+		"title": "Sociology of Global China",
+		"professor": "Lee, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "182",
+		"title": "Political Sociology",
+		"professor": "Jepson, M.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Advanced Honors Seminar for Sociology 101",
+		"professor": "Ayala, C.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Advanced Honors Seminar for Sociology 111",
+		"professor": "Lizardo, O.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Advanced Honors Seminar for Sociology 180A",
+		"professor": "Zhou, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "191D",
+		"title": "Undergraduate Seminar: Sociology of Development",
+		"professor": "Ayala, C.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "191V",
+		"title": "Variable Topics Research Seminars: Sociology: Digital Hyperconnectivity",
+		"professor": "Brubaker, W.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "191V",
+		"title": "Variable Topics Research Seminars: Sociology: Talk and Mass Communication",
+		"professor": "Clayman, S.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "M194DC",
+		"title": "Quarter in Washington, DC, Research Seminar",
+		"professor": "Williams, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "195",
+		"title": "Community or Corporate Internships in Sociology",
+		"professor": "Collett, J.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "195CE",
+		"title": "Community and Corporate Internships in Sociology",
+		"professor": "Collett, J.L.; Messer, L.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "195CE",
+		"title": "Community and Corporate Internships in Sociology",
+		"professor": "Maida, C.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "M195DC",
+		"title": "Quarter in Washington, DC, Internships",
+		"professor": "Williams, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "198B",
+		"title": "Honors Research in Sociology",
+		"professor": "Berend, Z."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "198C",
+		"title": "Honors Research in Sociology",
+		"professor": "Berend, Z."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "201B",
+		"title": "Proseminar: Sociology",
+		"professor": "Yu, W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "202B",
+		"title": "Theory and Research in Sociology",
+		"professor": "Menjivar, T.; Lizardo, O.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "208A",
+		"title": "Social Network Methods",
+		"professor": "Foster, J.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "210B",
+		"title": "Intermediate Statistical Methods II",
+		"professor": "Rossman, G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "211A",
+		"title": "Comparative and Historical Methods: Strategies of Research and Conceptualization",
+		"professor": "Harris, K.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "M225A",
+		"title": "California Population Research Topical Seminar Series",
+		"professor": "Brand, J.E.; Heuveline, P.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "235B",
+		"title": "Race/Ethnicity in U.S.",
+		"professor": "Ortiz, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "M236B",
+		"title": "International Migration",
+		"professor": "Hernandez-Leon, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "237",
+		"title": "Seminar: Theory and Research in Comparative Social Analysis",
+		"professor": "Harris, K.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "244C",
+		"title": "Conversation Analysis III",
+		"professor": "Rossi, G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "285A",
+		"title": "Special Topics in Sociology: Talk and Mass Communication",
+		"professor": "Clayman, S.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "285B",
+		"title": "Special Topics in Sociology: Perspectives on Digital Hyperconnectivity",
+		"professor": "Brubaker, W.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "285C",
+		"title": "Special Topics in Sociology: Gender and International Migration",
+		"professor": "Kligman, G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "285D",
+		"title": "Special Topics in Sociology: Demography of Minority Groups",
+		"professor": "Villarreal, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "289A",
+		"title": "Practicum in Conversation Analysis: Data Analysis",
+		"professor": "Clayman, S.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "295",
+		"title": "Working Group in Sociology",
+		"professor": "Collett, J.L.; Gaddis, S.M.; Quadlin, N.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "295",
+		"title": "Working Group in Sociology",
+		"professor": "Rossi, G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "295",
+		"title": "Working Group in Sociology",
+		"professor": "Collett, J.L.; Sweeney, M.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "295",
+		"title": "Working Group in Sociology",
+		"professor": "Saguy, A.C.; Menjivar, T.; Kligman, G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "295",
+		"title": "Working Group in Sociology",
+		"professor": "Waldinger, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "295",
+		"title": "Working Group in Sociology",
+		"professor": "Ortiz, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "295",
+		"title": "Working Group in Sociology",
+		"professor": "Timmermans, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "295",
+		"title": "Working Group in Sociology",
+		"professor": "Foster, J.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "295",
+		"title": "Working Group in Sociology",
+		"professor": "Brand, J.E.; Gaddis, S.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "295",
+		"title": "Working Group in Sociology",
+		"professor": "Brown, K.L.; Guhin, J.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "SOCIOL",
+		"code": "295",
+		"title": "Working Group in Sociology",
+		"professor": "Lee, C."
+	}
+]

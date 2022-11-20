@@ -1,0 +1,156 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "FRNCH",
+		"code": "1",
+		"title": "Elementary French",
+		"professor": "Saint-Antonin, A.P; Jansma, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FRNCH",
+		"code": "1",
+		"title": "Elementary French",
+		"professor": "Jansma, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FRNCH",
+		"code": "1",
+		"title": "Elementary French",
+		"professor": "Ben Amri Bettaieb,; Jansma, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FRNCH",
+		"code": "1",
+		"title": "Elementary French",
+		"professor": "Von Zur Muehlen, E; Jansma, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FRNCH",
+		"code": "1",
+		"title": "Elementary French",
+		"professor": "Colleu, E.; Jansma, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FRNCH",
+		"code": "2",
+		"title": "Elementary French",
+		"professor": "Hadjeris, F.; Jansma, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FRNCH",
+		"code": "2",
+		"title": "Elementary French",
+		"professor": "Mengual, M.; Jansma, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FRNCH",
+		"code": "3",
+		"title": "Elementary French",
+		"professor": "Mazzucotelli, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FRNCH",
+		"code": "3",
+		"title": "Elementary French",
+		"professor": "Gueidon, E.; Jansma, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FRNCH",
+		"code": "3",
+		"title": "Elementary French",
+		"professor": "Schaller, R.T.; Jansma, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FRNCH",
+		"code": "4",
+		"title": "Intermediate French",
+		"professor": "Mazzucotelli, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FRNCH",
+		"code": "4",
+		"title": "Intermediate French",
+		"professor": "Denie Higney, L.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FRNCH",
+		"code": "5",
+		"title": "Intermediate French",
+		"professor": "Clarke, K.W.; Denie Higney, L.M.; Jansma, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FRNCH",
+		"code": "5",
+		"title": "Intermediate French",
+		"professor": "Melikyan, A.; Denie Higney, L.M.; Jansma, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FRNCH",
+		"code": "6",
+		"title": "Intermediate French",
+		"professor": "Chaffee, K.I.; Denie Higney, L.M.; Jansma, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FRNCH",
+		"code": "6",
+		"title": "Intermediate French",
+		"professor": "Jansma, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FRNCH",
+		"code": "12",
+		"title": "Introduction to Study of French and Francophone Literature",
+		"professor": "Duval, E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FRNCH",
+		"code": "100",
+		"title": "Written Expression: Techniques of Description and Narration",
+		"professor": "Denie Higney, L.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FRNCH",
+		"code": "119",
+		"title": "Studies in 19th-Century French Culture and Literature",
+		"professor": "Murat, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FRNCH",
+		"code": "120",
+		"title": "Studies in 20th-Century French Culture and Literature: Lecture 1  ",
+		"professor": "Duval, E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FRNCH",
+		"code": "133",
+		"title": "French and Francophone Short Story",
+		"professor": "Murat, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "FRNCH",
+		"code": "219",
+		"title": "19th Century",
+		"professor": "Murat, L."
+	}
+]

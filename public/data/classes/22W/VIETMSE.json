@@ -1,0 +1,30 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "VIETMSE",
+		"code": "2",
+		"title": "Introductory Vietnamese",
+		"professor": "Nguyen, T.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "VIETMSE",
+		"code": "2A",
+		"title": "Introductory Vietnamese for Heritage Learners",
+		"professor": "Nguyen, T.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "VIETMSE",
+		"code": "5",
+		"title": "Intermediate Vietnamese",
+		"professor": "Bui, C.V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "VIETMSE",
+		"code": "100B",
+		"title": "Advanced Vietnamese",
+		"professor": "Bui, C.V."
+	}
+]

@@ -1,0 +1,205 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOENGR",
+		"code": "10",
+		"title": "Introduction to Bioengineering",
+		"professor": "Linsley, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOENGR",
+		"code": "100",
+		"title": "Bioengineering Fundamentals",
+		"professor": "Kamei, D.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOENGR",
+		"code": "C104",
+		"title": "Physical Chemistry of Biomacromolecules",
+		"professor": "Wong, G.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOENGR",
+		"code": "C105",
+		"title": "Engineering of Bioconjugates",
+		"professor": "Deming, T.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOENGR",
+		"code": "CM145",
+		"title": "Molecular Biotechnology for Engineers",
+		"professor": "Chen, I."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOENGR",
+		"code": "M153",
+		"title": "Introduction to Microscale and Nanoscale Manufacturing",
+		"professor": "Chiou, P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOENGR",
+		"code": "167L",
+		"title": "Bioengineering Laboratory",
+		"professor": "Chen, J.; Libanori, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOENGR",
+		"code": "177A",
+		"title": "Bioengineering Capstone Design I",
+		"professor": "Gao, L.; Seidlits, S.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOENGR",
+		"code": "CM178",
+		"title": "Introduction to Biomaterials",
+		"professor": "Kasko, A.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOENGR",
+		"code": "M182",
+		"title": "Dynamic Biosystem Modeling and Simulation Methodology",
+		"professor": "Distefano, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOENGR",
+		"code": "M184",
+		"title": "Introduction to Computational and Systems Biology",
+		"professor": "Eskin, E.; Sarwal, V."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOENGR",
+		"code": "188",
+		"title": "Special Courses in Bioengineering: Lecture 2  ",
+		"professor": "Barbarie, S.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOENGR",
+		"code": "188SA",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Li, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOENGR",
+		"code": "C204",
+		"title": "Physical Chemistry of Biomacromolecules",
+		"professor": "Wong, G.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOENGR",
+		"code": "C205",
+		"title": "Engineering of Bioconjugates",
+		"professor": "Deming, T.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOENGR",
+		"code": "M209",
+		"title": "Signal and Image Processing for Biomedicine",
+		"professor": "Ruan, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOENGR",
+		"code": "M215",
+		"title": "Biochemical Reaction Engineering",
+		"professor": "Annabi, N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOENGR",
+		"code": "220",
+		"title": "Introduction to Medical Informatics",
+		"professor": "Bui, A.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOENGR",
+		"code": "M227",
+		"title": "Medical Information Infrastructures and Internet Technologies",
+		"professor": "Bui, A.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOENGR",
+		"code": "CM245",
+		"title": "Molecular Biotechnology for Engineers",
+		"professor": "Chen, I."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOENGR",
+		"code": "CM278",
+		"title": "Introduction to Biomaterials",
+		"professor": "Kasko, A.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOENGR",
+		"code": "295A",
+		"title": "Seminar: Research Topics in Bioengineering--Biomaterial Research",
+		"professor": "Kasko, A.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOENGR",
+		"code": "295B",
+		"title": "Seminar: Research Topics in Bioengineering--Biomaterials and Tissue Engineering Research",
+		"professor": "Wu, B.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOENGR",
+		"code": "295D",
+		"title": "Seminar: Research Topics in Bioengineering--Hybrid Device Research",
+		"professor": "Schmidt, J.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOENGR",
+		"code": "295E",
+		"title": "Seminar: Research Topics in Bioengineering--Molecular Cell Bioengineering Research",
+		"professor": "Kamei, D.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOENGR",
+		"code": "295F",
+		"title": "Seminar: Research Topics in Bioengineering--Biopolymer Materials and Chemistry",
+		"professor": "Deming, T.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOENGR",
+		"code": "295G",
+		"title": "Seminar: Research Topics in Bioengineering--Biomicrofluidics and Bionanotechnology Research",
+		"professor": "Di Carlo, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOENGR",
+		"code": "295H",
+		"title": "Seminar: Research Topics in Bioengineering--Biomimetic System Research",
+		"professor": "Liu, W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOENGR",
+		"code": "295J",
+		"title": "Seminar: Research Topics in Bioengineering--Neural Tissue Engineering and Regenerative Medicine",
+		"professor": "Seidlits, S.K."
+	}
+]

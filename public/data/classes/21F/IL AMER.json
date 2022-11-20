@@ -1,0 +1,23 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "IL AMER",
+		"code": "5A",
+		"title": "Elementary Nahuatl",
+		"professor": "de La Cruz, S.C.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "IL AMER",
+		"code": "15A",
+		"title": "Intermediate Nahuatl",
+		"professor": "de La Cruz, S.C.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "IL AMER",
+		"code": "18A",
+		"title": "Elementary Quechua",
+		"professor": "de La Torre, L."
+	}
+]

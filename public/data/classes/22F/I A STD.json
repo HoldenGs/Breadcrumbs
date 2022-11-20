@@ -1,0 +1,58 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "I A STD",
+		"code": "1",
+		"title": "Introduction to International and Area Studies",
+		"professor": "Hamdan, A.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "I A STD",
+		"code": "M6A",
+		"title": "Elementary Amharic",
+		"professor": "Adhanom, A.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "I A STD",
+		"code": "M7A",
+		"title": "Elementary Yoruba",
+		"professor": "Adegbola, M.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "I A STD",
+		"code": "19",
+		"title": "U.S. Values versus U.S. Interests in Greater Middle East Diplomacy",
+		"professor": "Kerr, A.Z."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "I A STD",
+		"code": "191",
+		"title": "Variable Topics Senior Research Seminars: International and Area Studies: Causes and Consequences of Russia-Ukraine War",
+		"professor": "Moore, A.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "I A STD",
+		"code": "198A",
+		"title": "Honors Research in International and Area Studies",
+		"professor": "Branstetter, J.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "I A STD",
+		"code": "198A",
+		"title": "Honors Research in International and Area Studies",
+		"professor": "Rigby, D.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "I A STD",
+		"code": "198A",
+		"title": "Honors Research in International and Area Studies",
+		"professor": "Min, E.A."
+	}
+]

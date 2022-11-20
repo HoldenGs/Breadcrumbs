@@ -1,0 +1,128 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "KOREA",
+		"code": "2",
+		"title": "Elementary Modern Korean",
+		"professor": "Choi, J.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "KOREA",
+		"code": "2",
+		"title": "Elementary Modern Korean",
+		"professor": "Mitsunaga, J.I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "KOREA",
+		"code": "2A",
+		"title": "Elementary Korean for Korean-Heritage Speakers",
+		"professor": "Ju, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "KOREA",
+		"code": "5",
+		"title": "Intermediate Modern Korean",
+		"professor": "Jeon, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "KOREA",
+		"code": "5",
+		"title": "Intermediate Modern Korean",
+		"professor": "Ju, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "KOREA",
+		"code": "40W",
+		"title": "Korean Wave: Globalization of South Korean Popular Culture",
+		"professor": "Jung-Kim, J.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "KOREA",
+		"code": "80",
+		"title": "Introduction to Korean Cinema",
+		"professor": "Hanscom, C.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "KOREA",
+		"code": "100B",
+		"title": "Advanced Modern Korean",
+		"professor": "Yoon, J.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "KOREA",
+		"code": "101B",
+		"title": "Advanced Readings in Modern Korean",
+		"professor": "Mitsunaga, J.I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "KOREA",
+		"code": "102B",
+		"title": "Advanced Korean Conversation",
+		"professor": "Choi, J.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "KOREA",
+		"code": "104B",
+		"title": "Korean Writing for Advanced Learners",
+		"professor": "Jeon, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "KOREA",
+		"code": "C150",
+		"title": "Korean Literature in Translation: Classical",
+		"professor": "Park, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "KOREA",
+		"code": "179",
+		"title": "Gender and Sexuality in Korean Literature",
+		"professor": "Park, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "KOREA",
+		"code": "180B",
+		"title": "History of Korea, 1260 through 1876",
+		"professor": "Wang, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "KOREA",
+		"code": "191B",
+		"title": "Variable Topics Research Seminars: Contemporary Korean History: Seminar 1  ",
+		"professor": "Lee, N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "KOREA",
+		"code": "C250",
+		"title": "Korean Literature in Translation: Classical",
+		"professor": "Park, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "KOREA",
+		"code": "295B",
+		"title": "Seminar: Topics in Traditional Korean Cultural History",
+		"professor": "Wang, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "KOREA",
+		"code": "296A",
+		"title": "Seminar: Topics in Modern Korean Cultural History",
+		"professor": "Lee, N."
+	}
+]

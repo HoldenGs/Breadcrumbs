@@ -1,0 +1,366 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "1",
+		"title": "Human Evolution",
+		"professor": "Wood, B.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "2",
+		"title": "Archaeology: Introduction",
+		"professor": "Smith, M.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "4",
+		"title": "Culture and Communication",
+		"professor": "Mendoza-Denton, N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "M67W",
+		"title": "Making and Studying Modern Middle East",
+		"professor": "Yarbrough, L.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "89HC",
+		"title": "Honors Contracts",
+		"professor": "Mendoza-Denton, N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "114P",
+		"title": "Ancient Civilizations of Mesoamerica",
+		"professor": "Cheetham, D.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "C117",
+		"title": "Selected Laboratory Topics in Archaeology: Lecture 1  ",
+		"professor": "Wake, T.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "118Q",
+		"title": "Conquest and Colonialism",
+		"professor": "Acabado, S.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "119",
+		"title": "Selected Topics in Archaeology: Archaeology of African Diaspora",
+		"professor": "Dunnavant, J.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "124Q",
+		"title": "Evolutionary Psychology",
+		"professor": "Barrett, H.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "124T",
+		"title": "Evolution of Personality",
+		"professor": "Manson, J.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "126Q",
+		"title": "Evolution of Genus Homo",
+		"professor": "Rashidi, J.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "129",
+		"title": "Selected Topics in Biological Anthropology: Evolutionary Medicine",
+		"professor": "Fox, M.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "129",
+		"title": "Selected Topics in Biological Anthropology: Measuring Behavior",
+		"professor": "Hauser, B.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "129",
+		"title": "Selected Topics in Biological Anthropology: Social Learning and Culture in Nonhumans and Humans",
+		"professor": "Perry, S.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "136A",
+		"title": "Introduction to Psychological Anthropology: Historical Development",
+		"professor": "Throop, C.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "138P",
+		"title": "Field Methods in Cultural Anthropology",
+		"professor": "Kalyanaraman, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "139",
+		"title": "Selected Topics in Cultural Anthropology: Cross-Cultural Human Development",
+		"professor": "Lemelson, R.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "M144P",
+		"title": "Constructing Race",
+		"professor": "Park, K.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "149",
+		"title": "Selected Topics in Social Anthropology: Feminist Perspectives in Anthropology",
+		"professor": "Melstrom, E.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "M150",
+		"title": "Language in Culture",
+		"professor": "Thomson, A.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "M152P",
+		"title": "Language Development and Socialization",
+		"professor": "Cartmill, E.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "159",
+		"title": "Selected Topics in Linguistic Anthropology: Language of Ethnonational Politics",
+		"professor": "Thomson, A.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "159",
+		"title": "Selected Topics in Linguistic Anthropology: Rap, Race, and Reality with Public Enemy&#39;s Chuck D",
+		"professor": "Alim, H.; Lamontagne, S.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "169",
+		"title": "Selected Topics in Regional Cultures: Anthropology of Burma/Myanmar",
+		"professor": "Thein, S.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "169",
+		"title": "Selected Topics in Regional Cultures: Mental Health, Migration, and Horn of Africa",
+		"professor": "Melstrom, E.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Alim, H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Acabado, S.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Melstrom, E.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Lemelson, R.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "191HB",
+		"title": "Field Methods",
+		"professor": "Hollan, D.W.; Yakal, M.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "191HE",
+		"title": "Writing for Publication and Conference Presentations",
+		"professor": "Loyd, H.M.; Yakal, M.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "194",
+		"title": "Research Group Seminars: Anthropology",
+		"professor": "Fessler, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "194",
+		"title": "Research Group Seminars: Anthropology",
+		"professor": "Dunnavant, J.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "194",
+		"title": "Research Group Seminars: Anthropology",
+		"professor": "Fox, M.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "195CE",
+		"title": "Community and Corporate Internships in Anthropology",
+		"professor": "Halbe, A.A.; Bigham, A.W."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "197",
+		"title": "Individual Studies in Anthropology",
+		"professor": "Acabado, S.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "197",
+		"title": "Individual Studies in Anthropology",
+		"professor": "Hollan, D.W."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "M201C",
+		"title": "Archaeological Research Design",
+		"professor": "Schachner, G.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "202C",
+		"title": "Core Seminar: Biological Anthropology",
+		"professor": "Manson, J.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "203C",
+		"title": "Core Seminar: Sociocultural Anthropology--Scientific and Interpretive Frameworks in Contemporary Anthropology",
+		"professor": "Park, K.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "CM217",
+		"title": "Selected Laboratory Topics in Archaeology: Lecture 1  ",
+		"professor": "Wake, T.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "221",
+		"title": "Behavior, Evolution, and Culture",
+		"professor": "Wood, B.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "223",
+		"title": "Experimental Biological Anthropology",
+		"professor": "Barrett, H.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "M233Q",
+		"title": "Latin America: Traditional Medicine, Shamanism, and Folk Illness",
+		"professor": "Taub, B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "234",
+		"title": "Mind, Medicine, and Culture",
+		"professor": "Aciksoz, S.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "239",
+		"title": "Selected Topics in Field Ethnography: Seminar 1  ",
+		"professor": "Hollan, D.W."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "M239R",
+		"title": "Latinx Photoethnography",
+		"professor": "de Leon, J.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "241",
+		"title": "Culture, Power, Social Change",
+		"professor": "Cattelino, J.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "254",
+		"title": "Discourse Laboratory",
+		"professor": "Mendoza-Denton, N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "283",
+		"title": "Proposal Writing Seminar",
+		"professor": "Appel, H.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ANTHRO",
+		"code": "M285B",
+		"title": "Qualitative Research: Analysis and Dissemination",
+		"professor": "Gipson, J.D.; Fiastro, A."
+	}
+]

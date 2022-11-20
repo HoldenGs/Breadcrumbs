@@ -1,0 +1,37 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "ARABIC",
+		"code": "1A",
+		"title": "Elementary Standard Arabic",
+		"professor": "Gluskin-Braun, G.Z; Al Rifae, K.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ARABIC",
+		"code": "1A",
+		"title": "Elementary Standard Arabic",
+		"professor": "Al Rifae, K.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ARABIC",
+		"code": "103A",
+		"title": "Advanced Arabic",
+		"professor": "Hamza, A.T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ARABIC",
+		"code": "M110",
+		"title": "One Thousand and One Nights/Alf Layla Wa-Layla",
+		"professor": "Slyomovics, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ARABIC",
+		"code": "111A",
+		"title": "Elementary Spoken Egyptian Arabic",
+		"professor": "Hamza, A.T."
+	}
+]

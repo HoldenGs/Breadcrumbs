@@ -1,0 +1,65 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "PUB HLT",
+		"code": "19",
+		"title": "Environment, Food, and Food Security",
+		"professor": "Hunnes, D.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PUB HLT",
+		"code": "C150",
+		"title": "Fundamentals of Public Health",
+		"professor": "Shafir, S.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PUB HLT",
+		"code": "M160A",
+		"title": "Health Outreach and Education for At-Risk Populations",
+		"professor": "Esdin, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PUB HLT",
+		"code": "M160B",
+		"title": "Health Outreach and Education for At-Risk Populations",
+		"professor": "Esdin, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PUB HLT",
+		"code": "195CE",
+		"title": "Community and Corporate Internship in Public Health",
+		"professor": "Karapetyan, M.; McJunkin, K.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PUB HLT",
+		"code": "195CE",
+		"title": "Community and Corporate Internship in Public Health",
+		"professor": "Allard, P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PUB HLT",
+		"code": "200A",
+		"title": "Foundations in Public Health",
+		"professor": "Abotsi-Kowu, C.M.; Aralis, H.J.; Carpenter, C.L.; Cowgill, B.O.; Cushing, L.J.; Ford, C.L.; Zhu, Y.; Arputhasamy, V.; Boland, J.; Cevallos, B.M.; Chavez, I.; Dai, J.; Humphreys, H.M.; Li, S.; Nwankwo, E.; Phelan, J.J.; Saucedo, T.; Schepps, M.A.; Vu, K.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PUB HLT",
+		"code": "C201",
+		"title": "Fundamentals of Public Health",
+		"professor": "Shafir, S.C.; Fletcher, A.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PUB HLT",
+		"code": "C201",
+		"title": "Fundamentals of Public Health",
+		"professor": "Shafir, S.C."
+	}
+]

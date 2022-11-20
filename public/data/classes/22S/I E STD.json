@@ -1,0 +1,44 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "I E STD",
+		"code": "M20",
+		"title": "Visible Language: Study of Writing",
+		"professor": "Konstantopoulos, G"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "I E STD",
+		"code": "215",
+		"title": "Indo-European Syntax",
+		"professor": "Goldstein, D.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "I E STD",
+		"code": "M222B",
+		"title": "Vedic",
+		"professor": "Jamison, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "I E STD",
+		"code": "280A",
+		"title": "Seminar: Indo-European Linguistics: Greco-Indo-Iranian as Linguistic Area",
+		"professor": "Jamison, S.; Lundquist, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "I E STD",
+		"code": "280B",
+		"title": "Seminar: Indo-European Linguistics: Old English Language",
+		"professor": "Lundquist, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "I E STD",
+		"code": "281A",
+		"title": "Seminar: Indo-European Linguistics: Seminar 1  ",
+		"professor": "Jamison, S.; Goldstein, D.M.; Vine, B.H."
+	}
+]

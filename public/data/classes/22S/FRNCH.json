@@ -1,0 +1,191 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "FRNCH",
+		"code": "1",
+		"title": "Elementary French",
+		"professor": "Rossignol, L.C.; Jansma, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FRNCH",
+		"code": "1",
+		"title": "Elementary French",
+		"professor": "Avoine, S.; Jansma, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FRNCH",
+		"code": "1",
+		"title": "Elementary French",
+		"professor": "Presberg, B.L.; Jansma, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FRNCH",
+		"code": "2",
+		"title": "Elementary French",
+		"professor": "Hanzalik, D.M.; Jansma, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FRNCH",
+		"code": "2",
+		"title": "Elementary French",
+		"professor": "Duval, E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FRNCH",
+		"code": "2",
+		"title": "Elementary French",
+		"professor": "Salha, H.; Jansma, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FRNCH",
+		"code": "3",
+		"title": "Elementary French",
+		"professor": "Sackett, A.R.; Jansma, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FRNCH",
+		"code": "3",
+		"title": "Elementary French",
+		"professor": "Barger, A.; Jansma, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FRNCH",
+		"code": "3",
+		"title": "Elementary French",
+		"professor": "Gueidon, E.; Jansma, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FRNCH",
+		"code": "3",
+		"title": "Elementary French",
+		"professor": "Mengual, M.; Jansma, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FRNCH",
+		"code": "3",
+		"title": "Elementary French",
+		"professor": "Hadjeris, F.; Jansma, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FRNCH",
+		"code": "6",
+		"title": "Intermediate French",
+		"professor": "Chaffee, K.I.; Denie Higney, L.M.; Jansma, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FRNCH",
+		"code": "6",
+		"title": "Intermediate French",
+		"professor": "Denie Higney, L.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FRNCH",
+		"code": "14",
+		"title": "Introduction to French Culture and Civilization in English",
+		"professor": "Gobeille, C.J.; Jansma, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FRNCH",
+		"code": "16",
+		"title": "Society And Self in Early Modern France",
+		"professor": "Stefanovska, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FRNCH",
+		"code": "100",
+		"title": "Written Expression: Techniques of Description and Narration",
+		"professor": "Jansma, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FRNCH",
+		"code": "105",
+		"title": "Structure of French",
+		"professor": "Jansma, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FRNCH",
+		"code": "109",
+		"title": "French for Professional Purposes: Language and Communication in Professional Environment",
+		"professor": "Denie Higney, L.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FRNCH",
+		"code": "114C",
+		"title": "Survey of French Literature: 19th and 20th Centuries",
+		"professor": "Duval, E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FRNCH",
+		"code": "115",
+		"title": "Studies in Medieval French Culture and Literature",
+		"professor": "Burns, R.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FRNCH",
+		"code": "116",
+		"title": "Studies in Renaissance French Culture and Literature: Lecture 1  ",
+		"professor": "Burns, R.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FRNCH",
+		"code": "118",
+		"title": "Studies in 18th-Century French Culture and Literature",
+		"professor": "Stefanovska, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FRNCH",
+		"code": "121",
+		"title": "Studies in Francophone Cultures and Literatures: Lecture 1  ",
+		"professor": "Mabanckou, A.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FRNCH",
+		"code": "130",
+		"title": "Contemporary French and Francophone Cultures",
+		"professor": "Mabanckou, A.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FRNCH",
+		"code": "198",
+		"title": "Honors Research in French",
+		"professor": "Mabanckou, A.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FRNCH",
+		"code": "216",
+		"title": "Renaissance",
+		"professor": "Burns, R.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FRNCH",
+		"code": "218",
+		"title": "Enlightenment",
+		"professor": "Stefanovska, M."
+	}
+]

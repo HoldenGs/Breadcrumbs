@@ -1,0 +1,401 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "1",
+		"title": "Freshman Computer Science Seminar",
+		"professor": "Gafni, E.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "30",
+		"title": "Principles and Practices of Computing",
+		"professor": "Millstein, T.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "31",
+		"title": "Introduction to Computer Science I",
+		"professor": "Smallberg, D.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "33",
+		"title": "Introduction to Computer Organization",
+		"professor": "Nowatzki, A.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "35L",
+		"title": "Software Construction",
+		"professor": "Eggert, P.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "M51A",
+		"title": "Logic Design of Digital Systems",
+		"professor": "Korf, R.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "M51A",
+		"title": "Logic Design of Digital Systems",
+		"professor": "Abari, O."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "111",
+		"title": "Operating Systems Principles",
+		"professor": "Eyolfson, J.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "118",
+		"title": "Computer Network Fundamentals",
+		"professor": "Varghese, G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "M119",
+		"title": "Fundamentals of Embedded Networked Systems",
+		"professor": "Chen, X."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "CM124",
+		"title": "Machine Learning Applications in Genetics",
+		"professor": "Eskin, E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "130",
+		"title": "Software Engineering",
+		"professor": "Kim, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "131",
+		"title": "Programming Languages",
+		"professor": "Eggert, P.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "132",
+		"title": "Compiler Construction",
+		"professor": "Palsberg, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "143",
+		"title": "Data Management Systems",
+		"professor": "Cho, J.; Wu, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "143",
+		"title": "Data Management Systems",
+		"professor": "Cho, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "145",
+		"title": "Introduction to Data Mining",
+		"professor": "Sun, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "M146",
+		"title": "Introduction to Machine Learning",
+		"professor": "Chang, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "M148",
+		"title": "Introduction to Data Science",
+		"professor": "Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "M152A",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Wallin, J.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "M152A",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Albarran, T.D.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "M152A",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Zhang, W.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "M152A",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Zhang, F.Z.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "M152A",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Li, H.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "M152A",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Lee, S.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "161",
+		"title": "Fundamentals of Artificial Intelligence",
+		"professor": "Van den Broeck, G.; Zeng, Z."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "174A",
+		"title": "Introduction to Computer Graphics",
+		"professor": "Law, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "180",
+		"title": "Introduction to Algorithms and Complexity",
+		"professor": "Hsieh, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "181",
+		"title": "Introduction to Formal Languages and Automata Theory",
+		"professor": "Meka, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "M182",
+		"title": "Dynamic Biosystem Modeling and Simulation Methodology",
+		"professor": "Distefano, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "M184",
+		"title": "Introduction to Computational and Systems Biology",
+		"professor": "Sarwal, V.; Eskin, E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "188SA",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "He, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "188SA",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Sahai, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "188SA",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Reinman, G.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "188SA",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Kadambi, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "192",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Shaked, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "M192A",
+		"title": "Introduction to Collaborative Learning Theory and Practice",
+		"professor": "Shaked, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "201",
+		"title": "Computer Science Seminar",
+		"professor": "Gu, Q."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "211",
+		"title": "Network Protocol and Systems Software Design for Wireless and Mobile",
+		"professor": "Lu, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "M213A",
+		"title": "Embedded Systems",
+		"professor": "Srivastava, M.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "214",
+		"title": "Big Data Systems",
+		"professor": "Xu, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "217A",
+		"title": "Internet Architecture and Protocols",
+		"professor": "Zhang, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "CM224",
+		"title": "Machine Learning Applications in Genetics",
+		"professor": "Eskin, E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "M226",
+		"title": "Machine Learning in Bioinformatics",
+		"professor": "Sankararaman, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "245",
+		"title": "Big Data Analytics",
+		"professor": "Wang, W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "245",
+		"title": "Big Data Analytics",
+		"professor": "Wang, W.; Li, Z."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "251A",
+		"title": "Advanced Computer Architecture",
+		"professor": "Tamir, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "M258A",
+		"title": "Design of VLSI Circuits and Systems",
+		"professor": "Markovic, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "259",
+		"title": "Current Topics in Computer Science: System Design/Architecture: Customizable Computing for Machine Learning and Big Data Analytics",
+		"professor": "Cong, J.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "260",
+		"title": "Machine Learning Algorithms",
+		"professor": "Gu, Q."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "264A",
+		"title": "Automated Reasoning: Theory and Applications",
+		"professor": "Darwiche, A.Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "264A",
+		"title": "Automated Reasoning: Theory and Applications",
+		"professor": "Darwiche, A.Y.; Mueller, S.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "269",
+		"title": "Seminar: Current Topics in Artificial Intelligence: Large-Scale Machine Learning",
+		"professor": "Mirzasoleiman, B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "269",
+		"title": "Seminar: Current Topics in Artificial Intelligence: Seminar 3  ",
+		"professor": "Terzopoulos, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "M276A",
+		"title": "Pattern Recognition and Machine Learning",
+		"professor": "Wu, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "M282A",
+		"title": "Cryptography",
+		"professor": "Ostrovsky, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COM SCI",
+		"code": "289A",
+		"title": "Current Topics in Computer Theory: Lecture 1  ",
+		"professor": "Sahai, A."
+	}
+]

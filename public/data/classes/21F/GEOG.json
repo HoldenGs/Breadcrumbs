@@ -1,0 +1,170 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "GEOG",
+		"code": "1",
+		"title": "Earth&#39;s Physical Environment",
+		"professor": "Houskeeper, H.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GEOG",
+		"code": "3",
+		"title": "Cultural Geography",
+		"professor": "Faier, L.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GEOG",
+		"code": "4",
+		"title": "Globalization: Regional Development and World Economy",
+		"professor": "Agnew, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GEOG",
+		"code": "5",
+		"title": "People and Earth&#39;s Ecosystems",
+		"professor": "Gillespie, T.W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GEOG",
+		"code": "7",
+		"title": "Introduction to Geographic Information Systems",
+		"professor": "Shin, M.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GEOG",
+		"code": "89HC",
+		"title": "Honors Contracts",
+		"professor": "Gillespie, T.W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GEOG",
+		"code": "117",
+		"title": "Tropical Climatology",
+		"professor": "Ward, J.M.; Perez, F.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GEOG",
+		"code": "M118",
+		"title": "Applied Climatology: Principles of Climate Impact on Natural Environment",
+		"professor": "Xue, Y.; Cao, Z.; Qu, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GEOG",
+		"code": "M126",
+		"title": "Environmental Change",
+		"professor": "MacDonald, G.M.; Dimson, M.J.; Han, J.; Kindinger, C.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GEOG",
+		"code": "151",
+		"title": "Uneven Development Geographies: Prosperity and Impoverishment in Third World",
+		"professor": "Hamdan, A.N.; Irawaty, D.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GEOG",
+		"code": "158",
+		"title": "Population Geography",
+		"professor": "Goodwin-White, J.M; Bennett, E.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GEOG",
+		"code": "160",
+		"title": "Urban Geography",
+		"professor": "Herrera, J.C.; Malot Chantry, J.Z; Nott, L.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GEOG",
+		"code": "171B",
+		"title": "California",
+		"professor": "Illes, L.I.; Ziadie, B.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GEOG",
+		"code": "172A",
+		"title": "Spanish South America",
+		"professor": "Bell, S.A.; Brandt, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GEOG",
+		"code": "178",
+		"title": "Conservation Geography Field and Professional Practices",
+		"professor": "MacDonald, G.M.; Nauman, B.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GEOG",
+		"code": "181A",
+		"title": "Intermediate Geographic Information Systems",
+		"professor": "Sheng, Y.; Xin, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GEOG",
+		"code": "191",
+		"title": "Variable Topics Research Seminars: Geography: Seminar 1  ",
+		"professor": "Williams, P.; Graves, S.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GEOG",
+		"code": "C194A",
+		"title": "Research Group Seminars: Issues in Biophysical Geography",
+		"professor": "Lettenmaier, D.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GEOG",
+		"code": "195",
+		"title": "Community or Corporate Internships in Geography",
+		"professor": "Shin, M.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GEOG",
+		"code": "198A",
+		"title": "Honors Research in Geography I",
+		"professor": "Xue, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GEOG",
+		"code": "198A",
+		"title": "Honors Research in Geography I",
+		"professor": "Diamond, J.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GEOG",
+		"code": "198A",
+		"title": "Honors Research in Geography I",
+		"professor": "Okin, G.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GEOG",
+		"code": "202",
+		"title": "Qualitative Methods and Methodology",
+		"professor": "Faier, L.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "GEOG",
+		"code": "212",
+		"title": "Physical, Mathematical, and Computational Basis of Remote Sensing",
+		"professor": "Okin, G.S."
+	}
+]

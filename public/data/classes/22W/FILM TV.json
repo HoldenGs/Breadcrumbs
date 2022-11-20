@@ -1,0 +1,331 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "1B",
+		"title": "Freshman Symposium",
+		"professor": "McDonald, W.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "4",
+		"title": "Introduction to Art and Technique of Filmmaking",
+		"professor": "Kuntz, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "6A",
+		"title": "History of American Motion Picture",
+		"professor": "Wuest, B.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "33",
+		"title": "Introductory Screenwriting",
+		"professor": "Verducci, P.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "M50",
+		"title": "Introduction to Visual Culture",
+		"professor": "Sampson, B.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "51",
+		"title": "Digital Media Studies",
+		"professor": "Paredes, V.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "106B",
+		"title": "History of European Motion Picture: Lecture 1  ",
+		"professor": "Greene, S.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "107",
+		"title": "Experimental Film",
+		"professor": "Ravetto, K.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "108",
+		"title": "History of Documentary Film",
+		"professor": "Anderson, S.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "109",
+		"title": "Advanced Topics in Documentary: New Documentary Forms",
+		"professor": "Anderson, S.F.; Nguyen, N.T.; Hagman, R.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "114",
+		"title": "Film Genres: Horror in Asian Cinema",
+		"professor": "Kushigemachi, T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "M117",
+		"title": "Chicanos in Film/Video",
+		"professor": "Martinez, C.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "122M",
+		"title": "Film and Television Directing",
+		"professor": "Van Dyk, R.R.; Reed, J.L.; Song, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "CM129",
+		"title": "Contemporary Topics in Theater, Film, and Television: Lecture 1  ",
+		"professor": "Landis, D.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "135B",
+		"title": "Advanced Screenwriting Workshop",
+		"professor": "Kirkman, T.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "C142",
+		"title": "Digital Imagery and Visualization",
+		"professor": "Barminski, W.J.; Shi, T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "150",
+		"title": "Cinematography",
+		"professor": "McDonald, W.C.; Moore, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "C152C",
+		"title": "Digital Audio Postproduction",
+		"professor": "Marin, E.; Kim, D.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "154",
+		"title": "Film Editing",
+		"professor": "Marin, E.; Luna, P.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "C154B",
+		"title": "Advanced Film Editing",
+		"professor": "Littenberg, S.M.; Hodali, J.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "C154B",
+		"title": "Advanced Film Editing",
+		"professor": "O'Flinn, A.B.; Lacasa, L.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "155",
+		"title": "Introduction to Digital Media and Tools",
+		"professor": "Barminski, W.J.; Liu, Z."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "163",
+		"title": "Directing Cameras",
+		"professor": "Van Dyk, R.R.; Chan, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "175B",
+		"title": "Undergraduate Film Production",
+		"professor": "Finell, M.A.; Nixon, S.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "175B",
+		"title": "Undergraduate Film Production",
+		"professor": "Finell, M.A.; Howard, B.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "178",
+		"title": "Film and Television Production Laboratory",
+		"professor": "McDonald, W.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "C181C",
+		"title": "Animation Workshop: Studio 1  ",
+		"professor": "Sheetz, C.E.; Santos, M.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "183A",
+		"title": "Producing I: Film and Television Development",
+		"professor": "Franklin, A.S.; Vagueiro Da Fonsec; Seckman, C.; Van Matre, S.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "C186B",
+		"title": "Advanced Documentary Workshop",
+		"professor": "Flanagan, K.; Lemle, A.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "188A",
+		"title": "Special Courses in Film, Television, and Digital Media: Domestic and Global Entertainment Industry Careers and Strategies",
+		"professor": "Liebing, H.; Mansel, E.V.; Charbonneau, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "188A",
+		"title": "Special Courses in Film, Television, and Digital Media: Stop Motion Animation",
+		"professor": "Olivas, D.L.; Sanchez, M.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "195",
+		"title": "Corporate Internships in Film, Television, and Digital Media",
+		"professor": "Greene, S.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "195",
+		"title": "Corporate Internships in Film, Television, and Digital Media",
+		"professor": "Newton, J.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "195CE",
+		"title": "Corporate Internships in Film, Television, and Digital Media",
+		"professor": "Dimuro, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "201A",
+		"title": "Seminar: Media Industries and Cultures of Production--Foundations",
+		"professor": "Mann, D.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "206B",
+		"title": "Seminar: Selected Topics in American Film History: Seminar 1  ",
+		"professor": "Mann, D.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "212",
+		"title": "Cinema and Media Studies Graduate Colloquium",
+		"professor": "Wuest, B.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "215",
+		"title": "Seminar: Theory and Method",
+		"professor": "Paredes, V.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "219",
+		"title": "Seminar: Film and Society: Southeast Asian Film and Video Cultures",
+		"professor": "Trice, J.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "CM229",
+		"title": "Contemporary Topics in Theater, Film, and Television: Lecture 1  ",
+		"professor": "Landis, D.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "C242",
+		"title": "Digital Imagery and Visualization",
+		"professor": "Barminski, W.J.; Shi, T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "274",
+		"title": "Seminar: Research Design",
+		"professor": "Villarejo, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "283B",
+		"title": "Writing Half-Hour Comedy Pilot and Series Bible",
+		"professor": "Orenstein, A.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "284B",
+		"title": "Writing One-Hour Drama Pilot and Series Bible",
+		"professor": "Goldsmith, J.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "289C",
+		"title": "Independent Spirit: Creative Strategies for Financing and Distributing Independent Features",
+		"professor": "Williamson, G.P.; Landzberg, E.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "290B",
+		"title": "Thesis Workshop 2",
+		"professor": "Mercer, T.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "FILM TV",
+		"code": "292A",
+		"title": "Overview of Network Television Management",
+		"professor": "Nunan, T.A.; McConnell, J.M."
+	}
+]

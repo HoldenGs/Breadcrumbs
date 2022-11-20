@@ -1,0 +1,23 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOINFO",
+		"code": "201",
+		"title": "Seminar: Advanced Methods in Computational Biology",
+		"professor": "Li, J.; Ping, P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOINFO",
+		"code": "202",
+		"title": "Bioinformatics Interdisciplinary Research Seminar",
+		"professor": "Gandal, M.J.; Tward, D.J.; Olde Loohuis, L.M.; Joshi, S.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOINFO",
+		"code": "275A",
+		"title": "Applied Bioinformatics Lab for Biologists: Fundamentals",
+		"professor": "Pellegrini, M."
+	}
+]

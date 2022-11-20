@@ -1,0 +1,51 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "PSYCTRY",
+		"code": "175",
+		"title": "Mindfulness Practice and Theory",
+		"professor": "Belzer, M.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PSYCTRY",
+		"code": "176",
+		"title": "Brain and Behavioral Health: Adulthood and Aging",
+		"professor": "Lee, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PSYCTRY",
+		"code": "M230",
+		"title": "Communication of Science",
+		"professor": "Ranganath, V.K.; Elashoff, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PSYCTRY",
+		"code": "236B",
+		"title": "Psychology Interns Seminar",
+		"professor": "Sena, R.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PSYCTRY",
+		"code": "281B",
+		"title": "Behavioral Therapy in Educational Settings",
+		"professor": "Freeman, S.F.; Paparella, T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PSYCTRY",
+		"code": "293",
+		"title": "Professional Development: Presentations and Preparation for Academic Interviews",
+		"professor": "Hser, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PSYCTRY",
+		"code": "295B",
+		"title": "Substantive Issues in Substance Abuse II",
+		"professor": "Hser, Y."
+	}
+]

@@ -1,0 +1,44 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "BMD RES",
+		"code": "5HA",
+		"title": "Biomedical Research: Concepts and Strategies",
+		"professor": "Fluitt, A.H.; Clark, I.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BMD RES",
+		"code": "5HB",
+		"title": "Biomedical Research: Essential Skills and Concepts",
+		"professor": "Austin, T.R.; Clark, I.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BMD RES",
+		"code": "10H",
+		"title": "Research Training in Genes, Genetics, and Genomics",
+		"professor": "Spratford, C.M.; Clark, I.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BMD RES",
+		"code": "193H",
+		"title": "Journal Club Seminars: Current Topics in Biomedical Research",
+		"professor": "Turlo, K.A.; Clark, I.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BMD RES",
+		"code": "193H",
+		"title": "Journal Club Seminars: Current Topics in Biomedical Research",
+		"professor": "Clark, I.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BMD RES",
+		"code": "194H",
+		"title": "Research Group Seminars: Data Presentation in Biomedical Research",
+		"professor": "Fluitt, A.H.; Clark, I.E."
+	}
+]

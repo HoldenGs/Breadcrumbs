@@ -1,0 +1,156 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "C&EE",
+		"code": "M20",
+		"title": "Introduction to Computer Programming with MATLAB",
+		"professor": "Ruter, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "C&EE",
+		"code": "103",
+		"title": "Applied Numerical Computing and Modeling in Civil and Environmental Engineering",
+		"professor": "Margulis, S.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "C&EE",
+		"code": "110",
+		"title": "Introduction to Probability and Statistics for Engineers",
+		"professor": "Lopez Droguett, E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "C&EE",
+		"code": "C123",
+		"title": "Advanced Geotechnical Design",
+		"professor": "Brandenberg, S.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "C&EE",
+		"code": "125",
+		"title": "Fundamentals of Earthquake Engineering",
+		"professor": "Bozorgnia, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "C&EE",
+		"code": "129L",
+		"title": "Engineering Geomatics",
+		"professor": "Gallien, T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "C&EE",
+		"code": "M135C",
+		"title": "Introduction to Finite Element Methods",
+		"professor": "Goyal, V.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "C&EE",
+		"code": "135L",
+		"title": "Structural Design and Testing Laboratory",
+		"professor": "Ahlberg, E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "C&EE",
+		"code": "140L",
+		"title": "Structural Components and Systems Testing Laboratory",
+		"professor": "Wallace, J.W."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "C&EE",
+		"code": "143",
+		"title": "Design of Prestressed Concrete Structures",
+		"professor": "Bondy, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "C&EE",
+		"code": "144",
+		"title": "Structural Systems Design",
+		"professor": "Abdullah, S.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "C&EE",
+		"code": "152",
+		"title": "Hydraulic and Hydrologic Design",
+		"professor": "Hanna, W.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "C&EE",
+		"code": "156A",
+		"title": "Environmental Chemistry Laboratory",
+		"professor": "Lau, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "C&EE",
+		"code": "157C",
+		"title": "Design of Wastewater Treatment Plants",
+		"professor": "Stenstrom, M.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "C&EE",
+		"code": "C159",
+		"title": "Green Infrastructure",
+		"professor": "Mohanty, S.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "C&EE",
+		"code": "M165",
+		"title": "Environmental Nanotechnology: Implications and Applications",
+		"professor": "Mahendra, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "C&EE",
+		"code": "170",
+		"title": "Introduction to Construction Management",
+		"professor": "Runyan, M.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "C&EE",
+		"code": "180",
+		"title": "Introduction to Transportation Engineering",
+		"professor": "Ma, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "C&EE",
+		"code": "C186",
+		"title": "Intelligent Transportation Systems",
+		"professor": "Campbell, R.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "C&EE",
+		"code": "194",
+		"title": "Research Group Seminars: Civil and Environmental Engineering: Environmental Impact of School Lunch Programs",
+		"professor": "Jay, J.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "C&EE",
+		"code": "194",
+		"title": "Research Group Seminars: Civil and Environmental Engineering: Seminar 1  ",
+		"professor": "Sant, G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "C&EE",
+		"code": "194",
+		"title": "Research Group Seminars: Civil and Environmental Engineering: Seminar 2  ",
+		"professor": "Bauchy, M."
+	}
+]

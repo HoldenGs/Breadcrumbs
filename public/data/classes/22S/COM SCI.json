@@ -1,0 +1,436 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "31",
+		"title": "Introduction to Computer Science I",
+		"professor": "Smallberg, D.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "32",
+		"title": "Introduction to Computer Science II",
+		"professor": "Smallberg, D.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "33",
+		"title": "Introduction to Computer Organization",
+		"professor": "Reinman, G.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "35L",
+		"title": "Software Construction",
+		"professor": "Eggert, P.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "M51A",
+		"title": "Logic Design of Digital Systems",
+		"professor": "He, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "88SA",
+		"title": "Machine Learning 101",
+		"professor": "Ramanan, S.; Reinman, G.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "88SB",
+		"title": "Demystifying Computer Science",
+		"professor": "Berger, Z.E.; Sahai, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "88SC",
+		"title": "Technology of X-Files: Aliens and Paranormal",
+		"professor": "Mishra, A.; Kadambi, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "97",
+		"title": "Variable Topics in Computer Science: Launch: Turn Idea into Company",
+		"professor": "Blend, M.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "111",
+		"title": "Operating Systems Principles",
+		"professor": "Reiher, P.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "118",
+		"title": "Computer Network Fundamentals",
+		"professor": "Lu, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "130",
+		"title": "Software Engineering",
+		"professor": "Burns, M.S.; Hennigan, E.M.; Monroe, A.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "131",
+		"title": "Programming Languages",
+		"professor": "Eggert, P.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "133",
+		"title": "Parallel and Distributed Computing",
+		"professor": "Cong, J.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "143",
+		"title": "Data Management Systems",
+		"professor": "Rosario, R.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "145",
+		"title": "Introduction to Data Mining",
+		"professor": "Wang, W."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "M146",
+		"title": "Introduction to Machine Learning",
+		"professor": "Diggavi, S.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "M146",
+		"title": "Introduction to Machine Learning",
+		"professor": "Grover, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "M148",
+		"title": "Introduction to Data Science",
+		"professor": "Dolecek, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "M151B",
+		"title": "Computer Systems Architecture",
+		"professor": "Tamir, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "M152A",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Basalama, S.E.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "M152A",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Pochhi, N.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "M152A",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Anbumani, A.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "M152A",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Albarran, T.D.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "M152A",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Lee, S.J.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "M152A",
+		"title": "Introductory Digital Design Laboratory",
+		"professor": "Sahu, D.R.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "152B",
+		"title": "Digital Design Project Laboratory",
+		"professor": "Ershadi, G.; Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "161",
+		"title": "Fundamentals of Artificial Intelligence",
+		"professor": "Darwiche, A.Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "174A",
+		"title": "Introduction to Computer Graphics",
+		"professor": "Law, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "C174C",
+		"title": "Computer Animation",
+		"professor": "Terzopoulos, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "180",
+		"title": "Introduction to Algorithms and Complexity",
+		"professor": "Sarrafzadeh, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "181",
+		"title": "Introduction to Formal Languages and Automata Theory",
+		"professor": "Sherstov, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "183",
+		"title": "Introduction to Cryptography",
+		"professor": "Ostrovsky, R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "CM186",
+		"title": "Computational Systems Biology: Modeling and Simulation of Biological Systems",
+		"professor": "Distefano, J.; Zheng, D.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "CM187",
+		"title": "Research Communication in Computational and Systems Biology",
+		"professor": "Pellegrini, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "188SC",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Sahai, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "192",
+		"title": "Methods and Application of Collaborative Learning Theory in Life Sciences",
+		"professor": "Shaked, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "M192A",
+		"title": "Introduction to Collaborative Learning Theory and Practice",
+		"professor": "Shaked, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "201",
+		"title": "Computer Science Seminar",
+		"professor": "Gu, Q."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "216",
+		"title": "Network Algorithmics",
+		"professor": "Varghese, G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "217B",
+		"title": "Advanced Topics in Internet Research",
+		"professor": "Zhang, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "219",
+		"title": "Current Topics in Computer System Modeling Analysis: Intelligent IoT Systems",
+		"professor": "Abari, O."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "M229S",
+		"title": "Seminar: Current Topics in Bioinformatics: Seminar 1  ",
+		"professor": "Sankararaman, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "230",
+		"title": "Software Engineering",
+		"professor": "Kim, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "236",
+		"title": "Computer Security",
+		"professor": "Kung, K.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "239",
+		"title": "Current Topics in Computer Science: Programming Languages and Systems: Advanced Cloud Systems",
+		"professor": "Xu, H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "239",
+		"title": "Current Topics in Computer Science: Programming Languages and Systems: Quantum Algorithms",
+		"professor": "Palsberg, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "249",
+		"title": "Current Topics in Data Structures: Graph Neural Networks",
+		"professor": "Sun, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "259",
+		"title": "Current Topics in Computer Science: System Design/Architecture: Learning Machines",
+		"professor": "Nowatzki, A.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "260B",
+		"title": "Algorithmic Machine Learning",
+		"professor": "Meka, R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "263",
+		"title": "Natural Language Processing",
+		"professor": "Chang, K.; Tian, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "263",
+		"title": "Natural Language Processing",
+		"professor": "Chang, K.; Monajatipoor, M.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "267A",
+		"title": "Probabilistic Programming and Relational Learning",
+		"professor": "Van den Broeck, G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "269",
+		"title": "Seminar: Current Topics in Artificial Intelligence: Adversarial Robustness of Machine Learning Models",
+		"professor": "Hsieh, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "269",
+		"title": "Seminar: Current Topics in Artificial Intelligence: Foundations of Deep Learning",
+		"professor": "Gu, Q."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "269",
+		"title": "Seminar: Current Topics in Artificial Intelligence: Human-Centered Artificial Intelligence for Vision and Autonomy",
+		"professor": "Zhou, B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "269",
+		"title": "Seminar: Current Topics in Artificial Intelligence: Large-Scale Machine Learning Projects",
+		"professor": "Mirzasoleiman, B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "269",
+		"title": "Seminar: Current Topics in Artificial Intelligence: Seminar 4  ",
+		"professor": "Peng, N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "275",
+		"title": "Artificial Life for Computer Graphics and Vision",
+		"professor": "Terzopoulos, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "CM286",
+		"title": "Computational Systems Biology: Modeling and Simulation of Biological Systems",
+		"professor": "Distefano, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "CM287",
+		"title": "Research Communication in Computational and Systems Biology",
+		"professor": "Pellegrini, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "COM SCI",
+		"code": "289A",
+		"title": "Current Topics in Computer Theory: Advanced Topics in Cryptography",
+		"professor": "Sahai, A."
+	}
+]

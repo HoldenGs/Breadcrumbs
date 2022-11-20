@@ -1,0 +1,44 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "HUM GEN",
+		"code": "M203",
+		"title": "Stochastic Models in Biology",
+		"professor": "Lange, K.L.; Sehl, M.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HUM GEN",
+		"code": "M207A",
+		"title": "Theoretical Genetic Modeling",
+		"professor": "Sinsheimer, J.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HUM GEN",
+		"code": "236B",
+		"title": "Advanced Human Genetics B: Genetics and Genomics Aspects",
+		"professor": "Pajukanta, P.E.; Ophoff, R.A.; Kruglyak, L.; Yin, Y.; Luo, C.; Benjamin, D.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HUM GEN",
+		"code": "M260A",
+		"title": "Introduction to Bioinformatics",
+		"professor": "Pimentel, H.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HUM GEN",
+		"code": "M265",
+		"title": "Computational Methods in Genomics",
+		"professor": "Pasaniuc, B.; Ernst, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "HUM GEN",
+		"code": "282",
+		"title": "Topics on Scientific Careers",
+		"professor": "Sobel, E.M.; Papp, J.C."
+	}
+]

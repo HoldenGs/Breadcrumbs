@@ -1,0 +1,30 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "GREEK",
+		"code": "3",
+		"title": "Elementary Greek",
+		"professor": "Morris, S.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GREEK",
+		"code": "8C",
+		"title": "Elementary Modern Greek",
+		"professor": "Borst, Z.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GREEK",
+		"code": "106",
+		"title": "Aristophanes",
+		"professor": "Haselswerdt, E.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "GREEK",
+		"code": "130",
+		"title": "Readings in New Testament",
+		"professor": "Blank, D.L."
+	}
+]
