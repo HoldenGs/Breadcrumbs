@@ -1,5 +1,4 @@
-
-import useAuth from './authContext'
+import useAuth from './AuthContext'
 import { Link, useNavigate } from 'react-router-dom'
 import { useState } from 'react'
 import { db } from '../firebase'
