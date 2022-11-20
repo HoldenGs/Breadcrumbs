@@ -11,7 +11,7 @@ export default function Profile() {
   return (
     <div className='profile'>
       <Header />
-      <UserInfo name='Bobbie Smith' />
+      <UserInfo name='Bobbie Smith' year={2} major='Computer Science and Engineering' />
       <Button text={editable ? 'Save' : 'Edit'} handleClick={() => setEditable(!editable)} />
       {quarters.map((quarter) => <Quarter key={quarter} name={quarter} editable={editable} />)}
     </div>
