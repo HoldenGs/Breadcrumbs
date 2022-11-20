@@ -1,8 +1,7 @@
 import React, { useState } from 'react'
 import CourseCard from './CourseCard'
 
-export default function Quarter({ name }) {
-  const [editable, setEditable] = useState(false)
+export default function Quarter({ name, editable }) {
   const [coursesTaken, setCoursesTaken] = useState([])
   const [dumbID, setDumbID] = useState(0)
 
@@ -24,7 +23,6 @@ export default function Quarter({ name }) {
   return (
     <div className='quarter'>
       <div>{name}</div>
-      <button onClick={() => setEditable(!editable)}>{editable ? 'Save' : 'Edit'}</button>
       {coursesTaken.length !== 0 ? (
         coursesTaken.map((course) => (
           <CourseCard
