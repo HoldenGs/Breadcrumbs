@@ -82,30 +82,30 @@ export default function UserInfo({username, name, year, major, editable}) {
     }))
   }
   
-  function listMajor(major1, major2, major3) {
-		if (major2 === "") {
-			return <div className='user-info__name'>{`BS, ${major1}`}</div>
-		}
-		if (major2 !== "" && major3 === "") {
-			return <div className='user-info__name'>{`BS, ${major1}, BS, ${major2}`}</div>
-		}
-		return (
-			<div className='user-info__name'>{`BS, ${major1}, BS, ${major2}, BS, ${major3}`}</div>
-		)
-	}
- 
-  function listMinor(minor1, minor2, minor3) {
-		if (minor1 === "") {
-			return
-		}
-		if (minor2 === "") {
-			return <div className='user-info__name'>{`Minor: ${minor1}`}</div>
-		}
-		if (minor2 !== "" && minor3 === "") {
-			return <div className='user-info__name'>{`Minor: ${minor1}, ${minor2}`}</div>
-		}
-		return <div className='user-info__name'>{`Minor: ${minor1}, ${minor2}, ${minor3}`}</div>
-	}
+function listMajor(major1, major2, major3) {
+  if (major2 === "") {
+    return <div className='user-info__name'>{`BS, ${major1}`}</div>
+  }
+  if (major2 !== "" && major3 === "") {
+    return <div className='user-info__name'>{`BS, ${major1}, BS, ${major2}`}</div>
+  }
+  return (
+    <div className='user-info__name'>{`BS, ${major1}, BS, ${major2}, BS, ${major3}`}</div>
+  )
+}
+
+function listMinor(minor1, minor2, minor3) {
+  if (minor1 === "") {
+    return
+  }
+  if (minor2 === "") {
+    return <div className='user-info__name'>{`Minor: ${minor1}`}</div>
+  }
+  if (minor2 !== "" && minor3 === "") {
+    return <div className='user-info__name'>{`Minor: ${minor1}, ${minor2}`}</div>
+  }
+  return <div className='user-info__name'>{`Minor: ${minor1}, ${minor2}, ${minor3}`}</div>
+}
 
   return (
     <div className='user-info'>
