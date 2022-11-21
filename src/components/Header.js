@@ -5,7 +5,7 @@ import SearchInput from './SearchInput'
 import IconButton from './IconButton'
 import NavButton from './NavButton'
 
-export default function Header() {
+export default function Header({username}) {
   const [query, setQuery] = useState('')
 
   function handleSearch() {}
@@ -35,8 +35,8 @@ export default function Header() {
         />
       </div>
       <div className='header__navbar'>
-        <NavButton dest='/' text='Profile' />
-        <NavButton dest='/following' text='Following' />
+        <NavButton dest={`/profile/${username}`} text='Profile' />
+        <NavButton dest='/following' text='Following' userName={username}/>
       </div>
     </div>
   )
