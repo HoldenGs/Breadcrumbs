@@ -1,0 +1,51 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOMATH",
+		"code": "M203",
+		"title": "Stochastic Models in Biology",
+		"professor": "Lange, K.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOMATH",
+		"code": "M207A",
+		"title": "Theoretical Genetic Modeling",
+		"professor": "Sinsheimer, J.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOMATH",
+		"code": "M234",
+		"title": "Applied Bayesian Inference",
+		"professor": "Weiss, R.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOMATH",
+		"code": "259",
+		"title": "Controversies in Clinical Trials",
+		"professor": "Elashoff, D.; Ranganath, V.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOMATH",
+		"code": "M262",
+		"title": "Communication of Science",
+		"professor": "Ranganath, V.K.; Elashoff, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOMATH",
+		"code": "265A",
+		"title": "Data Analysis Strategies I",
+		"professor": "Gornbein, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "BIOMATH",
+		"code": "266A",
+		"title": "Applied Regression Analysis in Medical Sciences",
+		"professor": "Elashoff, D."
+	}
+]

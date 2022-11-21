@@ -1,0 +1,1381 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "M6C",
+		"title": "Introduction to Musicianship",
+		"professor": "Depinna, N.; Tchaykov, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "M6C",
+		"title": "Introduction to Musicianship",
+		"professor": "Depinna, N.; Schipper, I.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "M6C",
+		"title": "Introduction to Musicianship",
+		"professor": "Depinna, N.; Reynolds, M.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "M6C",
+		"title": "Introduction to Musicianship",
+		"professor": "Depinna, N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "M6C",
+		"title": "Introduction to Musicianship",
+		"professor": "Depinna, N.; Tchaykov, A.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "20C",
+		"title": "Music Theory III",
+		"professor": "Lefkowitz, D.S.; Osuna Ardoy, P.; Guo, M.; Ohanian, V.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "20C",
+		"title": "Music Theory III",
+		"professor": "de Silva, D.L.; Ohanian, V.A.; Guo, M.; Osuna Ardoy, P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "20C",
+		"title": "Music Theory III",
+		"professor": "Oba, H.M.; Apostolou, A.F.; Guo, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "20C",
+		"title": "Music Theory III",
+		"professor": "Milburn, D.S.; Duran Zarate, C.A.; Guo, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "50",
+		"title": "Alexander Technique",
+		"professor": "Rodrigue, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "60A",
+		"title": "Instrumental Studio: Flute",
+		"professor": "Bouriakov, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "60A",
+		"title": "Instrumental Studio: Flute",
+		"professor": "Bouriakov, E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "60B",
+		"title": "Instrumental Studio: Oboe",
+		"professor": "Davis, J.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "60C",
+		"title": "Instrumental Studio: Bassoon",
+		"professor": "Steinmetz, J.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "60D",
+		"title": "Instrumental Studio: Clarinet",
+		"professor": "Ranz, J.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "60D",
+		"title": "Instrumental Studio: Clarinet",
+		"professor": "Allakhverdyan, B.V"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "60E",
+		"title": "Instrumental Studio: Saxophone",
+		"professor": "Berry Baker, J.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "60F",
+		"title": "Instrumental Studio: French Horn",
+		"professor": "Sanchez, A.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "60G",
+		"title": "Instrumental Studio: Trumpet",
+		"professor": "Lindemann, J.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "60H",
+		"title": "Instrumental Studio: Trombone",
+		"professor": "Miller, J.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "60I",
+		"title": "Instrumental Studio: Tuba/Euphonium",
+		"professor": "Foard, A.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "60J",
+		"title": "Instrumental Studio: Percussion",
+		"professor": "Dimond, T.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "60J",
+		"title": "Instrumental Studio: Percussion",
+		"professor": "Goodall, G.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "60K",
+		"title": "Instrumental Studio: Violin",
+		"professor": "Pogossian, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "60K",
+		"title": "Instrumental Studio: Violin",
+		"professor": "Manouelian, V.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "60K",
+		"title": "Instrumental Studio: Violin",
+		"professor": "Flanagan Lysy, M.M"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "60K",
+		"title": "Instrumental Studio: Violin",
+		"professor": "An, J.Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "60L",
+		"title": "Instrumental Studio: Viola",
+		"professor": "Chen, C.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "60M",
+		"title": "Instrumental Studio: Cello",
+		"professor": "Lysy, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "60N",
+		"title": "Instrumental Studio: String Bass",
+		"professor": "Hanulik, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "60O",
+		"title": "Instrumental Studio: Harp",
+		"professor": "Neill, L.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "60P",
+		"title": "Instrumental Studio: Guitar",
+		"professor": "Yates, P.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "60S",
+		"title": "Instrumental Studio: Piano",
+		"professor": "Faliks, I.; Pan, P.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "60S",
+		"title": "Instrumental Studio: Piano",
+		"professor": "Kaplan, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "60S",
+		"title": "Instrumental Studio: Piano",
+		"professor": "Deane, A.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "60S",
+		"title": "Instrumental Studio: Piano",
+		"professor": "Kinderman, W.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "60T",
+		"title": "Instrumental Studio: Organ",
+		"professor": "Bull, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "61A",
+		"title": "Voice Studio",
+		"professor": "Dean, M.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "61A",
+		"title": "Voice Studio",
+		"professor": "Gondek, J.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "61A",
+		"title": "Voice Studio",
+		"professor": "Chernov, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "61A",
+		"title": "Voice Studio",
+		"professor": "Dean, M.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "61B",
+		"title": "Voice Coaching",
+		"professor": "Kirsch, V.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "61B",
+		"title": "Voice Coaching",
+		"professor": "Floyd, P.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "61B",
+		"title": "Voice Coaching",
+		"professor": "Caldwell, W.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "61B",
+		"title": "Voice Coaching",
+		"professor": "Malkin, I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "61B",
+		"title": "Voice Coaching",
+		"professor": "Karr, S.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "61C",
+		"title": "Voice Coaching for Music Education Specialists",
+		"professor": "Malkin, I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "66",
+		"title": "Composition Studio",
+		"professor": "Lefkowitz, D.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "66",
+		"title": "Composition Studio",
+		"professor": "Golub, P.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "66",
+		"title": "Composition Studio",
+		"professor": "Rhie, K.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "66",
+		"title": "Composition Studio",
+		"professor": "Danielpour, R.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "66",
+		"title": "Composition Studio",
+		"professor": "Krouse, I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "M90T",
+		"title": "Early Music Ensemble",
+		"professor": "Winkle, M.D.; Stein, D.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "110D",
+		"title": "Comparative Study of Instrumental Music Education",
+		"professor": "Kubitskey, E.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "114J",
+		"title": "Piano Skill in Classroom",
+		"professor": "Hearn, K.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "115A",
+		"title": "Study of Instrumental Techniques: Woodwinds",
+		"professor": "Gilberti, A.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "115C",
+		"title": "Study of Instrumental Techniques: Percussion",
+		"professor": "Dimond, T.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "117",
+		"title": "Study and Conducting of Instrumental and Choral Literature",
+		"professor": "Milburn, D.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "119",
+		"title": "Jazz and Technology Pedagogy",
+		"professor": "Brennan, D.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "120C",
+		"title": "Music Theory VI",
+		"professor": "Meites, N.G.; Li, S.; Tang-Wang, S.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "120C",
+		"title": "Music Theory VI",
+		"professor": "Phelps, B.J.; Li, E.Z.; Ali, A.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "124B",
+		"title": "Scoring for Wind Ensemble",
+		"professor": "Danielpour, R.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "C158F",
+		"title": "Advanced Vocal Repertoire, Diction, and Interpretation: Russian",
+		"professor": "Chernov, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "160A",
+		"title": "Advanced Instrumental Studio: Flute",
+		"professor": "Bouriakov, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "160A",
+		"title": "Advanced Instrumental Studio: Flute",
+		"professor": "Bouriakov, E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "160B",
+		"title": "Advanced Instrumental Studio: Oboe",
+		"professor": "Davis, J.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "160C",
+		"title": "Advanced Instrumental Studio: Bassoon",
+		"professor": "Steinmetz, J.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "160D",
+		"title": "Advanced Instrumental Studio: Clarinet",
+		"professor": "Allakhverdyan, B.V"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "160D",
+		"title": "Advanced Instrumental Studio: Clarinet",
+		"professor": "Ranz, J.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "160E",
+		"title": "Advanced Instrumental Studio: Saxophone",
+		"professor": "Berry Baker, J.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "160F",
+		"title": "Advanced Instrumental Studio: French Horn",
+		"professor": "Sanchez, A.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "160G",
+		"title": "Advanced Instrumental Studio: Trumpet",
+		"professor": "Lindemann, J.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "160H",
+		"title": "Advanced Instrumental Studio: Trombone",
+		"professor": "Miller, J.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "160I",
+		"title": "Advanced Instrumental Studio: Tuba/Euphonium",
+		"professor": "Foard, A.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "160J",
+		"title": "Advanced Instrumental Studio: Percussion",
+		"professor": "Dimond, T.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "160J",
+		"title": "Advanced Instrumental Studio: Percussion",
+		"professor": "Goodall, G.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "160K",
+		"title": "Advanced Instrumental Studio: Violin",
+		"professor": "Pogossian, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "160K",
+		"title": "Advanced Instrumental Studio: Violin",
+		"professor": "Manouelian, V.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "160K",
+		"title": "Advanced Instrumental Studio: Violin",
+		"professor": "Flanagan Lysy, M.M"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "160K",
+		"title": "Advanced Instrumental Studio: Violin",
+		"professor": "An, J.Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "160L",
+		"title": "Advanced Instrumental Studio: Viola",
+		"professor": "Chen, C.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "160M",
+		"title": "Advanced Instrumental Studio: Cello",
+		"professor": "Lysy, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "160N",
+		"title": "Advanced Instrumental Studio: String Bass",
+		"professor": "Hanulik, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "160O",
+		"title": "Advanced Instrumental Studio: Harp",
+		"professor": "Neill, L.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "160P",
+		"title": "Advanced Instrumental Studio: Guitar",
+		"professor": "Yates, P.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "160S",
+		"title": "Advanced Instrumental Studio: Piano",
+		"professor": "Faliks, I.; Pan, P.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "160S",
+		"title": "Advanced Instrumental Studio: Piano",
+		"professor": "Kaplan, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "160S",
+		"title": "Advanced Instrumental Studio: Piano",
+		"professor": "Deane, A.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "160T",
+		"title": "Advanced Instrumental Studio: Organ",
+		"professor": "Bull, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "161A",
+		"title": "Advanced Voice Studio",
+		"professor": "Dean, M.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "161A",
+		"title": "Advanced Voice Studio",
+		"professor": "Gondek, J.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "161A",
+		"title": "Advanced Voice Studio",
+		"professor": "Chernov, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "161A",
+		"title": "Advanced Voice Studio",
+		"professor": "Dean, M.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "161B",
+		"title": "Advanced Vocal Coaching",
+		"professor": "Kirsch, V.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "161B",
+		"title": "Advanced Vocal Coaching",
+		"professor": "Floyd, P.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "161B",
+		"title": "Advanced Vocal Coaching",
+		"professor": "Caldwell, W.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "161B",
+		"title": "Advanced Vocal Coaching",
+		"professor": "Malkin, I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "161B",
+		"title": "Advanced Vocal Coaching",
+		"professor": "Yates, L.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "161C",
+		"title": "Advanced Voice Coaching for Music Education Specialists",
+		"professor": "Caldwell, W.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "161C",
+		"title": "Advanced Voice Coaching for Music Education Specialists",
+		"professor": "Malkin, I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "163A",
+		"title": "Recital for Music Education Majors: Flute",
+		"professor": "Bouriakov, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "163B",
+		"title": "Recital for Music Education Majors: Oboe",
+		"professor": "Davis, J.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "163C",
+		"title": "Recital for Music Education Majors: Bassoon",
+		"professor": "Steinmetz, J.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "163D",
+		"title": "Recital for Music Education Majors: Clarinet",
+		"professor": "Allakhverdyan, B.V"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "163D",
+		"title": "Recital for Music Education Majors: Clarinet",
+		"professor": "Ranz, J.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "163E",
+		"title": "Recital for Music Education Majors: Saxophone",
+		"professor": "Berry Baker, J.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "163F",
+		"title": "Recital for Music Education Majors: French Horn",
+		"professor": "Sanchez, A.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "163G",
+		"title": "Recital for Music Education Majors: Trumpet",
+		"professor": "Lindemann, J.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "163H",
+		"title": "Recital for Music Education Majors: Trombone",
+		"professor": "Miller, J.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "163I",
+		"title": "Recital for Music Education Majors: Tuba/Euphonium",
+		"professor": "Foard, A.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "163J",
+		"title": "Recital for Music Education Majors: Percussion",
+		"professor": "Dimond, T.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "163J",
+		"title": "Recital for Music Education Majors: Percussion",
+		"professor": "Goodall, G.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "163K",
+		"title": "Recital for Music Education Majors: Violin",
+		"professor": "Pogossian, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "163K",
+		"title": "Recital for Music Education Majors: Violin",
+		"professor": "Manouelian, V.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "163K",
+		"title": "Recital for Music Education Majors: Violin",
+		"professor": "Flanagan Lysy, M.M"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "163L",
+		"title": "Recital for Music Education Majors: Viola",
+		"professor": "Chen, C.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "163M",
+		"title": "Recital for Music Education Majors: Cello",
+		"professor": "Lysy, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "163N",
+		"title": "Recital for Music Education Majors: String Bass",
+		"professor": "Hanulik, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "163O",
+		"title": "Recital for Music Education Majors: Harp",
+		"professor": "Neill, L.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "163P",
+		"title": "Recital for Music Education Majors: Guitar",
+		"professor": "Yates, P.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "163S",
+		"title": "Recital for Music Education Majors: Piano",
+		"professor": "Faliks, I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "163S",
+		"title": "Recital for Music Education Majors: Piano",
+		"professor": "Kaplan, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "163T",
+		"title": "Recital for Music Education Majors: Organ",
+		"professor": "Bull, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "163V",
+		"title": "Recital for Music Education Majors: Voice",
+		"professor": "Dean, M.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "163V",
+		"title": "Recital for Music Education Majors: Voice",
+		"professor": "Dean, M.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "166",
+		"title": "Advanced Composition Studio",
+		"professor": "Lefkowitz, D.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "166",
+		"title": "Advanced Composition Studio",
+		"professor": "Golub, P.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "166",
+		"title": "Advanced Composition Studio",
+		"professor": "Rhie, K.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "166",
+		"title": "Advanced Composition Studio",
+		"professor": "Danielpour, R.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "166",
+		"title": "Advanced Composition Studio",
+		"professor": "Krouse, I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "167A",
+		"title": "Capstone Instrumental Recital: Flute",
+		"professor": "Bouriakov, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "167A",
+		"title": "Capstone Instrumental Recital: Flute",
+		"professor": "Bouriakov, E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "167B",
+		"title": "Capstone Instrumental Recital: Oboe",
+		"professor": "Davis, J.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "167C",
+		"title": "Capstone Instrumental Recital: Bassoon",
+		"professor": "Steinmetz, J.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "167D",
+		"title": "Capstone Instrumental Recital: Clarinet",
+		"professor": "Allakhverdyan, B.V"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "167D",
+		"title": "Capstone Instrumental Recital: Clarinet",
+		"professor": "Ranz, J.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "167E",
+		"title": "Capstone Instrumental Recital: Saxophone",
+		"professor": "Berry Baker, J.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "167F",
+		"title": "Capstone Instrumental Recital: French Horn",
+		"professor": "Sanchez, A.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "167G",
+		"title": "Capstone Instrumental Recital: Trumpet",
+		"professor": "Lindemann, J.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "167H",
+		"title": "Capstone Instrumental Recital: Trombone",
+		"professor": "Miller, J.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "167I",
+		"title": "Capstone Instrumental Recital: Tuba/Euphonium",
+		"professor": "Foard, A.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "167J",
+		"title": "Capstone Instrumental Recital: Percussion",
+		"professor": "Dimond, T.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "167J",
+		"title": "Capstone Instrumental Recital: Percussion",
+		"professor": "Goodall, G.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "167K",
+		"title": "Capstone Instrumental Recital: Violin",
+		"professor": "Pogossian, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "167K",
+		"title": "Capstone Instrumental Recital: Violin",
+		"professor": "Manouelian, V.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "167K",
+		"title": "Capstone Instrumental Recital: Violin",
+		"professor": "Flanagan Lysy, M.M"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "167K",
+		"title": "Capstone Instrumental Recital: Violin",
+		"professor": "An, J.Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "167L",
+		"title": "Capstone Instrumental Recital: Viola",
+		"professor": "Chen, C.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "167M",
+		"title": "Capstone Instrumental Recital: Cello",
+		"professor": "Lysy, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "167N",
+		"title": "Capstone Instrumental Recital: String Bass",
+		"professor": "Hanulik, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "167O",
+		"title": "Capstone Instrumental Recital: Harp",
+		"professor": "Neill, L.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "167P",
+		"title": "Capstone Instrumental Recital: Guitar",
+		"professor": "Yates, P.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "167S",
+		"title": "Capstone Instrumental Recital: Piano",
+		"professor": "Faliks, I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "167S",
+		"title": "Capstone Instrumental Recital: Piano",
+		"professor": "Kaplan, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "167T",
+		"title": "Capstone Instrumental Recital: Organ",
+		"professor": "Bull, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "168",
+		"title": "Capstone Voice Recital",
+		"professor": "Dean, M.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "168",
+		"title": "Capstone Voice Recital",
+		"professor": "Gondek, J.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "168",
+		"title": "Capstone Voice Recital",
+		"professor": "Chernov, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "168",
+		"title": "Capstone Voice Recital",
+		"professor": "Dean, M.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "169",
+		"title": "Capstone Composition Recital",
+		"professor": "Lefkowitz, D.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "169",
+		"title": "Capstone Composition Recital",
+		"professor": "Golub, P.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "169",
+		"title": "Capstone Composition Recital",
+		"professor": "Rhie, K.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "169",
+		"title": "Capstone Composition Recital",
+		"professor": "Danielpour, R.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "169",
+		"title": "Capstone Composition Recital",
+		"professor": "Krouse, I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "C171",
+		"title": "Selected Topics in Keyboard Literature: Lecture 1  ",
+		"professor": "Kaplan, D.; Pan, P.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "C171",
+		"title": "Selected Topics in Keyboard Literature: Lecture 2  ",
+		"professor": "Faliks, I.; Pan, P.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "C175A",
+		"title": "Chamber Ensembles: Brass: Activity 1  ",
+		"professor": "Lindemann, J.H.; Swindler, C.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "C175B",
+		"title": "Chamber Ensembles: Guitar",
+		"professor": "Yates, P.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "C175C",
+		"title": "Chamber Ensembles: Piano",
+		"professor": "Faliks, I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "C175D",
+		"title": "Chamber Ensembles: Percussion",
+		"professor": "Dimond, T.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "C175E",
+		"title": "Chamber Ensembles: Strings",
+		"professor": "Pogossian, M.; Lysy, A.; Chen, C.B.; An, J.Y.; Parnas MöLler, M.; Kodzas, E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "C175F",
+		"title": "Chamber Ensembles: Woodwinds",
+		"professor": "Berry Baker, J.N.; Steinmetz, J.A.; Davis, J.D.; Adams, W."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "C175G",
+		"title": "Chamber Ensembles: Flux Contemporary",
+		"professor": "Cheng, G.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "C185A",
+		"title": "UCLA Chorale",
+		"professor": "Bass, J.; Renaud, K.T.; Yum, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "C185B",
+		"title": "Chamber Singers",
+		"professor": "Bass, J.; Renaud, K.T.; Yum, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "C185C",
+		"title": "Opera Workshop",
+		"professor": "Kazaras, P.D.; Hak, R.R.; Acupan, G.R.; Rompczyk, J.D.; Rice, M.T.; Karr, S.F.; Fielding, C.L.; Yates, L.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "C185D",
+		"title": "Symphony Orchestra",
+		"professor": "Stulberg, N.H.; Acupan, G.R.; Rompczyk, J.D.; Kline, A.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "C185E",
+		"title": "Philharmonia",
+		"professor": "Stulberg, N.H.; Acupan, G.R.; Rompczyk, J.D.; Kline, A.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "185F",
+		"title": "Symphonic Band",
+		"professor": "McKeown, K.O.; James, M.T.; Doyon, D.; Llanderal, K.L.; Cross, T.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "C185G",
+		"title": "Wind Ensemble",
+		"professor": "Cross, T.J.; James, M.T.; Doyon, D.; Llanderal, K.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "185H",
+		"title": "Marching and Varsity Bands",
+		"professor": "McKeown, K.O.; Cross, T.J.; James, M.T.; Alam, M.; Jurado, V.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "C186A",
+		"title": "Piano/Keyboard Accompanying",
+		"professor": "Lent, J.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "195",
+		"title": "Community or Corporate Internships in Music",
+		"professor": "Rhie, K.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "197",
+		"title": "Individual Studies in Music",
+		"professor": "Berry Baker, J.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "M201",
+		"title": "Repertory and Analysis",
+		"professor": "Rhie, K.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "202",
+		"title": "Analysis for Performers",
+		"professor": "Richman, W.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "203",
+		"title": "Notation and Performance",
+		"professor": "Kinderman, W.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "253",
+		"title": "Seminar: Special Topics in Composition and Theory: Seminar 1  ",
+		"professor": "Rhie, K.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "260A",
+		"title": "Seminar: Composition for Motion Pictures and Television",
+		"professor": "Golub, P.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "266",
+		"title": "Graduate Composition Studio",
+		"professor": "Lefkowitz, D.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "266",
+		"title": "Graduate Composition Studio",
+		"professor": "Golub, P.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "266",
+		"title": "Graduate Composition Studio",
+		"professor": "Rhie, K.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "266",
+		"title": "Graduate Composition Studio",
+		"professor": "Danielpour, R.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "266",
+		"title": "Graduate Composition Studio",
+		"professor": "Krouse, I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "C271",
+		"title": "Selected Topics in Keyboard Literature: Lecture 1  ",
+		"professor": "Kaplan, D.; Pan, P.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "C271",
+		"title": "Selected Topics in Keyboard Literature: Lecture 2  ",
+		"professor": "Faliks, I.; Pan, P.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "MUSC",
+		"code": "290",
+		"title": "Composition Forum",
+		"professor": "Cheng, G.C."
+	}
+]

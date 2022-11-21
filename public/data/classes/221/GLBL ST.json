@@ -1,0 +1,30 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "GLBL ST",
+		"code": "1",
+		"title": "Introduction to Globalization",
+		"professor": "Matisoff, A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "GLBL ST",
+		"code": "140",
+		"title": "Hollywood and America&#39;s Global Image",
+		"professor": "Franklin, A.S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "GLBL ST",
+		"code": "199B",
+		"title": "Directed Individual Research in Global Studies",
+		"professor": "Mott, C.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "GLBL ST",
+		"code": "199B",
+		"title": "Directed Individual Research in Global Studies",
+		"professor": "Taylor, T.D."
+	}
+]

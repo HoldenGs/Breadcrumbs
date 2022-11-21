@@ -1,0 +1,688 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "4HW",
+		"title": "Critical Reading and Writing (Honors)",
+		"professor": "Goyal, Y.; Pledger, J.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "4W",
+		"title": "Critical Reading and Writing",
+		"professor": "Goyal, Y.; Cardon, K.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "4W",
+		"title": "Critical Reading and Writing",
+		"professor": "Goyal, Y.; Elliott-Newton, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "4W",
+		"title": "Critical Reading and Writing",
+		"professor": "Goyal, Y.; Martinez, S.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "4W",
+		"title": "Critical Reading and Writing",
+		"professor": "Goyal, Y.; Izsak, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "4W",
+		"title": "Critical Reading and Writing",
+		"professor": "Goyal, Y.; Webster, A.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "4W",
+		"title": "Critical Reading and Writing",
+		"professor": "Goyal, Y.; Kello, R.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "4W",
+		"title": "Critical Reading and Writing",
+		"professor": "Goyal, Y.; Lee, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "10B",
+		"title": "Literatures in English, 1700 to 1850",
+		"professor": "Kareem, S.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "10C",
+		"title": "Literatures in English, 1850 to Present",
+		"professor": "Bristow, J.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "11",
+		"title": "Introduction to American Cultures",
+		"professor": "Goyal, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "19",
+		"title": "Robert Penn Warren&#39;s All the King&#39;s Men: Great American Political Novel",
+		"professor": "Lowenstein, D.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "19",
+		"title": "Robert Penn Warren&#39;s All the King&#39;s Men: Great American Political Novel",
+		"professor": "Lowenstein, D.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "19",
+		"title": "Scenes, Beats, Banter and Pitches: Introduction to Screenplay Writing",
+		"professor": "Stefans, B.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "19",
+		"title": "Silence of Lamb: Animals as Persons in Literature, Law, and Sciences",
+		"professor": "Thomas, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "20W",
+		"title": "Introduction to Creative Writing",
+		"professor": "Chhay, R.M.; Goyal, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "20W",
+		"title": "Introduction to Creative Writing",
+		"professor": "Solis, S.; Goyal, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "20W",
+		"title": "Introduction to Creative Writing",
+		"professor": "Prucha, N.A.; Goyal, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "20W",
+		"title": "Introduction to Creative Writing",
+		"professor": "Stanford, C.M.; Goyal, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "M50",
+		"title": "Introduction to Visual Culture",
+		"professor": "Sampson, B.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "80",
+		"title": "Major American Authors",
+		"professor": "Hyde, C.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "89HC",
+		"title": "Honors Contracts",
+		"professor": "Bristow, J.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "91A",
+		"title": "Introduction to Poetry",
+		"professor": "Dickey, S.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "M101C",
+		"title": "Queer Literatures and Cultures after 1970: Queer Cultures: Narratives, Theories, and Aesthetics",
+		"professor": "Lee, S.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "M102B",
+		"title": "Contemporary Asian American Literary Issues and Criticism: Asian American Environmental Entanglements",
+		"professor": "Toy, G.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "M104B",
+		"title": "African American Literature from Harlem Renaissance to 1960s",
+		"professor": "Streeter, C.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "106",
+		"title": "Studies in Native American and Indigenous Literatures: Indigenous Literatures of North America",
+		"professor": "Mo'e'hahne, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "109",
+		"title": "Topics in Race, Ethnicity, Gender, and Sexuality Studies: Making Place, Making Race",
+		"professor": "Fosbury, T.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "110B",
+		"title": "Writing in English Major: Adjunct: Academic Writing About 19th-Century Literature",
+		"professor": "Vignola, M.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "110C",
+		"title": "Public Readers, Public Writers: Writing about Books for 21st-Century Audience",
+		"professor": "Kareem, S.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "110T",
+		"title": "Writing in English Major: Transfer Students",
+		"professor": "Stephan, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "119",
+		"title": "Literary Cities: Literary Dublin: In the Heart of the Hibernian Metropolis",
+		"professor": "Jaurretche, C.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "122",
+		"title": "Keywords in Theory: Queer and Feminism",
+		"professor": "Lee, R.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "132",
+		"title": "Culture and Imperialism: Orientalism and Occidentalism",
+		"professor": "Makdisi, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "136",
+		"title": "Creative Writing: Poetry",
+		"professor": "Mullen, H.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "136",
+		"title": "Creative Writing: Poetry",
+		"professor": "Wilson, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "137",
+		"title": "Creative Writing: Short Story",
+		"professor": "Huneven, M.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "137",
+		"title": "Creative Writing: Short Story",
+		"professor": "Simpson, M.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "M138",
+		"title": "Topics in Creative Writing: Gaming Experiments and Multimedia Scripting",
+		"professor": "Snelson, D.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "M138",
+		"title": "Topics in Creative Writing: Memoir and Autobiography",
+		"professor": "Allmendinger, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "M138",
+		"title": "Topics in Creative Writing: Seminar 7  ",
+		"professor": "Deuel, N.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "M138",
+		"title": "Topics in Creative Writing: Seminar 8  ",
+		"professor": "Deuel, N.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "139",
+		"title": "Individual Authors: Henry James",
+		"professor": "Dimuro, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "140A",
+		"title": "Chaucer: &quot;Canterbury Tales&quot;",
+		"professor": "Jager, E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "142R",
+		"title": "Later Medieval Literature: Research Component: Chaucer, Springtime, and Plague",
+		"professor": "Fisher, M.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "145",
+		"title": "Medieval Literatures of Devotion and Dissent: Virgin, Wife, and Widow: Dissent and Dominance in Lives of Holy Women",
+		"professor": "Thomas, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "150B",
+		"title": "Shakespeare: Later Plays",
+		"professor": "Dickey, S.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "150C",
+		"title": "Topics in Shakespeare: Shakespeare&#39;s Major Plays",
+		"professor": "Little, A.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "151",
+		"title": "Milton",
+		"professor": "Shuger, D.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "159",
+		"title": "Topics in Literature, circa 1500 to 1700: Beauty in Early Modern English Poetry",
+		"professor": "Wagner, A.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "164C",
+		"title": "19th-Century Novel: Barnaby Rudge",
+		"professor": "Grossman, J.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "166C",
+		"title": "American Literature, 1832 to 1865",
+		"professor": "Gallagher, M.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "167B",
+		"title": "American Fiction to 1900",
+		"professor": "Hyde, C.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "169",
+		"title": "Topics in Literature, circa 1700 to 1850: Gothic Imagination",
+		"professor": "Bistline, E.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "170A",
+		"title": "American Literature, 1865 to 1900",
+		"professor": "Colacurcio, M.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "173C",
+		"title": "Contemporary American Poetry: Lecture 1  ",
+		"professor": "Mullen, H.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "174B",
+		"title": "American Fiction since 1945",
+		"professor": "Perez-Torres, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "177",
+		"title": "Interdisciplinary Studies of American Culture: Ethnic Comedy, Family Drama: American Literature and Television",
+		"professor": "Decker, J.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "179",
+		"title": "Topics in Literature, circa 1850 to Present: British Fiction since 1945",
+		"professor": "North, M.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "179",
+		"title": "Topics in Literature, circa 1850 to Present: Modernism: Experimentation, Fragmentation, and Confluence",
+		"professor": "Hornby, L.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "179",
+		"title": "Topics in Literature, circa 1850 to Present: Novel Technologies",
+		"professor": "Seltzer, M.I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "179",
+		"title": "Topics in Literature, circa 1850 to Present: Reading Like Writer: Short Story Intensive",
+		"professor": "Huneven, M.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "183A",
+		"title": "Topics in Colonial American Literature: Early American Disaster",
+		"professor": "Fosbury, T.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "183C",
+		"title": "Topics in 20th- and 21st-Century American Literature: Philip K. Dick: Fiction, Film, and Culture",
+		"professor": "North, M.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "184",
+		"title": "Capstone Seminar: English: Dreams, Visions, and Nightmares in Medieval Literature",
+		"professor": "Thomas, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "184",
+		"title": "Capstone Seminar: English: From Ancient Epic to Medieval Romance",
+		"professor": "Jager, E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "184",
+		"title": "Capstone Seminar: English: Pornography and Politics of Sexual Representation",
+		"professor": "Mott, C.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "184",
+		"title": "Capstone Seminar: English: Women&#39;s Work and Medieval Slavery",
+		"professor": "Fisher, M.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "188SB",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Jaurretche, C.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Hyde, C.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "M191B",
+		"title": "Topics in Chicana/Chicano and/or Latina/Latino Literature: Representing Chicanx Life",
+		"professor": "Perez-Torres, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "M191C",
+		"title": "Topics in Asian American Literature: Re-Imagining Asian America in Speculative Fiction",
+		"professor": "Toy, G.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "M192",
+		"title": "Undergraduate Practicum in English: Journals",
+		"professor": "Wilson, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "195CE",
+		"title": "Community and Corporate Internships in English",
+		"professor": "Cook, J.R.; Dimuro, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "198B",
+		"title": "Honors Research in English",
+		"professor": "Wilson, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "198B",
+		"title": "Honors Research in English",
+		"professor": "Makdisi, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "198B",
+		"title": "Honors Research in English",
+		"professor": "Simpson, M.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "198B",
+		"title": "Honors Research in English",
+		"professor": "North, M.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "198B",
+		"title": "Honors Research in English",
+		"professor": "Lee, S.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "198B",
+		"title": "Honors Research in English",
+		"professor": "Hornby, L.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "198B",
+		"title": "Honors Research in English",
+		"professor": "Allmendinger, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "198B",
+		"title": "Honors Research in English",
+		"professor": "Dimuro, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "198B",
+		"title": "Honors Research in English",
+		"professor": "Yarborough, R.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "198B",
+		"title": "Honors Research in English",
+		"professor": "Ling, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "198B",
+		"title": "Honors Research in English",
+		"professor": "Stefans, B.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "198B",
+		"title": "Honors Research in English",
+		"professor": "Fisher, M.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "198B",
+		"title": "Honors Research in English",
+		"professor": "Torres, J.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "198B",
+		"title": "Honors Research in English",
+		"professor": "McHugh, K.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "198B",
+		"title": "Honors Research in English",
+		"professor": "Grossman, J.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "198B",
+		"title": "Honors Research in English",
+		"professor": "Shuger, D.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "198B",
+		"title": "Honors Research in English",
+		"professor": "Stephan, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "198B",
+		"title": "Honors Research in English",
+		"professor": "Lopez, M.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "198B",
+		"title": "Honors Research in English",
+		"professor": "Mott, C.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "247",
+		"title": "Shakespeare",
+		"professor": "Little, A.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "253",
+		"title": "20th- and 21st-Century Literatures in English",
+		"professor": "Hornby, L.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "255",
+		"title": "Topics in Novel",
+		"professor": "Grossman, J.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "M266",
+		"title": "Cultural World Views of Native America",
+		"professor": "Mo'e'hahne, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGL",
+		"code": "270",
+		"title": "Issues and Developments in Critical Theory",
+		"professor": "Makdisi, S."
+	}
+]

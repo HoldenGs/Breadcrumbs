@@ -1,0 +1,142 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "ASTR",
+		"code": "3",
+		"title": "Nature of the Universe",
+		"professor": "Fitzgerald, M.P.; Gibbs, A.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ASTR",
+		"code": "3",
+		"title": "Nature of the Universe",
+		"professor": "Shapley, A.E.; Gibbs, A.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ASTR",
+		"code": "4",
+		"title": "Black Holes and Cosmic Catastrophes",
+		"professor": "Malkan, M.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ASTR",
+		"code": "5",
+		"title": "Life in Universe",
+		"professor": "Rich, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ASTR",
+		"code": "81",
+		"title": "Fundamentals of Astrophysics",
+		"professor": "Ghez, A.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ASTR",
+		"code": "180",
+		"title": "Astrophysics Laboratory",
+		"professor": "Do, T.H.; Villafana, L.; Dike, V.J.; Kim, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ASTR",
+		"code": "270",
+		"title": "Astrophysical Dynamics",
+		"professor": "Naoz, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ASTR",
+		"code": "271",
+		"title": "Electromagnetic Radiation in Astrophysics",
+		"professor": "Furlanetto, S.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ASTR",
+		"code": "277A",
+		"title": "Astronomy Research Project",
+		"professor": "Do, T.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ASTR",
+		"code": "277A",
+		"title": "Astronomy Research Project",
+		"professor": "Fitzgerald, M.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ASTR",
+		"code": "277A",
+		"title": "Astronomy Research Project",
+		"professor": "Ghez, A.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ASTR",
+		"code": "277A",
+		"title": "Astronomy Research Project",
+		"professor": "Petigura, E.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ASTR",
+		"code": "277A",
+		"title": "Astronomy Research Project",
+		"professor": "Schlichting, H.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ASTR",
+		"code": "277A",
+		"title": "Astronomy Research Project",
+		"professor": "Treu, T.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ASTR",
+		"code": "277A",
+		"title": "Astronomy Research Project",
+		"professor": "Naoz, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ASTR",
+		"code": "277A",
+		"title": "Astronomy Research Project",
+		"professor": "Turner, J.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ASTR",
+		"code": "277A",
+		"title": "Astronomy Research Project",
+		"professor": "Furlanetto, S.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ASTR",
+		"code": "279",
+		"title": "Seminar: Current Astronomical Research",
+		"professor": "Shapley, A.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ASTR",
+		"code": "284",
+		"title": "Order of Magnitude Astrophysics",
+		"professor": "Hansen, B.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ASTR",
+		"code": "297",
+		"title": "Practice of Scientific Presentations in Astronomy",
+		"professor": "Shapley, A.E.; Petigura, E.A."
+	}
+]

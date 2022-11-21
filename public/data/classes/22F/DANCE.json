@@ -1,0 +1,198 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "DANCE",
+		"code": "1",
+		"title": "Global Perspectives on Dance",
+		"professor": "Marks, V.E.; Drake, B.J.; Yeh, M.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "DANCE",
+		"code": "5",
+		"title": "Moving Voice: Studio 1  ",
+		"professor": "Een, R.W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "DANCE",
+		"code": "6",
+		"title": "Beginning West African Dance: Studio 1  ",
+		"professor": "Mason, A.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "DANCE",
+		"code": "9",
+		"title": "Beginning Hip-Hop Dance: Studio 1  ",
+		"professor": "Foaad, L.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "DANCE",
+		"code": "10",
+		"title": "Beginning Martial Arts: Studio 1  ",
+		"professor": "Tsou, J.C.; Krug Paiva, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "DANCE",
+		"code": "11",
+		"title": "Yoga: Studio 1  ",
+		"professor": "McDowell, C.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "DANCE",
+		"code": "13",
+		"title": "Beginning Ballet: Studio 1  ",
+		"professor": "Kahane, A.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "DANCE",
+		"code": "15",
+		"title": "Beginning Modern/Postmodern Dance: Laboratory 1  ",
+		"professor": "O'Shea, J.M.; Dizon, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "DANCE",
+		"code": "16",
+		"title": "Beginning Improvisation in Dance",
+		"professor": "Carlson, A.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "DANCE",
+		"code": "59",
+		"title": "Intermediate Hip-Hop Dance: Studio 1  ",
+		"professor": "Lopez, J.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "DANCE",
+		"code": "60",
+		"title": "Intermediate Martial Arts: Studio 1  ",
+		"professor": "Tsou, J.C.; Krug Paiva, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "DANCE",
+		"code": "63",
+		"title": "Intermediate Ballet: Studio 1  ",
+		"professor": "Tomita, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "DANCE",
+		"code": "65",
+		"title": "Intermediate Modern/Postmodern Dance: Studio 1  ",
+		"professor": "Coad, G.W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "DANCE",
+		"code": "67A",
+		"title": "Theories and Methods in Dance Composition I: Languages",
+		"professor": "Warby, R.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "DANCE",
+		"code": "70",
+		"title": "Production Practicum",
+		"professor": "Holguin, G.; Hill, R.T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "DANCE",
+		"code": "C106A",
+		"title": "Advanced West African Dance: Studio 1  ",
+		"professor": "Mason, A.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "DANCE",
+		"code": "C113A",
+		"title": "Advanced Ballet: Studio 1  ",
+		"professor": "Tomita, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "DANCE",
+		"code": "114",
+		"title": "Performance Practicum: Studio 1  ",
+		"professor": "Popkin, L.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "DANCE",
+		"code": "C115",
+		"title": "Advanced Modern/Postmodern Dance",
+		"professor": "Coad, G.W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "DANCE",
+		"code": "116",
+		"title": "Advanced Improvisation in Dance: Studio 1  ",
+		"professor": "Carlson, A.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "DANCE",
+		"code": "117B",
+		"title": "Theories and Methods in Dance Composition IV: Impacts",
+		"professor": "Warby, R.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "DANCE",
+		"code": "117C",
+		"title": "Advanced Topics in Choreography: Lecture 1  ",
+		"professor": "Een, R.W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "DANCE",
+		"code": "C152",
+		"title": "History and Theory of Modern/Postmodern Dance",
+		"professor": "Brannum, B.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "DANCE",
+		"code": "160",
+		"title": "Topics in Body Mechanics: Introduction to Experiential Anatomy and Kinesiology",
+		"professor": "Djordjevich, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "DANCE",
+		"code": "170",
+		"title": "Advanced Production",
+		"professor": "Holguin, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "DANCE",
+		"code": "211A",
+		"title": "Advanced Choreography",
+		"professor": "Popkin, L.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "DANCE",
+		"code": "211D",
+		"title": "Advanced Choreography",
+		"professor": "Gutierrez, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "DANCE",
+		"code": "C252",
+		"title": "History and Theory of Modern/Postmodern Dance",
+		"professor": "Brannum, B.A."
+	}
+]

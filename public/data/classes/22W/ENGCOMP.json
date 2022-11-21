@@ -1,0 +1,303 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "1",
+		"title": "Introduction to University Discourse",
+		"professor": "Wartanian, R.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "1B",
+		"title": "High-Intermediate Composition for Multilingual Students",
+		"professor": "Lew, M.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "2",
+		"title": "Approaches to University Writing",
+		"professor": "Crosby, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "2",
+		"title": "Approaches to University Writing",
+		"professor": "Patchigondla, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "2",
+		"title": "Approaches to University Writing",
+		"professor": "Christensen, T.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "2I",
+		"title": "Approaches to University Writing for Multilingual Students",
+		"professor": "Sherwood, L.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "3",
+		"title": "English Composition, Rhetoric, and Language",
+		"professor": "Lisovsky, K.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "3",
+		"title": "English Composition, Rhetoric, and Language",
+		"professor": "Martinez, A.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "3",
+		"title": "English Composition, Rhetoric, and Language",
+		"professor": "Moe, M.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "3",
+		"title": "English Composition, Rhetoric, and Language",
+		"professor": "Popham, S.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "3",
+		"title": "English Composition, Rhetoric, and Language",
+		"professor": "Stone, B.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "3",
+		"title": "English Composition, Rhetoric, and Language",
+		"professor": "Wartanian, R.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "3",
+		"title": "English Composition, Rhetoric, and Language",
+		"professor": "Crawford, E.N.; Watson, D.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "3",
+		"title": "English Composition, Rhetoric, and Language",
+		"professor": "Mendoza, A.T.; Watson, D.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "3",
+		"title": "English Composition, Rhetoric, and Language",
+		"professor": "Sturgeon, G.T.; Watson, D.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "3",
+		"title": "English Composition, Rhetoric, and Language",
+		"professor": "Delchamps, V.P.; Watson, D.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "3",
+		"title": "English Composition, Rhetoric, and Language",
+		"professor": "Auger-Zivic, C.; Watson, D.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "5W",
+		"title": "Literature, Culture, and Critical Inquiry: Lecture 1  ",
+		"professor": "Chichester, T.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "5W",
+		"title": "Literature, Culture, and Critical Inquiry: Lecture 2  ",
+		"professor": "Chichester, T.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "5W",
+		"title": "Literature, Culture, and Critical Inquiry: Lecture 3  ",
+		"professor": "Kipen, D.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "5W",
+		"title": "Literature, Culture, and Critical Inquiry: Lecture 4  ",
+		"professor": "Kipen, D.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "5W",
+		"title": "Literature, Culture, and Critical Inquiry: Lecture 5  ",
+		"professor": "Mattenson, L.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "89HC",
+		"title": "Honors Contracts",
+		"professor": "Chichester, T.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "100W",
+		"title": "Interdisciplinary Academic Writing: Lecture 1  ",
+		"professor": "Fallows, R.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "100W",
+		"title": "Interdisciplinary Academic Writing: Lecture 2  ",
+		"professor": "Fallows, R.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "100W",
+		"title": "Interdisciplinary Academic Writing: Lecture 3  ",
+		"professor": "McIver, M.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "100W",
+		"title": "Interdisciplinary Academic Writing: Lecture 4  ",
+		"professor": "McIver, M.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "100W",
+		"title": "Interdisciplinary Academic Writing: Lecture 5  ",
+		"professor": "Jaurretche, C.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "130D",
+		"title": "Professional Writing: Nonprofits and Public Engagement",
+		"professor": "West, A.I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "130E",
+		"title": "Professional Writing: Arts and Entertainment",
+		"professor": "Davis, M.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "130E",
+		"title": "Professional Writing: Arts and Entertainment",
+		"professor": "Westrup, L.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "131B",
+		"title": "Specialized Writing: Business and Social Policy",
+		"professor": "Hitchner, T.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "131B",
+		"title": "Specialized Writing: Business and Social Policy",
+		"professor": "Juliano, L.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "131B",
+		"title": "Specialized Writing: Business and Social Policy",
+		"professor": "Hartenberger, L.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "133",
+		"title": "Topics in Writing for Multimedia Environments: Lecture 1  ",
+		"professor": "Manojlovic, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "134",
+		"title": "Topics in Science Writing: Lecture 1  ",
+		"professor": "Christensen, T.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "M138",
+		"title": "Topics in Creative Writing: Seminar 1  ",
+		"professor": "Allmendinger, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "M138",
+		"title": "Topics in Creative Writing: Seminar 2  ",
+		"professor": "Snelson, D.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "M138",
+		"title": "Topics in Creative Writing: Seminar 7  ",
+		"professor": "Deuel, N.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "M138",
+		"title": "Topics in Creative Writing: Seminar 8  ",
+		"professor": "Deuel, N.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "M141",
+		"title": "Current Methods of Language Teaching",
+		"professor": "Hualpa, L.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "175",
+		"title": "Apprenticeship in Composition Tutoring",
+		"professor": "Holten, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ENGCOMP",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "West, A.I."
+	}
+]

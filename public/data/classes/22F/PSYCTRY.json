@@ -1,0 +1,72 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCTRY",
+		"code": "19",
+		"title": "Internet Access as Human Right: Health, COVID-19, and Internet Inequities",
+		"professor": "Loeb, T.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCTRY",
+		"code": "19",
+		"title": "Mental Illness and Movies",
+		"professor": "Taylor, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCTRY",
+		"code": "79",
+		"title": "Applied Positive Neuroscience: Skills for Improving Productivity and Well-Being",
+		"professor": "Korb, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCTRY",
+		"code": "89HC",
+		"title": "Honors Contracts",
+		"professor": "Korb, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCTRY",
+		"code": "178",
+		"title": "Cannabis and Cannabinoids: From Pharmacology to Public Policy",
+		"professor": "Evans, C.J.; Cooper, Z.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCTRY",
+		"code": "188SA",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Wilson, R.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCTRY",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Evans, C.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCTRY",
+		"code": "197",
+		"title": "Individual Studies in Psychiatry",
+		"professor": "London, E.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCTRY",
+		"code": "M232",
+		"title": "Causal Inference",
+		"professor": "Belin, T.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCTRY",
+		"code": "292",
+		"title": "Functional Neuroanatomy for Neuropsychologists",
+		"professor": "Bookheimer, S.Y."
+	}
+]

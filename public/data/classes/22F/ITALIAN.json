@@ -1,0 +1,72 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "ITALIAN",
+		"code": "1",
+		"title": "Elementary Italian--Beginning",
+		"professor": "Truong, H.T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ITALIAN",
+		"code": "1",
+		"title": "Elementary Italian--Beginning",
+		"professor": "Falbo, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ITALIAN",
+		"code": "2",
+		"title": "Elementary Italian--Continued",
+		"professor": "Falbo, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ITALIAN",
+		"code": "3",
+		"title": "Elementary Italian--Continued",
+		"professor": "Di Rienzo, D.; Lavagnino, C.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ITALIAN",
+		"code": "5",
+		"title": "Intermediate Italian",
+		"professor": "Lavagnino, C.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ITALIAN",
+		"code": "6",
+		"title": "Intermediate Italian",
+		"professor": "Tognozzi, E.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ITALIAN",
+		"code": "42C",
+		"title": "Italy Through the Ages in English: Food and Literature in Italy",
+		"professor": "Tognozzi, E.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ITALIAN",
+		"code": "100",
+		"title": "Composition and Style",
+		"professor": "Ciavolella, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ITALIAN",
+		"code": "110",
+		"title": "Dante in English",
+		"professor": "Ciavolella, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ITALIAN",
+		"code": "116A",
+		"title": "Italian Renaissance: Renewal of Art and Thought",
+		"professor": "Ciavolella, M."
+	}
+]

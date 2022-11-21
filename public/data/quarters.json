@@ -1,0 +1,33 @@
+[
+	{
+		"comment": "Dates are in UTC! And start at 9 am (PT). Neither of these matter for the purpose of sorting, though.",
+		"short": "21F",
+		"long": "Fall 2021",
+		"date": 1632153600000
+	},
+	{
+		"short": "22W",
+		"long": "Winter 2022",
+		"date": 1641229200000
+	},
+	{
+		"short": "22S",
+		"long": "Spring 2022",
+		"date": 1648051200000
+	},
+	{
+		"short": "221",
+		"long": "Summer Sessions 2022",
+		"date": 1655827200000
+	},
+	{
+		"short": "22F",
+		"long": "Fall 2022",
+		"date": 1663603200000
+	},
+	{
+		"short": "23W",
+		"long": "Winter 2023",
+		"date": 1672851600000
+	}
+]

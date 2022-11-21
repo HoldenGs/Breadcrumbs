@@ -1,0 +1,233 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "19",
+		"title": "Introduction to Quantum Biology",
+		"professor": "Aiello, C.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "23",
+		"title": "Finding Industry Internship",
+		"professor": "Herrera, W.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "87",
+		"title": "Introduction to Engineering Disciplines",
+		"professor": "Hormozi, S.J.; Brandenberg, S.J.; Douglas, C.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "95",
+		"title": "Internship Studies in Engineering",
+		"professor": "Eskin, E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "95",
+		"title": "Internship Studies in Engineering",
+		"professor": "Herrera, W.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "96A",
+		"title": "Introduction to Engineering Design: 3D Pharmaceuticals",
+		"professor": "Schmidt, J.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "96A",
+		"title": "Introduction to Engineering Design: Autonomous Rover",
+		"professor": "Schmidt, J.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "96A",
+		"title": "Introduction to Engineering Design: Bionics",
+		"professor": "Schmidt, J.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "96A",
+		"title": "Introduction to Engineering Design: Combat Robotics",
+		"professor": "Schmidt, J.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "96A",
+		"title": "Introduction to Engineering Design: Drones",
+		"professor": "Schmidt, J.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "96A",
+		"title": "Introduction to Engineering Design: Machine Learning",
+		"professor": "Schmidt, J.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "96A",
+		"title": "Introduction to Engineering Design: Planes",
+		"professor": "Schmidt, J.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "96A",
+		"title": "Introduction to Engineering Design: Underwater Robotics",
+		"professor": "Schmidt, J.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "96E",
+		"title": "Introduction to Engineering Design: Electrocardiogram",
+		"professor": "Schmidt, J.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "96G",
+		"title": "Introduction to Engineering Design: Go-Karts",
+		"professor": "Schmidt, J.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "96I",
+		"title": "Introduction to Engineering Design: Internet of Things",
+		"professor": "Kaiser, W.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "96R",
+		"title": "Introduction to Engineering Design: Rockets",
+		"professor": "Schmidt, J.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "96R",
+		"title": "Introduction to Engineering Design: Rockets",
+		"professor": "Spearrin, R.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "110",
+		"title": "Introduction to Technology Management and Economics for Engineers",
+		"professor": "Bulu-Taciroglu, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "111",
+		"title": "Introduction to Finance and Marketing for Engineers",
+		"professor": "Bulu-Taciroglu, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "182EW",
+		"title": "Technology and Society",
+		"professor": "Villasenor, J.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "183EW",
+		"title": "Engineering and Society",
+		"professor": "Weltman, G.; Browne, D.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "188",
+		"title": "Special Courses in Engineering: Seminar 83  ",
+		"professor": "Rostamian, F.D.; Agrawal, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "188EW",
+		"title": "Experimental Courses in Engineering Ethics: Lecture 1  ",
+		"professor": "Browne, D.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "201",
+		"title": "Systems Engineering",
+		"professor": "Kung, K.C.; Sainaghi, P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "201",
+		"title": "Systems Engineering",
+		"professor": "Kung, K.C.; Cha, E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "205",
+		"title": "Model-Based Systems Engineering",
+		"professor": "Hecht, M.J.; Li, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "213",
+		"title": "Data and Business Analytics",
+		"professor": "Huang, B.K.; Lin, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "213",
+		"title": "Data and Business Analytics",
+		"professor": "Huang, B.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "214",
+		"title": "Management Communication",
+		"professor": "Gershwin, D.A.; Jin, Z.; Yang, J.; Sonagara, H.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "214",
+		"title": "Management Communication",
+		"professor": "Lao, J.; Lakshmi Narayan, N"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "215",
+		"title": "Entrepreneurship for Engineers",
+		"professor": "Huang, B.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGR",
+		"code": "215",
+		"title": "Entrepreneurship for Engineers",
+		"professor": "Huang, B.K.; Marin, E.J."
+	}
+]

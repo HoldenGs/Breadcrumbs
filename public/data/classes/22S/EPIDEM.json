@@ -1,0 +1,107 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "EPIDEM",
+		"code": "100",
+		"title": "Principles of Epidemiology",
+		"professor": "Javanbakht, M.; Arena, P.J.; Liu, X.; Zhang, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPIDEM",
+		"code": "CM175",
+		"title": "Terrorism, Counterterrorism, and Weapons of Mass Destruction: Practical Approach",
+		"professor": "Katona, P.; Beard, C.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPIDEM",
+		"code": "200C",
+		"title": "Methods III: Analysis",
+		"professor": "Nianogo, R.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPIDEM",
+		"code": "206",
+		"title": "Systems Science Modeling and Simulation in Epidemiology",
+		"professor": "Nianogo, R.A.; Dewey, G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPIDEM",
+		"code": "215",
+		"title": "Systematic Review and Meta-Analysis",
+		"professor": "Jeon, C.Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPIDEM",
+		"code": "217",
+		"title": "Social Networks and Public Health",
+		"professor": "Nishi, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPIDEM",
+		"code": "227",
+		"title": "AIDS: Major Public Health Challenge",
+		"professor": "Lee, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPIDEM",
+		"code": "228",
+		"title": "Biology of HIV",
+		"professor": "Zhen, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPIDEM",
+		"code": "240",
+		"title": "Cardiovascular Epidemiology",
+		"professor": "Wong, N.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPIDEM",
+		"code": "249",
+		"title": "Genetic Epidemiology I",
+		"professor": "Bailey, J.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPIDEM",
+		"code": "270",
+		"title": "Behavioral Epidemiology",
+		"professor": "Gorbach, P.M.; Khadka, N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPIDEM",
+		"code": "271",
+		"title": "Psychiatric Epidemiology",
+		"professor": "Mimiaga, M.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPIDEM",
+		"code": "C275",
+		"title": "Terrorism, Counterterrorism, and Weapons of Mass Destruction: Practical Approach",
+		"professor": "Katona, P.; Beard, C.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPIDEM",
+		"code": "292",
+		"title": "Advanced Seminar: Epidemiology",
+		"professor": "Ritz, B.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPIDEM",
+		"code": "293",
+		"title": "International HIV/AIDS Seminar",
+		"professor": "Detels, R."
+	}
+]

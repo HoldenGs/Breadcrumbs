@@ -1,0 +1,352 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "10",
+		"title": "Introduction to Statistical Reasoning",
+		"professor": "Cha, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "10",
+		"title": "Introduction to Statistical Reasoning",
+		"professor": "Wang, B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "10",
+		"title": "Introduction to Statistical Reasoning",
+		"professor": "Wu, G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "13",
+		"title": "Introduction to Statistical Methods for Life and Health Sciences",
+		"professor": "Zanontian, L.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "15",
+		"title": "Introduction to Data Science",
+		"professor": "Chen, M.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "19",
+		"title": "Hold &#39;em or Fold &#39;em: Poker and Probability",
+		"professor": "Paik Schoenberg, F"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "19",
+		"title": "Statistics and Portfolio Risk Management with Stock Market Applications",
+		"professor": "Christou, N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "20",
+		"title": "Introduction to Statistical Programming with R",
+		"professor": "Tsiang, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "100A",
+		"title": "Introduction to Probability",
+		"professor": "Paik Schoenberg, F"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "100A",
+		"title": "Introduction to Probability",
+		"professor": "Sanchez, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "100A",
+		"title": "Introduction to Probability",
+		"professor": "Montufar Cuartas,"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "100B",
+		"title": "Introduction to Mathematical Statistics",
+		"professor": "Christou, N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "100C",
+		"title": "Linear Models",
+		"professor": "Christou, N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "101C",
+		"title": "Introduction to Statistical Models and Data Mining",
+		"professor": "Almohalwas, A.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "101C",
+		"title": "Introduction to Statistical Models and Data Mining",
+		"professor": "Shi, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "102C",
+		"title": "Introduction to Monte Carlo Methods",
+		"professor": "Zhou, Q."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "102C",
+		"title": "Introduction to Monte Carlo Methods",
+		"professor": "Wu, G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "102C",
+		"title": "Introduction to Monte Carlo Methods",
+		"professor": "Chen, M.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "112",
+		"title": "Statistics: Window to Understanding Diversity",
+		"professor": "Esfandiari, M.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "115",
+		"title": "Probabilistic Decision Making",
+		"professor": "Gao, T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "140XP",
+		"title": "Practice of Statistical Consulting",
+		"professor": "Lew, V.; Fischer, E.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "140XP",
+		"title": "Practice of Statistical Consulting",
+		"professor": "Zes, D.A.; Fischer, E.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Gao, T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "195",
+		"title": "Community or Corporate Internships in Statistics",
+		"professor": "Almohalwas, A.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "195",
+		"title": "Community or Corporate Internships in Statistics",
+		"professor": "Tsiang, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "195",
+		"title": "Community or Corporate Internships in Statistics",
+		"professor": "Zes, D.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "195",
+		"title": "Community or Corporate Internships in Statistics",
+		"professor": "Lew, V."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "200A",
+		"title": "Applied Probability",
+		"professor": "Wu, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "201A",
+		"title": "Research Design, Sampling, and Analysis",
+		"professor": "Xu, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "202A",
+		"title": "Statistics Programming",
+		"professor": "Paik Schoenberg, F"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "203",
+		"title": "Large Sample Theory, Including Resampling",
+		"professor": "Li, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "M231A",
+		"title": "Pattern Recognition and Machine Learning",
+		"professor": "Wu, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "M243",
+		"title": "Logic, Causation, and Probability",
+		"professor": "Arah, O.A.; Assaf, R.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "290",
+		"title": "Current Literature in Statistics",
+		"professor": "Handcock, M.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "296",
+		"title": "Participating Seminar: Statistics",
+		"professor": "Amini, A.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "296",
+		"title": "Participating Seminar: Statistics",
+		"professor": "Fletcher, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "296",
+		"title": "Participating Seminar: Statistics",
+		"professor": "Gao, T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "296",
+		"title": "Participating Seminar: Statistics",
+		"professor": "Gould, R.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "296",
+		"title": "Participating Seminar: Statistics",
+		"professor": "Handcock, M.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "296",
+		"title": "Participating Seminar: Statistics",
+		"professor": "Hazlett, C.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "296",
+		"title": "Participating Seminar: Statistics",
+		"professor": "Li, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "296",
+		"title": "Participating Seminar: Statistics",
+		"professor": "Li, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "296",
+		"title": "Participating Seminar: Statistics",
+		"professor": "Madrid Padilla, O."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "296",
+		"title": "Participating Seminar: Statistics",
+		"professor": "McKinnon, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "296",
+		"title": "Participating Seminar: Statistics",
+		"professor": "Montufar Cuartas,"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "296",
+		"title": "Participating Seminar: Statistics",
+		"professor": "Paik Schoenberg, F"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "296",
+		"title": "Participating Seminar: Statistics",
+		"professor": "Wu, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "296",
+		"title": "Participating Seminar: Statistics",
+		"professor": "Xu, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "296",
+		"title": "Participating Seminar: Statistics",
+		"professor": "Zhou, Q."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "STATS",
+		"code": "296",
+		"title": "Participating Seminar: Statistics",
+		"professor": "Zhu, S."
+	}
+]

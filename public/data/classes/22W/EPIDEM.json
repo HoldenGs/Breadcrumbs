@@ -1,0 +1,51 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "EPIDEM",
+		"code": "100",
+		"title": "Principles of Epidemiology",
+		"professor": "Heck, J.E.; Qian, Y.; Han, S.; Huang, X.; Chen, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPIDEM",
+		"code": "200B",
+		"title": "Methods II: Prediction and Validity",
+		"professor": "Ritz, B.R.; Li, S.; Zhang, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPIDEM",
+		"code": "207",
+		"title": "Reproducibility in Epidemiologic Research",
+		"professor": "Mayeda, E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPIDEM",
+		"code": "219",
+		"title": "Strategies for Increasing Sensitivity and Validity of Epidemiologic Studies",
+		"professor": "Weiss, N.S.; Zhang, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPIDEM",
+		"code": "220",
+		"title": "Principles of Infectious Disease Epidemiology",
+		"professor": "Rimoin, A.W.; Bratcher, A.M.; Beard, C.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPIDEM",
+		"code": "M254",
+		"title": "Nutritional Epidemiology I",
+		"professor": "Michels, K.B.; Kim, C.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EPIDEM",
+		"code": "292",
+		"title": "Advanced Seminar: Epidemiology",
+		"professor": "Michels, K.B."
+	}
+]

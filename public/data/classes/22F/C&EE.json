@@ -1,0 +1,184 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "C&EE",
+		"code": "M20",
+		"title": "Introduction to Computer Programming with MATLAB",
+		"professor": "Lopez Droguett, E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "C&EE",
+		"code": "91",
+		"title": "Statics",
+		"professor": "Andrei, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "C&EE",
+		"code": "C111",
+		"title": "Machine Learning and Artificial Intelligence for Civil Engineering",
+		"professor": "Bauchy, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "C&EE",
+		"code": "120",
+		"title": "Principles of Soil Mechanics",
+		"professor": "Brandenberg, S.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "C&EE",
+		"code": "C128",
+		"title": "Geohazards and Infrastructure Resilience",
+		"professor": "Yin, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "C&EE",
+		"code": "135A",
+		"title": "Elementary Structural Analysis",
+		"professor": "Ju, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "C&EE",
+		"code": "135L",
+		"title": "Structural Design and Testing Laboratory",
+		"professor": "Ahlberg, E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "C&EE",
+		"code": "C137",
+		"title": "Elementary Structural Dynamics",
+		"professor": "Narasimhan, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "C&EE",
+		"code": "141",
+		"title": "Steel Structures",
+		"professor": "English, J.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "C&EE",
+		"code": "150",
+		"title": "Introduction to Hydrology",
+		"professor": "Margulis, S.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "C&EE",
+		"code": "153",
+		"title": "Introduction to Environmental Engineering Science",
+		"professor": "Mohanty, S.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "C&EE",
+		"code": "155",
+		"title": "Unit Operations and Processes for Water and Wastewater Treatment",
+		"professor": "Jassby, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "C&EE",
+		"code": "156A",
+		"title": "Environmental Chemistry Laboratory",
+		"professor": "Lau, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "C&EE",
+		"code": "C181",
+		"title": "Traffic Engineering Systems: Operations and Control",
+		"professor": "Ma, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "C&EE",
+		"code": "190",
+		"title": "Professional Practice",
+		"professor": "Sabol, T.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "C&EE",
+		"code": "194",
+		"title": "Research Group Seminars: Civil and Environmental Engineering: Seminar 1  ",
+		"professor": "Bauchy, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "C&EE",
+		"code": "200",
+		"title": "Civil and Environmental Engineering Graduate Seminar",
+		"professor": "Zhang, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "C&EE",
+		"code": "200",
+		"title": "Civil and Environmental Engineering Graduate Seminar",
+		"professor": "Gebremichael, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "C&EE",
+		"code": "C211",
+		"title": "Machine Learning and Artificial Intelligence for Civil Engineering",
+		"professor": "Bauchy, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "C&EE",
+		"code": "220",
+		"title": "Advanced Soil Mechanics",
+		"professor": "Stewart, J.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "C&EE",
+		"code": "C228",
+		"title": "Geohazards and Infrastructure Resilience",
+		"professor": "Yin, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "C&EE",
+		"code": "232",
+		"title": "Theory of Plates and Shells",
+		"professor": "Zhang, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "C&EE",
+		"code": "235A",
+		"title": "Advanced Structural Analysis",
+		"professor": "Burton, H.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "C&EE",
+		"code": "235A",
+		"title": "Advanced Structural Analysis",
+		"professor": "Taciroglu, E.; Dong, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "C&EE",
+		"code": "C239",
+		"title": "Elementary Structural Dynamics",
+		"professor": "Narasimhan, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "C&EE",
+		"code": "243A",
+		"title": "Behavior and Design of Reinforced Concrete Structural Elements",
+		"professor": "Wallace, J.W."
+	}
+]

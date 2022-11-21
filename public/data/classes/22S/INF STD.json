@@ -1,0 +1,107 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "INF STD",
+		"code": "10",
+		"title": "Information and Power",
+		"professor": "Wood, S.E.; Calzada, J.; Riley, M.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "INF STD",
+		"code": "20",
+		"title": "Digital Cultures and Societies",
+		"professor": "Srinivasan, R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "INF STD",
+		"code": "180",
+		"title": "Special Topics in Information Studies: Artificial Intelligence and Justice",
+		"professor": "Srinivasan, R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "INF STD",
+		"code": "213",
+		"title": "Current Issues in Librarianship",
+		"professor": "Furner, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "INF STD",
+		"code": "233",
+		"title": "Records and Information Resources Management",
+		"professor": "Ghaznavi, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "INF STD",
+		"code": "M253",
+		"title": "Medical Knowledge Representation",
+		"professor": "Taira, R.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "INF STD",
+		"code": "260",
+		"title": "Description and Access",
+		"professor": "Leazer, G.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "INF STD",
+		"code": "272",
+		"title": "Human/Computer Interaction",
+		"professor": "Lievrouw, L.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "INF STD",
+		"code": "289",
+		"title": "Seminar: Special Issues in Information Studies: Archival Studies Research Methods",
+		"professor": "Carbone, K.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "INF STD",
+		"code": "289",
+		"title": "Seminar: Special Issues in Information Studies: Audio Archiving",
+		"professor": "Vancour, S.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "INF STD",
+		"code": "289",
+		"title": "Seminar: Special Issues in Information Studies: Media Description and Access",
+		"professor": "Mendes, L.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "INF STD",
+		"code": "289",
+		"title": "Seminar: Special Issues in Information Studies: Performing Arts Librarianship",
+		"professor": "Carbone, K.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "INF STD",
+		"code": "289",
+		"title": "Seminar: Special Issues in Information Studies: Teaching Collections: Activism and Aesthetics in Modern Art of Book",
+		"professor": "Drucker, J.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "INF STD",
+		"code": "290",
+		"title": "Research Seminar: Information Studies",
+		"professor": "Leazer, G.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "INF STD",
+		"code": "291C",
+		"title": "Special Topics in Theory of Information Studies: Seminar 1  ",
+		"professor": "Caswell, M.L."
+	}
+]

@@ -1,0 +1,30 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COM LIT",
+		"code": "1E",
+		"title": "Social Media and Storytelling: Comparing Cultures",
+		"professor": "MacFadyen, D.W."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COM LIT",
+		"code": "4DW",
+		"title": "Literature and Writing: Great Books from World at Large",
+		"professor": "McKee, C.T."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COM LIT",
+		"code": "197",
+		"title": "Individual Studies in Comparative Literature",
+		"professor": "Komar, K.L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COM LIT",
+		"code": "198",
+		"title": "Honors Research in Comparative Literature",
+		"professor": "Komar, K.L."
+	}
+]

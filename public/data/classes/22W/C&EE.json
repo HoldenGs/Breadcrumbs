@@ -1,0 +1,177 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "C&EE",
+		"code": "M20",
+		"title": "Introduction to Computer Programming with MATLAB",
+		"professor": "Gao, E.X."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "C&EE",
+		"code": "102",
+		"title": "Dynamics of Particles and Bodies",
+		"professor": "Zheng, X."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "C&EE",
+		"code": "C104",
+		"title": "Structure, Processing, and Properties of Civil Engineering Materials",
+		"professor": "Sant, G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "C&EE",
+		"code": "108",
+		"title": "Introduction to Mechanics of Deformable Solids",
+		"professor": "Bauchy, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "C&EE",
+		"code": "108L",
+		"title": "Experimental Structural Mechanics",
+		"professor": "Ahlberg, E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "C&EE",
+		"code": "120L",
+		"title": "Soil Mechanics Laboratory",
+		"professor": "Eslami, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "C&EE",
+		"code": "121",
+		"title": "Design of Foundations and Earth Structures",
+		"professor": "Stewart, J.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "C&EE",
+		"code": "135B",
+		"title": "Intermediate Structural Analysis",
+		"professor": "Glassman, J.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "C&EE",
+		"code": "142",
+		"title": "Design of Reinforced Concrete Structures",
+		"professor": "Peng, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "C&EE",
+		"code": "147",
+		"title": "Design and Construction of Tall Buildings",
+		"professor": "Sabol, T.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "C&EE",
+		"code": "151",
+		"title": "Introduction to Water Resources Engineering",
+		"professor": "Gallien, T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "C&EE",
+		"code": "154",
+		"title": "Chemical Fate and Transport in Aquatic Environments",
+		"professor": "Jay, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "C&EE",
+		"code": "154",
+		"title": "Chemical Fate and Transport in Aquatic Environments",
+		"professor": "Jay, J.A.; Callejas, I.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "C&EE",
+		"code": "156B",
+		"title": "Environmental Engineering Unit Operations and Processes Laboratory",
+		"professor": "Lau, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "C&EE",
+		"code": "157L",
+		"title": "Hydrologic Analysis",
+		"professor": "Gebremichael, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "C&EE",
+		"code": "164",
+		"title": "Sustainable Waste Management",
+		"professor": "Mohanty, S.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "C&EE",
+		"code": "M166",
+		"title": "Environmental Microbiology",
+		"professor": "Mahendra, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "C&EE",
+		"code": "C185",
+		"title": "Transportation Systems Analysis",
+		"professor": "Ma, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "C&EE",
+		"code": "194",
+		"title": "Research Group Seminars: Civil and Environmental Engineering: Seminar 2  ",
+		"professor": "Sant, G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "C&EE",
+		"code": "194",
+		"title": "Research Group Seminars: Civil and Environmental Engineering: Seminar 3  ",
+		"professor": "Jay, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "C&EE",
+		"code": "200",
+		"title": "Civil and Environmental Engineering Graduate Seminar",
+		"professor": "Burton, H.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "C&EE",
+		"code": "200",
+		"title": "Civil and Environmental Engineering Graduate Seminar",
+		"professor": "Mohanty, S.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "C&EE",
+		"code": "C204",
+		"title": "Structure, Processing, and Properties of Civil Engineering Materials",
+		"professor": "Sant, G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "C&EE",
+		"code": "221",
+		"title": "Advanced Foundation Engineering",
+		"professor": "Hudson, M.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "C&EE",
+		"code": "227",
+		"title": "Numerical Methods in Geotechnical Engineering",
+		"professor": "Brandenberg, S.J."
+	}
+]

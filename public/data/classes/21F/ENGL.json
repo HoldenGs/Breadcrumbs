@@ -1,0 +1,737 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "4HW",
+		"title": "Critical Reading and Writing (Honors)",
+		"professor": "Kello, R.A.; Goyal, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "4W",
+		"title": "Critical Reading and Writing",
+		"professor": "Bischoff, S.A.; Goyal, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "4W",
+		"title": "Critical Reading and Writing",
+		"professor": "Solis, S.; Goyal, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "4W",
+		"title": "Critical Reading and Writing",
+		"professor": "Martinez, S.M.; Goyal, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "4W",
+		"title": "Critical Reading and Writing",
+		"professor": "Goyal, Y.; Chhay, R.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "4W",
+		"title": "Critical Reading and Writing",
+		"professor": "Goyal, Y.; Ridder, E.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "4WX",
+		"title": "Critical Reading and Writing (Community-Engaged Learning)",
+		"professor": "Cardon, K.N.; Goyal, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "10A",
+		"title": "Literatures in English to 1700",
+		"professor": "Fisher, M.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "10B",
+		"title": "Literatures in English, 1700 to 1850",
+		"professor": "Makdisi, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "11",
+		"title": "Introduction to American Cultures",
+		"professor": "Silva, C.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "19",
+		"title": "Bipolar Disorder, Anosognosia, and Creativity",
+		"professor": "Cheung, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "19",
+		"title": "Prison and Literary Production",
+		"professor": "Thomas, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "19",
+		"title": "Silence of Lamb: Animals as Persons in Literature, Law, and Sciences",
+		"professor": "Thomas, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "20W",
+		"title": "Introduction to Creative Writing",
+		"professor": "Prucha, N.A.; Goyal, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "20W",
+		"title": "Introduction to Creative Writing",
+		"professor": "Stanford, C.M.; Goyal, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "M50",
+		"title": "Introduction to Visual Culture",
+		"professor": "Hornby, L.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "85",
+		"title": "American Novel",
+		"professor": "Mott, C.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "87",
+		"title": "Topics in American Cultures: Fever",
+		"professor": "Looby, C.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "89",
+		"title": "Honors Seminars: Honors Seminar for English 85",
+		"professor": "Mott, C.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "89HC",
+		"title": "Honors Contracts",
+		"professor": "Makdisi, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "90",
+		"title": "Shakespeare",
+		"professor": "Little, A.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "M101B",
+		"title": "Queer Literatures and Cultures, 1850 to 1970: Intimacy of Queer Life in Early Queer Literature",
+		"professor": "Little, A.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "M102A",
+		"title": "Historical Survey of Asian American Literature",
+		"professor": "Toy, G.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "M104A",
+		"title": "Early African American Literature",
+		"professor": "Yarborough, R.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "M104E",
+		"title": "Topics in African American Literature and Culture: Lecture 2  ",
+		"professor": "Turner, P.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "M104E",
+		"title": "Topics in African American Literature and Culture: Poetics of Soul Food",
+		"professor": "Mullen, H.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "M105C",
+		"title": "Chicana/Chicano Literature since el Movimiento, 1970s to Present",
+		"professor": "Perez-Torres, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "M107A",
+		"title": "Studies in Women&#39;s Writing: Interiors: Women of Color Writing Self",
+		"professor": "Lee, S.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "110A",
+		"title": "Writing in English Major: Analytical",
+		"professor": "Stephan, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "110A",
+		"title": "Writing in English Major: Analytical",
+		"professor": "Bistline, E.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "115D",
+		"title": "Detective Fiction",
+		"professor": "Allmendinger, B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "119",
+		"title": "Literary Cities: Literary London: Tales of Two Cities",
+		"professor": "Makdisi, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "120",
+		"title": "History of Aesthetics and Critical Theory",
+		"professor": "Huehls, M.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "122",
+		"title": "Keywords in Theory: Culture",
+		"professor": "Dimuro, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "128",
+		"title": "Postcolonial and Transnational Theory: Writing Resistance, from Empire to Decolonization",
+		"professor": "Newman, S.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "129",
+		"title": "Topics in Genre Studies, Interdisciplinary Studies, and Critical Theory: Novels and Networks",
+		"professor": "Seltzer, M.I."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "129",
+		"title": "Topics in Genre Studies, Interdisciplinary Studies, and Critical Theory: Walking in Literature and Art",
+		"professor": "Hornby, L.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "130",
+		"title": "Introduction to Postcolonial Literatures",
+		"professor": "D'Aguiar, F.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "132",
+		"title": "Culture and Imperialism: Cultural Encounters in Age of Empire",
+		"professor": "Behdad, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "135",
+		"title": "Literature of Americas: What was America?",
+		"professor": "Fosbury, T.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "136",
+		"title": "Creative Writing: Poetry",
+		"professor": "D'Aguiar, F.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "136",
+		"title": "Creative Writing: Poetry",
+		"professor": "Kevorkian, K.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "137",
+		"title": "Creative Writing: Short Story",
+		"professor": "Rahmani, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "137",
+		"title": "Creative Writing: Short Story",
+		"professor": "Torres, J.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "139",
+		"title": "Individual Authors: Charlotte Bront&#235;",
+		"professor": "Stephan, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "139",
+		"title": "Individual Authors: James Joyce",
+		"professor": "Jaurretche, C.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "142",
+		"title": "Later Medieval Literature: Lecture 1  ",
+		"professor": "Thomas, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "145",
+		"title": "Medieval Literatures of Devotion and Dissent: Virgin, Wife, and Widow: Dissent and Dominance in Lives of Holy Women",
+		"professor": "Thomas, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "146",
+		"title": "Medieval Story Cycles and Collections: Framing Premodern Women",
+		"professor": "Chism, C.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "150A",
+		"title": "Shakespeare: Poems and Early Plays",
+		"professor": "McEachern, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "150B",
+		"title": "Shakespeare: Later Plays",
+		"professor": "Watson, R.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "150C",
+		"title": "Topics in Shakespeare: Resourceful Shakespeare: Origins, Analogs, and Offshoots",
+		"professor": "Dickey, S.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "151",
+		"title": "Milton",
+		"professor": "McEachern, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "153",
+		"title": "Theatrical Renaissance: Early Modern Texts and Performances: Staging Race in Early Modern England",
+		"professor": "Wagner, A.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "157",
+		"title": "Translation and Innovation in English Renaissance and Early Modern Period: Ancient Foundations of Modernity: Renaissance Translations from Classics",
+		"professor": "Shuger, D.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "161C",
+		"title": "Novel in English to 1850: Rise of the Novel",
+		"professor": "Kareem, S.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "164B",
+		"title": "19th-Century Critical Prose: Women&#39;s Writing about Politics and Society in 19th-Century Britain",
+		"professor": "Vignola, M.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "166A",
+		"title": "Colonial Beginnings of American Literature",
+		"professor": "Silva, C.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "166C",
+		"title": "American Literature, 1832 to 1865",
+		"professor": "Colacurcio, M.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "168",
+		"title": "Major American Writers",
+		"professor": "Gallagher, M.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "170A",
+		"title": "American Literature, 1865 to 1900",
+		"professor": "Looby, C.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "170B",
+		"title": "American Literature, 1900 to 1945",
+		"professor": "Huehls, M.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "173C",
+		"title": "Contemporary American Poetry: Useful Poetry",
+		"professor": "Wilson, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "177",
+		"title": "Interdisciplinary Studies of American Culture: Culture and Social Change, from Joe McCarthy to Ronald Reagan",
+		"professor": "Perez-Torres, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "181A",
+		"title": "Topics in Genre Studies: Crime Stories",
+		"professor": "Seltzer, M.I."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "181A",
+		"title": "Topics in Genre Studies: Theory of Novel",
+		"professor": "Dimuro, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "183B",
+		"title": "Topics in 19th-Century American Literature: Transcendentalism",
+		"professor": "Gallagher, M.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "183C",
+		"title": "Topics in 20th- and 21st-Century American Literature: Immigrant Stories, Literary and Cinematic",
+		"professor": "Decker, J.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "183C",
+		"title": "Topics in 20th- and 21st-Century American Literature: Literature of Beat Generation",
+		"professor": "Dickey, S.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "184",
+		"title": "Capstone Seminar: English: Feminist Classroom: Gender, Knowledge, and Pedagogy",
+		"professor": "Lee, S.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "184",
+		"title": "Capstone Seminar: English: Narrating 1960s: Creative Nonfiction in Age of Electronic Media",
+		"professor": "Decker, J.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "188SA",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Jaurretche, C.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "McEachern, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Toy, G.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Stephan, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "190H",
+		"title": "Honors Research Colloquia in English",
+		"professor": "Fosbury, T.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "M191A",
+		"title": "Topics in African American Literature: Seminar 1  ",
+		"professor": "Streeter, C.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "M191P",
+		"title": "Careers in Humanities",
+		"professor": "MacFadyen, D.W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "M192",
+		"title": "Undergraduate Practicum in English: Journals",
+		"professor": "Wilson, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "195CE",
+		"title": "Community and Corporate Internships in English",
+		"professor": "Cook, J.R.; Dimuro, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Torres, J.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Allmendinger, B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Huehls, M.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Fisher, M.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Kareem, S.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "McHugh, K.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Behdad, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Yarborough, R.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Simpson, M.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Ling, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Dimuro, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Makdisi, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "North, M.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Stefans, B.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Stephan, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Hornby, L.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Shuger, D.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Grossman, J.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Lee, S.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Wilson, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "198A",
+		"title": "Honors Research in English",
+		"professor": "Lopez, M.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "200",
+		"title": "Graduate Proseminar",
+		"professor": "Sharpe, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "250",
+		"title": "Restoration and 18th-Century Literature",
+		"professor": "Kareem, S.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "254",
+		"title": "American Literature to 1900",
+		"professor": "Lopez, M.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ENGL",
+		"code": "257",
+		"title": "Methods and Tools for Study of Literature and Culture",
+		"professor": "Fisher, M.N."
+	}
+]

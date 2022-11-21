@@ -1,0 +1,30 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "SCAND",
+		"code": "375",
+		"title": "Teaching Apprentice Practicum",
+		"professor": "Karlsson, E.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SCAND",
+		"code": "596",
+		"title": "Directed Individual Study or Research",
+		"professor": "Ball, K.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SCAND",
+		"code": "597",
+		"title": "Preparation for MA Comprehensive Examination or PhD Qualifying Examinations",
+		"professor": "Ball, K.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SCAND",
+		"code": "599",
+		"title": "Research for and Preparation of PhD Dissertation",
+		"professor": "Wen, P.J."
+	}
+]

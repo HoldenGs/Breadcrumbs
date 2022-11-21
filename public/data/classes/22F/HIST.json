@@ -1,0 +1,527 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "1A",
+		"title": "Introduction to Western Civilization: Ancient Civilizations, Prehistory to circa AD 843",
+		"professor": "Phillips, D.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "1B",
+		"title": "Introduction to Western Civilization: Circa 843 to circa 1715",
+		"professor": "Tutino, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "2C",
+		"title": "Religion, Occult, and Science: Mystics, Heretics, and Witches in Western Tradition, 1000 to 1600",
+		"professor": "Ruiz, T.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "3A",
+		"title": "History of Science: Renaissance to 1800",
+		"professor": "Alexander, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "8A",
+		"title": "Colonial Latin America",
+		"professor": "Terraciano, K.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "9A",
+		"title": "Introduction to Asian Civilizations: History of India",
+		"professor": "Subrahmanyam, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "9D",
+		"title": "Introduction to Asian Civilizations: History of Middle East",
+		"professor": "Gelvin, J.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "13A",
+		"title": "History of the U.S. and Its Colonial Origins: Colonial Origins and First Nation Building Acts",
+		"professor": "Meranze, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "19",
+		"title": "Los Angeles: Architecture and Ethnicity",
+		"professor": "Ruiz, T.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "20",
+		"title": "World History to AD 600",
+		"professor": "Green, N.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "89",
+		"title": "Honors Seminars: Honors Seminar for History 2C",
+		"professor": "Ruiz, T.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "89HC",
+		"title": "Honors Contracts",
+		"professor": "Ruiz, T.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "94",
+		"title": "What Is History? An Introduction to Historical Thinking and Practice",
+		"professor": "Myers, D.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "96W",
+		"title": "Introduction to Historical Practice: Afro-Asian Intimacies: Long History of Solidarity and Community Building",
+		"professor": "Huang, Q.; Derby, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "96W",
+		"title": "Introduction to Historical Practice: Beyond Theory and Praxis: Black Radical Tradition",
+		"professor": "Munoz, J.; Derby, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "96W",
+		"title": "Introduction to Historical Practice: Critical Area Studies: Languages, Regions, and Colonialism",
+		"professor": "Anantha Krishna, V; Derby, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "96W",
+		"title": "Introduction to Historical Practice: Finance and Empires: Global History",
+		"professor": "Hao, X.; Derby, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "96W",
+		"title": "Introduction to Historical Practice: History of Political Representation",
+		"professor": "Messarra, S.N.; Derby, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "96W",
+		"title": "Introduction to Historical Practice: Power and the Beautiful Game: Global History of Soccer",
+		"professor": "Dean, M.Z.; Derby, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "96W",
+		"title": "Introduction to Historical Practice: Psychedelics: Recreational Drugs, Medicines, or Tools for Spiritual Awakening",
+		"professor": "Green, J.O.; Derby, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "97C",
+		"title": "Introduction to Historical Practice: Variable Topics in European History: Approaches to Cultural History: Studies of Elite and PopularCulture, 1450-2022",
+		"professor": "Silverman, D.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "97C",
+		"title": "Introduction to Historical Practice: Variable Topics in European History: Plotting History: Conspiracy and Politics in Late 17th-Century England",
+		"professor": "McClendon, M.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "105A",
+		"title": "Survey of Middle East, 500 to Present: 500 to 1300",
+		"professor": "Morony, M.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "111B",
+		"title": "Topics in Middle Eastern History: Early Modern: Ottoman-European Encounters in Early Modern Period: Diplomacy, Trade, Piracy, and Travelers",
+		"professor": "Momdjian, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "113A",
+		"title": "History of Ancient Greece: Rise of Greek City-State",
+		"professor": "Phillips, D.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "114A",
+		"title": "History of Rome to Death of Caesar",
+		"professor": "Langdon, J.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "120B",
+		"title": "East-Central Europe: Short 20th Century, 1918 to 1990",
+		"professor": "McBride, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "124B",
+		"title": "History of France: France, 1715 to 1871",
+		"professor": "Ford, C.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "M127A",
+		"title": "History of Russia, Origins to Rise of Muscovy",
+		"professor": "Lenhoff, G.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "127B",
+		"title": "History of Russia: Imperial Russia from Peter the Great to Nicholas II",
+		"professor": "Frank, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "142B",
+		"title": "Intellectual History of U.S.",
+		"professor": "Corey, M.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "142D",
+		"title": "American Popular Culture",
+		"professor": "Avila, E.R.; Buse, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "148",
+		"title": "Introduction to Public/Applied History",
+		"professor": "Paul, T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "149A",
+		"title": "North American Indian History, Precontact to 1830",
+		"professor": "Sladeck, J.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "170D",
+		"title": "20th-Century China",
+		"professor": "Wong, R.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "179A",
+		"title": "Variable Topics in History of Medicine: Foundations of Modern Medicine",
+		"professor": "Zeleny, C.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "187A",
+		"title": "Variable Topics Historiography Proseminar: Ancient History: Historiography, Tragedy, and Comedy: Early Greek Historians and Their Contemporaries",
+		"professor": "Vivian, A.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "187A",
+		"title": "Variable Topics Historiography Proseminar: Ancient History: Marxism, Racial and Ethnic Studies, and Gender Theory in Ancient Greek History",
+		"professor": "Vivian, A.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "187C",
+		"title": "Variable Topics Historiography Proseminar: Europe: Comparative Fascism, 1920s to Present",
+		"professor": "Griffith, B.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "187F",
+		"title": "Variable Topics Historiography Proseminar: Near East: Everyday Ottoman Life: Material Culture and Commodities in Early Modern Period",
+		"professor": "Momdjian, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "187J",
+		"title": "Variable Topics Historiography Proseminar: Africa: Debating Africa&#39;s Pasts",
+		"professor": "Frederick, H.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "C187O",
+		"title": "Topics in Historiography: World History: Environmental History in Global Perspective",
+		"professor": "Ford, C.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "McBride, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Sladeck, J.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "191C",
+		"title": "Capstone Seminar: History--Europe: Imperial Cities",
+		"professor": "Nasiali, M.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "C191D",
+		"title": "Topics in History: U.S.: Public History: Commemoration and Los Angeles Street Names",
+		"professor": "Paul, T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "191I",
+		"title": "Capstone Seminar: History--Science/Technology: American Census: Politics, Race, and Numbers",
+		"professor": "Porter, T.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "C191L",
+		"title": "Topics in History: Jewish History: Narrative, Negotiation, and Mediation in Israeli-Palestinian Conflict: Past Lessons, Future Opportunities",
+		"professor": "Myers, D.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "C191N",
+		"title": "Topics in History: India: History of Modern Afghanistan: Islam, Modernism, and Transnationalism",
+		"professor": "Green, N.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "C191N",
+		"title": "Topics in History: India: Issues and Debates in South Asian Historiography",
+		"professor": "Subrahmanyam, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "M194DC",
+		"title": "Quarter in Washington, DC, Research Seminar",
+		"professor": "Williams, J.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "195",
+		"title": "Community or Corporate Internships in History",
+		"professor": "Paul, T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "195CE",
+		"title": "Community and Corporate Internships in History",
+		"professor": "Paul, T.; Carcamo, J.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "198B",
+		"title": "Honors Research in History",
+		"professor": "Pestana, C.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "198B",
+		"title": "Honors Research in History",
+		"professor": "Apter, A.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "198B",
+		"title": "Honors Research in History",
+		"professor": "Stacey, P.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "198B",
+		"title": "Honors Research in History",
+		"professor": "Myers, D.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "198B",
+		"title": "Honors Research in History",
+		"professor": "Frederick, H.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "198B",
+		"title": "Honors Research in History",
+		"professor": "Koh, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "198B",
+		"title": "Honors Research in History",
+		"professor": "Kelley, R.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "198B",
+		"title": "Honors Research in History",
+		"professor": "Corey, M.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "198B",
+		"title": "Honors Research in History",
+		"professor": "Higbie, F.T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "198B",
+		"title": "Honors Research in History",
+		"professor": "McClendon, M.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "198B",
+		"title": "Honors Research in History",
+		"professor": "Goldman, A.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "198B",
+		"title": "Honors Research in History",
+		"professor": "Wong, R.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "198B",
+		"title": "Honors Research in History",
+		"professor": "Nasiali, M.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "201E",
+		"title": "Topics in History: Modern Europe: Theories of Diaspora, Immigration, and Migration",
+		"professor": "Penny, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "C201K",
+		"title": "Topics in History: India: History of Modern Afghanistan: Islam, Modernism, and Transnationalism",
+		"professor": "Green, N.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "C201K",
+		"title": "Topics in History: India: Issues and Debates in South Asian Historiography",
+		"professor": "Subrahmanyam, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "C201R",
+		"title": "Topics in History: Jewish History: Narrative, Negotiation, and Mediation in Israeli-Palestinian Conflict: Past Lessons, Future Opportunities",
+		"professor": "Myers, D.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "204A",
+		"title": "Departmental Seminar: Approaches, Methods, Debates, Practices",
+		"professor": "Terraciano, K.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "246A",
+		"title": "Introduction to U.S. History: Colonial Period",
+		"professor": "Meranze, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "275A",
+		"title": "Colloquium: African History",
+		"professor": "Apter, A.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "282A",
+		"title": "Seminar: Chinese History: Seminar 1  ",
+		"professor": "Wong, R.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "HIST",
+		"code": "285A",
+		"title": "Seminar: Japanese History: Seminar 1  ",
+		"professor": "Marotti, W."
+	}
+]

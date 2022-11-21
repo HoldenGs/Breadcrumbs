@@ -1,0 +1,30 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "S ASIAN",
+		"code": "150",
+		"title": "Classical Indian Literature in Translation",
+		"professor": "Loukota Sanclement"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "S ASIAN",
+		"code": "CM160",
+		"title": "Buddhism in India",
+		"professor": "Loukota Sanclement"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "S ASIAN",
+		"code": "M222B",
+		"title": "Vedic",
+		"professor": "Jamison, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "S ASIAN",
+		"code": "C260",
+		"title": "Buddhism in India",
+		"professor": "Loukota Sanclement"
+	}
+]

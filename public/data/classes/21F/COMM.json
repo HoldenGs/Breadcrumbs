@@ -1,0 +1,338 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "1",
+		"title": "Principles of Oral Communication",
+		"professor": "Hurwitz, B.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "1",
+		"title": "Principles of Oral Communication",
+		"professor": "Bridgewater, D.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "1",
+		"title": "Principles of Oral Communication",
+		"professor": "Arbabzadah, N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "1",
+		"title": "Principles of Oral Communication",
+		"professor": "McLean, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "1",
+		"title": "Principles of Oral Communication",
+		"professor": "West, A.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "10",
+		"title": "Introduction to Communication",
+		"professor": "Suman, M.W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "89",
+		"title": "Honors Seminars: Honors Seminar for Communication 10",
+		"professor": "Suman, M.W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "101",
+		"title": "Freedom of Communication",
+		"professor": "Kassabian, R.; Lai, E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "106",
+		"title": "Reporting America",
+		"professor": "Arbabzadah, N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "108",
+		"title": "Communication and Identity",
+		"professor": "Kicenski, K.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "109",
+		"title": "Entrepreneurial Communication",
+		"professor": "Peterson, S.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "121",
+		"title": "Communication Development",
+		"professor": "Warlaumont, A.S.; Bainbridge, C.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "122",
+		"title": "Visual Communication",
+		"professor": "Gao, T.; Parab, A.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "M125",
+		"title": "Talk and Social Institutions",
+		"professor": "Clayman, S.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "146",
+		"title": "Evolution of Mass Media Images",
+		"professor": "Huppin, M.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "M147",
+		"title": "Sociology of Mass Communication",
+		"professor": "Yeritsian, G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "150",
+		"title": "Methodologies in Communication Research",
+		"professor": "Lamberson, P.J.; Smith, A.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "151",
+		"title": "Computer-Mediated Communication",
+		"professor": "Groeling, T.J.; Luo, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "152",
+		"title": "Analysis of Communication Effects",
+		"professor": "Suman, M.W.; Mitra, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "168",
+		"title": "Communication and Media Law",
+		"professor": "Biagioli, M.; Raucci, P.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "175",
+		"title": "Criticism and Public Arts",
+		"professor": "Von Blum, P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "185",
+		"title": "Field Studies in Communication",
+		"professor": "Peterson, S.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "187",
+		"title": "Ethical and Policy Issues in Institutions of Mass Communication",
+		"professor": "Newton, J.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "188A",
+		"title": "Variable Topics in Mass Communication and Media Institutions: Narrative of Nonscripted Television",
+		"professor": "Jusko, J.A.; Badewitz, M.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "188A",
+		"title": "Variable Topics in Mass Communication and Media Institutions: Science Communication: Disseminating, Certifying, Disputing, and Falsifying Research",
+		"professor": "Biagioli, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "188D",
+		"title": "Variable Topics in Political and Legal Communication: Affect and Emotion in Political Communication",
+		"professor": "Soroka, S.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "188D",
+		"title": "Variable Topics in Political and Legal Communication: Entertainment and Politics",
+		"professor": "Soroka, S.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "188SA",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Kicenski, K.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Advanced Honors Seminar for Communication 151",
+		"professor": "Groeling, T.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Newton, J.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Von Blum, P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "195",
+		"title": "Summer Internships",
+		"professor": "Collett, J.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "195DB",
+		"title": "UCLA Daily Bruin and Student Media Internship",
+		"professor": "Groeling, T.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "198A",
+		"title": "Honors Research in Communication Studies",
+		"professor": "Peterson, S.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "198A",
+		"title": "Honors Research in Communication Studies",
+		"professor": "Suman, M.W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "210",
+		"title": "Communication Speaker Series",
+		"professor": "Bryant, G.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "215",
+		"title": "Communication Research Laboratory",
+		"professor": "Joo, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "215",
+		"title": "Communication Research Laboratory",
+		"professor": "Haselton, M.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "215",
+		"title": "Communication Research Laboratory",
+		"professor": "Lamberson, P.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "215",
+		"title": "Communication Research Laboratory",
+		"professor": "Soroka, S.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "215",
+		"title": "Communication Research Laboratory",
+		"professor": "Stroessner, S.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "215",
+		"title": "Communication Research Laboratory",
+		"professor": "Warlaumont, A.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "215",
+		"title": "Communication Research Laboratory",
+		"professor": "Steen, F.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "215",
+		"title": "Communication Research Laboratory",
+		"professor": "Kernell, G.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "215",
+		"title": "Communication Research Laboratory",
+		"professor": "Groeling, T.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "215",
+		"title": "Communication Research Laboratory",
+		"professor": "Johnson, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "215",
+		"title": "Communication Research Laboratory",
+		"professor": "Dale, R.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "COMM",
+		"code": "220",
+		"title": "Research Methods in Communication Science",
+		"professor": "Dale, R.A."
+	}
+]

@@ -1,0 +1,590 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "5",
+		"title": "Issues in Human Physiology: Diet and Exercise",
+		"professor": "Esdin, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "107",
+		"title": "Systems Anatomy",
+		"professor": "Friscia, A.R.; Phelps, P.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "111L",
+		"title": "Physiological Science Laboratory",
+		"professor": "Izadpanah, A.; Cooper, R.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "CM123",
+		"title": "Neurobiology of Sleep",
+		"professor": "Paul, K.N.; Poe, G.R.; Colwell, C.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "M135",
+		"title": "Dynamical Systems Modeling of Physiological Processes",
+		"professor": "Babiec, W.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "140",
+		"title": "Hormones and Behavior in Humans and Other Animals",
+		"professor": "Schlinger, B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "C144",
+		"title": "Neural Control of Physiological Systems",
+		"professor": "Gomez-Pinilla, F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "147",
+		"title": "Neurobiology of Learning and Memory",
+		"professor": "Glanzman, D.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "155",
+		"title": "Development and Structure of Musculoskeletal System",
+		"professor": "Tidball, J.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "165",
+		"title": "Comparative Animal Physiology",
+		"professor": "Frye, M.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "M178",
+		"title": "Quantitative Regulatory Biology and Signal Transduction",
+		"professor": "Deeds, E.J.; Hoffmann, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "M180A",
+		"title": "Neuroscience: From Molecules to Mind--Cellular and Systems Neuroscience",
+		"professor": "Piri, N.; Chandler, S.H.; White, S.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Gomez-Pinilla, F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Paul, K.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "192A",
+		"title": "Introduction to Collaborative Learning Theory and Practice",
+		"professor": "Friscia, A.R.; Phelps, P.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "192B",
+		"title": "Methods and Application of Collaborative Learning Theory in Physical Sciences",
+		"professor": "Friscia, A.R.; Phelps, P.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Arnold, A.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Rowat, A.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Chandler, S.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Cooper, R.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Crosbie, R.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Edgerton, V.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Fain, G.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Garfinkel, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Glanzman, D.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Gomez-Pinilla, F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Grinnell, A.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Paul, K.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Metzner, W.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Narins, P.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Phelps, P.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Schlinger, B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Yang, X."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Tidball, J.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "White, S.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Frye, M.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Walker, D.W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Xiao, X."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Correa, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Whiting, W.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Hsiao, E.Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Esdin, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "194A",
+		"title": "Research Group Seminars: Physiological Science",
+		"professor": "McEvoy, M.M.; Poe, G.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "194A",
+		"title": "Research Group Seminars: Physiological Science",
+		"professor": "Hasson, T.W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "196",
+		"title": "Research Apprenticeship in Physiological Science",
+		"professor": "Phelps, P.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "196",
+		"title": "Research Apprenticeship in Physiological Science",
+		"professor": "Paul, K.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "198A",
+		"title": "Honors Research in Physiological Science",
+		"professor": "Ghiani, C.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "M202",
+		"title": "Cellular Neurophysiology",
+		"professor": "O'Dell, T.J.; Olcese, R.; Khakh, B.S.; Sampath, A.P.; de Biase, L.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "CM223",
+		"title": "Neurobiology of Sleep",
+		"professor": "Paul, K.N.; Poe, G.R.; Colwell, C.S.; Vincent, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "C244",
+		"title": "Neural Control of Physiological Systems",
+		"professor": "Gomez-Pinilla, F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "289A",
+		"title": "Honing Your Skills as Researcher in Integrative Biology and Physiology",
+		"professor": "Rowat, A.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "289B",
+		"title": "Honing Your Skills as Researcher in Integrative Biology and Physiology",
+		"professor": "Rowat, A.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Colwell, C.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Chandler, S.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Edgerton, V.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Fain, G.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Grinnell, A.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Glanzman, D.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Schweizer, F.E.; Hoffman, L.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Schlinger, B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Xiao, X."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Tidball, J.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Arnold, A.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Berliner, J.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Narins, P.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Simmons, D.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Schlag, J.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Phelps, P.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Hovda, D.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Metzner, W.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Garfinkel, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Crosbie, R.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Reddy, S.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Gomez-Pinilla, F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Papazian, D.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "O'Dell, T.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "White, S.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Gordon, L.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Sun, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Voskuhl, R.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Denny, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Tontonoz, P.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Cooper, C.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Walker, D.W."
+	}
+]

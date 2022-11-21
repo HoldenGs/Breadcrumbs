@@ -1,0 +1,51 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "SLAVC",
+		"code": "M20",
+		"title": "Visible Language: Study of Writing",
+		"professor": "Konstantopoulos, G"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "SLAVC",
+		"code": "188A",
+		"title": "Introduction to Eurasia: Lecture 1  ",
+		"professor": "Keen, D.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "SLAVC",
+		"code": "188B",
+		"title": "Languages of Eastern Europe and Eurasia: Tutorial 1  ",
+		"professor": "Keen, D.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "SLAVC",
+		"code": "191TC",
+		"title": "Senior Capstone Thesis in Slavic Languages and Literatures",
+		"professor": "Furman, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "SLAVC",
+		"code": "197",
+		"title": "Individual Studies in Slavic Languages and Literatures",
+		"professor": "Koropeckyj, R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "SLAVC",
+		"code": "198B",
+		"title": "Honors Research in Slavic, East European, and Eurasian Languages and Cultures",
+		"professor": "Shneyder, V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "SLAVC",
+		"code": "198C",
+		"title": "Honors Research in Slavic, East European, and Eurasian Languages and Cultures",
+		"professor": "Koropeckyj, R."
+	}
+]

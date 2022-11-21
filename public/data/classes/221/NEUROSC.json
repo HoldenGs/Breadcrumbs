@@ -1,0 +1,51 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "NEUROSC",
+		"code": "10",
+		"title": "Brain Made Simple: Neuroscience for 21st Century",
+		"professor": "Babiec, W.E."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "NEUROSC",
+		"code": "20",
+		"title": "Introduction to Neuroscience Methods: Art and Science of Studying Brain",
+		"professor": "Romero, R."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "NEUROSC",
+		"code": "102",
+		"title": "Introduction to Functional Anatomy of Central Nervous System",
+		"professor": "Le Belle, J."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "NEUROSC",
+		"code": "150",
+		"title": "Biotechnology in Neuroscience",
+		"professor": "Ge, W."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "NEUROSC",
+		"code": "M161",
+		"title": "Personal Brain Management",
+		"professor": "Bilder, R.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "NEUROSC",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Le Belle, J."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "NEUROSC",
+		"code": "192A",
+		"title": "Practicum in Neuroanatomy for Undergraduate Assistants",
+		"professor": "Le Belle, J."
+	}
+]

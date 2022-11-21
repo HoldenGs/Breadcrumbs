@@ -1,0 +1,394 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "10",
+		"title": "Introductory Psychology",
+		"professor": "Wong, J."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "10",
+		"title": "Introductory Psychology",
+		"professor": "Murphy, D.H.; Paquette-Smith, M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "10",
+		"title": "Introductory Psychology",
+		"professor": "Paquette-Smith, M.; Neer, E.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "15",
+		"title": "Introductory Psychobiology",
+		"professor": "Yeh, M.S.; Paquette-Smith, M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "20A",
+		"title": "MATLAB Programming for Behavioral Sciences",
+		"professor": "Mansolf, M.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "20B",
+		"title": "Advanced Topics in MATLAB Programming for Behavioral Sciences",
+		"professor": "Frane, A.V."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "85",
+		"title": "Introduction to Cognitive Science",
+		"professor": "Cui, L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "100A",
+		"title": "Psychological Statistics",
+		"professor": "Rivas, M.J.; Strickland, L.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "100A",
+		"title": "Psychological Statistics",
+		"professor": "Rivas, M.J.; Oxford-Romeike, Z."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "100B",
+		"title": "Research Methods in Psychology",
+		"professor": "Clark, C.M.; Sklar, V.L.; Silaj, K.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "100B",
+		"title": "Research Methods in Psychology",
+		"professor": "Firstenberg, I.; Silaj, K.M.; Sklar, V.L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "110",
+		"title": "Fundamentals of Learning",
+		"professor": "Gonzalez Diaz, V.V"
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "115",
+		"title": "Principles of Behavioral Neuroscience",
+		"professor": "Ye, T."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "115",
+		"title": "Principles of Behavioral Neuroscience",
+		"professor": "Adhikari, A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "116A",
+		"title": "Behavioral Neuroscience Laboratory",
+		"professor": "Grisham, W.E."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "118",
+		"title": "Comparative Psychobiology",
+		"professor": "Cox, C."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "119V",
+		"title": "Brain and Art",
+		"professor": "Zaidel, D."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "119Y",
+		"title": "Psychobiology of Sexual Behavior",
+		"professor": "Wong, J.; Reid, A.C."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "120A",
+		"title": "Cognitive Psychology",
+		"professor": "Frane, A.V."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "120B",
+		"title": "Sensation and Perception",
+		"professor": "Shams, L."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "126",
+		"title": "Clinical Psychology Laboratory",
+		"professor": "Taylor, S.; Moodliar, R."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "127A",
+		"title": "Abnormal Psychology",
+		"professor": "Somers, J.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "129E",
+		"title": "Human Sexuality",
+		"professor": "Frederick, D.A.; Strickland, L.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "129F",
+		"title": "Clinical Psychology of Childhood and Adolescence",
+		"professor": "Ebbert, A.M.; Forman, S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "130",
+		"title": "Developmental Psychology",
+		"professor": "Paquette-Smith, M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "131",
+		"title": "Research in Developmental Psychology",
+		"professor": "Ankowski, A.N.; Kline, N.G."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "133D",
+		"title": "Social and Personality Development",
+		"professor": "Huemer, S.; Oxford-Romeike, Z."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "134B",
+		"title": "Applied Developmental Psychology: Preschool/School-Age Care and Education",
+		"professor": "Goff, B.S.; Patel, P.K."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "134C",
+		"title": "Advanced Applied Developmental Psychology",
+		"professor": "Goff, B.S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "134E",
+		"title": "Advanced Fieldwork in Applied Developmental Psychology",
+		"professor": "Goff, B.S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "134J",
+		"title": "Dynamic Perspectives on Parenting",
+		"professor": "Goff, B.S.; Tanaka, S.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "134K",
+		"title": "Effects of Early Adversity and Trauma",
+		"professor": "Goff, B.S.; Reid, A.C."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "135",
+		"title": "Social Psychology",
+		"professor": "Ward, A.H."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "136A",
+		"title": "Social Psychology Laboratory",
+		"professor": "Smurda, J.D.; Dolbier, S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "M139",
+		"title": "Perspectives on Autism and Neurodiversity",
+		"professor": "Tarleton, C.E."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "142H",
+		"title": "Advanced Statistical Methods in Psychology (Honors)",
+		"professor": "Ainsworth, A.T."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "168",
+		"title": "Organizational Psychology",
+		"professor": "Wimer, S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "186D",
+		"title": "Laboratory in Functional Neuroimaging",
+		"professor": "Reggente, N.R.; Lee, Y."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "188B",
+		"title": "Special Courses in Psychology: Psychology of COVID-19 Pandemic",
+		"professor": "Frederick, D.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "195B",
+		"title": "Corporate Internships in Cognitive Science",
+		"professor": "Fuchser, V.F."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "195B",
+		"title": "Corporate Internships in Cognitive Science",
+		"professor": "Lesko, R.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Karney, B.R."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Craske, M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Chung, A.S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Paquette-Smith, M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "196B",
+		"title": "Research Apprenticeship in Cognitive Science",
+		"professor": "Gallus, J."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "196B",
+		"title": "Research Apprenticeship in Cognitive Science",
+		"professor": "Karney, B.R."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "196B",
+		"title": "Research Apprenticeship in Cognitive Science",
+		"professor": "Fanselow, M.S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "196B",
+		"title": "Research Apprenticeship in Cognitive Science",
+		"professor": "Kellman, P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "196B",
+		"title": "Research Apprenticeship in Cognitive Science",
+		"professor": "Lu, H."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "196B",
+		"title": "Research Apprenticeship in Cognitive Science",
+		"professor": "Fuchser, V.F."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "196B",
+		"title": "Research Apprenticeship in Cognitive Science",
+		"professor": "Liu, Z."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "196B",
+		"title": "Research Apprenticeship in Cognitive Science",
+		"professor": "Gao, T."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "196B",
+		"title": "Research Apprenticeship in Cognitive Science",
+		"professor": "Mettler, E.W."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "199A",
+		"title": "Senior Project in Psychology",
+		"professor": "Cheng, P."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PSYCH",
+		"code": "199A",
+		"title": "Senior Project in Psychology",
+		"professor": "Perez, E.O."
+	}
+]

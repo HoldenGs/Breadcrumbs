@@ -1,0 +1,989 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "252",
+		"title": "Molecular Mechanisms of Human Diseases I",
+		"professor": "Yang, X."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "290C",
+		"title": "Tutorials: Integrative and Comparative Physiology",
+		"professor": "Hong, W.; Churchland, A.K.; Kao, J.C.; Buonomano, D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "290C",
+		"title": "Tutorials: Integrative and Comparative Physiology",
+		"professor": "Correa, S.; Reue, K.; Arnold, A.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "290C",
+		"title": "Tutorials: Integrative and Comparative Physiology",
+		"professor": "Correa, S.; Hong, W.; Wilke, L.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "290C",
+		"title": "Tutorials: Integrative and Comparative Physiology",
+		"professor": "Hong, W.; Wilke, L.A.; Churchland, A.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "290C",
+		"title": "Tutorials: Integrative and Comparative Physiology",
+		"professor": "Yang, X.; Rexach, J.; Deeds, E.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "290C",
+		"title": "Tutorials: Integrative and Comparative Physiology",
+		"professor": "Poe, G.R.; Adhikari, A.; Glanzman, D.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "290C",
+		"title": "Tutorials: Integrative and Comparative Physiology",
+		"professor": "Hallem, E.A.; Frye, M.A.; Van der Bliek, A.M"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Abramson, J.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Adhikari, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Aguiar Vallim, E.J"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Ajijola, O.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Akin, O."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Ardehali, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Ardell, J.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Arnold, A.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Bertholet, A.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Block, G.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Bostrom, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Brecha, N.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Cai, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Cannon, S.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Carmichael, S.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Chandler, S.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Colwell, C.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Correa, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Covarrubias, A.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Crosbie, R.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "de Biase, L.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Deb, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Deeds, E.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Demer, L.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Deng, M.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Divakaruni, A.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Donlea, J.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Dorshkind, K.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Edgerton, V.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Eghbali, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Fain, G.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Frye, M.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Ganz, T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Garfinkel, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Ghosh, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Glanzman, D.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Gomez-Pinilla, F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Gonen, T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Graeber, T.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Grinnell, A.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Guo, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Gwack, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Hallem, E.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Harper, R.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Hevener, A.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Hong, W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Hsiai, T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Hsiao, E.Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Huang, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Iruela-Arispe, L.M"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Jacobs, J.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "John, V."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Khakh, B.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Kong, X."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Kornblum, H.I."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Li, Z."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Liesa-Roig, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Lin, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Lu, D.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Marban, E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Masmanidis, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Mayer, E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Mehta, M.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Metzner, W.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Micevych, P.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Middlekauff, H.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Mittelman, S.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Nakano, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Narins, P.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Nemeth, E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "O'Dell, T.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Olcese, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Ottolia, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Packard, R.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Papazian, D.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Paul, K.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Peng, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Peng, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Phelps, P.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Ping, P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Pisegna, J.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Poe, G.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Portera-Cailliau,"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Pothoulakis, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Pyle, A.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Qu, Z."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Quijada, P.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Radu, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Rao, D.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Reddy, S.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Reed, E.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Reue, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Rowat, A.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Sallam, T.I."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Sampath, A.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Schlinger, B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Schweizer, F.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Shah, P.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Shirihai, O."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Shivkumar, K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Singh, R.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Spencer, M.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Spigelman, I."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Sun, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Tache, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Tidball, J.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Tontonoz, P.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Trachtenberg, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Travis, G.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Umar, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Vallim, T.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Vaseghi, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Vergara, J.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Villanueva, C.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Vondriska, T.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Voskuhl, R.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Walker, D.W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Wang, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Wang, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Weiss, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "White, S.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Wilke, L.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Wollman, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Wright, E.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Xiao, X."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Yang, X."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Young, S.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Zhang, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Zheng, J.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Zipursky, S.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Bearden, C.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Bhaduri, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MC&IP",
+		"code": "296",
+		"title": "Research Seminar",
+		"professor": "Lusis, A.J."
+	}
+]

@@ -1,0 +1,65 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "LATIN",
+		"code": "1",
+		"title": "Elementary Latin",
+		"professor": "Lifland, A.M.; Gurval, R.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LATIN",
+		"code": "1",
+		"title": "Elementary Latin",
+		"professor": "Gurval, R.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LATIN",
+		"code": "1",
+		"title": "Elementary Latin",
+		"professor": "Liu, T.; Gurval, R.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LATIN",
+		"code": "1",
+		"title": "Elementary Latin",
+		"professor": "Akiyama-Kim, J.A.; Gurval, R.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LATIN",
+		"code": "3",
+		"title": "Elementary Latin",
+		"professor": "Davis, B.R.; Gurval, R.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LATIN",
+		"code": "20",
+		"title": "Elementary Latin: Comprehensive Review",
+		"professor": "Martelli, F.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LATIN",
+		"code": "118",
+		"title": "Seneca",
+		"professor": "Ellis, R.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LATIN",
+		"code": "200A",
+		"title": "History of Latin Literature",
+		"professor": "Culik-Baird, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "LATIN",
+		"code": "229",
+		"title": "Strengthening Latin",
+		"professor": "Goldberg, S.M."
+	}
+]

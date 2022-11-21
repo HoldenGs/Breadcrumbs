@@ -1,0 +1,114 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "KOREA",
+		"code": "1",
+		"title": "Elementary Modern Korean",
+		"professor": "Mitsunaga, J.I."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "KOREA",
+		"code": "1A",
+		"title": "Elementary Korean for Korean-Heritage Speakers",
+		"professor": "Ju, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "KOREA",
+		"code": "4",
+		"title": "Intermediate Modern Korean",
+		"professor": "Ju, H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "KOREA",
+		"code": "4",
+		"title": "Intermediate Modern Korean",
+		"professor": "Jeon, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "KOREA",
+		"code": "50",
+		"title": "History of Korean Civilization",
+		"professor": "Wang, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "KOREA",
+		"code": "100A",
+		"title": "Advanced Modern Korean",
+		"professor": "Yoon, J.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "KOREA",
+		"code": "101A",
+		"title": "Advanced Readings in Modern Korean",
+		"professor": "Yoon, J.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "KOREA",
+		"code": "102A",
+		"title": "Advanced Korean Conversation",
+		"professor": "Choi, J.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "KOREA",
+		"code": "104A",
+		"title": "Korean Writing for Advanced Learners",
+		"professor": "Jeon, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "KOREA",
+		"code": "148A",
+		"title": "Reading Modern Korean Academic Texts",
+		"professor": "Oak, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "KOREA",
+		"code": "C151",
+		"title": "Korean Literature in Translation: Modern",
+		"professor": "Hanscom, C.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "KOREA",
+		"code": "CM160",
+		"title": "Korean Buddhism",
+		"professor": "Buswell, R.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "KOREA",
+		"code": "180C",
+		"title": "History of Korea since 1876",
+		"professor": "Lee, N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "KOREA",
+		"code": "184",
+		"title": "Women in History: Korea",
+		"professor": "Jung-Kim, J.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "KOREA",
+		"code": "235B",
+		"title": "Seminar: Topics in Modern Korean Literature",
+		"professor": "Hanscom, C.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "KOREA",
+		"code": "295A",
+		"title": "Seminar: Topics in Traditional Korean Cultural History",
+		"professor": "Wang, S."
+	}
+]

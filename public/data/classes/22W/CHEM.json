@@ -1,0 +1,1290 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "14A",
+		"title": "General Chemistry for Life Scientists I",
+		"professor": "Scerri, E.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "14B",
+		"title": "General Chemistry for Life Scientists II",
+		"professor": "Lavelle, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "14BE",
+		"title": "General Chemistry for Life Scientists II--Enhanced",
+		"professor": "Courey, A.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "14BL",
+		"title": "General and Organic Chemistry Laboratory I",
+		"professor": "Henary, M.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "14C",
+		"title": "Structure of Organic Molecules",
+		"professor": "Pham, H.V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "14CL",
+		"title": "General and Organic Chemistry Laboratory II",
+		"professor": "Ow, F.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "14D",
+		"title": "Organic Reactions and Pharmaceuticals",
+		"professor": "Reilly, A.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "19",
+		"title": "Kindness in Science: Diversity, Health Disparities, and Greater Advancements",
+		"professor": "Torres, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "19",
+		"title": "Rise and Fall of Blockbuster Drugs",
+		"professor": "Gresser, M.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "20A",
+		"title": "Chemical Structure",
+		"professor": "Shao, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "20B",
+		"title": "Chemical Energetics and Change",
+		"professor": "Barr, K.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "20BH",
+		"title": "Chemical Energetics and Change (Honors)",
+		"professor": "Weiss, P.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "20L",
+		"title": "General Chemistry Laboratory",
+		"professor": "Pang, J.W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "30AL",
+		"title": "General Chemistry Laboratory II",
+		"professor": "Russell, A.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "30B",
+		"title": "Organic Chemistry II: Reactivity, Synthesis, and Spectroscopy",
+		"professor": "Pham, H.V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "30BL",
+		"title": "Organic Chemistry Laboratory I",
+		"professor": "Nasrallah, D.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "30C",
+		"title": "Organic Chemistry III: Reactivity, Synthesis, and Biomolecules",
+		"professor": "Merlic, C.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "30CL",
+		"title": "Organic Chemistry Laboratory II",
+		"professor": "Rubin, Y.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "89HC",
+		"title": "Honors Contracts",
+		"professor": "Ow, F.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "C107",
+		"title": "Organometallic Chemistry",
+		"professor": "Diaconescu, P.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "110A",
+		"title": "Physical Chemistry: Chemical Thermodynamics",
+		"professor": "Hunt, J.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "110B",
+		"title": "Topics in Physical Chemistry",
+		"professor": "Bensimon, D.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "113A",
+		"title": "Physical Chemistry: Introduction to Quantum Mechanics",
+		"professor": "Wu, E.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "C115B",
+		"title": "Quantum Chemistry",
+		"professor": "Neuhauser, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "M120",
+		"title": "Soft Matter Laboratory",
+		"professor": "Miao, J.; Chang, D.J.; Carmona, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "C123B",
+		"title": "Classical and Statistical Thermodynamics",
+		"professor": "Schwartz, B.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "C143A",
+		"title": "Structure and Mechanism in Organic Chemistry",
+		"professor": "Doyle, A.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "147",
+		"title": "Careers in Chemistry and Biochemistry",
+		"professor": "Jung, M.E.; Loo, J.A.; Kaner, R.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "153A",
+		"title": "Biochemistry: Introduction to Structure, Enzymes, and Metabolism",
+		"professor": "Lannan, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "153B",
+		"title": "Biochemistry: DNA, RNA, and Protein Synthesis",
+		"professor": "Feigon, J.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "153C",
+		"title": "Biochemistry: Biosynthetic and Energy Metabolism and Its Regulation",
+		"professor": "Clarke, S.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "153L",
+		"title": "Biochemical Methods I",
+		"professor": "Hong-Hermesdorf, A"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "154",
+		"title": "Biochemical Methods II",
+		"professor": "Nakamoto, S.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "C155",
+		"title": "Mitochondria in Medicine, Biology, and Chemistry",
+		"professor": "Clarke, C.F.; Koehler, C.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "156",
+		"title": "Physical Biochemistry",
+		"professor": "Quinlan, M.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "CM160A",
+		"title": "Introduction to Bioinformatics",
+		"professor": "Pimentel, H.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "C164",
+		"title": "Free Radicals in Biology and Medicine",
+		"professor": "Clarke, C.F.; Guile, M.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "184",
+		"title": "Chemical Instrumentation",
+		"professor": "Loo, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "188SB",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Pham, H.V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "192A",
+		"title": "Undergraduate Practicum in Chemistry and Biochemistry",
+		"professor": "Pang, J.W.; Russell, A.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "192B",
+		"title": "Undergraduate Practicum in Chemistry and Biochemistry",
+		"professor": "Russell, A.A.; Pang, J.W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "192C",
+		"title": "Undergraduate Assistant Education Practicum in Chemistry and Biochemistry",
+		"professor": "Lavelle, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "192C",
+		"title": "Undergraduate Assistant Education Practicum in Chemistry and Biochemistry",
+		"professor": "Weiss, P.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "192D",
+		"title": "Undergraduate Assistant Education Practicum in Chemistry and Biochemistry",
+		"professor": "Lavelle, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "192D",
+		"title": "Undergraduate Assistant Education Practicum in Chemistry and Biochemistry",
+		"professor": "Weiss, P.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "192D",
+		"title": "Undergraduate Assistant Education Practicum in Chemistry and Biochemistry",
+		"professor": "Garg, N.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "192D",
+		"title": "Undergraduate Assistant Education Practicum in Chemistry and Biochemistry",
+		"professor": "Pham, H.V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "M192E",
+		"title": "Introduction to Collaborative Learning Theory and Practice",
+		"professor": "Shaked, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "192F",
+		"title": "Methods and Application of Collaborative Learning Theory and Practice",
+		"professor": "Shaked, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "193A",
+		"title": "Journal Club Seminars: UC LEADS and MARC",
+		"professor": "Gray, D.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Bensimon, D.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Bouchard, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Bowie, J.U."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Chanfreau, G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Clarke, C.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Clarke, S.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Clubb, R.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Courey, A.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Diaconescu, P.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Duan, X."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Eisenberg, D.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Feigon, J.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Felker, P.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Garcia-Garibay, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Garg, N.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Gelbart, W.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Gimzewski, J.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Harran, P.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Houk, K.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Jung, M.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Kaner, R.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Koehler, C.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Kwon, O."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Levine, A.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Loo, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Mason, T.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Maynard, H.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Merlic, C.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Neuhauser, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Quinlan, M.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Reisler, E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Rubin, Y.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Schwartz, B.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Tolbert, S.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Torres, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Weiss, P.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Weiss, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Zink, J.I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Alexandrova, A.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Deming, T.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Liao, J.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Tang, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Yeates, T.O."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Kosuri, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Spokoyny, A.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "194",
+		"title": "Research Group Seminars: Chemistry and Biochemistry",
+		"professor": "Rodriguez, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "196A",
+		"title": "Research Apprenticeship in Chemistry and Biochemistry",
+		"professor": "Spokoyny, A.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "196A",
+		"title": "Research Apprenticeship in Chemistry and Biochemistry",
+		"professor": "Rodriguez, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "196A",
+		"title": "Research Apprenticeship in Chemistry and Biochemistry",
+		"professor": "Yeates, T.O."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "196A",
+		"title": "Research Apprenticeship in Chemistry and Biochemistry",
+		"professor": "Caram, J.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "196A",
+		"title": "Research Apprenticeship in Chemistry and Biochemistry",
+		"professor": "Diaconescu, P.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "196A",
+		"title": "Research Apprenticeship in Chemistry and Biochemistry",
+		"professor": "Clubb, R.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "196A",
+		"title": "Research Apprenticeship in Chemistry and Biochemistry",
+		"professor": "Alexandrova, A.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "196A",
+		"title": "Research Apprenticeship in Chemistry and Biochemistry",
+		"professor": "Schwartz, B.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "196A",
+		"title": "Research Apprenticeship in Chemistry and Biochemistry",
+		"professor": "Gelbart, W.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "196A",
+		"title": "Research Apprenticeship in Chemistry and Biochemistry",
+		"professor": "Tolbert, S.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "196B",
+		"title": "Research Apprenticeship in Chemistry and Biochemistry",
+		"professor": "Kaner, R.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "196B",
+		"title": "Research Apprenticeship in Chemistry and Biochemistry",
+		"professor": "Clarke, C.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "203B",
+		"title": "Ethics in Chemical Research",
+		"professor": "Weiss, P.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "206",
+		"title": "Chemistry of Biology Seminar",
+		"professor": "Maynard, H.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "C207",
+		"title": "Organometallic Chemistry",
+		"professor": "Diaconescu, P.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "C215B",
+		"title": "Quantum Chemistry: Methods",
+		"professor": "Neuhauser, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "218",
+		"title": "Chemistry Student Exit Seminar",
+		"professor": "Alexandrova, A.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "219A",
+		"title": "Seminars: Research in Physical Chemistry--Photon Resolved Spectroscopy of Materials (Physical Chemistry)",
+		"professor": "Caram, J.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "219I",
+		"title": "Seminar: Research in Physical Chemistry--Spectroscopy of Isolated Molecules, Complexes, and Clusters",
+		"professor": "Felker, P.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "219J",
+		"title": "Seminar: Research in Physical Chemistry--Chemistry and Biophysics of Interfaces",
+		"professor": "Garrell, R.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "219K",
+		"title": "Seminar: Research in Physical Chemistry--Statistical Mechanics of Disordered Systems",
+		"professor": "Gelbart, W.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "219L",
+		"title": "Seminar: Research in Physical Chemistry--Modern Methods for Molecular Reactions and Structure",
+		"professor": "Neuhauser, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "219Q",
+		"title": "Seminar: Research in Physical Chemistry--Ultrafast Studies of Chemical Reaction Dynamics in Condensed Phase",
+		"professor": "Schwartz, B.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "219R",
+		"title": "Seminar: Research in Physical Chemistry--Kinetic, Thermodynamic, and Interfacial Effects in Materials",
+		"professor": "Tolbert, S.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "219S",
+		"title": "Seminar: Research in Physical Chemistry--Nanoscience",
+		"professor": "Gimzewski, J.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "219T",
+		"title": "Seminar: Research in Physical Chemistry--Single-Molecule Spectroscopy in Biology",
+		"professor": "Weiss, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "219V",
+		"title": "Seminar: Research in Physical Chemistry--Complex Fluids: Composition, Structure, and Rheology",
+		"professor": "Mason, T.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "219W",
+		"title": "Seminar: Research in Physical Chemistry--Biophysics and Statistical Mechanics of Soft Matter",
+		"professor": "Levine, A.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "219X",
+		"title": "Seminar: Research in Physical Chemistry--Dynamic Processes in Chemically Reacting Flow Systems",
+		"professor": "Bouchard, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "219Y",
+		"title": "Seminar: Research in Physical Chemistry--Theory and Computation for Materials",
+		"professor": "Alexandrova, A.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "219Z",
+		"title": "Seminar: Research in Physical Chemistry--Single-Cell Physiology",
+		"professor": "Bensimon, D.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "C223B",
+		"title": "Classical and Statistical Thermodynamics",
+		"professor": "Schwartz, B.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "228",
+		"title": "Chemical Physics Seminar",
+		"professor": "Bensimon, D.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "M230B",
+		"title": "Structural Molecular Biology",
+		"professor": "Yeates, T.O.; Clubb, R.T.; Eisenberg, D.S.; Feigon, J.F.; Rodriguez, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "M230D",
+		"title": "Structural Molecular Biology Laboratory",
+		"professor": "Cascio, D.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "235E",
+		"title": "Seminar: Research in Organic Chemistry--Theoretical and Physical Organic Chemistry",
+		"professor": "Houk, K.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "235F",
+		"title": "Seminar: Research in Organic Chemistry--Synthetic Methods and Synthesis of Natural Products",
+		"professor": "Jung, M.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "235G",
+		"title": "Seminar: Research in Organic Chemistry--Organometallic Chemistry and Organic Synthesis",
+		"professor": "Merlic, C.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "235I",
+		"title": "Seminar: Research in Organic Chemistry--Fullerene Chemistry and Materials Science",
+		"professor": "Rubin, Y.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "235K",
+		"title": "Seminar: Research in Organic Chemistry--Organic Chemistry in Organized and Restricted Media",
+		"professor": "Garcia-Garibay, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "235N",
+		"title": "Seminar: Research in Organic Chemistry--Target- and Diversity-Oriented Synthesis of Natural Products and Product-Like Molecules",
+		"professor": "Kwon, O."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "235O",
+		"title": "Seminar: Research in Organic Chemistry--Polymer Chemistry and Biomaterials",
+		"professor": "Maynard, H.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "235P",
+		"title": "Seminar: Research in Organic Chemistry--Reaction Discovery and total Synthesis of Complex Molecules",
+		"professor": "Garg, N.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "235Q",
+		"title": "Seminar: Research in Organic Chemistry--Synthetic Organic Chemistry Research",
+		"professor": "Harran, P.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "235R",
+		"title": "Seminar: Research in Organic Chemistry--Fluorous Materials, Synthetic Chemistry, and Supermolecular Assembly",
+		"professor": "Sletten, E.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "241B",
+		"title": "Special Topics in Organic Chemistry",
+		"professor": "Jung, M.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "C243A",
+		"title": "Structure and Mechanism in Organic Chemistry",
+		"professor": "Doyle, A.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "244B",
+		"title": "Strategy and Design in Organic Synthesis",
+		"professor": "Hurlow, E.E.; Harran, P.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "247",
+		"title": "Organic Colloquium",
+		"professor": "Kwon, O."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "248",
+		"title": "Organic Chemistry Student Seminar",
+		"professor": "Rubin, Y.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "249A",
+		"title": "Methods of Materials Chemistry: Synthesis, Characterization, Physical Properties, Applications, and Devices",
+		"professor": "Mason, T.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "249B",
+		"title": "Methods of Chemical Synthesis:cvdganic/Inorganic/Organometallic",
+		"professor": "Sletten, E.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "249C",
+		"title": "Methods of Physical/Theoretical/Biophysical Chemistry",
+		"professor": "Weiss, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "CM255",
+		"title": "Mitochondria in Medicine, Biology, and Chemistry",
+		"professor": "Clarke, C.F.; Koehler, C.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "256B",
+		"title": "Seminar: Research in Biochemistry--Biochemistry of Protein Function",
+		"professor": "Clarke, S.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "256D",
+		"title": "Seminar: Research in Biochemistry--Transcriptional Control Mechanisms in Drosophila Embryogenesis",
+		"professor": "Courey, A.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "256F",
+		"title": "Seminar: Research in Biochemistry--Current Topics in Prokaryotic Development",
+		"professor": "Gober, J.W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "256G",
+		"title": "Seminar: Research in Biochemistry--Nucleic Acid Structure Determination by NMR",
+		"professor": "Feigon, J.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "256J",
+		"title": "Seminar: Research in Biochemistry--Contractile Proteins in Muscle Contraction and Cell Motility",
+		"professor": "Reisler, E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "256K",
+		"title": "Seminar: Research in Biochemistry--Biochemistry and Molecular Biology of Chlamydomonas",
+		"professor": "Merchant, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "256L",
+		"title": "Seminar: Research in Biochemistry--Literature of Structural Biology",
+		"professor": "Yeates, T.O.; Dickerson, R.E.; Eisenberg, D.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "256N",
+		"title": "Seminar: Research in Biochemistry--Advanced Topics in Structural Biology",
+		"professor": "Yeates, T.O.; Dickerson, R.E.; Eisenberg, D.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "256O",
+		"title": "Seminar: Research in Biochemistry--Membrane Biophysics",
+		"professor": "Hubbell, W.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "256P",
+		"title": "Seminar: Research in Biochemistry--Analysis of Protein Structure",
+		"professor": "Bowie, J.U."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "256Q",
+		"title": "Seminar: Research in Biochemistry--Biochemistry and Function of Ubiquinone in Yeast and Higher Eukaryotes",
+		"professor": "Clarke, C.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "256R",
+		"title": "Seminar: Research in Biochemistry--Biomolecular Nuclear Magnetic Resonance Spectroscopy and Protein Structure",
+		"professor": "Clubb, R.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "256S",
+		"title": "Seminar: Research in Biochemistry--Proteome Bioinformatics",
+		"professor": "Lee, C.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "256T",
+		"title": "Seminar: Research in Biochemistry--RNA Processing and RNA Genomics",
+		"professor": "Chanfreau, G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "256U",
+		"title": "Seminar: Research in Biochemistry--Mitochondrial Biogenesis and Link to Disease",
+		"professor": "Koehler, C.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "256V",
+		"title": "Seminar: Research in Biochemistry--Proteomics and Mass Spectrometry",
+		"professor": "Loo, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "256W",
+		"title": "Seminar: Research in Biochemistry--Cytoskeletal Dynamics during Drosophila Oogenesis",
+		"professor": "Quinlan, M.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "256X",
+		"title": "Seminar: Research in Biochemistry--Microtubule-Based Structures and Human Diseases",
+		"professor": "Torres, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "256Y",
+		"title": "Seminar: Research in Biochemistry--Research in Genomics: Biochemistry, Synthetic Biology, and Genomics",
+		"professor": "Kosuri, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "256Z",
+		"title": "Seminar: Research in Biochemistry--Information Processing in Intracellular and Intercellular Signaling Networks",
+		"professor": "Wollman, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "257",
+		"title": "Physical Chemistry of Biological Macromolecules",
+		"professor": "Reisler, E.; Rodriguez, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "CM260A",
+		"title": "Introduction to Bioinformatics",
+		"professor": "Pimentel, H.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "C264",
+		"title": "Free Radicals in Biology and Medicine",
+		"professor": "Clarke, C.F.; Guile, M.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "268",
+		"title": "Biochemistry Research Seminar",
+		"professor": "Courey, A.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "272A",
+		"title": "Seminar: Research in Inorganic Chemistry--Chemistry of Materials",
+		"professor": "Kaner, R.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "272C",
+		"title": "Seminar: Research in Inorganic Chemistry--Inorganic Spectroscopy",
+		"professor": "Zink, J.I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "272G",
+		"title": "Seminar: Research in Inorganic Chemistry--Issues in Chemical Education",
+		"professor": "Russell, A.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "272I",
+		"title": "Seminar: Research in Inorganic Chemistry--Organometallic Chemistry",
+		"professor": "Diaconescu, P.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "272K",
+		"title": "Seminar: Research in Inorganic Chemistry--Inorganic Nanostructures: Synthesis, Properties, and Functions",
+		"professor": "Duan, X."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "272L",
+		"title": "Seminar: Research in Inorganic Chemistry--Molecular Materials",
+		"professor": "Spokoyny, A.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "272M",
+		"title": "Seminar: Research in Inorganic Chemistry--Methodology for Chemical Synthesis of Complex Molecules",
+		"professor": "Nelson, H.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "272N",
+		"title": "Seminar: Research in Inorganic Chemistry--Electrochemical Materials and Interfaces",
+		"professor": "Liu, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "278",
+		"title": "Inorganic Chemistry Student Seminar",
+		"professor": "Liu, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "CHEM",
+		"code": "285",
+		"title": "Materials Chemistry Laboratory",
+		"professor": "Tolbert, S.H."
+	}
+]

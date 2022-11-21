@@ -1,0 +1,352 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "4",
+		"title": "Introduction to Art and Technique of Filmmaking",
+		"professor": "Kuntz, J.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "6A",
+		"title": "History of American Motion Picture",
+		"professor": "Bowdre, K.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "10A",
+		"title": "American Television History",
+		"professor": "Sampson, B.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "33",
+		"title": "Introductory Screenwriting",
+		"professor": "Verducci, P.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "84A",
+		"title": "Overview of Contemporary Film Industry",
+		"professor": "Mann, D.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "98TW",
+		"title": "Influencer Culture and Economy",
+		"professor": "Li, Z.; Mann, D.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "102C",
+		"title": "Senior Symposium",
+		"professor": "McDonald, W.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "112",
+		"title": "Film and Social Change",
+		"professor": "Wuest, B.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "C118",
+		"title": "Intermediate Cinematography",
+		"professor": "McDonald, W.C.; Timan, A.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "122D",
+		"title": "Film Editing: Overview of History, Technique, and Practice",
+		"professor": "Littenberg, S.M.; Ellison, S.M.; Zhang, Y.; Hagman, R.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "122E",
+		"title": "Digital Cinematography",
+		"professor": "Granados, A.A.; Paul, D.; Shenton, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "122M",
+		"title": "Film and Television Directing",
+		"professor": "Van Dyk, R.R.; Reed, J.L.; Song, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "122N",
+		"title": "History of Animation in American Film and Television",
+		"professor": "Diamond, R.; Kellman-Holmes, A.; Sanchez, M.A.; Wen, H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "134",
+		"title": "Intermediate Screenwriting Workshop",
+		"professor": "Kirkman, T.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "135C",
+		"title": "Advanced Screenwriting Workshop",
+		"professor": "Young, K.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "146",
+		"title": "Art and Practice of Motion Picture Producing",
+		"professor": "Boyle, B.; Mansel, E.V.; Huang, X."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "C148",
+		"title": "Advanced Digital Media Workgroup",
+		"professor": "Wagmister, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "C152C",
+		"title": "Digital Audio Postproduction",
+		"professor": "Marin, E.; Tang, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "153",
+		"title": "Motion Picture Lighting",
+		"professor": "McDonald, W.C.; Moore, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "C154B",
+		"title": "Advanced Film Editing",
+		"professor": "Richardson, N.; Halliman, S.V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "C154B",
+		"title": "Advanced Film Editing",
+		"professor": "O'Flinn, A.B.; Tantiwasadakran, P"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "178",
+		"title": "Film and Television Production Laboratory",
+		"professor": "Sheetz, C.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "178",
+		"title": "Film and Television Production Laboratory",
+		"professor": "McDonald, W.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "C181A",
+		"title": "Introduction to Animation",
+		"professor": "Ward, D.A.; Zhang, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "C181C",
+		"title": "Animation Workshop: Studio 1  ",
+		"professor": "Sheetz, C.E.; Salter, E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "183C",
+		"title": "Producing III: Marketing, Distribution, and Exhibition",
+		"professor": "Liebing, H.; Wang, J.; Aranda, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "185",
+		"title": "Intermediate Undergraduate Film Production",
+		"professor": "Maquiling, D.M.; Deroche, D.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "185",
+		"title": "Intermediate Undergraduate Film Production",
+		"professor": "Kelly, R.M.; Fang, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "C186C",
+		"title": "Advanced Documentary Workshop",
+		"professor": "Skurnik, J.P.; Lemle, A.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "188A",
+		"title": "Special Courses in Film, Television, and Digital Media: Israel on Screen: Television, Film, and Literary Imagination",
+		"professor": "Pack, E.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "188A",
+		"title": "Special Courses in Film, Television, and Digital Media: Scripted and Nonscripted Series Development for Domestic and Global Streaming Services",
+		"professor": "Liebing, H.; Charbonneau, S.J.; McConnell, J.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "188A",
+		"title": "Special Courses in Film, Television, and Digital Media: Television Writing",
+		"professor": "Goldsmith, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "195",
+		"title": "Corporate Internships in Film, Television, and Digital Media",
+		"professor": "Greene, S.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "195",
+		"title": "Corporate Internships in Film, Television, and Digital Media",
+		"professor": "Anderson, S.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "195CE",
+		"title": "Corporate Internships in Film, Television, and Digital Media",
+		"professor": "Dimuro, J.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "205",
+		"title": "Seminar: Videographic Scholarship",
+		"professor": "Anderson, S.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "209A",
+		"title": "Seminar: Documentary Film",
+		"professor": "Anderson, S.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "211B",
+		"title": "Seminar: Historiography",
+		"professor": "Noriega, C.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "212",
+		"title": "Cinema and Media Studies Graduate Colloquium",
+		"professor": "Wuest, B.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "213",
+		"title": "Capstone Seminar",
+		"professor": "Scott, E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "222",
+		"title": "Seminar: Film Genres: Love and Laughs: Exploration of Romantic Comedies",
+		"professor": "Bowdre, K.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "224",
+		"title": "Computer Applications for Film Study",
+		"professor": "Mamber, S.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "C248",
+		"title": "Advanced Digital Media Workgroup",
+		"professor": "Wagmister, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "274",
+		"title": "Seminar: Research Design",
+		"professor": "Paredes, V.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "283B",
+		"title": "Writing Half-Hour Comedy Pilot and Series Bible",
+		"professor": "Gubbins, S.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "283C",
+		"title": "Running Television Comedy Room",
+		"professor": "Orenstein, A.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "284B",
+		"title": "Writing One-Hour Drama Pilot and Series Bible",
+		"professor": "Brock, C.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "284C",
+		"title": "Running Television Drama Room",
+		"professor": "Steinkellner, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "290C",
+		"title": "It&#39;s a Wrap: Preparation for Your Entertainment Career",
+		"professor": "Nunan, T.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "FILM TV",
+		"code": "292B",
+		"title": "Adapting Intellectual Property for Television: Seminar 1  ",
+		"professor": "Levy, R.J."
+	}
+]

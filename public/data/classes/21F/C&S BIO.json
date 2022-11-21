@@ -1,0 +1,23 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "C&S BIO",
+		"code": "M32",
+		"title": "Essential Calculus for Mathematical Biologists",
+		"professor": "Conley, W.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "C&S BIO",
+		"code": "M178",
+		"title": "Quantitative Regulatory Biology and Signal Transduction",
+		"professor": "Deeds, E.J.; Hoffmann, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "C&S BIO",
+		"code": "M184",
+		"title": "Introduction to Computational and Systems Biology",
+		"professor": "Eskin, E.; Sarwal, V."
+	}
+]

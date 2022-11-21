@@ -1,0 +1,646 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "5",
+		"title": "Issues in Human Physiology: Diet and Exercise",
+		"professor": "Esdin, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "13",
+		"title": "Introduction to Human Anatomy",
+		"professor": "Friscia, A.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "111A",
+		"title": "Foundations in Physiological Science",
+		"professor": "Esdin, J.; Paul, K.N.; Choe, R.; Phelps, P.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "111L",
+		"title": "Physiological Science Laboratory",
+		"professor": "Izadpanah, A.; Cooper, R.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "121",
+		"title": "Disease Mechanisms and Therapies",
+		"professor": "Crosbie, R.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "C126",
+		"title": "Biological Clocks",
+		"professor": "Colwell, C.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "C127",
+		"title": "Neuroendocrinology of Reproduction",
+		"professor": "Schlinger, B.; Van Veen, J.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "C130",
+		"title": "Sex Differences in Physiology and Disease",
+		"professor": "Arnold, A.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "M145",
+		"title": "Neural Mechanisms Controlling Movement",
+		"professor": "Chandler, S.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "167",
+		"title": "Physiology of Nutrition",
+		"professor": "Li, Z.; Heber, D.; Luong, T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "M171",
+		"title": "Variable Topics Research Seminars: Contemporary Biology",
+		"professor": "Colicelli, J.J.; Reue, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "175",
+		"title": "Why Fido Can&#39;t Speak: Biological Evolution of Language",
+		"professor": "White, S.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "M176",
+		"title": "Auditory Neuroscience of Speech Perception and Vocal Communication",
+		"professor": "Tramo, M.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "177",
+		"title": "Neuroethology",
+		"professor": "Metzner, W.H.; Glanzman, D.L.; Schlinger, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "M180B",
+		"title": "Neuroscience: From Molecules to Mind--Molecular and Developmental Neuroscience",
+		"professor": "Babiec, W.E.; Akin, O.; Cannon, S.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "187A",
+		"title": "Seeing Brain in Action",
+		"professor": "Akin, O.; Donlea, J.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Advanced Honors Seminar for Physiological Science 111A",
+		"professor": "Esdin, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Paul, K.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Esdin, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Colwell, C.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Li, Z."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Heber, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "192",
+		"title": "Practicum in Systems Anatomy for Undergraduate Assistants",
+		"professor": "Friscia, A.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "192A",
+		"title": "Introduction to Collaborative Learning Theory and Practice",
+		"professor": "Friscia, A.R.; Phelps, P.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "192B",
+		"title": "Methods and Application of Collaborative Learning Theory in Physical Sciences",
+		"professor": "Friscia, A.R.; Phelps, P.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Arnold, A.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Barnard, R.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Chandler, S.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Cooper, R.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Crosbie, R.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Edgerton, V.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Fain, G.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Garfinkel, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Glanzman, D.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Gomez-Pinilla, F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Grinnell, A.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Paul, K.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Metzner, W.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Narins, P.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Phelps, P.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Schlinger, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Smith, J.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Tidball, J.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "White, S.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Frye, M.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Xiao, X."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Walker, D.W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Simmons, D.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Rowat, A.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Yang, X."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Correa, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "194A",
+		"title": "Research Group Seminars: Physiological Science",
+		"professor": "McEvoy, M.M.; Poe, G.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "194A",
+		"title": "Research Group Seminars: Physiological Science",
+		"professor": "Hasson, T.W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "196",
+		"title": "Research Apprenticeship in Physiological Science",
+		"professor": "Tomiyama, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "196",
+		"title": "Research Apprenticeship in Physiological Science",
+		"professor": "Phelps, P.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "196",
+		"title": "Research Apprenticeship in Physiological Science",
+		"professor": "Paul, K.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "198A",
+		"title": "Honors Research in Physiological Science",
+		"professor": "Barber, P.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "198A",
+		"title": "Honors Research in Physiological Science",
+		"professor": "Correa, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "198B",
+		"title": "Honors Research in Physiological Science",
+		"professor": "Ghiani, C.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "200",
+		"title": "Advanced Experimental Statistics",
+		"professor": "Wollman, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "C226",
+		"title": "Biological Clocks",
+		"professor": "Colwell, C.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "CM227",
+		"title": "Neuroendocrinology of Reproduction",
+		"professor": "Schlinger, B.; Van Veen, J.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "C230",
+		"title": "Sex Differences in Physiology and Disease",
+		"professor": "Arnold, A.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "241",
+		"title": "Neural Plasticity and Repair",
+		"professor": "Gomez-Pinilla, F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "270A",
+		"title": "Modern Concepts in Physiology",
+		"professor": "Paul, K.N.; Walker, D.W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Barnard, R.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Chandler, S.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Edgerton, V.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Fain, G.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Feldman, J.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Glanzman, D.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Henderson, S.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Schlinger, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Smith, J.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Tidball, J.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Arnold, A.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Garfinkel, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Narins, P.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Carpenter, E.M.; Phelps, P.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Simmons, D.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Tobin, A.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Schlag, J.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Hovda, D.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "White, S.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Reddy, S.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Gomez-Pinilla, F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Crosbie, R.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Papazian, D.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Berliner, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Xiao, X."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Walker, D.W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Colwell, C.S."
+	}
+]

@@ -1,0 +1,93 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "GERMAN",
+		"code": "1",
+		"title": "Elementary German",
+		"professor": "Stevens, C.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GERMAN",
+		"code": "1",
+		"title": "Elementary German",
+		"professor": "Truper, L.S.; Tarnawska Senel, M"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GERMAN",
+		"code": "2",
+		"title": "Elementary German",
+		"professor": "Tarnawska Senel, M"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GERMAN",
+		"code": "2",
+		"title": "Elementary German",
+		"professor": "Saupe, W.; Tarnawska Senel, M"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GERMAN",
+		"code": "3",
+		"title": "Elementary German",
+		"professor": "Fuchs, R.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GERMAN",
+		"code": "4",
+		"title": "Intermediate German",
+		"professor": "Fuchs, R.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GERMAN",
+		"code": "5",
+		"title": "Intermediate German",
+		"professor": "Fuchs, R.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GERMAN",
+		"code": "19",
+		"title": "Eyewitness Testimony of Holocaust Survivors",
+		"professor": "Presner, T.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GERMAN",
+		"code": "59",
+		"title": "Holocaust in Film and Literature",
+		"professor": "Presner, T.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GERMAN",
+		"code": "104",
+		"title": "German Film in Cultural Context, 1945 to Present",
+		"professor": "Michell, K.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GERMAN",
+		"code": "110",
+		"title": "Special Topics in Modern Literature and Culture: Memory and History in Family: Versions of Past",
+		"professor": "Yildiz, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GERMAN",
+		"code": "155",
+		"title": "Advanced German Language through Cultural History and Current Affairs",
+		"professor": "Yildiz, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "GERMAN",
+		"code": "261",
+		"title": "Seminar: Contemporary Literature: Seminar 1  ",
+		"professor": "Yildiz, Y."
+	}
+]

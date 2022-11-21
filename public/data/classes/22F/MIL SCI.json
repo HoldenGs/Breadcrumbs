@@ -1,0 +1,37 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "MIL SCI",
+		"code": "Z",
+		"title": "Leadership Laboratory",
+		"professor": "Moehnke, S.T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIL SCI",
+		"code": "21",
+		"title": "Individual Leadership Development",
+		"professor": "Carroll, J.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIL SCI",
+		"code": "131",
+		"title": "Tactical Planning and Analysis",
+		"professor": "Coyle, C.L.; Moehnke, S.T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIL SCI",
+		"code": "141",
+		"title": "Leadership and Management",
+		"professor": "Crosen, M.G.; Toms, K.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIL SCI",
+		"code": "197",
+		"title": "Individual Studies in Military Science",
+		"professor": "Crosen, M.G."
+	}
+]

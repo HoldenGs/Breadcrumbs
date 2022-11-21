@@ -1,0 +1,30 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "ARTS ED",
+		"code": "101",
+		"title": "Selected Topics in Arts Education: Creative Aging: Strategies for Lifelong Arts Learning",
+		"professor": "Kheradyar, A.T.; Suarez, C.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARTS ED",
+		"code": "M102",
+		"title": "Introduction to Arts Education for Multiple Publics: Theory and Practice",
+		"professor": "Park, M.; Sykes, M.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARTS ED",
+		"code": "109",
+		"title": "Design|Media Arts Methods for Teaching Artist",
+		"professor": "Quintana, F.F.; Person, I.S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARTS ED",
+		"code": "M192",
+		"title": "Arts Education Undergraduate Practicum: Preparation, Observation, and Practice",
+		"professor": "Cameron, D.P.; Rogers, L.M."
+	}
+]

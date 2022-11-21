@@ -1,0 +1,128 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "CH ENGR",
+		"code": "10",
+		"title": "Introduction to Chemical and Biomolecular Engineering",
+		"professor": "Tang, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CH ENGR",
+		"code": "100",
+		"title": "Fundamentals of Chemical and Biomolecular Engineering",
+		"professor": "Li, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CH ENGR",
+		"code": "101A",
+		"title": "Transport Phenomena I",
+		"professor": "Eisler, C.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CH ENGR",
+		"code": "104B",
+		"title": "Chemical and Biomolecular Engineering Laboratory II",
+		"professor": "Srivastava, S.; Chen, I."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CH ENGR",
+		"code": "106",
+		"title": "Chemical Reaction Engineering",
+		"professor": "Peterson, J.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CH ENGR",
+		"code": "109",
+		"title": "Numerical and Mathematical Methods in Chemical and Biological Engineering",
+		"professor": "Christofides, P.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CH ENGR",
+		"code": "CM114",
+		"title": "Electrochemical Processes",
+		"professor": "Morales Guio, C.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CH ENGR",
+		"code": "C115",
+		"title": "Biochemical Reaction Engineering",
+		"professor": "Annabi, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CH ENGR",
+		"code": "CM145",
+		"title": "Molecular Biotechnology for Engineers",
+		"professor": "Park, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CH ENGR",
+		"code": "M153",
+		"title": "Introduction to Microscale and Nanoscale Manufacturing",
+		"professor": "Chiou, P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CH ENGR",
+		"code": "194",
+		"title": "Research Group Seminars: Chemical Engineering",
+		"professor": "TA; Manousiouthakis, V"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CH ENGR",
+		"code": "200",
+		"title": "Advanced Engineering Thermodynamics",
+		"professor": "Sautet, P.; Cheng, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CH ENGR",
+		"code": "CM214",
+		"title": "Electrochemical Processes",
+		"professor": "Morales Guio, C.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CH ENGR",
+		"code": "CM215",
+		"title": "Biochemical Reaction Engineering",
+		"professor": "Annabi, N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CH ENGR",
+		"code": "CM245",
+		"title": "Molecular Biotechnology for Engineers",
+		"professor": "Park, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CH ENGR",
+		"code": "259",
+		"title": "Theory of Applied Mathematics for Chemical Engineers",
+		"professor": "Manousiouthakis, V"
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CH ENGR",
+		"code": "M280A",
+		"title": "Linear Dynamic Systems",
+		"professor": "TA; M'Closkey, R.T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "CH ENGR",
+		"code": "M280A",
+		"title": "Linear Dynamic Systems",
+		"professor": "Tabuada, P."
+	}
+]

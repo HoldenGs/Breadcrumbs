@@ -1,0 +1,919 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "3B",
+		"title": "Calculus for Life Sciences Students",
+		"professor": "Greene, M.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "11N",
+		"title": "Gateway to Mathematics: Number Theory",
+		"professor": "Smits, T.J.; Conley, W.J.; Blasius, D.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "31A",
+		"title": "Differential and Integral Calculus",
+		"professor": "Mutlu Akaturk, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "31AL",
+		"title": "Differential and Integral Calculus Laboratory",
+		"professor": "Conley, W.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "31B",
+		"title": "Integration and Infinite Series",
+		"professor": "Greene, M.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "31B",
+		"title": "Integration and Infinite Series",
+		"professor": "Lawrence, B.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "31B",
+		"title": "Integration and Infinite Series",
+		"professor": "Gannon, K.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "32A",
+		"title": "Calculus of Several Variables",
+		"professor": "Scavia, F.; Cladek, L.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "32A",
+		"title": "Calculus of Several Variables",
+		"professor": "Scavia, F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "32A",
+		"title": "Calculus of Several Variables",
+		"professor": "Forlano, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "32B",
+		"title": "Calculus of Several Variables",
+		"professor": "Enakoutsa, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "32B",
+		"title": "Calculus of Several Variables",
+		"professor": "Killip, R.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "32B",
+		"title": "Calculus of Several Variables",
+		"professor": "Wong, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "32BH",
+		"title": "Calculus of Several Variables (Honors)",
+		"professor": "Wong, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "33A",
+		"title": "Linear Algebra and Applications",
+		"professor": "Sanchez Ocal, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "33B",
+		"title": "Differential Equations",
+		"professor": "Aceves Sanchez, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "33B",
+		"title": "Differential Equations",
+		"professor": "Wang, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "61",
+		"title": "Introduction to Discrete Structures",
+		"professor": "Hazel, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "74XP",
+		"title": "Mathematics and Pedagogy for Teaching Elementary Mathematics",
+		"professor": "Dallas, H.J.; Sassone, K.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "89HC",
+		"title": "Honors Contracts",
+		"professor": "Forlano, J.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "98XB",
+		"title": "PEERS Collaborative Learning Workshops for Physical Sciences and Engineering Majors",
+		"professor": "Hasson, T.W.; Hill, M.A.; Razinia, Z."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "105B",
+		"title": "Mathematics and Pedagogy for Teaching Secondary School Mathematics",
+		"professor": "Dallas, H.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "106",
+		"title": "History of Mathematics",
+		"professor": "Spaas, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "110A",
+		"title": "Algebra",
+		"professor": "Venkatesh, S.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "110B",
+		"title": "Algebra",
+		"professor": "Gonzalez, N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "110BH",
+		"title": "Algebra (Honors)",
+		"professor": "Sharifi, R.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "110BH",
+		"title": "Algebra (Honors)",
+		"professor": "Elman, R.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "M114S",
+		"title": "Introduction to Set Theory",
+		"professor": "Lutz, P.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "115A",
+		"title": "Linear Algebra",
+		"professor": "Morris Wright, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "115A",
+		"title": "Linear Algebra",
+		"professor": "Opie, M.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "115A",
+		"title": "Linear Algebra",
+		"professor": "Conley, W.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "115A",
+		"title": "Linear Algebra",
+		"professor": "Blasius, D.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "115A",
+		"title": "Linear Algebra",
+		"professor": "Lawrence, B.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "115AH",
+		"title": "Linear Algebra (Honors)",
+		"professor": "Gieseker, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "115B",
+		"title": "Linear Algebra",
+		"professor": "Chernikov, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "118",
+		"title": "Mathematical Methods of Data Theory",
+		"professor": "McKenzie, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "120A",
+		"title": "Differential Geometry",
+		"professor": "Suzuki, F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "121",
+		"title": "Introduction to Topology",
+		"professor": "Honda, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "131A",
+		"title": "Analysis",
+		"professor": "Chapouto, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "131A",
+		"title": "Analysis",
+		"professor": "Szczesny, B.J.; Blasius, D.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "131A",
+		"title": "Analysis",
+		"professor": "Suzuki, F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "131A",
+		"title": "Analysis",
+		"professor": "Arant, T.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "131A",
+		"title": "Analysis",
+		"professor": "Cladek, L.T.; Nurbekyan, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "131AH",
+		"title": "Analysis (Honors)",
+		"professor": "Biskup, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "131B",
+		"title": "Analysis",
+		"professor": "Madrid Padilla, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "131BH",
+		"title": "Analysis (Honors)",
+		"professor": "Greenfeld, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "132",
+		"title": "Complex Analysis for Applications",
+		"professor": "Arant, T.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "132",
+		"title": "Complex Analysis for Applications",
+		"professor": "Liu, G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "134",
+		"title": "Linear and Nonlinear Systems of Differential Equations",
+		"professor": "Biswal, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "134",
+		"title": "Linear and Nonlinear Systems of Differential Equations",
+		"professor": "Harrop-Griffiths,"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "134",
+		"title": "Linear and Nonlinear Systems of Differential Equations",
+		"professor": "Aceves Sanchez, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "135",
+		"title": "Ordinary Differential Equations",
+		"professor": "Carney, S.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "135",
+		"title": "Ordinary Differential Equations",
+		"professor": "Hester, E.W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "142",
+		"title": "Mathematical Modeling",
+		"professor": "Huang, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "146",
+		"title": "Methods of Applied Mathematics",
+		"professor": "Elamvazhuthi, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "151A",
+		"title": "Applied Numerical Methods",
+		"professor": "Kala, V.A.; Blasius, D.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "151A",
+		"title": "Applied Numerical Methods",
+		"professor": "Maimaitiyiming, W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "151A",
+		"title": "Applied Numerical Methods",
+		"professor": "Maldague, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "151AH",
+		"title": "Numerical Analysis Part 1 (Honors)",
+		"professor": "McKenzie, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "151B",
+		"title": "Applied Numerical Methods",
+		"professor": "Li, W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "151B",
+		"title": "Applied Numerical Methods",
+		"professor": "Jeong, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "151B",
+		"title": "Applied Numerical Methods",
+		"professor": "Maldague, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "155",
+		"title": "Mathematical Imaging",
+		"professor": "Li, W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "156",
+		"title": "Machine Learning",
+		"professor": "Jeong, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "164",
+		"title": "Optimization",
+		"professor": "Gleizer, O."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "164",
+		"title": "Optimization",
+		"professor": "Heaton, H.W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "167",
+		"title": "Mathematical Game Theory",
+		"professor": "Nurbekyan, L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "168",
+		"title": "Introduction to Networks",
+		"professor": "Porter, M.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "170A",
+		"title": "Probability Theory I",
+		"professor": "Duerinckx, M.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "170E",
+		"title": "Introduction to Probability and Statistics 1: Probability",
+		"professor": "Harrop-Griffiths,"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "170E",
+		"title": "Introduction to Probability and Statistics 1: Probability",
+		"professor": "Duerinckx, M.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "170E",
+		"title": "Introduction to Probability and Statistics 1: Probability",
+		"professor": "Pedchenko, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "170E",
+		"title": "Introduction to Probability and Statistics 1: Probability",
+		"professor": "Needell, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "170S",
+		"title": "Introduction to Probability and Statistics 2: Statistics",
+		"professor": "Chan, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "170S",
+		"title": "Introduction to Probability and Statistics 2: Statistics",
+		"professor": "Nguyen, H.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "170S",
+		"title": "Introduction to Probability and Statistics 2: Statistics",
+		"professor": "Ozel, E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "171",
+		"title": "Stochastic Processes",
+		"professor": "Nguyen, H.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "174E",
+		"title": "Mathematics of Finance for Mathematics/Economics Students",
+		"professor": "Voss, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "177",
+		"title": "Theory of Interest and Applications",
+		"professor": "Pedchenko, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "178A",
+		"title": "Foundations of Actuarial Mathematics: Life Insurance and Annuities",
+		"professor": "Ozel, E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "178B",
+		"title": "Foundations of Actuarial Mathematics: Additional Topics in Long-Term Actuarial Mathematics",
+		"professor": "Kye, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "180",
+		"title": "Graph Theory",
+		"professor": "Mutlu Akaturk, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "182",
+		"title": "Algorithms",
+		"professor": "Lutz, P.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Opie, M.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "191",
+		"title": "Variable Topics Research Seminars: Mathematics: Ramsey Theory",
+		"professor": "Ramsey, S.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "M192A",
+		"title": "Introduction to Collaborative Learning Theory and Practice",
+		"professor": "Shaked, S.; Hill, M.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "192B",
+		"title": "Collaborative Learning Theory and Practice",
+		"professor": "Shaked, S.; Hill, M.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "197",
+		"title": "Individual Studies in Mathematics",
+		"professor": "Balmer, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "204",
+		"title": "Master&#39;s Analysis",
+		"professor": "Palasek, S.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "205B",
+		"title": "Number Theory",
+		"professor": "Hsu, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "206B",
+		"title": "Combinatorial Theory",
+		"professor": "Pak, I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "207B",
+		"title": "Topics in Number Theory",
+		"professor": "Khare, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "M209B",
+		"title": "Cryptographic Protocols",
+		"professor": "Ostrovsky, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "210B",
+		"title": "Algebra",
+		"professor": "Merkurjev, A.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "212A",
+		"title": "Homological Algebra",
+		"professor": "Balmer, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "214A",
+		"title": "Introduction to Algebraic Geometry",
+		"professor": "Totaro, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "M217",
+		"title": "Geometry and Physics",
+		"professor": "Liu, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "220B",
+		"title": "Mathematical Logic",
+		"professor": "Marks, A.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "223S",
+		"title": "Topics in Set Theory",
+		"professor": "Neeman, I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "225B",
+		"title": "Differential Geometry",
+		"professor": "Petersen, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "227B",
+		"title": "Algebraic Topology",
+		"professor": "Hill, M.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "245B",
+		"title": "Real Analysis",
+		"professor": "Gangbo, W.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "246B",
+		"title": "Complex Analysis",
+		"professor": "Tao, T.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "247A",
+		"title": "Classical Fourier Analysis",
+		"professor": "Visan, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "251B",
+		"title": "Topics in Partial Differential Equations",
+		"professor": "Khitrik, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "255A",
+		"title": "Functional Analysis",
+		"professor": "Austin, T.D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "259B",
+		"title": "Operator Algebras in Hilbert Space",
+		"professor": "Popa, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "266B",
+		"title": "Applied Partial Differential Equations",
+		"professor": "Roper, M.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "269B",
+		"title": "Advanced Numerical Analysis",
+		"professor": "Anderson, C.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "270C",
+		"title": "Mathematical Aspects of Scientific Computing: Computational Linear Algebra",
+		"professor": "Lou, Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "273B",
+		"title": "Optimization and Calculus of Variations: Calculus of Variations",
+		"professor": "Vese, L.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "275B",
+		"title": "Probability Theory",
+		"professor": "Yin, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "285N",
+		"title": "Seminar: Combinatorics",
+		"professor": "Wang, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "290B",
+		"title": "Participating Seminar: Current Literature in Number Theory",
+		"professor": "Khare, C.; Sharifi, R.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "290B",
+		"title": "Participating Seminar: Current Literature in Number Theory",
+		"professor": "Hida, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "290B",
+		"title": "Participating Seminar: Current Literature in Number Theory",
+		"professor": "Anderson, C.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "290C",
+		"title": "Participating Seminar: Current Literature in Algebra",
+		"professor": "Rouquier, R.A.; Balmer, P.; Totaro, B.; Merkurjev, A.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "290C",
+		"title": "Participating Seminar: Current Literature in Algebra",
+		"professor": "Totaro, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "290F",
+		"title": "Participating Seminar: Current Literature in Topology",
+		"professor": "Hill, M.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "290F",
+		"title": "Participating Seminar: Current Literature in Topology",
+		"professor": "Honda, K.; Sarkar, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "290G",
+		"title": "Participating Seminar: Current Literature in Analysis",
+		"professor": "Tao, T.C.; Bonk, M.; Killip, R.B.; Visan, M.; Wang, H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "290I",
+		"title": "Participating Seminar: Current Literature in Functional Analysis",
+		"professor": "Popa, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "296B",
+		"title": "Research Seminar: Number Theory",
+		"professor": "Blasius, D.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "296D",
+		"title": "Research Seminar: Logic",
+		"professor": "Neeman, I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "296D",
+		"title": "Research Seminar: Logic",
+		"professor": "Aschenbrenner, M.J"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "296F",
+		"title": "Research Seminar: Topology",
+		"professor": "Hill, M.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "296G",
+		"title": "Research Seminar: Analysis",
+		"professor": "Chernikov, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "296I",
+		"title": "Research Seminar: Functional Analysis",
+		"professor": "Popa, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "296J",
+		"title": "Research Seminar: Applied Mathematics",
+		"professor": "Osher, S.J.; Bertozzi, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "296K",
+		"title": "Research Seminar: Probability",
+		"professor": "Biskup, M.; Menz, G.; Yin, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MATH",
+		"code": "296N",
+		"title": "Research Seminar: Combinatorics",
+		"professor": "Pak, I."
+	}
+]

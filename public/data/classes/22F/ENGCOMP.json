@@ -1,0 +1,121 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGCOMP",
+		"code": "1",
+		"title": "Introduction to University Discourse",
+		"professor": "Johnson, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGCOMP",
+		"code": "2",
+		"title": "Approaches to University Writing",
+		"professor": "Crosby, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGCOMP",
+		"code": "2",
+		"title": "Approaches to University Writing",
+		"professor": "Patchigondla, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGCOMP",
+		"code": "2",
+		"title": "Approaches to University Writing",
+		"professor": "Popham, S.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGCOMP",
+		"code": "2",
+		"title": "Approaches to University Writing",
+		"professor": "Ketai, R.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGCOMP",
+		"code": "2",
+		"title": "Approaches to University Writing",
+		"professor": "Dickey, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGCOMP",
+		"code": "2I",
+		"title": "Approaches to University Writing for Multilingual Students",
+		"professor": "Lew, M.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGCOMP",
+		"code": "3E",
+		"title": "English Composition, Rhetoric, and Language For Engineers",
+		"professor": "Sussman, D.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGCOMP",
+		"code": "3E",
+		"title": "English Composition, Rhetoric, and Language For Engineers",
+		"professor": "Watson, D.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGCOMP",
+		"code": "130A",
+		"title": "Professional Writing: Digital Writing and Web Literacy",
+		"professor": "Samuelson, M.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGCOMP",
+		"code": "130C",
+		"title": "Professional Writing: Science and Technology",
+		"professor": "Rubinson, G.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGCOMP",
+		"code": "130C",
+		"title": "Professional Writing: Science and Technology",
+		"professor": "Hartenberger, L.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGCOMP",
+		"code": "131A",
+		"title": "Specialized Writing: Law and Politics",
+		"professor": "Sussman, D.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGCOMP",
+		"code": "175",
+		"title": "Apprenticeship in Composition Tutoring",
+		"professor": "Holten, C.; Hunt, M.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGCOMP",
+		"code": "M192",
+		"title": "Undergraduate Practicum in English: Journals",
+		"professor": "Wilson, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGCOMP",
+		"code": "195",
+		"title": "Community or Corporate Internships in English Composition",
+		"professor": "Deuel, N.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "ENGCOMP",
+		"code": "195",
+		"title": "Community or Corporate Internships in English Composition",
+		"professor": "Dimuro, J.A."
+	}
+]

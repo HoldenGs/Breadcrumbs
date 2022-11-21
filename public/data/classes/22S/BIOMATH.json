@@ -1,0 +1,65 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOMATH",
+		"code": "204",
+		"title": "Biomedical Data Analysis",
+		"professor": "Gornbein, J.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOMATH",
+		"code": "206",
+		"title": "Introduction to Mathematical Oncology",
+		"professor": "Sehl, M.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOMATH",
+		"code": "208",
+		"title": "Geometric Methods in Medical Imaging",
+		"professor": "Tward, D.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOMATH",
+		"code": "M232",
+		"title": "Statistical Analysis of Incomplete Data",
+		"professor": "Belin, T.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOMATH",
+		"code": "M260B",
+		"title": "Methodology in Clinical Research II",
+		"professor": "Sim, M.; Elashoff, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOMATH",
+		"code": "266B",
+		"title": "Advanced Biostatistics",
+		"professor": "Liang, L.; Jackson, N.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOMATH",
+		"code": "M282",
+		"title": "Longitudinal Data",
+		"professor": "Weiss, R.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOMATH",
+		"code": "M284",
+		"title": "Methodology of Clinical Trials",
+		"professor": "Wong, W."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "BIOMATH",
+		"code": "285",
+		"title": "Introduction to High-Throughput Data Analysis",
+		"professor": "Elashoff, D.; Zhou, J."
+	}
+]

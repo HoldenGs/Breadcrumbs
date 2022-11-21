@@ -1,0 +1,163 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "A&O SCI",
+		"code": "1",
+		"title": "Climate Change: From Puzzles to Policy",
+		"professor": "Bianchi, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "A&O SCI",
+		"code": "1L",
+		"title": "Climate Change: From Puzzles to Policy--Laboratory",
+		"professor": "Bianchi, D.; Hoel, P.F.; Sandoval Belmar, M; McCoy, D.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "A&O SCI",
+		"code": "2",
+		"title": "Air Pollution",
+		"professor": "Li, Q."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "A&O SCI",
+		"code": "2L",
+		"title": "Air Pollution Laboratory",
+		"professor": "Li, Q.; Banach, C.A.; Fulginiti, C.; Li, Z."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "A&O SCI",
+		"code": "3",
+		"title": "Meteorology and Extreme Weather",
+		"professor": "Chamecki, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "A&O SCI",
+		"code": "3L",
+		"title": "Meteorology and Extreme Weather Laboratory",
+		"professor": "Chamecki, M.; Moore, D.C.; Biyani, S.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "A&O SCI",
+		"code": "51",
+		"title": "Fundamentals of Climate Science",
+		"professor": "Hall, A.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "A&O SCI",
+		"code": "M71",
+		"title": "Introduction to Computing for Geoscientists",
+		"professor": "Aurnou, J.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "A&O SCI",
+		"code": "103",
+		"title": "Physical Oceanography",
+		"professor": "Stewart, A.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "A&O SCI",
+		"code": "112",
+		"title": "Climate Change Assessment",
+		"professor": "Neelin, J.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "A&O SCI",
+		"code": "121",
+		"title": "Climate Mitigation Solutions",
+		"professor": "Seibt, U."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "A&O SCI",
+		"code": "141",
+		"title": "Introduction to Atmospheric Chemistry and Air Pollution",
+		"professor": "Li, Q."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "A&O SCI",
+		"code": "C160",
+		"title": "Remote Sensing of Atmosphere and Oceans",
+		"professor": "Stutz, J.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "A&O SCI",
+		"code": "200A",
+		"title": "Introduction to Atmospheric and Oceanic Fluid",
+		"professor": "Mitchell, J.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "A&O SCI",
+		"code": "200B",
+		"title": "Introduction to Dynamics of Earth System",
+		"professor": "Chen, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "A&O SCI",
+		"code": "200C",
+		"title": "Introduction to Atmospheric and Oceanic Radiation, Physics, and Chemistry",
+		"professor": "Stutz, J.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "A&O SCI",
+		"code": "M206",
+		"title": "Introduction to Biophysical Modeling of Land Surface Processes and Land/Atmosphere Interactions",
+		"professor": "Xue, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "A&O SCI",
+		"code": "236",
+		"title": "Terrestrial Biogeochemical Dynamics and Climate",
+		"professor": "Seibt, U."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "A&O SCI",
+		"code": "C240B",
+		"title": "Remote Sensing of Atmosphere and Oceans",
+		"professor": "Stutz, J.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "A&O SCI",
+		"code": "270",
+		"title": "Seminar: Atmospheric Sciences",
+		"professor": "Saide Peralta, P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "A&O SCI",
+		"code": "271",
+		"title": "Seminar: Atmospheric Dynamics",
+		"professor": "Mitchell, J.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "A&O SCI",
+		"code": "274",
+		"title": "Seminar: Atmospheric Composition and Processes",
+		"professor": "Paulson, S.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "A&O SCI",
+		"code": "M275A",
+		"title": "Current Research in Space Physics",
+		"professor": "Angelopoulos, V."
+	}
+]

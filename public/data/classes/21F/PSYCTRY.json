@@ -1,0 +1,58 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCTRY",
+		"code": "79",
+		"title": "Applied Positive Neuroscience: Skills for Improving Productivity and Well-Being",
+		"professor": "Korb, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCTRY",
+		"code": "89HC",
+		"title": "Honors Contracts",
+		"professor": "Korb, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCTRY",
+		"code": "178",
+		"title": "Cannabis and Cannabinoids: From Pharmacology to Public Policy",
+		"professor": "Evans, C.J.; Cooper, Z.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCTRY",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Evans, C.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCTRY",
+		"code": "236A",
+		"title": "Psychology Interns Seminar",
+		"professor": "Sena, R.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCTRY",
+		"code": "M272",
+		"title": "Psychological Anthropology",
+		"professor": "Fiske, A.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCTRY",
+		"code": "281A",
+		"title": "Behavioral Therapy in Educational Settings",
+		"professor": "Freeman, S.F.; Paparella, T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "PSYCTRY",
+		"code": "292",
+		"title": "Functional Neuroanatomy for Neuropsychologists",
+		"professor": "Bookheimer, S.Y."
+	}
+]

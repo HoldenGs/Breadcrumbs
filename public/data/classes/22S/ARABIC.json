@@ -1,0 +1,65 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "ARABIC",
+		"code": "1C",
+		"title": "Elementary Standard Arabic",
+		"professor": "Al Rifae, K.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ARABIC",
+		"code": "1C",
+		"title": "Elementary Standard Arabic",
+		"professor": "Gluskin-Braun, G.Z; Al Rifae, K.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ARABIC",
+		"code": "102C",
+		"title": "Intermediate Standard Arabic",
+		"professor": "Hamza, A.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ARABIC",
+		"code": "102C",
+		"title": "Intermediate Standard Arabic",
+		"professor": "MacDonald, R.S.; Hamza, A.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ARABIC",
+		"code": "103C",
+		"title": "Advanced Arabic",
+		"professor": "Hamza, A.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ARABIC",
+		"code": "115",
+		"title": "Studies in Arabic Dialectology",
+		"professor": "Al Rifae, K.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ARABIC",
+		"code": "197",
+		"title": "Individual Studies in Arabic",
+		"professor": "Hayik, R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ARABIC",
+		"code": "250",
+		"title": "Seminar: Premodern Arabic Literature",
+		"professor": "Cooperson, M.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "ARABIC",
+		"code": "275",
+		"title": "Encountering Arabic Manuscripts: Introduction to Arabic Paleography and Critical Edition of Manuscripts",
+		"professor": "Yarbrough, L.B."
+	}
+]

@@ -1,0 +1,247 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "8",
+		"title": "Earthquakes",
+		"professor": "Peltzer, G.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "9",
+		"title": "Solar System and Planets",
+		"professor": "Kavner, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "13",
+		"title": "Natural Disasters",
+		"professor": "Lithgow-Bertelloni"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "15",
+		"title": "Blue Planet: Introduction to Oceanography",
+		"professor": "Schauble, E.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "17",
+		"title": "Dinosaurs and Their Relatives",
+		"professor": "Brown, C.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "19",
+		"title": "Geological Beauty of Yosemite Valley",
+		"professor": "Yin, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "88S",
+		"title": "Applied Astrobiology: Design Your Own Alien Microbe",
+		"professor": "Treude, T.I.; Grahill-Bland, E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "89HC",
+		"title": "Honors Contracts",
+		"professor": "Lithgow-Bertelloni"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "103C",
+		"title": "Metamorphic Petrology",
+		"professor": "Manning, C.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "111",
+		"title": "Stratigraphic and Field Geology",
+		"professor": "Day, M.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "CM114",
+		"title": "Aquatic Geomicrobiology",
+		"professor": "Treude, T.I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "119",
+		"title": "Continental Drift and Plate Tectonics",
+		"professor": "Kavner, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "121",
+		"title": "Advanced Field Geology",
+		"professor": "Yin, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "122",
+		"title": "Introduction to Seismology",
+		"professor": "Meng, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "133",
+		"title": "Historical and Regional Geology",
+		"professor": "Coffey, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "136C",
+		"title": "Field Geophysics",
+		"professor": "Paige, D.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "153",
+		"title": "Oceans and Atmospheres",
+		"professor": "Mitchell, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "C179",
+		"title": "Search for Extraterrestrial Intelligence: Theory and Applications",
+		"professor": "Margot, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "188SC",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Treude, T.I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Kavner, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "193C",
+		"title": "Current Research in Earth, Planetary, and Space Sciences",
+		"professor": "Stixrude, L.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "200B",
+		"title": "Introduction to Geophysics and Space Physics II: Oceans and Atmospheres",
+		"professor": "Mitchell, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "200C",
+		"title": "Introduction to Geophysics and Space Physics III: Plasmas --Aeronomy and Interplanetary Medium",
+		"professor": "Angelopoulos, V.; Velli, M.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "205",
+		"title": "Inverse Theory and Data Interpretation",
+		"professor": "Beghein, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "CM214",
+		"title": "Aquatic Geomicrobiology",
+		"professor": "Treude, T.I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "220",
+		"title": "Principles of Paleobiology",
+		"professor": "Schopf, J.W."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "222",
+		"title": "Introduction to Seismology",
+		"professor": "Meng, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "235C",
+		"title": "Current Research in Geochemistry",
+		"professor": "Tripati, A.K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "252",
+		"title": "Seminar: Geochemistry",
+		"professor": "Manning, C.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "C279",
+		"title": "Search for Extraterrestrial Intelligence: Theory and Applications",
+		"professor": "Margot, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "286C",
+		"title": "Current Research in Planetary Sciences",
+		"professor": "Margot, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "287C",
+		"title": "Current Research in Geophysics",
+		"professor": "Stixrude, L.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "M288C",
+		"title": "Current Research in Space Physics",
+		"professor": "Angelopoulos, V.; Velli, M.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "293C",
+		"title": "Space Physics Journal Club",
+		"professor": "Angelopoulos, V.; Velli, M.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EPS SCI",
+		"code": "295C",
+		"title": "Current Research in Earth, Planetary, and Space Sciences",
+		"professor": "Stixrude, L.P."
+	}
+]

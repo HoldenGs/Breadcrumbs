@@ -1,0 +1,79 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "COMPTNG",
+		"code": "10A",
+		"title": "Introduction to Programming",
+		"professor": "Liu, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMPTNG",
+		"code": "10A",
+		"title": "Introduction to Programming",
+		"professor": "Yang, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMPTNG",
+		"code": "10A",
+		"title": "Introduction to Programming",
+		"professor": "Ding, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMPTNG",
+		"code": "10B",
+		"title": "Intermediate Programming",
+		"professor": "Murray, M.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMPTNG",
+		"code": "10B",
+		"title": "Intermediate Programming",
+		"professor": "Andrews, M.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMPTNG",
+		"code": "10C",
+		"title": "Advanced Programming",
+		"professor": "Chu, W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMPTNG",
+		"code": "16A",
+		"title": "Python with Applications I",
+		"professor": "Murray, M.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMPTNG",
+		"code": "16A",
+		"title": "Python with Applications I",
+		"professor": "Lee, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMPTNG",
+		"code": "16A",
+		"title": "Python with Applications I",
+		"professor": "Perlmutter, M.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMPTNG",
+		"code": "16B",
+		"title": "Python with Applications II",
+		"professor": "Lin, A.T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "COMPTNG",
+		"code": "40A",
+		"title": "Introduction to Programming for Internet",
+		"professor": "Burnett, S.C."
+	}
+]

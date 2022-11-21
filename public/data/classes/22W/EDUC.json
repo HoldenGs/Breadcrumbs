@@ -1,0 +1,555 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "10",
+		"title": "Introduction to Educational Issues and Scholarship",
+		"professor": "Franke, M.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "19",
+		"title": "Asian Americans, COVID-19, and Role of Education",
+		"professor": "Teranishi, R.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "19",
+		"title": "Race and Racism in Higher Education",
+		"professor": "Harris, J.C.; Cole, E.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "35",
+		"title": "Introduction to Inquiry and Research in Education",
+		"professor": "Tobiason, G.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "98",
+		"title": "Critical Issues in Education",
+		"professor": "Howard, T.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "106B",
+		"title": "Lesbian, Gay, Bisexual, and Transgender Issues in Education and Law",
+		"professor": "Purdy, W.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "109B",
+		"title": "Global Citizenship Education",
+		"professor": "Torres, C.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "112",
+		"title": "Black Student Activism: History of Resistance on Campus",
+		"professor": "Cole, E.R.; Gutzwa, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "113",
+		"title": "Democracy, Justice, and Education",
+		"professor": "Quartz, K.; McKeiver, D.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "119",
+		"title": "Variable Topics in Histories and Philosophies of Education: Equal Rights and Unequal Education: American Dilemma",
+		"professor": "Gandara, P.C.; Orfield, G.A.; Sanchez Castillo,; Tanimura, D.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "123",
+		"title": "Teaching Profession",
+		"professor": "Share, J.; Graham, F.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "C124",
+		"title": "Theory and Practice of Intergroup Dialogue: Building Facilitation Skills",
+		"professor": "Hurtado, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "126",
+		"title": "Language, Literacy, and Academic Development: Educational Considerations for School-Age Multilingual and English Language Learner Students",
+		"professor": "Bailey, A.; Lee, H.Y."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "M129XP",
+		"title": "Arts Education Undergraduate Practicum and Capstone Project",
+		"professor": "Cameron, D.P.; Sharma, S.; Rogers, L.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "130BX",
+		"title": "Instructional Apprenticeship in Teaching and Learning at UCLA Partner Schools",
+		"professor": "Bang, S.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "132",
+		"title": "Autism: Mind, Brain, and Education",
+		"professor": "Kasari, C.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "137",
+		"title": "Critical Digital Media Literacies",
+		"professor": "Share, J.; Gambino, A.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "138",
+		"title": "Cognitive Development and Schooling",
+		"professor": "Blackstock-Bernste"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "143",
+		"title": "Understanding Pathways to College",
+		"professor": "McDonough, P.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "150",
+		"title": "Quantitative Research in Education: Claims and Evidence",
+		"professor": "Tobiason, G.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "151",
+		"title": "Quantitative Research in Education: Measurement and Assessment",
+		"professor": "Jeon, M.; Lee, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "160",
+		"title": "Transformative Research in Community-Based Settings",
+		"professor": "Lee, C.; Cohen, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "174B",
+		"title": "Experiential Learning in Secondary Classrooms: Law",
+		"professor": "Kim, J.W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "180",
+		"title": "Orientation to Community Engagement",
+		"professor": "Dorio, J.; Magana Gamero, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "181",
+		"title": "Capstone in Education and Social Transformation",
+		"professor": "Yokota, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "188SB",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Markowitz, A.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "M190",
+		"title": "Arts Education Undergraduate Practicum: Preparation, Observation, and Practice",
+		"professor": "Sykes, M.M.; Park, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "195CE",
+		"title": "Community or Corporate Internships in Education",
+		"professor": "Yokota, M.; Corona Valencia, G"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "196R",
+		"title": "Research Apprenticeship in Education",
+		"professor": "Mistry, R.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "196R",
+		"title": "Research Apprenticeship in Education",
+		"professor": "Quartz, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "197",
+		"title": "Individual Studies in Education",
+		"professor": "Grammer, J.K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "197",
+		"title": "Individual Studies in Education",
+		"professor": "Shen, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "197",
+		"title": "Individual Studies in Education",
+		"professor": "Omwami, E.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "200D",
+		"title": "Research Methods: Special Topics: Lecture 1  ",
+		"professor": "Garcia, D.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "204D",
+		"title": "Minority Education in Cross-Cultural Perspective",
+		"professor": "Solorzano, D.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "204E",
+		"title": "International Efforts in Education",
+		"professor": "Omwami, E.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "206A",
+		"title": "Philosophy of Education: Introduction",
+		"professor": "Rosenfeld, K.N."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "C209A",
+		"title": "History of Higher Education",
+		"professor": "Cole, E.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "209C",
+		"title": "Research and Evaluation in Higher Education",
+		"professor": "Sax, L.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "217A",
+		"title": "Social Development and Education",
+		"professor": "Graham, S.H.; Kasari, C.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "222B",
+		"title": "Participant-Observation Field Methods",
+		"professor": "Marin, A.M.; White Eyes, R.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "222B",
+		"title": "Participant-Observation Field Methods",
+		"professor": "Garcia Sanchez, I.; Rodriguez, C.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "222B",
+		"title": "Participant-Observation Field Methods",
+		"professor": "Gomez, K.; Otis, B.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "229",
+		"title": "Seminar: Special Topics in Urban Schooling: Democracy and Education",
+		"professor": "Rogers, J.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "229",
+		"title": "Seminar: Special Topics in Urban Schooling: Power, People, and Schools",
+		"professor": "Guillen, L.I."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "230B",
+		"title": "Linear Statistical Models in Social Science Research: Multiple Regression Analysis",
+		"professor": "Hansen, M.P.; Bigsby, M.E.; Hoskins, J.E.; Lee, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "230BL",
+		"title": "Linear Statistical Models: Computer Laboratory",
+		"professor": "Hansen, M.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "231D",
+		"title": "Advanced Quantitative Models in Nonexperimental Research: Multilevel Analysis",
+		"professor": "Seltzer, M.H.; Kim, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "242",
+		"title": "Learning, Culture, and Schooling",
+		"professor": "Sandoval, W.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "C244",
+		"title": "Theory and Practice of Intergroup Dialogue: Building Facilitation Skills",
+		"professor": "Hurtado, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "255C",
+		"title": "Seminar: Special Topics--Data Analysis: Measuring Instruction and Classroom Environments",
+		"professor": "Martinez-Fernandez"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "260B",
+		"title": "Fundamentals of Programming",
+		"professor": "Jaquette, O.; Wright, B.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "263",
+		"title": "Seminar: Higher Education: Expert Witness Testimony",
+		"professor": "Allen, W.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "263",
+		"title": "Seminar: Higher Education: Funds of Knowledge and Forms of Capital",
+		"professor": "Rios Aguilar, C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "263",
+		"title": "Seminar: Higher Education: Race and Racism in Higher Education",
+		"professor": "Harris, J.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 1  ",
+		"professor": "Alkin, M.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 10  ",
+		"professor": "Kasari, C.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 11  ",
+		"professor": "Teranishi, R.T."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 13  ",
+		"professor": "Christie, C.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 14  ",
+		"professor": "Torres, C.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 15  ",
+		"professor": "Allen, W.R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 16  ",
+		"professor": "Desjardins, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 17  ",
+		"professor": "Solorzano, D.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 19  ",
+		"professor": "Raia, F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 2  ",
+		"professor": "Gomez, K.; Gomez, L.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 23  ",
+		"professor": "Martinez-Fernandez"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 25  ",
+		"professor": "Cooper, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 26  ",
+		"professor": "Hurtado, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 28  ",
+		"professor": "Quartz, K."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 29  ",
+		"professor": "Garcia, D.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 3  ",
+		"professor": "Bailey, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 30  ",
+		"professor": "McDonough, P.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 31  ",
+		"professor": "Jeon, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 32  ",
+		"professor": "Garcia Sanchez, I.; Marin, A.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 33  ",
+		"professor": "Morrison, C.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 5  ",
+		"professor": "Omwami, E.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 7  ",
+		"professor": "Graham, S.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 8  ",
+		"professor": "Sax, L.J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 9  ",
+		"professor": "Wood, J.J."
+	}
+]

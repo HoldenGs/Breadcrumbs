@@ -1,0 +1,30 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "PBMED",
+		"code": "205",
+		"title": "Physics of Diagnostic Radiology",
+		"professor": "McNitt-Gray, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PBMED",
+		"code": "M209",
+		"title": "Signal and Image Processing for Biomedicine",
+		"professor": "Ruan, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PBMED",
+		"code": "216",
+		"title": "Fundamentals of Dosimetry",
+		"professor": "Lamb, J.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PBMED",
+		"code": "218",
+		"title": "Radiologic Functional Anatomy",
+		"professor": "Mackenzie-Graham,"
+	}
+]

@@ -1,0 +1,520 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "10",
+		"title": "Introduction to Educational Issues and Scholarship",
+		"professor": "Purdy, W.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "35",
+		"title": "Introduction to Inquiry and Research in Education",
+		"professor": "Eagan, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "88S",
+		"title": "Kids, School, and COVID-19: K-12 Education in Time of Pandemic",
+		"professor": "Mauerman, C.S.; Markowitz, A.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "98",
+		"title": "Critical Issues in Education",
+		"professor": "Tunstall, J.D.; Beasley, M.E.; Blackmon, S.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "101B",
+		"title": "History of Schools in U.S.",
+		"professor": "Guillen, L.I.; Diaz Montejano, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "M102",
+		"title": "Mexican Americans and Schools",
+		"professor": "Solorzano, D.G.; Lopez, B.Y.; Lugo, J.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "104A",
+		"title": "Introduction to Exceptional Learners",
+		"professor": "Wood, J.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "M108",
+		"title": "Sociology of Education",
+		"professor": "Brand, J.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "118",
+		"title": "Sociology of Community Colleges",
+		"professor": "Rios Aguilar, C.; Alicea, J.A.; Ramirez, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "122",
+		"title": "Literacy in Society",
+		"professor": "Gomez, K.; McKeiver, D.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "123",
+		"title": "Teaching Profession",
+		"professor": "Share, J.; Gambino, A.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "128",
+		"title": "Educational Psychology: Contexts for Learning and Development",
+		"professor": "Blackstock-Bernste; Rosen, N.; Torgrimson, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "M129XP",
+		"title": "Arts Education Undergraduate Practicum and Capstone Project",
+		"professor": "Sykes, M.M.; Park, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "130BX",
+		"title": "Instructional Apprenticeship in Teaching and Learning at UCLA Partner Schools",
+		"professor": "Bang, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "140",
+		"title": "Educational Perspectives of Relational Practices in Modern Medicine",
+		"professor": "Raia, F.; Deng, M.C.; Tafari, M.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "141",
+		"title": "Adolescent Development",
+		"professor": "Graham, S.H.; Harris, P.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "144",
+		"title": "Pedagogies of Global Citizenship Education",
+		"professor": "Wiksten Desjardins; Hadjeris, F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "152",
+		"title": "Quantitative Research in Education: Regression Analysis",
+		"professor": "Santibanez, L.; Saint Martin Guerr"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "156",
+		"title": "Introduction to Qualitative Research in Education for Social Transformation",
+		"professor": "Dorio, J.; Garcia, F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "171",
+		"title": "Community Service Learning for Academic Achievement",
+		"professor": "Patterson, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "173",
+		"title": "Dialog across Difference",
+		"professor": "Tran, M.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "174C",
+		"title": "Experiential Learning in Secondary Classrooms: Technology",
+		"professor": "Hipolito, E.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "180",
+		"title": "Orientation to Community Engagement",
+		"professor": "Yokota, M.; Dorio, J.; Magana Gamero, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "181",
+		"title": "Capstone in Education and Social Transformation",
+		"professor": "Yokota, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "188SC",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Markowitz, A.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "C192A",
+		"title": "Practicum in Intergroup Dialogue Facilitation",
+		"professor": "Tran, M.C.; Messer, L.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "195CE",
+		"title": "Community or Corporate Internships in Education",
+		"professor": "Corona Valencia, G; Yokota, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "195CE",
+		"title": "Community or Corporate Internships in Education",
+		"professor": "Rios Aguilar, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "196R",
+		"title": "Research Apprenticeship in Education",
+		"professor": "Bailey, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "196R",
+		"title": "Research Apprenticeship in Education",
+		"professor": "Quartz, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "196R",
+		"title": "Research Apprenticeship in Education",
+		"professor": "Shen, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "196R",
+		"title": "Research Apprenticeship in Education",
+		"professor": "Eagan, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "196XP",
+		"title": "Community-Engaged Research Apprenticeship",
+		"professor": "Quartz, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "196XP",
+		"title": "Community-Engaged Research Apprenticeship",
+		"professor": "Rios Aguilar, C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "197",
+		"title": "Individual Studies in Education",
+		"professor": "Omwami, E.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "211A",
+		"title": "Educational and Psychological Measurement: Underlying Theory and Practice",
+		"professor": "Hansen, M.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "221",
+		"title": "Computer Analyses of Empirical Data in Education",
+		"professor": "Eagan, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "222C",
+		"title": "Qualitative Data Reduction and Analysis",
+		"professor": "Marin, A.M.; Garcia Sanchez, I.; White Eyes, R.C.; Rodriguez, C.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "222D",
+		"title": "Qualitative Inquiry: Special Topics: Learning from Stories: Introduction to Narrative Analysis",
+		"professor": "Garcia Sanchez, I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "229",
+		"title": "Seminar: Special Topics in Urban Schooling: Pedagogy in Teacher Education",
+		"professor": "Guillen, L.I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "229",
+		"title": "Seminar: Special Topics in Urban Schooling: Seminar 2  ",
+		"professor": "Sandoval, W.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "230C",
+		"title": "Linear Statistical Models in Social Science Research: Analysis of Designed Experiments",
+		"professor": "Setoguchi, E.H.; Bigsby, M.E.; Hoskins, J.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "230CL",
+		"title": "Linear Statistical Models for Experimental Research: Computer Laboratory",
+		"professor": "Setoguchi, E.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "233",
+		"title": "Professional Writing in Education",
+		"professor": "Jarsky, K.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "235",
+		"title": "Comparative Political Economy of Education and Skills",
+		"professor": "Desjardins, R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "243",
+		"title": "Reflection on Methods in Social Sciences",
+		"professor": "Seltzer, M.H.; Marin, A.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "250B",
+		"title": "Organizational Analysis of Higher Education",
+		"professor": "Jaquette, O."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "256B",
+		"title": "Seminar: Special Topics in Development: Seminar 1  ",
+		"professor": "Mistry, R.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "270",
+		"title": "Introduction to Cultural Studies",
+		"professor": "Rosenfeld, K.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 1  ",
+		"professor": "Alkin, M.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 10  ",
+		"professor": "Kasari, C.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 11  ",
+		"professor": "Teranishi, R.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 13  ",
+		"professor": "Christie, C.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 14  ",
+		"professor": "Torres, C.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 15  ",
+		"professor": "Allen, W.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 16  ",
+		"professor": "Desjardins, R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 17  ",
+		"professor": "Solorzano, D.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 19  ",
+		"professor": "Raia, F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 2  ",
+		"professor": "Gomez, K.; Gomez, L.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 25  ",
+		"professor": "Cooper, R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 26  ",
+		"professor": "Hurtado, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 28  ",
+		"professor": "Quartz, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 29  ",
+		"professor": "Garcia, D.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 3  ",
+		"professor": "Bailey, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 30  ",
+		"professor": "McDonough, P.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 31  ",
+		"professor": "Jeon, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 32  ",
+		"professor": "Marin, A.M.; Garcia Sanchez, I."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 33  ",
+		"professor": "Morrison, C.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 4  ",
+		"professor": "Mistry, R.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 5  ",
+		"professor": "Omwami, E.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 7  ",
+		"professor": "Graham, S.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 8  ",
+		"professor": "Sax, L.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "288",
+		"title": "Research Apprenticeship Course: Discussion 9  ",
+		"professor": "Wood, J.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "EDUC",
+		"code": "C292A",
+		"title": "Practicum in Intergroup Dialogue Facilitation",
+		"professor": "Tran, M.C.; Messer, L.M."
+	}
+]

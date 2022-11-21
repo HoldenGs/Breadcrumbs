@@ -1,0 +1,1185 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "10",
+		"title": "Introductory Psychology",
+		"professor": "Brabec, J.A.; Paquette-Smith, M.; Cannova, E.M.; Chu, K.; Gomez, G.J.; Kady, A.; Null, K.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "10",
+		"title": "Introductory Psychology",
+		"professor": "Brabec, J.A.; Ankowski, A.N.; Olabinjo, I.; Rosen, V.; Saravia, D.H.; Worthley, A.V.; McManus, K.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "19",
+		"title": "Memory: User&#39;s Guide",
+		"professor": "Knowlton, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "20A",
+		"title": "MATLAB Programming for Behavioral Sciences",
+		"professor": "Frane, A.V."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "20B",
+		"title": "Advanced Topics in MATLAB Programming for Behavioral Sciences",
+		"professor": "Frane, A.V."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "85",
+		"title": "Introduction to Cognitive Science",
+		"professor": "Mettler, E.W.; Wert, S.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "100A",
+		"title": "Psychological Statistics",
+		"professor": "Du, H.; Wong, E.F.; Haggerty, B.B.; Woller, M.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "100A",
+		"title": "Psychological Statistics",
+		"professor": "Trott, J.M.; Schiff, S.J.; Nagaswami, M.V.; Davis, B.J.; Aguilar Silvan, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "100B",
+		"title": "Research Methods in Psychology",
+		"professor": "Firstenberg, I.; Silaj, K.M.; Straus, J.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "101",
+		"title": "General Psychology Laboratory",
+		"professor": "McAuliffe, S.P.; Al-Suwaidi, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "110",
+		"title": "Fundamentals of Learning",
+		"professor": "Wassum, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "112B",
+		"title": "Psychobiology of Fear and Anxiety",
+		"professor": "Trott, J.M.; Currin, D.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "115",
+		"title": "Principles of Behavioral Neuroscience",
+		"professor": "Kennedy, P.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "116A",
+		"title": "Behavioral Neuroscience Laboratory",
+		"professor": "Krasne, F.; Wong, J.; Venugopal, S.; Grisham, W.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "116A",
+		"title": "Behavioral Neuroscience Laboratory",
+		"professor": "Venugopal, S.; Grisham, W.E.; Krasne, F.; Wong, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "116B",
+		"title": "Human Neuropsychology Laboratory",
+		"professor": "Grisham, W.E.; Kim, T.; Markowitz, S.Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "M117A",
+		"title": "Neuroscience: From Molecules to Mind--Cellular and Systems Neuroscience",
+		"professor": "Piri, N.; Chandler, S.H.; White, S.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "118",
+		"title": "Comparative Psychobiology",
+		"professor": "Blaisdell, A.P.; Difazio, L.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "119B",
+		"title": "How Brains Learn to Construct Models of Environment",
+		"professor": "Sharpe, M.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "119I",
+		"title": "Integration of Face and Brain",
+		"professor": "Zaidel, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "119P",
+		"title": "Emerging Topics in Neuroscience",
+		"professor": "Blair, H.T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "119Y",
+		"title": "Psychobiology of Sexual Behavior",
+		"professor": "Wong, J.; Reid, A.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "120A",
+		"title": "Cognitive Psychology",
+		"professor": "Rissman, J.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "120B",
+		"title": "Sensation and Perception",
+		"professor": "Fuchser, V.F.; Knowlton, B.; Monti, M.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "121",
+		"title": "Laboratory in Cognitive Psychology",
+		"professor": "Lu, H.; Linford, B.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "121",
+		"title": "Laboratory in Cognitive Psychology",
+		"professor": "Cho, S.; Whatley, M.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "124A",
+		"title": "Language as Cognitive Science",
+		"professor": "Blank, I."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "124B",
+		"title": "Fundamentals of User Experience",
+		"professor": "Fuchser, V.F.; Hsiao, E.W.; Monti, M.M.; Knowlton, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "124G",
+		"title": "Cognition and Successful Aging",
+		"professor": "Castel, A.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "127A",
+		"title": "Clinical Psychological Science",
+		"professor": "Westman, J.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "127B",
+		"title": "Clinical Psychological Science: Biological Bases",
+		"professor": "Karlsgodt, K.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "130",
+		"title": "Developmental Psychology",
+		"professor": "Goff, B.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "131",
+		"title": "Research in Developmental Psychology",
+		"professor": "Sandhofer, C.M.; Neer, E.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "131",
+		"title": "Research in Developmental Psychology",
+		"professor": "Goff, B.S.; Kline, N.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "132B",
+		"title": "Mental Health in Schools: Policy and Practice",
+		"professor": "Adelman, H.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "133C",
+		"title": "Language Development",
+		"professor": "Ankowski, A.N.; Ionescu, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "133E",
+		"title": "Perceptual Development",
+		"professor": "Johnson, S.P.; Levinson, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "134A",
+		"title": "Applied Developmental Psychology: Infant/Toddler Care and Education",
+		"professor": "Gross, E.F.; Waters, F.; Pho, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "134D",
+		"title": "Fieldwork in Applied Developmental Psychology",
+		"professor": "Gross, E.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "135",
+		"title": "Social Psychology",
+		"professor": "Smurda, J.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "136B",
+		"title": "Nonexperimental Methods in Social Psychology",
+		"professor": "Huo, Y.J.; Moreu, G.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "136B",
+		"title": "Nonexperimental Methods in Social Psychology",
+		"professor": "Huo, Y.J.; Tanaka, S.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "137K",
+		"title": "Psychology of Emotion",
+		"professor": "Eisenberger, N.I.; Crowder, C.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "150",
+		"title": "Introduction to Health Psychology",
+		"professor": "Hofschneider, L.N.; Korecki, J.T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "186C",
+		"title": "Cognitive Science Laboratory: Psychophysical Theories and Methods",
+		"professor": "Liu, Z.; Huang, R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "186D",
+		"title": "Laboratory in Functional Neuroimaging",
+		"professor": "Monti, M.M.; Lee, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Advanced Honors Seminar for Psychology 127B",
+		"professor": "Karlsgodt, K.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Advanced Honors Seminar for Psychology 150",
+		"professor": "Hofschneider, L.N.; Tomiyama, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Sharpe, M.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Blaisdell, A.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Wassum, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "194A",
+		"title": "Internship Seminars: Psychology",
+		"professor": "Donato, S.H.; Repetti, R.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Fuligni, A.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Brannon, T.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Callaghan, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Ng, L.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Karney, B.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Adelman, H.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Sandhofer, C.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Juvonen, J.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Givvin, K.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Hajal, N.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Tomiyama, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Cartmill, E.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Johnson, S.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Castel, A.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Kasari, C.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Liu, Z."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Paquette-Smith, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Eisenberger, N.I."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Huo, Y.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Ray, L.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Knowlton, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Bjork, E.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Stanton, A.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Bilder, R.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Langley, A.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Fanselow, M.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "196A",
+		"title": "Research Apprenticeship in Psychology",
+		"professor": "Blair, H.T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Callahan, B.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Caruso, E.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Castel, A.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Cheng, P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Craske, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Eisenberger, N.I."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Haselton, M.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Johnson, S.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Juvonen, J.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Karlsgodt, K.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Lieberman, M.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Blank, I."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Lu, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Monti, M.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Ng, L.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Perez, E.O."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Sandhofer, C.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Shams, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Stanton, A.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Sumner, J.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Tomiyama, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "198",
+		"title": "Honors Research in Psychology",
+		"professor": "Fanselow, M.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "199A",
+		"title": "Senior Project in Psychology",
+		"professor": "Craske, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "199A",
+		"title": "Senior Project in Psychology",
+		"professor": "Silvers, J.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "199A",
+		"title": "Senior Project in Psychology",
+		"professor": "Sandhofer, C.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "199A",
+		"title": "Senior Project in Psychology",
+		"professor": "Yee-Bradbury, C.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "199A",
+		"title": "Senior Project in Psychology",
+		"professor": "Wassum, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "199A",
+		"title": "Senior Project in Psychology",
+		"professor": "Karlsgodt, K.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "199A",
+		"title": "Senior Project in Psychology",
+		"professor": "Monti, M.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "199B",
+		"title": "Senior Project in Psychology",
+		"professor": "Tomiyama, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "199B",
+		"title": "Senior Project in Psychology",
+		"professor": "Haselton, M.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "199B",
+		"title": "Senior Project in Psychology",
+		"professor": "Yee-Bradbury, C.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "199B",
+		"title": "Senior Project in Psychology",
+		"professor": "Ng, L.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "199B",
+		"title": "Senior Project in Psychology",
+		"professor": "Lee, S.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "205O",
+		"title": "Neurobiology of Defensive Behaviors",
+		"professor": "Adhikari, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "207",
+		"title": "Seminar in Behavioral Neuroscience: Seminar 1  ",
+		"professor": "Wikenheiser, A.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "212",
+		"title": "Evaluation of Research Literature in Physiological Psychology",
+		"professor": "Wikenheiser, A.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "215B",
+		"title": "Human Physiology in Social and Behavioral Science",
+		"professor": "Bower, J.E.; Robles, T.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "219",
+		"title": "Health Psychology Lecture Series",
+		"professor": "Bower, J.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "220A",
+		"title": "Social Psychology",
+		"professor": "Karney, B.R."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "222F",
+		"title": "Professional Issues in Psychology",
+		"professor": "Tomiyama, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "226A",
+		"title": "Current Literature in Social Psychology",
+		"professor": "Huo, Y.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "241",
+		"title": "Current Developments in Developmental Psychology",
+		"professor": "Johnson, S.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "M248",
+		"title": "Brain and Behavioral Development during Adolescence",
+		"professor": "Fuligni, A.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "249",
+		"title": "Current Issues in Quantitative Psychology",
+		"professor": "Enders, C.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "250A",
+		"title": "Advanced Psychological Statistics",
+		"professor": "Reise, S.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Blank, I."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Bower, J.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Castel, A.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Callaghan, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Craske, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Brannon, T.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Chorpita, B.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Blaisdell, A.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Enders, C.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Eisenberger, N.I."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Greenfield, P.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Huo, Y.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Cartmill, E.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Kellman, P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Knowlton, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Kennedy, P.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Karlsgodt, K.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Chung, A.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Lee, S.S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Lieberman, M.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Lu, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Montoya, A.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Ng, L.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Wassum, K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Ray, L.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Rissman, J.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Shams, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Monti, M.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Robles, T.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Perez, E.O."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Sandhofer, C.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Stanton, A.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Wikenheiser, A.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "251C",
+		"title": "Research Methods",
+		"professor": "Yee-Bradbury, C.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "M257",
+		"title": "Multivariate Analysis with Latent Variables",
+		"professor": "Montoya, A.K."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "260A",
+		"title": "Proseminar: Cognitive Psychology",
+		"professor": "Lu, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "262",
+		"title": "Human Learning and Memory",
+		"professor": "Clewett, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "265",
+		"title": "Computational Methods for Neuroimaging",
+		"professor": "Monti, M.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "270A",
+		"title": "Foundations of Clinical Psychology",
+		"professor": "Bradbury, T."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "271A",
+		"title": "Clinical Psychological Methods",
+		"professor": "Ebbert, A.M.; Sichko, S.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "271D",
+		"title": "Clinical Research Laboratory",
+		"professor": "Yee-Bradbury, C.M.; Leathem, L.D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "271G",
+		"title": "Evidence-Based Intervention for Childhood Problems",
+		"professor": "Chorpita, B.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "273A",
+		"title": "Professional and Ethical Issues in Clinical Psychology",
+		"professor": "Tuohy, D."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "PSYCH",
+		"code": "289A",
+		"title": "Current Issues in Clinical Psychology",
+		"professor": "Sumner, J.A."
+	}
+]

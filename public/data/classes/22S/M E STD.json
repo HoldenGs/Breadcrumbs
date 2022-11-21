@@ -1,0 +1,30 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "M E STD",
+		"code": "M50CW",
+		"title": "Making and Studying Modern Middle East",
+		"professor": "Yarbrough, L.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "M E STD",
+		"code": "M112",
+		"title": "Archaeology and Art of Christian and Islamic Egypt",
+		"professor": "Burke, K.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "M E STD",
+		"code": "M142",
+		"title": "Modern Israel: Politics, Society, Culture",
+		"professor": "Talshir, G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "M E STD",
+		"code": "177",
+		"title": "Variable Topics in Middle Eastern Studies: Arab Minority in Israel",
+		"professor": "Hayik, R."
+	}
+]

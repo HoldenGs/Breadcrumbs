@@ -1,0 +1,44 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOINFO",
+		"code": "201",
+		"title": "Seminar: Advanced Methods in Computational Biology",
+		"professor": "Li, J.; Ping, P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOINFO",
+		"code": "202",
+		"title": "Bioinformatics Interdisciplinary Research Seminar",
+		"professor": "Xiao, X."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOINFO",
+		"code": "M224",
+		"title": "Machine Learning Applications in Genetics",
+		"professor": "Eskin, E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOINFO",
+		"code": "M226",
+		"title": "Machine Learning in Bioinformatics",
+		"professor": "Sankararaman, S."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOINFO",
+		"code": "275A",
+		"title": "Applied Bioinformatics Lab for Biologists: Fundamentals",
+		"professor": "Pellegrini, M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "BIOINFO",
+		"code": "275B",
+		"title": "Applied Bioinformatics Lab for Biologists: Intermediate",
+		"professor": "Pellegrini, M."
+	}
+]

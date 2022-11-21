@@ -1,0 +1,128 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COMM",
+		"code": "1",
+		"title": "Principles of Oral Communication",
+		"professor": "Hurwitz, B.S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COMM",
+		"code": "1A",
+		"title": "Public Speaking for Nonnative Speakers",
+		"professor": "Negrete, T.; Merschel, S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COMM",
+		"code": "1B",
+		"title": "Learning American English and Culture from Movies",
+		"professor": "Negrete, T.; Merschel, S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COMM",
+		"code": "10",
+		"title": "Introduction to Communication",
+		"professor": "Suman, M.W.; Bakr, A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COMM",
+		"code": "100",
+		"title": "Communication Science",
+		"professor": "Jones, B.G.; Luo, J."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COMM",
+		"code": "109",
+		"title": "Entrepreneurial Communication",
+		"professor": "Peterson, S.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COMM",
+		"code": "110",
+		"title": "Gender and Communication",
+		"professor": "Kicenski, K.K."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COMM",
+		"code": "114",
+		"title": "Understanding Relationships",
+		"professor": "Suman, M.W."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COMM",
+		"code": "140",
+		"title": "Theory of Persuasive Communication",
+		"professor": "Suman, M.W.; Negrete, T."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COMM",
+		"code": "148",
+		"title": "Integrated Marketing Communications",
+		"professor": "McLean, C."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COMM",
+		"code": "156",
+		"title": "Social Networking",
+		"professor": "Peterson, S.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COMM",
+		"code": "157",
+		"title": "Celebrity, Fame, and Social Media",
+		"professor": "Peterson, S.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COMM",
+		"code": "166",
+		"title": "Inside Hollywood",
+		"professor": "Peterson, S.M."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COMM",
+		"code": "170",
+		"title": "Legal Communication",
+		"professor": "Huppin, M.A."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COMM",
+		"code": "187",
+		"title": "Ethical and Policy Issues in Institutions of Mass Communication",
+		"professor": "Newton, J.S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COMM",
+		"code": "188",
+		"title": "Careers in Communication: Seminar 1  ",
+		"professor": "Johnson, K."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COMM",
+		"code": "188A",
+		"title": "Variable Topics in Mass Communication and Media Institutions: Film Finance",
+		"professor": "Lewis, H.W."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "COMM",
+		"code": "195",
+		"title": "Summer Internships",
+		"professor": "Svenson, P.H.; Johnson, K."
+	}
+]

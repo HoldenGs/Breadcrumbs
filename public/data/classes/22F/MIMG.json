@@ -1,0 +1,401 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "19",
+		"title": "Saving Our Planet with Plants and Microbes",
+		"professor": "Lazazzera, B.A.; Hirsch, A.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "100L",
+		"title": "Microbiology Laboratory for Professional Schools",
+		"professor": "Wen, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "101",
+		"title": "Introductory Microbiology",
+		"professor": "Hill, K.L.; Bouklas, T.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "103AL",
+		"title": "Research Immersion Laboratory in Virology",
+		"professor": "Bouklas, T.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "103BL",
+		"title": "Advanced Research Analysis in Virology",
+		"professor": "Freise, A.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "105",
+		"title": "Biological Microscopy",
+		"professor": "Zhou, H.; Bentolila, L.; Stieg, A.Z."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "M178",
+		"title": "Quantitative Regulatory Biology and Signal Transduction",
+		"professor": "Hoffmann, A.; Deeds, E.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "180B",
+		"title": "Scientific Analysis and Communication II",
+		"professor": "Bensinger, S.J.; Soroosh, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "192",
+		"title": "Undergraduate Practicum in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Freise, A.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Berk, A.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Bensinger, S.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Bradley, P.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Black, D.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Bonavida, B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Campbell, D.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Cheng, G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Dasgupta, A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Gunsalus, R.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Hill, K.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Horwitz, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Johnson, P.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Lazazzera, B.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Lusis, A.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Martinez, O.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Miceli, M.C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Miller, J.F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Miller, J.H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Modlin, R.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Morrison, S.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Shi, W."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Simpson, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Smale, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Tamanoi, F."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Hallem, E.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Witte, O.N."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Zack, J.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Uittenbogaart, C."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Yang, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Xing, Y."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "194A",
+		"title": "Research Group Seminars: Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Zhou, H."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "196B",
+		"title": "Research Apprenticeship II in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Novitch, B.G."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "196B",
+		"title": "Research Apprenticeship II in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Covarrubias, A.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "196B",
+		"title": "Research Apprenticeship II in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Nemeth, E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "196B",
+		"title": "Research Apprenticeship II in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Jacobs, J.P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "196B",
+		"title": "Research Apprenticeship II in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Zack, J.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "196B",
+		"title": "Research Apprenticeship II in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Allard, P."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "196B",
+		"title": "Research Apprenticeship II in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Yang, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "196B",
+		"title": "Research Apprenticeship II in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Deeds, E.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "198B",
+		"title": "Honors Research in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Yang, L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "198B",
+		"title": "Honors Research in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "O'Sullivan, T.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "198B",
+		"title": "Honors Research in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Hill, K.L."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "198B",
+		"title": "Honors Research in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Bradley, P.J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "198B",
+		"title": "Honors Research in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Fregoso, O.I."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "198B",
+		"title": "Honors Research in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Kohn, D.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "198B",
+		"title": "Honors Research in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Martinez, O.M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "198C",
+		"title": "Honors Research in Microbiology, Immunology, and Molecular Genetics",
+		"professor": "Coller, H.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MIMG",
+		"code": "262A",
+		"title": "Seminar: Current Topics in Immunobiology of Cancer",
+		"professor": "Bonavida, B.; Economou, J.S."
+	}
+]

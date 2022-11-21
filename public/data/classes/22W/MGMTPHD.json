@@ -1,0 +1,86 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMTPHD",
+		"code": "201B",
+		"title": "Theory and Application of Regression Analysis",
+		"professor": "Lochstoer, L.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMTPHD",
+		"code": "202B",
+		"title": "Accounting Workshop",
+		"professor": "Kimgina, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMTPHD",
+		"code": "204B",
+		"title": "Finance Workshop",
+		"professor": "Herskovic, B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMTPHD",
+		"code": "205B",
+		"title": "Seminar: Decisions, Operations, and Technology Management Systems",
+		"professor": "Bravo Plaza, F.; Misic, V."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMTPHD",
+		"code": "206B",
+		"title": "Research Seminar: Management and Organizational Behavior",
+		"professor": "Devoe, S.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMTPHD",
+		"code": "207B",
+		"title": "Workshop: Marketing",
+		"professor": "Rossi, P.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMTPHD",
+		"code": "208B",
+		"title": "Global Economics and Management Workshop",
+		"professor": "Wasserman, M.S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMTPHD",
+		"code": "209B",
+		"title": "Management Strategy and Policy Workshop",
+		"professor": "Lieberman, M.B."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMTPHD",
+		"code": "235",
+		"title": "Empirical Research in Accounting",
+		"professor": "Caskey, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMTPHD",
+		"code": "M243",
+		"title": "Foundations of Organizational Behavior",
+		"professor": "Devoe, S.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMTPHD",
+		"code": "249",
+		"title": "Behavioral Research in Marketing",
+		"professor": "Drolet Rossi, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "MGMTPHD",
+		"code": "254",
+		"title": "Empirical Corporate Finance",
+		"professor": "Welch, I.I."
+	}
+]

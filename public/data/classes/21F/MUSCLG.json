@@ -1,0 +1,128 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "MUSCLG",
+		"code": "5",
+		"title": "History of Rock and Roll",
+		"professor": "Carlos, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MUSCLG",
+		"code": "M6A",
+		"title": "Introduction to Musicianship",
+		"professor": "Depinna, N.; Lu, Q."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MUSCLG",
+		"code": "M6A",
+		"title": "Introduction to Musicianship",
+		"professor": "Depinna, N.; Tchaykov, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MUSCLG",
+		"code": "M6A",
+		"title": "Introduction to Musicianship",
+		"professor": "Depinna, N.; Gao, W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MUSCLG",
+		"code": "M6A",
+		"title": "Introduction to Musicianship",
+		"professor": "Depinna, N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MUSCLG",
+		"code": "12W",
+		"title": "Writing about Music",
+		"professor": "Le Guin, E.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MUSCLG",
+		"code": "19",
+		"title": "Multisensory Writing about Music",
+		"professor": "Eidsheim, N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MUSCLG",
+		"code": "70",
+		"title": "Beethoven",
+		"professor": "Knapp, R.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MUSCLG",
+		"code": "71",
+		"title": "Listening",
+		"professor": "Riggs, J.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MUSCLG",
+		"code": "CM90T",
+		"title": "Early Music Ensemble",
+		"professor": "Winkle, M.D.; Stein, D.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MUSCLG",
+		"code": "125A",
+		"title": "History of Western Music: Era of Church and Patron",
+		"professor": "Upton, E.R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MUSCLG",
+		"code": "126",
+		"title": "Musics, Cultures, and Their Interpretation",
+		"professor": "Replogle, H.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MUSCLG",
+		"code": "187A",
+		"title": "Capstone Seminar I: Developing the Project",
+		"professor": "Naiman, T.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MUSCLG",
+		"code": "M201",
+		"title": "Repertory and Analysis",
+		"professor": "Danielpour, R.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MUSCLG",
+		"code": "250",
+		"title": "Seminar: Theoretical Topics: Investigating Music through Digital Humanities",
+		"professor": "Kligman, M.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MUSCLG",
+		"code": "255",
+		"title": "Seminar: Historical Topics: Early Music Theory",
+		"professor": "Upton, E.R.; Morris, M.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MUSCLG",
+		"code": "256",
+		"title": "Audit Seminar: Historical Topics",
+		"professor": "Upton, E.R.; Morris, M.B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "MUSCLG",
+		"code": "296",
+		"title": "Research Topics in Musicology",
+		"professor": "Morris, M.B."
+	}
+]

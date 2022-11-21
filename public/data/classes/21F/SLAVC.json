@@ -1,0 +1,37 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "SLAVC",
+		"code": "90",
+		"title": "Introduction to Slavic Civilization",
+		"professor": "Koropeckyj, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SLAVC",
+		"code": "191TA",
+		"title": "Senior Capstone Thesis in Slavic Languages and Literatures",
+		"professor": "Furman, Y."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SLAVC",
+		"code": "197",
+		"title": "Individual Studies in Slavic Languages and Literatures",
+		"professor": "Koropeckyj, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SLAVC",
+		"code": "198A",
+		"title": "Honors Research in Slavic, East European, and Eurasian Languages and Cultures",
+		"professor": "Koropeckyj, R."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SLAVC",
+		"code": "200A",
+		"title": "Literary Proseminar",
+		"professor": "Lenhoff, G.D."
+	}
+]

@@ -1,0 +1,317 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "17",
+		"title": "Evolution for Everyone",
+		"professor": "Nonacs, P.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "19",
+		"title": "Good, Bad, and Ugly: Virus Evolution from Origin of Life to COVID-19",
+		"professor": "Nonacs, P.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "19",
+		"title": "Parasites: Eating Us Alive",
+		"professor": "Buth, D.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "97XA",
+		"title": "PEERS Freshman Seminar: Succeeding in Science",
+		"professor": "Barber, P.H.; Hasson, T.W.; Razinia, Z.; Guthrie, R.S.; Ha, B.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "100",
+		"title": "Introduction to Ecology and Behavior",
+		"professor": "Lipman, A.J.; Grether, G.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "100L",
+		"title": "Introduction to Ecology and Behavior Laboratory",
+		"professor": "Freimuth, S.; Lipman, A.J.; Grether, G.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "100L",
+		"title": "Introduction to Ecology and Behavior Laboratory",
+		"professor": "O'Fallon, S.R.; Lipman, A.J.; Grether, G.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "100L",
+		"title": "Introduction to Ecology and Behavior Laboratory",
+		"professor": "Tonelli, B.A.; Lipman, A.J.; Grether, G.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "109",
+		"title": "Introduction to Marine Science",
+		"professor": "Kane, T.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "109L",
+		"title": "Introduction to Marine Science Laboratory",
+		"professor": "Smith, L.L.; Deboer, T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "109L",
+		"title": "Introduction to Marine Science Laboratory",
+		"professor": "Nguyen, A.; Deboer, T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "109L",
+		"title": "Introduction to Marine Science Laboratory",
+		"professor": "Postigo, F.E.; Deboer, T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "111",
+		"title": "Biology of Vertebrates",
+		"professor": "Gorlitsky, L.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "115",
+		"title": "Mammalogy",
+		"professor": "Dines, J.P."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "116",
+		"title": "Conservation Biology",
+		"professor": "Lipman, A.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "120",
+		"title": "Evolution",
+		"professor": "Bucciarelli, G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "121",
+		"title": "Molecular Evolution",
+		"professor": "Knowles, B."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "122",
+		"title": "Ecology",
+		"professor": "Bucciarelli, G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "M145",
+		"title": "Advanced Paleontology",
+		"professor": "Schopf, J.W."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "151A",
+		"title": "Tropical Ecology",
+		"professor": "Gorlitsky, L.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "158",
+		"title": "Introduction to Diversity, Health Disparities, and Environment",
+		"professor": "Barber, P.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "161",
+		"title": "Plant Ecology",
+		"professor": "Kraft, N.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "181",
+		"title": "Parasitology",
+		"professor": "Buth, D.G."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "184",
+		"title": "Evolution, Development, and Disease",
+		"professor": "Sears, K.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "188SA",
+		"title": "Individual Studies for USIE Facilitators",
+		"professor": "Yeh, P.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Kane, T.L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "196",
+		"title": "Research Apprenticeship in Ecology and Evolutionary Biology",
+		"professor": "Nonacs, P.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "198A",
+		"title": "Honors Research in Ecology and Evolutionary Biology",
+		"professor": "Lohmueller, K.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "198A",
+		"title": "Honors Research in Ecology and Evolutionary Biology",
+		"professor": "Ordway, E.M."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "198A",
+		"title": "Honors Research in Ecology and Evolutionary Biology",
+		"professor": "Sack, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "198A",
+		"title": "Honors Research in Ecology and Evolutionary Biology",
+		"professor": "Jacobs, D.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "198A",
+		"title": "Honors Research in Ecology and Evolutionary Biology",
+		"professor": "Yeh, P.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "198A",
+		"title": "Honors Research in Ecology and Evolutionary Biology",
+		"professor": "Grether, G.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "198A",
+		"title": "Honors Research in Ecology and Evolutionary Biology",
+		"professor": "Lloyd-Smith, J.O."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "198B",
+		"title": "Honors Research in Ecology and Evolutionary Biology",
+		"professor": "Blumstein, D.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "198B",
+		"title": "Honors Research in Ecology and Evolutionary Biology",
+		"professor": "Pinter-Wollman, N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "198C",
+		"title": "Honors Research in Ecology and Evolutionary Biology",
+		"professor": "Grether, G.F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "198D",
+		"title": "Honors Research in Ecology and Evolutionary Biology",
+		"professor": "Pinter-Wollman, N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "M200A",
+		"title": "Evolutionary Biology",
+		"professor": "Kremer, C.T.; Zapata, F."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "M200A",
+		"title": "Evolutionary Biology",
+		"professor": "Yeh, P.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "232",
+		"title": "Evolutionary Ecology",
+		"professor": "Amarasekare, P.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "297",
+		"title": "Selected Topics in Ecology and Evolutionary Biology: Arthur&#39;s Understanding Evo-Devo",
+		"professor": "Sears, K.E."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "297",
+		"title": "Selected Topics in Ecology and Evolutionary Biology: Microbiome Evolutionary Genomics",
+		"professor": "Garud, N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "297",
+		"title": "Selected Topics in Ecology and Evolutionary Biology: Seminar 3  ",
+		"professor": "Jacobs, D.K."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "EE BIOL",
+		"code": "297",
+		"title": "Selected Topics in Ecology and Evolutionary Biology: Seminar 6  ",
+		"professor": "Marcot, J.D."
+	}
+]

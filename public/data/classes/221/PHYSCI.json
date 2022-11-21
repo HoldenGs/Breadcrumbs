@@ -1,0 +1,79 @@
+[
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSCI",
+		"code": "3",
+		"title": "Introduction to Human Physiology",
+		"professor": "Cooper, R.H."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSCI",
+		"code": "5",
+		"title": "Issues in Human Physiology: Diet and Exercise",
+		"professor": "Esdin, J."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSCI",
+		"code": "13",
+		"title": "Introduction to Human Anatomy",
+		"professor": "Khankan, R.R."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSCI",
+		"code": "121",
+		"title": "Disease Mechanisms and Therapies",
+		"professor": "Choe, R."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSCI",
+		"code": "136",
+		"title": "Pathophysiology of Cardiovascular Diseases",
+		"professor": "Esdin, J."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSCI",
+		"code": "153",
+		"title": "Dissection Anatomy",
+		"professor": "Friscia, A.R."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSCI",
+		"code": "166",
+		"title": "Animal Physiology",
+		"professor": "Esdin, J."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSCI",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Choe, R."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSCI",
+		"code": "196",
+		"title": "Research Apprenticeship in Physiological Science",
+		"professor": "Paul, K.N."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSCI",
+		"code": "196",
+		"title": "Research Apprenticeship in Physiological Science",
+		"professor": "Correa, S."
+	},
+	{
+		"quarter": "Summer Sessions 2022",
+		"department": "PHYSCI",
+		"code": "198A",
+		"title": "Honors Research in Physiological Science",
+		"professor": "de Biase, L.M."
+	}
+]

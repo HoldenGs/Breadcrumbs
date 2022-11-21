@@ -1,0 +1,128 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "ASTR",
+		"code": "3",
+		"title": "Nature of Universe",
+		"professor": "Turyshev, S.G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ASTR",
+		"code": "3",
+		"title": "Nature of Universe",
+		"professor": "Treu, T.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ASTR",
+		"code": "5",
+		"title": "Life in Universe",
+		"professor": "Malkan, M.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ASTR",
+		"code": "81",
+		"title": "Astrophysics I: Stars and Nebulae",
+		"professor": "Ghez, A.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ASTR",
+		"code": "115",
+		"title": "Statistical Mechanics and Its Application to Astrophysics",
+		"professor": "Larkin, J.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ASTR",
+		"code": "127",
+		"title": "Stellar Atmospheres, Interiors, and Evolution",
+		"professor": "Turner, J.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ASTR",
+		"code": "272",
+		"title": "Stellar Astrophysics",
+		"professor": "Hansen, B.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ASTR",
+		"code": "277B",
+		"title": "Astronomy Research Project",
+		"professor": "Do, T.H."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ASTR",
+		"code": "277B",
+		"title": "Astronomy Research Project",
+		"professor": "Fitzgerald, M.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ASTR",
+		"code": "277B",
+		"title": "Astronomy Research Project",
+		"professor": "Ghez, A.M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ASTR",
+		"code": "277B",
+		"title": "Astronomy Research Project",
+		"professor": "Petigura, E.A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ASTR",
+		"code": "277B",
+		"title": "Astronomy Research Project",
+		"professor": "Schlichting, H.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ASTR",
+		"code": "277B",
+		"title": "Astronomy Research Project",
+		"professor": "Naoz, S."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ASTR",
+		"code": "277B",
+		"title": "Astronomy Research Project",
+		"professor": "Turner, J.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ASTR",
+		"code": "278",
+		"title": "Special Topics in Astronomy",
+		"professor": "Shapley, A.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ASTR",
+		"code": "279",
+		"title": "Seminar: Current Astronomical Research",
+		"professor": "Shapley, A.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ASTR",
+		"code": "283",
+		"title": "Numerical and Statistical Methods",
+		"professor": "Fitzgerald, M.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "ASTR",
+		"code": "297",
+		"title": "Practice of Scientific Presentations in Astronomy",
+		"professor": "Shapley, A.E.; Petigura, E.A."
+	}
+]

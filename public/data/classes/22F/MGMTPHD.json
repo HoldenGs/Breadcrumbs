@@ -1,0 +1,65 @@
+[
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMTPHD",
+		"code": "201A",
+		"title": "Probability, Statistics, and Computational Methods for Econometrics",
+		"professor": "Rossi, P.E."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMTPHD",
+		"code": "202A",
+		"title": "Accounting Workshop",
+		"professor": "Kimgina, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMTPHD",
+		"code": "204A",
+		"title": "Finance Workshop",
+		"professor": "Kundu, S.; Zhang, J."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMTPHD",
+		"code": "205A",
+		"title": "Seminar: Decisions, Operations, and Technology Management Systems",
+		"professor": "Bravo Plaza, F.; Siddiq, A.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMTPHD",
+		"code": "208A",
+		"title": "Global Economics and Management Workshop",
+		"professor": "Ngangoue, M."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMTPHD",
+		"code": "209A",
+		"title": "Management Strategy and Policy Workshop",
+		"professor": "Lieberman, M.B."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMTPHD",
+		"code": "235",
+		"title": "Empirical Research in Accounting",
+		"professor": "Teoh, S."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMTPHD",
+		"code": "237",
+		"title": "Introduction to Financial Economics",
+		"professor": "Longstaff, F.A."
+	},
+	{
+		"quarter": "Fall 2022",
+		"department": "MGMTPHD",
+		"code": "239",
+		"title": "Empirical Asset Pricing",
+		"professor": "Chernov, M."
+	}
+]

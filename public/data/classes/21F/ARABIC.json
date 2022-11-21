@@ -1,0 +1,65 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "ARABIC",
+		"code": "1A",
+		"title": "Elementary Standard Arabic",
+		"professor": "Ryan, B.P.; Al Rifae, K.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARABIC",
+		"code": "1A",
+		"title": "Elementary Standard Arabic",
+		"professor": "Al Rifae, K.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARABIC",
+		"code": "1A",
+		"title": "Elementary Standard Arabic",
+		"professor": "Courtney, M.M.; Al Rifae, K.A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARABIC",
+		"code": "102A",
+		"title": "Intermediate Standard Arabic",
+		"professor": "Hamza, A.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARABIC",
+		"code": "102A",
+		"title": "Intermediate Standard Arabic",
+		"professor": "MacDonald, R.S.; Hamza, A.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARABIC",
+		"code": "103A",
+		"title": "Advanced Arabic",
+		"professor": "Hamza, A.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARABIC",
+		"code": "111A",
+		"title": "Elementary Spoken Egyptian Arabic",
+		"professor": "Hamza, A.T."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARABIC",
+		"code": "M171",
+		"title": "Culture Area of Maghrib (North Africa)",
+		"professor": "Boum, A."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "ARABIC",
+		"code": "C241",
+		"title": "Modern Arabic Literature",
+		"professor": "Gana, N."
+	}
+]

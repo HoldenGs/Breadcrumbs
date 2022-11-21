@@ -1,0 +1,149 @@
+[
+	{
+		"quarter": "Winter 2022",
+		"department": "A&O SCI",
+		"code": "1",
+		"title": "Climate Change: From Puzzles to Policy",
+		"professor": "Paulson, S.E."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "A&O SCI",
+		"code": "1L",
+		"title": "Climate Change: From Puzzles to Policy--Laboratory",
+		"professor": "Paulson, S.E.; McCoy, D.E.; Zhu, K.; Hoel, P.F."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "A&O SCI",
+		"code": "2",
+		"title": "Air Pollution",
+		"professor": "Li, Q."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "A&O SCI",
+		"code": "2L",
+		"title": "Air Pollution Laboratory",
+		"professor": "Li, Q.; Fulginiti, C.; Fritzmann, A.M.; Osborn, K.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "A&O SCI",
+		"code": "3",
+		"title": "Introduction to Atmospheric Environment",
+		"professor": "Chen, G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "A&O SCI",
+		"code": "3L",
+		"title": "Introduction to Atmospheric Environment Laboratory",
+		"professor": "Chen, G.; Ma, W."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "A&O SCI",
+		"code": "90",
+		"title": "Introduction to Undergraduate Research in Atmospheric and Oceanic Sciences",
+		"professor": "Kok, J.F.; Giraldo Cardenas,"
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "A&O SCI",
+		"code": "102",
+		"title": "Climate Change and Climate Modeling",
+		"professor": "Fu, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "A&O SCI",
+		"code": "104",
+		"title": "Fundamentals of Air and Water Pollution",
+		"professor": "Saide Peralta, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "A&O SCI",
+		"code": "M105",
+		"title": "Introduction to Chemical Oceanography",
+		"professor": "Bianchi, D."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "A&O SCI",
+		"code": "C110",
+		"title": "Advanced Dynamic and Synoptic Meteorology",
+		"professor": "Chen, G."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "A&O SCI",
+		"code": "M120",
+		"title": "Introduction to Fluid Dynamics",
+		"professor": "Kavner, A."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "A&O SCI",
+		"code": "C170",
+		"title": "Introduction to Solar System Plasmas",
+		"professor": "Bortnik, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "A&O SCI",
+		"code": "M187",
+		"title": "Careers in Earth System, Environment, and Space Sciences",
+		"professor": "Fu, R."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "A&O SCI",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Saide Peralta, P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "A&O SCI",
+		"code": "202",
+		"title": "Introduction to Ocean Science",
+		"professor": "McWilliams, J.C."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "A&O SCI",
+		"code": "203B",
+		"title": "Introduction to Atmospheric Physics",
+		"professor": "Stutz, J.P."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "A&O SCI",
+		"code": "C205A",
+		"title": "Introduction to Solar System Plasmas",
+		"professor": "Bortnik, J."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "A&O SCI",
+		"code": "M210",
+		"title": "Planetary Atmospheres and Climates",
+		"professor": "Mitchell, J.L."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "A&O SCI",
+		"code": "212A",
+		"title": "Numerical Methods in Geophysical Fluid Dynamics",
+		"professor": "Chamecki, M."
+	},
+	{
+		"quarter": "Winter 2022",
+		"department": "A&O SCI",
+		"code": "217",
+		"title": "Regional Climate Dynamics",
+		"professor": "Hall, A.D."
+	}
+]

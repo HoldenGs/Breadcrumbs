@@ -1,0 +1,541 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "5",
+		"title": "Issues in Human Physiology: Diet and Exercise",
+		"professor": "Esdin, J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "7",
+		"title": "Science and Food: Physical and Molecular Origins of What We Eat",
+		"professor": "Imbery, C.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "98TW",
+		"title": "Sex, Gender, and Feeding? Intersections in Brain",
+		"professor": "Massa, M.G.; Correa, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "M106",
+		"title": "Neurobiology of Bias and Discrimination",
+		"professor": "Poe, G.R.; Evans, C.J.; Walters, S.; Rissman, J.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "108",
+		"title": "Head and Neck Anatomy: Evolutionary, Biomechanical, Developmental, and Clinical Approach",
+		"professor": "Friscia, A.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "111B",
+		"title": "Foundations in Physiological Science",
+		"professor": "Correa, S.; Villanueva, C.J.; Choe, R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "111L",
+		"title": "Physiological Science Laboratory",
+		"professor": "Izadpanah, A.; Cooper, R.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "124",
+		"title": "Molecular Biology of Aging",
+		"professor": "Walker, D.W."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "125",
+		"title": "Molecular Systems Biology",
+		"professor": "Xiao, X."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "128",
+		"title": "Me, Myself, and Microbes: The Microbiome in Health and Disease",
+		"professor": "Hsiao, E.Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "146",
+		"title": "Principles of Nervous System Development",
+		"professor": "Phelps, P.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "149",
+		"title": "Systems Biology and Mechanisms of Major Cardiometabolic Diseases",
+		"professor": "Yang, X."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "M171",
+		"title": "Variable Topics Research Seminars: Contemporary Biology",
+		"professor": "Colicelli, J.J.; Meyer, A.S.; Rodriguez, J.A.; Gray, D.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "173",
+		"title": "Anatomy and Physiology of Sense Organs",
+		"professor": "Frye, M.A.; Sampath, A.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "M180C",
+		"title": "Neuroscience: From Molecules to Mind--Behavioral and Cognitive Neuroscience",
+		"professor": "Adhikari, A.; Suthana, N.A.; Wassum, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "187B",
+		"title": "From Cell to Circuit",
+		"professor": "Novitch, B.G.; Sofroniew, M.V."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Advanced Honors Seminar for Physiological Science 111B",
+		"professor": "Correa, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Advanced Honors Seminar for Physiological Science 111B",
+		"professor": "Choe, R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Villanueva, C.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "192A",
+		"title": "Introduction to Collaborative Learning Theory and Practice",
+		"professor": "Friscia, A.R.; Phelps, P.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "192B",
+		"title": "Methods and Application of Collaborative Learning Theory in Physical Sciences",
+		"professor": "Friscia, A.R.; Phelps, P.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Arnold, A.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Barnard, R.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Cooper, R.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Crosbie, R.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Edgerton, V.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Fain, G.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Garfinkel, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Glanzman, D.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Gomez-Pinilla, F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Grinnell, A.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Haberland-Noce, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Metzner, W.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Narins, P.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Phelps, P.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Schlinger, B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Smith, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Tidball, J.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "White, S.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Frye, M.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Hoffman, L.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "193",
+		"title": "Journal Club Seminars: Physiological Science",
+		"professor": "Xiao, X."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "194A",
+		"title": "Research Group Seminars: Physiological Science",
+		"professor": "McEvoy, M.M.; Poe, G.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "196",
+		"title": "Research Apprenticeship in Physiological Science",
+		"professor": "Paul, K.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "196",
+		"title": "Research Apprenticeship in Physiological Science",
+		"professor": "de Biase, L.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "196",
+		"title": "Research Apprenticeship in Physiological Science",
+		"professor": "Tintut, Y."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "196",
+		"title": "Research Apprenticeship in Physiological Science",
+		"professor": "Xiao, X."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "196",
+		"title": "Research Apprenticeship in Physiological Science",
+		"professor": "Poe, G.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "198A",
+		"title": "Honors Research in Physiological Science",
+		"professor": "Barber, P.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "198B",
+		"title": "Honors Research in Physiological Science",
+		"professor": "Barber, P.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "198B",
+		"title": "Honors Research in Physiological Science",
+		"professor": "Correa, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "270B",
+		"title": "Modern Concepts in Physiology",
+		"professor": "Glanzman, D.L.; Villanueva, C.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Barnard, R.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Chandler, S.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Edgerton, V.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Fain, G.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Feldman, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Glanzman, D.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Henderson, S.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Schlinger, B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Smith, J.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Tidball, J.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Arnold, A.P."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Garfinkel, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Narins, P.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Carpenter, E.M.; Phelps, P.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Simmons, D.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Tobin, A.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Schlag, J.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Hovda, D.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Haberland-Noce, M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Reddy, S.T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Gomez-Pinilla, F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Crosbie, R.H."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "White, S.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Schweizer, F.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "PHYSCI",
+		"code": "296",
+		"title": "Research Seminar: Physiological Science",
+		"professor": "Ping, P."
+	}
+]

@@ -1,0 +1,373 @@
+[
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "6",
+		"title": "Introduction to Data Analysis",
+		"professor": "Roberts, T.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "19",
+		"title": "International Politics through Film",
+		"professor": "Stein, A.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "20",
+		"title": "World Politics",
+		"professor": "Roberts, T."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "30",
+		"title": "Politics and Strategy",
+		"professor": "Bawn, K."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "60",
+		"title": "Ethics and Governance",
+		"professor": "Lohmann, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "88S",
+		"title": "Colonialism, International Law, and Standard of Civilization",
+		"professor": "Branstetter, J.G.; Anees, N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "89",
+		"title": "Honors Seminars: Seminar 1  ",
+		"professor": "Lohmann, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "M112B",
+		"title": "Invention of Democracy",
+		"professor": "Sissa, G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "115D",
+		"title": "Diversity, Disagreement, and Democracy",
+		"professor": "Lohmann, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "116A",
+		"title": "Marxism",
+		"professor": "Branstetter, J.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "118",
+		"title": "Laws of War and Peace from Conquest of America to Declaration of Human Rights (1948)",
+		"professor": "Pagden, A.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "119",
+		"title": "Special Studies in Political Theory: Independence, Identity, Liberation, and Coloniality in Latin American Political Thought",
+		"professor": "Rocco, R.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "119",
+		"title": "Special Studies in Political Theory: Modern East Asian Political Theory",
+		"professor": "Branstetter, J.G."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "120B",
+		"title": "World Politics and U.S. Foreign Policy after September 11",
+		"professor": "Preble, C.A.; Williams, J.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "125A",
+		"title": "Arms Control and International Security",
+		"professor": "O'Neill, B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "139",
+		"title": "Special Studies in International Relations: Autocratic Relations",
+		"professor": "Perry, J.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "139",
+		"title": "Special Studies in International Relations: Populism, Polarization, and Crisis of Representation: Israeli Politics as Case Study of Global Trends",
+		"professor": "Lavi, L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "M141A",
+		"title": "Electoral Politics: Political Psychology",
+		"professor": "Perez, E.O."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "141B",
+		"title": "Electoral Politics: Public Opinion and Voting Behavior",
+		"professor": "Peris, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "141E",
+		"title": "Electoral Politics: Elections, Media, and Strategy",
+		"professor": "Sherrer, T.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "147A",
+		"title": "American Political Development: Overview",
+		"professor": "Orren, K.J."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "149",
+		"title": "Special Topics in American Government and Politics: Local Politics and Policy",
+		"professor": "Thompson, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "M152",
+		"title": "Political Economy of Climate Change",
+		"professor": "Ross, M.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "159B",
+		"title": "Government and Politics of China: China in Age of Reform",
+		"professor": "Lee, Y.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "163B",
+		"title": "Colonialism, Discourse, and Democracy",
+		"professor": "Anderson, R.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "M167C",
+		"title": "Political Economy of Development",
+		"professor": "Posner, D.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "167D",
+		"title": "Political Institutions and Economic Development",
+		"professor": "Cruz, A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "179",
+		"title": "Special Topics in Methods and Models: Randomized Trials for Social Change",
+		"professor": "Blair, G.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "M183",
+		"title": "Experiments in Racial and Ethnic Politics",
+		"professor": "Perez, E.O."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "189",
+		"title": "Advanced Honors Seminars: Seminar 1  ",
+		"professor": "Lohmann, S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Pagden, A.R."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Posner, D.N."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Anderson, R.D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "189HC",
+		"title": "Honors Contracts",
+		"professor": "Ross, M.L."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "191A",
+		"title": "Variable Topics Research Seminars for Majors: Political Theory: Political Essay, in Theory",
+		"professor": "McClure, K.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "191A",
+		"title": "Variable Topics Research Seminars for Majors: Political Theory: Political Essay, in Theory",
+		"professor": "McClure, K.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "191B",
+		"title": "Variable Topics Research Seminars for Majors: International Relations: International Relations of China",
+		"professor": "Wilkinson, D.O."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "191B",
+		"title": "Variable Topics Research Seminars for Majors: International Relations: International Relations of China",
+		"professor": "Wilkinson, D.O."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "191D",
+		"title": "Variable Topics Research Seminars for Majors: Comparative Government: Reconstituting Democracy: Democratic Dysfunction and Institutional Reform",
+		"professor": "Thies, M.F."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "M191DC",
+		"title": "CAPPP Washington, DC, Research Seminars",
+		"professor": "Desveaux, J.A.; TA"
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "191H",
+		"title": "Research Design Seminar for Honors Thesis",
+		"professor": "James, S.C."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "M194DC",
+		"title": "Quarter in Washington, DC, Research Seminar",
+		"professor": "Williams, J.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "Peters, M.E."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "198",
+		"title": "Honors Research in Political Science",
+		"professor": "McNamee, L.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "200E",
+		"title": "Experimental Design for Social Science",
+		"professor": "Blair, G.D.; Sterbenz, C.M."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "204B",
+		"title": "Game Theory in Politics II",
+		"professor": "Chwe, M.S."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "209",
+		"title": "Special Topics in Formal Theory and Quantitative Methods: Bayesian Statistics and MCMC Methods for Social Sciences",
+		"professor": "Holliday, D.E.; Lewis, J.B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "209",
+		"title": "Special Topics in Formal Theory and Quantitative Methods: Theory and Practice of Political Negotiations",
+		"professor": "O'Neill, B."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "222",
+		"title": "Seminar: Strategic Interaction",
+		"professor": "Min, E.A."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "259",
+		"title": "Selected Topics in Comparative Politics: Social Networks and Politics",
+		"professor": "Cruz, A.; Zhou, Z."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "M261A",
+		"title": "Proseminar: Political Psychology",
+		"professor": "Sears, D.O."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "275",
+		"title": "Seminar: American Political Institutions: Local Political Economy",
+		"professor": "Thompson, D."
+	},
+	{
+		"quarter": "Spring 2022",
+		"department": "POL SCI",
+		"code": "292B",
+		"title": "Introduction to Political Inquiry: Research Design",
+		"professor": "Posner, D.N."
+	}
+]

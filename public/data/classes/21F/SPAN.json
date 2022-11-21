@@ -1,0 +1,268 @@
+[
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "1",
+		"title": "Elementary Spanish",
+		"professor": "Cuevas-Collante, P; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "1",
+		"title": "Elementary Spanish",
+		"professor": "Galleres, J.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "1",
+		"title": "Elementary Spanish",
+		"professor": "Rama Luna, A.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "1",
+		"title": "Elementary Spanish",
+		"professor": "Choi, J.E.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "1",
+		"title": "Elementary Spanish",
+		"professor": "Najera, M.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "5",
+		"title": "Intermediate Spanish",
+		"professor": "Bermudez Castro, C; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "5",
+		"title": "Intermediate Spanish",
+		"professor": "Espinal, J.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "7A",
+		"title": "Introductory Spanish for Heritage Speakers",
+		"professor": "Guerrero, A.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "7A",
+		"title": "Introductory Spanish for Heritage Speakers",
+		"professor": "Thomas, P.A.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "7B",
+		"title": "Intermediate Spanish for Heritage Speakers",
+		"professor": "Galindo Rodrigues; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "11A",
+		"title": "Catalan Language and Culture I",
+		"professor": "Manuel-Oronich, R.; Dagenais, J.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "12A",
+		"title": "Basque Language and Culture I",
+		"professor": "Nafarrate Errasti,; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "27",
+		"title": "Advanced Spanish Composition for Heritage Speakers",
+		"professor": "Guerrero, A.; Falce-Robinson, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "M35",
+		"title": "Spanish, Portuguese, and Nature of Language",
+		"professor": "Mateu, V."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "42",
+		"title": "Iberian Cultures",
+		"professor": "Patino Loira, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "44",
+		"title": "Latin American Cultures",
+		"professor": "Arroyo Calderon, P"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "100A",
+		"title": "Introduction to Study of Spanish Grammar: Phonology and Morphology",
+		"professor": "Kim, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "119",
+		"title": "Introduction to Literary Analysis",
+		"professor": "Marturano, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "119",
+		"title": "Introduction to Literary Analysis",
+		"professor": "Rodriguez, J.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "135",
+		"title": "Topics in Early Modern Studies: Performing One&#39;s Life in 17th-Century Transatlantic Hispanic World",
+		"professor": "Patino Loira, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "150",
+		"title": "Topics in Contemporary Studies: Early Stage of Indo-Andean Literature",
+		"professor": "de La Torre, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "150",
+		"title": "Topics in Contemporary Studies: Ghosts, Animals, and Landscapes: Violence and Cultural Production in Contemporary Colombia",
+		"professor": "Espinal, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "150",
+		"title": "Topics in Contemporary Studies: Tortured Cities: Cultural Representations of Mining Terror in South America",
+		"professor": "Galindo Rodrigues"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "155C",
+		"title": "Topics in U.S. Latino Studies: Afro-Mexico and U.S. Borderlands",
+		"professor": "Bermudez Castro, C"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "160",
+		"title": "Topics in Spanish Linguistics: Child Language Acquisition",
+		"professor": "Mateu, V."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "M165XP",
+		"title": "Taking It to Street: Spanish in Community",
+		"professor": "Suhr, C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "170",
+		"title": "Topics in Media, Interdisciplinary, and Transhistorical Studies: Colonial Literature in Cinema: Adaptation, Representation, and History",
+		"professor": "Rodriguez, J.N."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "M180",
+		"title": "Variable Topics in Visual Culture: History, Memory, Truth, Fiction: Documentary Practices in Latin America",
+		"professor": "Cohen, G.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "M180",
+		"title": "Variable Topics in Visual Culture: Science Fiction Film from Latin America",
+		"professor": "Tobin, S.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "191B",
+		"title": "Variable Topics in Spanish: Studies in Hispanic Culture and Civilization: Art of Revolution and Politics of Art in Latin America",
+		"professor": "Cohen, G.D."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "191C",
+		"title": "Senior Capstone Seminar",
+		"professor": "Marturano, J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "191C",
+		"title": "Senior Capstone Seminar",
+		"professor": "Bergero, A.J."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "197",
+		"title": "Individual Studies in Spanish",
+		"professor": "Mateu, V."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "197",
+		"title": "Individual Studies in Spanish",
+		"professor": "de La Torre, L."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "256A",
+		"title": "Studies in Spanish Linguistics",
+		"professor": "Quicoli, A.C."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "278A",
+		"title": "Studies in 19th-Century Spanish-American Literature",
+		"professor": "Arroyo Calderon, P"
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "290",
+		"title": "Special Topics: Literature and Culture of Mexico-U.S. Border",
+		"professor": "Van Delden, M.H."
+	},
+	{
+		"quarter": "Fall 2021",
+		"department": "SPAN",
+		"code": "296",
+		"title": "Graduate Research Group",
+		"professor": "Fuchs, B."
+	}
+]
