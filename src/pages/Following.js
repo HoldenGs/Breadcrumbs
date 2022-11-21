@@ -1,4 +1,4 @@
-import React from 'react'
+import { React, useState, useEffect } from 'react'
 import Header from '../components/Header'
 import ProfileCard from '../components/ProfileCard'
 import { useLocation} from "react-router-dom"
