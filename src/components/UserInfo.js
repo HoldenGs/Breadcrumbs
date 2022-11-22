@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react'
 import TextInput from './TextInput'
 import { Select } from '@mantine/core'
 import useAuth from '../components/AuthContext'
-import { Link, useLocation } from 'react-router-dom'
 import { db } from '../firebase'
 import {
 	query,
@@ -11,14 +10,12 @@ import {
 	where,
 	doc,
 	updateDoc,
-	arrayRemove, 
-	arrayUnion
 } from 'firebase/firestore'
 
 export default function UserInfo({username, name, year, major, editable}) {
   let years = new Map([['2023', "4th Year"], ['2024', "3rd Year"], ['2025', "2nd Year"], ['2026', "1st Year"]]);
 
-	const { currentUser } = useAuth()
+  const { currentUser } = useAuth()
   const [info, setInfo] = useState({
     firstName: 'Bobbie',
     lastName: 'Smith',
@@ -36,6 +33,7 @@ export default function UserInfo({username, name, year, major, editable}) {
   })
   const renderListMajor = listMajor(info.major1, info.major2, info.major3)
   const renderListMinor = listMinor(info.minor1, info.minor2, info.minor3)
+  const renderUpdateDoc = updateDocument()
 
   useEffect(() => {
     async function fetchData() {
@@ -107,6 +105,24 @@ function listMinor(minor1, minor2, minor3) {
   return <div className='user-info__name'>{`Minor: ${minor1}, ${minor2}, ${minor3}`}</div>
 }
 
+function updateDocument() {
+
+  const asyncFetchCurrentUserFollowers = async() => {
+    const querySnapshot2 =  await getDocs(query(collection(db, "user"), where("userID", "==", currentUser.uid.toString())))
+      querySnapshot2.forEach((docs) => {
+      const ref = doc(db, "user", docs.id)
+      updateDoc(ref, {
+          firstName: info.firstName,
+          lastName: info.lastName,
+          gradYear: info.gradYear,
+          major1: info.major1,
+        })
+      });
+    }
+  asyncFetchCurrentUserFollowers();
+
+}
+
   return (
     <div className='user-info'>
       {editable ? (
@@ -148,6 +164,7 @@ function listMinor(minor1, minor2, minor3) {
         </>
       ) : (
         <>
+          {renderUpdateDoc}
           <div className='user-info__name'>{info.firstName + ' ' + info.lastName}</div>
           <div className='user-info__year'>{years.get(info.year)}</div>
           <div className='user-info__name'>{`@${info.username}`}</div>
