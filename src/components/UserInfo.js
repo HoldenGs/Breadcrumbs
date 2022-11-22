@@ -47,7 +47,7 @@ export default function UserInfo({username, name, year, major, editable}) {
         firstName: currentUser.firstName,
         lastName: currentUser.lastName,
         gradYear: currentUser.year,
-        major: currentUser.major1,
+        major1: currentUser.major1,
         userId: currentUser.userID,
         username: currentUser.username,
       }))  
@@ -156,9 +156,9 @@ function updateDocument() {
           />
           <TextInput
             type='major'
-            name='major'
+            name='major1'
             placeholder='Major'
-            value={info.major}
+            value={info.major1}
             handleChange={setProperty}
           />
         </>
