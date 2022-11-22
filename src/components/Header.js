@@ -12,7 +12,7 @@ import {
 } from 'firebase/firestore'
 
 export default function Header({username}) {
-  const [query, setQuery] = useState('')
+  const [qry, setQuery] = useState('')
   const [id, setID] = useState('')
 
   function handleSearch() {}
@@ -40,7 +40,7 @@ export default function Header({username}) {
           />
         </Link>
         <SearchInput
-          value={query}
+          value={qry}
           handleChange={e => setQuery(e.target.value)}
           handleClick={handleSearch}
         />
