@@ -1,16 +1,33 @@
-import {useState} from 'react'
+import {useState, useEffect} from 'react'
 import {Link} from 'react-router-dom'
-
 import SearchInput from './SearchInput'
 import IconButton from './IconButton'
 import NavButton from './NavButton'
+import { db } from '../firebase'
+import {
+	query,
+	getDocs,
+	collection,
+	where,
+} from 'firebase/firestore'
 
 export default function Header({username}) {
-  const [query, setQuery] = useState('')
+  const [qry, setQuery] = useState('')
+  const [id, setID] = useState('')
 
   function handleSearch() {}
 
   function handleLogout() {}
+  
+  useEffect(() => {
+    const asyncFetchDailyData = async() => {
+      const querySnapshot =  await getDocs(query(collection(db, "user"), where("username", "==", username)))
+      querySnapshot.forEach((doc) => {
+        setID(doc.data().userID)
+        });
+      }
+      asyncFetchDailyData();
+  }, [])
 
   return (
     <div className='header'>
@@ -23,7 +40,7 @@ export default function Header({username}) {
           />
         </Link>
         <SearchInput
-          value={query}
+          value={qry}
           handleChange={e => setQuery(e.target.value)}
           handleClick={handleSearch}
         />
@@ -36,7 +53,7 @@ export default function Header({username}) {
       </div>
       <div className='header__navbar'>
         <NavButton dest={`/profile/${username}`} text='Profile' />
-        <NavButton dest='/following' text='Following' userName={username}/>
+        <NavButton dest='/following' text='Following' userId={id}/>
       </div>
     </div>
   )
