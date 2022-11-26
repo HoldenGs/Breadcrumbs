@@ -101,8 +101,7 @@ export default function Login() {
         <Button text='Login' disabled={loading} />
       </form>
       <p className='login__or'>or</p>
-      <Button text='Create Account' handleClick={() => ''} />
-      <Button text='Forgot Password' handleClick={() => ''} />
+      <Button text='Create Account' handleClick={() => navigate('/create-account')} />
     </FullScreenContainer>
   )
 }
