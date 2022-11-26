@@ -95,6 +95,7 @@ export default function CreateAccount() {
         addDocument()
     }) 
     setLoading(false)
+    navigate(`/profile/${formData.username}`)
 
     }   
 
