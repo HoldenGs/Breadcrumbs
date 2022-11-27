@@ -9,15 +9,11 @@ import useAuth from "../components/AuthContext";
 import { useNavigate } from "react-router-dom";
 import { db } from "../firebase";
 import {
-	query,
-	getDocs,
-	where,
+	getDoc,
 	collection,
 	addDoc,
 	serverTimestamp,
 	arrayUnion,
-	doc,
-	updateDoc,
 } from "firebase/firestore";
 
 // Need to add dialog box or input error states
@@ -34,7 +30,7 @@ export default function CreateAccount() {
 		passwordConfirmation: "",
 	});
 	const [loading, setLoading] = useState(false);
-	const { currentUser, signup } = useAuth();
+	const { signup } = useAuth();
 	const navigate = useNavigate();
 
 	// Will not be state
@@ -76,19 +72,24 @@ export default function CreateAccount() {
 	async function handleCreateAccount(e) {
 		e.preventDefault();
 		setLoading(true);
+		
 		if (formData.password !== formData.passwordConfirmation) {
 			// check if want to send an alert() message
 			alert("Passwords do not match");
 			return;
 		}
-		const userCredential = signup(formData.email, formData.password)
-		.catch((err) => {
-			console.log(err)
+
+		let userCredential;
+		try {
+			userCredential = await signup(formData.email, formData.password)
+		} catch(err) {
+			console.error(err)
 			alert(err.message)
 			return
-		})
-		if (userCredential == null) {
-			console.log('error: no user login credential returned')
+		}
+
+		if (!userCredential) {
+			console.error('error: no user login credential returned')
 			return
 		}
 
@@ -102,40 +103,42 @@ export default function CreateAccount() {
 			createdAt: serverTimestamp(),
 			loggedIn: serverTimestamp(),
 			followers: arrayUnion(),
-			userID: currentUser.uid,
 		}).catch((err) => {
-			console.log(err)
+			console.error(err)
 		})
 
-		if (docRef == null) {
-			console.log('error: no user login snapshot returned')
+		if (!docRef) {
+			console.error('error: no user login snapshot returned')
 			return
 		}
-	
-		const userQuery = query(
-			collection(db, 'user'),
-			where('userID', '==', currentUser.uid.toString())
-		)
-		const snapshot = await getDocs(userQuery).catch((err) => {
-			console.log(err)
-		})
-		if (snapshot == null) {
-			console.log('error: no user login snapshot returned')
+		
+		let snapshot
+		try {
+			snapshot = await getDoc(docRef)
+		} catch (err) {
+			console.error(err)
 			return
 		}
 
-		const userId = snapshot.docs[0].id
-		const loginUpdateRef = doc(db, 'user', userId)
-		await updateDoc(loginUpdateRef, { loggedIn: serverTimestamp() }).catch(
-			(err) => {
-				console.log('Error updating user login timestamp: ', err)
-			}
-		)
+		if (!snapshot || !snapshot.exists()) {
+			console.error('error: no user login snapshot returned')
+			return
+		}
+
+		// not sure why this code to update login time is here?
+
+		// const userId = snapshot.docs[0].id
+		// const loginUpdateRef = doc(db, 'user', userId)
+		// await updateDoc(loginUpdateRef, { loggedIn: serverTimestamp() }).catch(
+		// 	(err) => {
+		// 		console.log('Error updating user login timestamp: ', err)
+		// 	}
+		// )
 
 		setLoading(false);
 		//navigate(`/profile/${formData.username}`)
 		navigate(`/profile/${formData.username}`, {
-			state: snapshot.docs[0].data(),
+			state: snapshot.data(),
 		});
 	}
 
