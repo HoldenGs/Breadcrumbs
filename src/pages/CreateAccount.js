@@ -79,6 +79,7 @@ export default function CreateAccount() {
 			return;
 		}
 
+		// create user with firebase auth
 		let userCredential;
 		try {
 			userCredential = await signup(formData.email, formData.password)
@@ -88,11 +89,12 @@ export default function CreateAccount() {
 			return
 		}
 
-		if (!userCredential) {
+		if (!userCredential || !userCredential.user) {
 			console.error('error: no user login credential returned')
 			return
 		}
 
+		// create user database entry
 		const docRef = await addDoc(collection(db, "user"), {
 			firstName: formData.firstName,
 			lastName: formData.lastName,
@@ -103,6 +105,7 @@ export default function CreateAccount() {
 			createdAt: serverTimestamp(),
 			loggedIn: serverTimestamp(),
 			followers: arrayUnion(),
+			userID: userCredential.user.uid
 		}).catch((err) => {
 			console.error(err)
 		})
