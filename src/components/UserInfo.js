@@ -21,10 +21,12 @@ export default function UserInfo({username, editable}) {
     gradYear: '',
     majors: [],
     minors: [],
-    currentUsersFollowing: false,
+    loggedInUserFollowing: '',
     userId: '',
     username: '',
+    docID: '',
   })
+
   const renderListMajor = listMajor(info.majors)
   const renderListMinor = listMinor(info.minors)
 
@@ -43,33 +45,35 @@ export default function UserInfo({username, editable}) {
   ]
 
   useEffect(() => {
-    async function fetchData() {
+    const fetchData = async () => {
       const userQuery = query(collection(db, 'user'), where("username", "==", username))
       const snapshot = await getDocs(userQuery).catch((err) => { console.log(err) })
-      if (snapshot === null) { console.log("error: no user login snapshot returned"); return }
-      const currUser = snapshot.docs[0].data()
+
+      if (!snapshot || !snapshot.docs[0]) {
+        console.error("error: no user login snapshot returned")
+        return
+      }
+
+      const profileUser = snapshot.docs[0].data()
+      const docID = snapshot.docs[0].id
+
       setInfo(prevFormData => ({
         ...prevFormData,
-        firstName: currUser.firstName,
-        lastName: currUser.lastName,
-        gradYear: currUser.gradYear,
-        userId: currUser.userID,
-        username: currUser.username,
-        majors: currUser.majors,
-        minors: currUser.minors,
+        firstName: profileUser.firstName,
+        lastName: profileUser.lastName,
+        gradYear: profileUser.gradYear,
+        userId: profileUser.userID,
+        username: profileUser.username,
+        majors: profileUser.majors,
+        minors: profileUser.minors,
+        loggedInUserFollowing: profileUser.followers.includes(currentUser.uid),
+        docID,
       }))
-      if(currUser.followers.includes(currentUser.uid.toString())) {
-        setInfo(prevFormData => ({
-          ...prevFormData,
-          currentUsersFollowing: true,
-        }))
-      }  
     }
 
-    if (info.userId === "") {
+    if (!info.userId)
       fetchData()
-    }
-  }, [info.userId])
+  }, [info.userId, currentUser.uid, username])
 
   function setProperty(event) {
     const {name, value} = event.target
@@ -78,16 +82,10 @@ export default function UserInfo({username, editable}) {
       [name]: value
     }))
 
-    const asyncUpdateInfo = async() => {
-      const querySnapshot2 =  await getDocs(query(collection(db, "user"), where("userID", "==", currentUser.uid.toString())))
-        querySnapshot2.forEach((docs) => {
-        const ref = doc(db, "user", docs.id)
-        updateDoc(ref, {
-          [name]: value
-          })
-        })
-      }
-      asyncUpdateInfo();
+    const ref = doc(db, "user", info.docID)
+    updateDoc(ref, {
+      [name]: value
+    })
   }
 
   function handleSelectChange(name, value) {
@@ -96,45 +94,27 @@ export default function UserInfo({username, editable}) {
       [name]: value
     }))
 
-    const asyncUpdateStudies = async() => {
-      const querySnapshot2 =  await getDocs(query(collection(db, "user"), where("userID", "==", currentUser.uid.toString())))
-        querySnapshot2.forEach((docs) => {
-          const ref = doc(db, "user", docs.id)
-          updateDoc(ref, {
-            [name]: value
-            })
-        })
-    }
-    asyncUpdateStudies()
+    const ref = doc(db, "user", info.docID)
+    updateDoc(ref, {
+      [name]: value
+    })
   }
 
   
 function listMajor(majors) {
-  if (typeof majors === 'undefined') {
+  if (!majors || majors.length === 0)
     return
-  }
-  if (majors.length === 1) {
-    return <div className='user-info__name'>{`BS, ${majors[0]}`}</div>
-  }
-  if (majors.length === 2) {
-    return <div className='user-info__name'>{`BS, ${majors[0]}, BS, ${majors[1]}`}</div>
-  }
+  
   return (
-    <div className='user-info__name'>{`BS, ${majors[0]}, BS, ${majors[1]}, BS, ${majors[2]}`}</div>
+    <div className='user-info__name'>{`${majors.join(', ')}`}</div>
   )
 }
 
 function listMinor(minors) {
-  if (typeof minors === 'undefined') {
+  if (!minors || minors.length === 0)
     return
-  }
-  if (minors.length === 1) {
-    return <div className='user-info__name'>{`Minor: ${minors[0]}`}</div>
-  }
-  if (minors.length === 2) {
-    return <div className='user-info__name'>{`Minor: ${minors[0]}, ${minors[1]}`}</div>
-  }
-  return <div className='user-info__name'>{`Minor: ${minors[0]}, ${minors[1]}, ${minors[2]}`}</div>
+  
+  return <div className='user-info__name'>{`Minor: ${minors.join(', ')}`}</div>
 }
 
 
@@ -199,7 +179,7 @@ function listMinor(minors) {
           {renderListMajor}
           {renderListMinor}
           <div className='user-info__year'>{years.get(info.gradYear)}</div>
-          <button onClick={() => {navigator.clipboard.writeText(`${window.location.host}profile/${username}`)}}>
+          <button onClick={() => {navigator.clipboard.writeText(`${window.location.host}/profile/${username}`)}}>
             Share
           </button>
         </>
