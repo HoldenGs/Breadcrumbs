@@ -67,6 +67,7 @@ function getMajors() {
 				})
 
 				majors = majors.concat(unlinkedMajors)
+				majors = [...new Set(majors)] // remove dupes
 
 				resolve(majors)
 			})
