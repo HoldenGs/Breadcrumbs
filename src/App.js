@@ -1,5 +1,5 @@
-import {createBrowserRouter, RouterProvider} from 'react-router-dom'
-import { AuthProvider } from "./components/AuthContext";
+import { createBrowserRouter, RouterProvider } from 'react-router-dom'
+import { AuthProvider } from './components/AuthContext'
 import Following from './pages/Following'
 import Login from './pages/Login'
 import Profile from './pages/Profile'
@@ -8,7 +8,7 @@ import React from 'react'
 
 const router = createBrowserRouter([
 	{
-		path: "/",
+		path: '/',
 		element: (
 			<AuthProvider>
 				<Login />
@@ -16,23 +16,23 @@ const router = createBrowserRouter([
 		),
 	},
 	{
-		path: "/profile/:username",
+		path: '/profile/:username',
 		element: (
 			<AuthProvider>
-				<Profile/>
+				<Profile />
 			</AuthProvider>
 		),
-	  },
-	  {
-		path: "/following/:username",
+	},
+	{
+		path: '/following/:username',
 		element: (
 			<AuthProvider>
-				<Following/>
+				<Following />
 			</AuthProvider>
 		),
-	  },
-	  {
-		path: "/create-account",
+	},
+	{
+		path: '/create-account',
 		element: (
 			<AuthProvider>
 				<CreateAccount />
@@ -42,5 +42,5 @@ const router = createBrowserRouter([
 ])
 
 export default function App() {
-  return <RouterProvider router={router} />
+	return <RouterProvider router={router} />
 }
