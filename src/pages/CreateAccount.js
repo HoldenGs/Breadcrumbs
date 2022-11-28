@@ -1,60 +1,60 @@
-import { useState } from "react";
+import { useState } from 'react'
 
-import { Select, MultiSelect } from "@mantine/core";
+import { Select, MultiSelect } from '@mantine/core'
 
-import FullScreenContainer from "../components/FullScreenContainer";
-import TextInput from "../components/TextInput";
-import Button from "../components/Button";
-import useAuth from "../components/AuthContext";
-import { useNavigate } from "react-router-dom";
-import { db } from "../firebase";
+import FullScreenContainer from '../components/FullScreenContainer'
+import TextInput from '../components/TextInput'
+import Button from '../components/Button'
+import useAuth from '../components/AuthContext'
+import { useNavigate } from 'react-router-dom'
+import { db } from '../firebase'
 import {
 	getDoc,
 	collection,
 	addDoc,
 	serverTimestamp,
 	arrayUnion,
-} from "firebase/firestore";
+} from 'firebase/firestore'
 
 // Need to add dialog box or input error states
 export default function CreateAccount() {
 	const [formData, setFormData] = useState({
-		firstName: "",
-		lastName: "",
-		gradYear: "",
-		major: "",
-		minor: "",
-		username: "",
-		email: "",
-		password: "",
-		passwordConfirmation: "",
-	});
-	const [loading, setLoading] = useState(false);
-	const { signup } = useAuth();
-	const navigate = useNavigate();
+		firstName: '',
+		lastName: '',
+		gradYear: '',
+		major: '',
+		minor: '',
+		username: '',
+		email: '',
+		password: '',
+		passwordConfirmation: '',
+	})
+	const [loading, setLoading] = useState(false)
+	const { signup } = useAuth()
+	const navigate = useNavigate()
 
 	// Will not be state
-	const gradYears = ["2023", "2024", "2025", "2026"];
+	const gradYears = ['2023', '2024', '2025', '2026']
 	const majors = [
-		"Sociology",
-		"Computer Science and Engineering",
-		"Microbiology, Immunology, and Molecular Genetics",
-		"Independent Studies",
-	];
+		'Sociology',
+		'Computer Science and Engineering',
+		'Microbiology, Immunology, and Molecular Genetics',
+		'Independent Studies',
+	]
 	const minors = [
-		"Sociology",
-		"Computer Science and Engineering",
-		"Microbiology, Immunology, and Molecular Genetics",
-		"Independent Studies",
-	];
+		'Sociology',
+		'Computer Science and Engineering',
+		'Microbiology, Immunology, and Molecular Genetics',
+		'Independent Studies',
+	]
 
 	// For TextInput components
 	function handleFormChange(e) {
-		const { name, value } = e.target;
+		const { name, value } = e.target
 		setFormData((prevFormData) => ({
 			...prevFormData,
 			[name]: value,
-		}));
+		}))
 	}
 
 	// For Mantine Select components
@@ -62,7 +62,7 @@ export default function CreateAccount() {
 		setFormData((prevFormData) => ({
 			...prevFormData,
 			[name]: value,
-		}));
+		}))
 	}
 
 	// Remember to:
@@ -70,20 +70,20 @@ export default function CreateAccount() {
 	// 	* Convert formData to correct data type
 	// 	* setLoading(false) after successfully creating account
 	async function handleCreateAccount(e) {
-		e.preventDefault();
-		setLoading(true);
-		
+		e.preventDefault()
+		setLoading(true)
+
 		if (formData.password !== formData.passwordConfirmation) {
 			// check if want to send an alert() message
-			alert("Passwords do not match");
-			return;
+			alert('Passwords do not match')
+			return
 		}
 
 		// create user with firebase auth
-		let userCredential;
+		let userCredential
 		try {
 			userCredential = await signup(formData.email, formData.password)
-		} catch(err) {
+		} catch (err) {
 			console.error(err)
 			alert(err.message)
 			return
@@ -95,7 +95,7 @@ export default function CreateAccount() {
 		}
 
 		// create user database entry
-		const docRef = await addDoc(collection(db, "user"), {
+		const docRef = await addDoc(collection(db, 'user'), {
 			firstName: formData.firstName,
 			lastName: formData.lastName,
 			username: formData.username,
@@ -105,7 +105,7 @@ export default function CreateAccount() {
 			createdAt: serverTimestamp(),
 			loggedIn: serverTimestamp(),
 			followers: arrayUnion(),
-			userID: userCredential.user.uid
+			userID: userCredential.user.uid,
 		}).catch((err) => {
 			console.error(err)
 		})
@@ -114,7 +114,7 @@ export default function CreateAccount() {
 			console.error('error: no user login snapshot returned')
 			return
 		}
-		
+
 		let snapshot
 		try {
 			snapshot = await getDoc(docRef)
@@ -138,16 +138,16 @@ export default function CreateAccount() {
 		// 	}
 		// )
 
-		setLoading(false);
+		setLoading(false)
 		//navigate(`/profile/${formData.username}`)
 		navigate(`/profile/${formData.username}`, {
 			state: snapshot.data(),
-		});
+		})
 	}
 
 	// Placeholder function
 	function handleCancel() {
-		navigate("/");
+		navigate('/')
 	}
 
 	return (
@@ -178,7 +178,7 @@ export default function CreateAccount() {
 					nothingFound="Invalid Graduation Year"
 					data={gradYears}
 					value={formData.gradYear}
-					onChange={(value) => handleSelectChange("gradYear", value)}
+					onChange={(value) => handleSelectChange('gradYear', value)}
 					required
 				/>
 				<MultiSelect
@@ -187,7 +187,7 @@ export default function CreateAccount() {
 					nothingFound="Invalid Major"
 					data={majors}
 					value={formData.major}
-					onChange={(value) => handleSelectChange("major", value)}
+					onChange={(value) => handleSelectChange('major', value)}
 					required
 					maxSelectedValues={3}
 				/>
@@ -197,7 +197,7 @@ export default function CreateAccount() {
 					nothingFound="Invalid Minor"
 					data={minors}
 					value={formData.minor}
-					onChange={(value) => handleSelectChange("minor", value)}
+					onChange={(value) => handleSelectChange('minor', value)}
 					required
 					maxSelectedValues={3}
 				/>
@@ -240,5 +240,5 @@ export default function CreateAccount() {
 			</form>
 			<Button text="Cancel" handleClick={handleCancel} disabled={loading} />
 		</FullScreenContainer>
-	);
+	)
 }

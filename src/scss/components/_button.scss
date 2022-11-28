@@ -13,7 +13,9 @@
 	&:active {
 	}
 
-	&--disabled, &--disabled:hover, &--disabled:active {
+	&--disabled,
+	&--disabled:hover,
+	&--disabled:active {
 		cursor: not-allowed;
 	}
 }
