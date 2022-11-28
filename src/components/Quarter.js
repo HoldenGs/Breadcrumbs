@@ -1,23 +1,21 @@
-import React, { useState } from 'react'
+import React, { useEffect } from 'react'
 import CourseCard from './CourseCard'
 
 export default function Quarter({ name, editable, reviews, handleReviewChange }) {
-  const [coursesTaken, setCoursesTaken] = useState([])
-  const [dumbID, setDumbID] = useState(0)
-
   function addCourseCard() {
-    let newCoursesTaken = coursesTaken.slice()
-    newCoursesTaken.push({
-      id: dumbID,
+    handleReviewChange({
+      reviewID: Math.random(),
+      userID: '1234567890',
+      creationDate: 'November 21, 2022 at 12:00:00 AM UTC-8',
       department: '',
-      course: '',
+      courseCode: '',
+      courseTitle: '',
       professor: '',
       quarter: name,
+      startDate: '2022-9-19',
       rating: 0,
-      feelings: '', 
+      feelings: ''
     })
-    setCoursesTaken(newCoursesTaken)
-    setDumbID(dumbID+1)
   }
   
   return (
@@ -27,10 +25,7 @@ export default function Quarter({ name, editable, reviews, handleReviewChange })
         reviews.map((review) => (
           <CourseCard
             key={review.reviewID}
-            // idx={coursesTaken.findIndex(targetCourse => targetCourse.id === course.id)}
             editable={editable}
-            coursesTaken={coursesTaken}
-            setCoursesTaken={setCoursesTaken}
             reviewInfo={review}
             handleReviewChange={handleReviewChange}
           />

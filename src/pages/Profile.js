@@ -55,13 +55,25 @@ export default function Profile() {
 
   const [reviews, setReviews] = useState(exampleReviews)
 
-  function handleReviewChange(changedReview) {
+  function handleReviewChange(changedReview, remove = false) {
+    if (remove) {
+      setReviews(reviews.filter(targetReview => targetReview.reviewID !== changedReview.reviewID))
+      return
+    }
     let idx = reviews.findIndex(review => review.reviewID === changedReview.reviewID)
-    setReviews(state => ([
-      ...state.slice(0, idx),
-      changedReview,
-      ...state.slice(idx+1)
-    ]))
+    if (idx === -1) {
+      setReviews(state => {
+        let newState = state.slice()
+        newState.push(changedReview)
+        return newState 
+      })
+    } else {
+      setReviews(state => ([
+        ...state.slice(0, idx),
+        changedReview,
+        ...state.slice(idx+1)
+      ]))
+    }
   }
 
   return (
@@ -70,7 +82,13 @@ export default function Profile() {
       <UserInfo name='Bobbie Smith' year={2} major='Computer Science and Engineering' editable={editable} />
       <Button text={editable ? 'Save' : 'Edit'} handleClick={() => setEditable(!editable)} />
       {quarters.map(quarter => (
-        <Quarter key={quarter} name={quarter} editable={editable} reviews={reviews.filter(review => review.quarter === quarter)} handleReviewChange={handleReviewChange} />
+        <Quarter
+          key={quarter}
+          name={quarter}
+          editable={editable}
+          reviews={reviews.filter(review => review.quarter === quarter)}
+          handleReviewChange={handleReviewChange}
+        />
       ))}
     </div>
   )

@@ -1,47 +1,34 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import { Select, Rating } from '@mantine/core';
 
-export default function CourseCard({ idx, editable, coursesTaken, setCoursesTaken, reviewInfo, handleReviewChange }) {
-  const [department, setDepartment] = useState(reviewInfo.department)
-  const [courseCode, setCourseCode] = useState(reviewInfo.courseCode)
-  const [courseTitle, setCourseTitle] = useState(reviewInfo.courseTitle)
-  const [professor, setProfessor] = useState(reviewInfo.professor)
-  const [rating, setRating] = useState(reviewInfo.rating)
-  const [feelings, setFeelings] = useState(reviewInfo.feelings)
-
-  useEffect(() => {
-    !editable && handleReviewChange({
-        ...reviewInfo,
-        department: department,
-        courseCode: courseCode,
-        courseTitle: courseTitle,
-        professor: professor,
-        rating: rating,
-        feelings: feelings
-    })
-  }, [editable])
-
-  function removeCourse() {
-    setCoursesTaken(coursesTaken.filter((targetCourse) => targetCourse.id !== coursesTaken[idx].id))
+export default function CourseCard({ editable, reviewInfo, handleReviewChange }) {
+  function removeCourseCard() {
+    handleReviewChange(reviewInfo, true)
   }
 
   return (
     <div className='course-card'>
       {editable ? (
         <>
-          <button onClick={removeCourse}>X</button>
+          <button onClick={removeCourseCard}>X</button>
           <Select
             placeholder='Department'
             searchable
-            value={department}
-            onChange={setDepartment}
+            value={reviewInfo.department}
+            onChange={newDepartment => handleReviewChange({
+              ...reviewInfo,
+              department: newDepartment
+            })}
             data={['COM SCI', 'MATH', 'PHYSICS', 'PSYCH']}
           />
           <Select
             placeholder='Course Code'
             searchable
-            value={courseCode}
-            onChange={setCourseCode}
+            value={reviewInfo.courseCode}
+            onChange={newCourseCode => handleReviewChange({
+              ...reviewInfo,
+              courseCode: newCourseCode
+            })}
             data={[
               '35L',
               '200',
@@ -51,8 +38,11 @@ export default function CourseCard({ idx, editable, coursesTaken, setCoursesTake
           <Select
             placeholder='Professor'
             searchable
-            value={professor}
-            onChange={setProfessor}
+            value={reviewInfo.professor}
+            onChange={newProfessor => handleReviewChange({
+              ...reviewInfo,
+              professor: newProfessor
+            })}
             data={[
               'Smallberg, D.A.',
               'Nachenberg, C.S.',
@@ -62,15 +52,21 @@ export default function CourseCard({ idx, editable, coursesTaken, setCoursesTake
           />
           <Rating
             count={10}
-            value={rating}
-            onChange={setRating}
+            value={reviewInfo.rating}
+            onChange={newRating => handleReviewChange({
+              ...reviewInfo,
+              rating: newRating
+            })}
           />
           <textarea
             placeholder = 'Express your feelings for the course here...'
             rows='4'
             cols='36'
-            value={feelings}
-            onChange={e => setFeelings(e.target.value)}
+            value={reviewInfo.feelings}
+            onChange={e => handleReviewChange({
+              ...reviewInfo,
+              feelings: e.target.value
+            })}
           />
         </>
       ) : (
