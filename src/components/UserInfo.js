@@ -21,7 +21,7 @@ export default function UserInfo({username, editable}) {
     gradYear: '',
     majors: [],
     minors: [],
-    currentUsersFollowing: '',
+    currentUsersFollowing: false,
     userId: '',
     username: '',
   })
@@ -46,37 +46,29 @@ export default function UserInfo({username, editable}) {
     async function fetchData() {
       const userQuery = query(collection(db, 'user'), where("username", "==", username))
       const snapshot = await getDocs(userQuery).catch((err) => { console.log(err) })
-      if (snapshot == null) { console.log("error: no user login snapshot returned"); return }
-      const currentUser = snapshot.docs[0].data()
+      if (snapshot === null) { console.log("error: no user login snapshot returned"); return }
+      const currUser = snapshot.docs[0].data()
       setInfo(prevFormData => ({
         ...prevFormData,
-        firstName: currentUser.firstName,
-        lastName: currentUser.lastName,
-        gradYear: currentUser.gradYear,
-        userId: currentUser.userID,
-        username: currentUser.username,
-        majors: currentUser.majors,
-        minors: currentUser.minors,
-      }))  
+        firstName: currUser.firstName,
+        lastName: currUser.lastName,
+        gradYear: currUser.gradYear,
+        userId: currUser.userID,
+        username: currUser.username,
+        majors: currUser.majors,
+        minors: currUser.minors,
+      }))
+      if(currUser.followers.includes(currentUser.uid.toString())) {
+        setInfo(prevFormData => ({
+          ...prevFormData,
+          currentUsersFollowing: true,
+        }))
+      }  
     }
 
     if (info.userId === "") {
       fetchData()
     }
-
-    const asyncFetchCurrentUserFollowers = async() => {
-      const querySnapshot2 =  await getDocs(query(collection(db, "user"), where("userID", "==", currentUser.uid.toString())))
-        querySnapshot2.forEach((doc) => {
-        if(doc.data().followers.includes(info.userId.toString())) {
-          setInfo(prevFormData => ({
-            ...prevFormData,
-            currentUsersFollowing: true,
-          }))
-        }
-        });
-      }
-    asyncFetchCurrentUserFollowers();
-
   }, [info.userId])
 
   function setProperty(event) {
@@ -121,10 +113,10 @@ function listMajor(majors) {
   if (typeof majors === 'undefined') {
     return
   }
-  if (majors.length == 1) {
+  if (majors.length === 1) {
     return <div className='user-info__name'>{`BS, ${majors[0]}`}</div>
   }
-  if (majors.length == 2) {
+  if (majors.length === 2) {
     return <div className='user-info__name'>{`BS, ${majors[0]}, BS, ${majors[1]}`}</div>
   }
   return (
