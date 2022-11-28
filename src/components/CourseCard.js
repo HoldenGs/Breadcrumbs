@@ -78,5 +78,5 @@ export default function CourseCard({ editable, reviewInfo, handleReviewChange })
         </>
       )}
     </div>
-  );
+  )
 }
