@@ -1,17 +1,19 @@
 .button {
-	padding: 10px;
-	margin: 5px;
+	display: block;
+	width: 100%;
+	padding-block: 0.625rem;
+	border-radius: 3px;
+	font-size: 1rem;
+	color: var(--jet);
+	transition: background-color 150ms ease;
 
-	&:disabled {
-		background-color: #585858;
-		color: white;
+	&:hover {
 	}
-}
 
-.button--1 {
-	background-color: #6464ee;
-}
+	&:active {
+	}
 
-.button--2 {
-	background-color: #a3a3a3;
+	&--disabled, &--disabled:hover, &--disabled:active {
+		cursor: not-allowed;
+	}
 }

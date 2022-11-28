@@ -1,16 +1,25 @@
 import {useState} from 'react'
-import {Link} from 'react-router-dom'
+import {Link, useNavigate} from 'react-router-dom'
 
+import useAuth from "../components/AuthContext"
 import SearchInput from './SearchInput'
 import IconButton from './IconButton'
 import NavButton from './NavButton'
 
-export default function Header() {
-  const [query, setQuery] = useState('')
+// username/id params are to pass through to profile/following pages
+export default function Header({username, id}) {
+  const [qry, setQuery] = useState('')
+
+  const { logout } = useAuth()
+  const navigate = useNavigate()
 
   function handleSearch() {}
 
-  function handleLogout() {}
+  function handleLogout() {
+    logout().finally(() => {
+      navigate('/')
+    })
+  }
 
   return (
     <div className='header'>
@@ -23,7 +32,7 @@ export default function Header() {
           />
         </Link>
         <SearchInput
-          value={query}
+          value={qry}
           handleChange={e => setQuery(e.target.value)}
           handleClick={handleSearch}
         />
@@ -35,8 +44,8 @@ export default function Header() {
         />
       </div>
       <div className='header__navbar'>
-        <NavButton dest='/' text='Profile' />
-        <NavButton dest='/following' text='Following' />
+        <NavButton dest={`/profile/${username}`} text='Profile' userID={id} />
+        <NavButton dest={`/following/${username}`} text='Following' userID={id} />
       </div>
     </div>
   )

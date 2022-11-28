@@ -1,11 +1,7 @@
 import React, { useContext, useState, useEffect } from "react"
 import {
-	GoogleAuthProvider,
-	getAuth,
-	signInWithPopup,
 	signInWithEmailAndPassword,
 	createUserWithEmailAndPassword,
-	sendPasswordResetEmail,
 	signOut,
 } from "firebase/auth"
 
@@ -30,7 +26,7 @@ export function AuthProvider({ children }) {
   }
 
   function logout() {
-    return 
+    return signOut(auth)
   }
   
   function resetPassword(email) {

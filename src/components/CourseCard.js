@@ -8,8 +8,6 @@ export default function CourseCard({ idx, editable, coursesTaken, setCoursesTake
     setCoursesTaken(newCoursesTaken)
   }
 
-  useEffect(()=>console.log(coursesTaken), [coursesTaken])
-
   function removeCourse() {
     setCoursesTaken(coursesTaken.filter((targetCourse) => targetCourse.id !== coursesTaken[idx].id))
   }
