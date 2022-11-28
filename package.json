@@ -24,7 +24,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "scrape": "node src/scraping"
+    "scrape": "node src/scraping",
+    "prepare": "husky install"
   },
   "eslintConfig": {
     "extends": [
@@ -46,6 +47,11 @@
   },
   "devDependencies": {
     "axios": "^1.1.3",
+    "husky": "^8.0.2",
+    "lint-staged": "^13.0.4",
     "prettier": "2.8.0"
+  },
+  "lint-staged": {
+    "**/*": "prettier --write --ignore-unknown"
   }
 }
