@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 
 import { Select, MultiSelect } from '@mantine/core'
 
@@ -8,6 +8,7 @@ import Button from '../components/Button'
 import useAuth from '../components/AuthContext'
 import { useNavigate } from 'react-router-dom'
 import { db } from '../firebase'
+import dataStore from '../helpers/DataStore'
 import {
 	getDoc,
 	collection,
@@ -33,20 +34,14 @@ export default function CreateAccount() {
 	const { signup } = useAuth()
 	const navigate = useNavigate()
 
-	// Will not be state
 	const gradYears = ['2023', '2024', '2025', '2026']
-	const majors = [
-		'Sociology',
-		'Computer Science and Engineering',
-		'Microbiology, Immunology, and Molecular Genetics',
-		'Independent Studies',
-	]
-	const minors = [
-		'Sociology',
-		'Computer Science and Engineering',
-		'Microbiology, Immunology, and Molecular Genetics',
-		'Independent Studies',
-	]
+	const [majors, setMajors] = useState([])
+	const [minors, setMinors] = useState([])
+
+	useEffect(() => {
+		dataStore.majors().then(setMajors)
+		dataStore.minors().then(setMinors)
+	})
 
 	// For TextInput components
 	function handleFormChange(e) {

@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react'
 import TextInput from './TextInput'
 import { Select, MultiSelect } from '@mantine/core'
 import useAuth from '../components/AuthContext'
+import dataStore from '../helpers/DataStore'
 import { db } from '../firebase'
 import {
 	query,
@@ -35,21 +36,13 @@ export default function UserInfo({ username, editable }) {
 	const renderListMajor = listMajor(info.majors)
 	const renderListMinor = listMinor(info.minors)
 
-	//remove this eventually
-	const majors = [
-		'Sociology',
-		'Computer Science and Engineering',
-		'Microbiology, Immunology, and Molecular Genetics',
-		'Independent Studies',
-	]
-	const minors = [
-		'Sociology',
-		'Computer Science and Engineering',
-		'Microbiology, Immunology, and Molecular Genetics',
-		'Independent Studies',
-	]
+	const [majors, setMajors] = useState([])
+	const [minors, setMinors] = useState([])
 
 	useEffect(() => {
+		dataStore.majors().then(setMajors)
+		dataStore.minors().then(setMinors)
+
 		const fetchData = async () => {
 			const userQuery = query(
 				collection(db, 'user'),
