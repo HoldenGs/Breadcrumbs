@@ -207,6 +207,9 @@ function listMinor(minors) {
           {renderListMajor}
           {renderListMinor}
           <div className='user-info__year'>{years.get(info.gradYear)}</div>
+          <button onClick={() => {navigator.clipboard.writeText(`${window.location.host}profile/${username}`)}}>
+            Share
+          </button>
         </>
       )}
     </div>
