@@ -6,7 +6,6 @@ import UserInfo from '../components/UserInfo'
 
 export default function Profile() {
   const [editable, setEditable] = useState(false)
-  const [reviews, setReviews] = useState(exampleReviews)
   const quarters = ['Fall 2022', 'Spring 2022', 'Winter 2022', 'Fall 2021']
   
   const exampleReviews = [
@@ -53,6 +52,8 @@ export default function Profile() {
         'This was an interesting class... An interesting class indeed. What an interesting class. There are some interesting observations about this class. Interesting...'
     }
   ]
+
+  const [reviews, setReviews] = useState(exampleReviews)
 
   function handleReviewChange(changedReview, remove = false) {
     if (remove) {
