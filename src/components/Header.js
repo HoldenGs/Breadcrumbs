@@ -1,21 +1,14 @@
-import {useState, useEffect} from 'react'
+import {useState} from 'react'
 import {Link, useNavigate} from 'react-router-dom'
 
 import useAuth from "../components/AuthContext"
 import SearchInput from './SearchInput'
 import IconButton from './IconButton'
 import NavButton from './NavButton'
-import { db } from '../firebase'
-import {
-	query,
-	getDocs,
-	collection,
-	where,
-} from 'firebase/firestore'
 
-export default function Header({username}) {
+// username/id params are to pass through to profile/following pages
+export default function Header({username, id}) {
   const [qry, setQuery] = useState('')
-  const [id, setID] = useState('')
 
   const { logout } = useAuth()
   const navigate = useNavigate()
@@ -27,16 +20,6 @@ export default function Header({username}) {
       navigate('/')
     })
   }
-  
-  useEffect(() => {
-    const asyncFetchDailyData = async() => {
-      const querySnapshot =  await getDocs(query(collection(db, "user"), where("username", "==", username)))
-      querySnapshot.forEach((doc) => {
-        setID(doc.data().userID)
-        });
-      }
-      asyncFetchDailyData();
-  }, [])
 
   return (
     <div className='header'>
@@ -61,8 +44,8 @@ export default function Header({username}) {
         />
       </div>
       <div className='header__navbar'>
-        <NavButton dest={`/profile/${username}`} text='Profile' />
-        <NavButton dest='/following' text='Following' userId={id}/>
+        <NavButton dest={`/profile/${username}`} text='Profile' userID={id} />
+        <NavButton dest={`/following/${username}`} text='Following' userID={id} />
       </div>
     </div>
   )

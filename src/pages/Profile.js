@@ -17,21 +17,22 @@ export default function Profile() {
   const [editable, setEditable] = useState(false)
   const quarters = ['Fall 2022', 'Spring 2022', 'Winter 2022', 'Fall 2021']
 
-  const { currentUser } = useAuth()
-  const [id, setID] = useState('')
   const location = useLocation()
-	const userNameState = location.pathname.split("/").at(-1)
+  const { currentUser } = useAuth()
+  const [id, setID] = useState(location.state ? location.state.userID : null)
+	const username = location.pathname.split("/").at(-1)
   const renderEditProfile = editProf(currentUser.uid.toString(), id)
 
+  // fetch ID on load if not passed in through NavLink
   useEffect(() => {
-    const asyncFetchDailyData = async() => {
-      const querySnapshot =  await getDocs(query(collection(db, "user"), where("username", "==", userNameState)))
-      querySnapshot.forEach((doc) => {
-        setID(doc.data().userID)
-        });
-      }
-      asyncFetchDailyData();
-  }, [])
+    const fetchID = async() => {
+      const querySnapshot = await getDocs(query(collection(db, "user"), where("username", "==", username)))
+      setID(querySnapshot.docs[0].data().userID)
+    }
+
+    if (!id)
+      fetchID()
+  }, [username, id])
 
   //can't edit another user's profile
   function editProf(currentUserID, id) {
@@ -44,8 +45,8 @@ export default function Profile() {
 
   return (
     <div className='profile'>
-      <Header username = {userNameState}/>
-      <UserInfo username = {userNameState} editable={editable} />
+      <Header username={username} id={id}/>
+      <UserInfo username={username} editable={editable} />
       {/* <Button text={editable ? 'Save' : 'Edit'} handleClick={() => setEditable(!editable)} /> */}
       {renderEditProfile}
       {quarters.map((quarter) => <Quarter key={quarter} name={quarter} editable={editable} />)}

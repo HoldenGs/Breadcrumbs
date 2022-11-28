@@ -24,7 +24,7 @@ const router = createBrowserRouter([
 		),
 	  },
 	  {
-		path: "/following",
+		path: "/following/:username",
 		element: (
 			<AuthProvider>
 				<Following/>

@@ -8,35 +8,35 @@ import { collection, getDocs, where, query } from "firebase/firestore"
 export default function Following() {
   const [following, setFollowing] = useState([])
   const location = useLocation()
-  const { userID } = location.state
-  const [username, setUserName] = useState([])
+  const [id, setID] = useState(location.state ? location.state.userID : null)
+  const username = location.pathname.split("/").at(-1) // /following/:username
 
+  // on load, if no ID, fetch that. then fetch all followers.
   useEffect(() => {
-    setFollowing([])
     const asyncFetchFollowing = async() => {
-      const querySnapshot =  await getDocs(query(collection(db, "user"), where("followers", 'array-contains', userID)))
-      querySnapshot.forEach((doc) => {
-        setFollowing( arr => [...arr, doc.data()])  
-        })
+      if (!id) {
+        const userSnapshot = await getDocs(query(collection(db, "user"), where("username", "==", username)))
+        setID(userSnapshot.docs[0].data().userID)
       }
-      asyncFetchFollowing()
-      const asyncFetchUsername = async() => {
-        const querySnapshot =  await getDocs(query(collection(db, "user"), where("userID", "==", userID)))
-        querySnapshot.forEach((doc) => {
-          setUserName(doc.data().username)
-          })
-        }
-        asyncFetchUsername()
-  }, [])
+
+      const querySnapshot = await getDocs(query(collection(db, "user"), where("followers", 'array-contains', id)))
+      querySnapshot.docs.forEach(doc => {
+        setFollowing(arr => [...arr, doc.data()])
+      })
+    }
+
+    asyncFetchFollowing()
+  }, [username, id])
   
   return (
     <div className='following'>
-      <Header username = {username}/>
+      <Header username={username} id={id}/>
+      <h1 className="following--name">@{username}: following</h1>
       {following.map((usr) => (
         <ProfileCard
           name={usr.firstName + ' ' + usr.lastName}
-          year={usr.year}
-          major={usr.major1}
+          gradYear={usr.gradYear}
+          major={usr.majors ? usr.majors[0] : null}
         />
       ))}
       <ProfileCard />
