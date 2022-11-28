@@ -1,12 +1,25 @@
-import React, { useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Select, Rating } from '@mantine/core';
 
-export default function CourseCard({ idx, editable, coursesTaken, setCoursesTaken }) {
-  function setProperty(newVal, propName) {
-    let newCoursesTaken = coursesTaken.slice()
-    newCoursesTaken[idx][propName] = newVal
-    setCoursesTaken(newCoursesTaken)
-  }
+export default function CourseCard({ idx, editable, coursesTaken, setCoursesTaken, reviewInfo, handleReviewChange }) {
+  const [department, setDepartment] = useState(reviewInfo.department)
+  const [courseCode, setCourseCode] = useState(reviewInfo.courseCode)
+  const [courseTitle, setCourseTitle] = useState(reviewInfo.courseTitle)
+  const [professor, setProfessor] = useState(reviewInfo.professor)
+  const [rating, setRating] = useState(reviewInfo.rating)
+  const [feelings, setFeelings] = useState(reviewInfo.feelings)
+
+  useEffect(() => {
+    !editable && handleReviewChange({
+        ...reviewInfo,
+        department: department,
+        courseCode: courseCode,
+        courseTitle: courseTitle,
+        professor: professor,
+        rating: rating,
+        feelings: feelings
+    })
+  }, [editable])
 
   function removeCourse() {
     setCoursesTaken(coursesTaken.filter((targetCourse) => targetCourse.id !== coursesTaken[idx].id))
@@ -20,27 +33,26 @@ export default function CourseCard({ idx, editable, coursesTaken, setCoursesTake
           <Select
             placeholder='Department'
             searchable
-            value={coursesTaken[idx].department}
-            onChange={newVal => setProperty(newVal, 'department')}
+            value={department}
+            onChange={setDepartment}
             data={['COM SCI', 'MATH', 'PHYSICS', 'PSYCH']}
           />
           <Select
-            placeholder='Course'
+            placeholder='Course Code'
             searchable
-            value={coursesTaken[idx].course}
-            onChange={newVal => setProperty(newVal, 'course')}
+            value={courseCode}
+            onChange={setCourseCode}
             data={[
-              '31 - Introduction to Computer Science I',
-              '32 - Introduction to Computer Science II',
-              '33 - Introduction to Computer Organization',
-              '35L - Software Construction'
+              '35L',
+              '200',
+              '300'
             ]}
           />
           <Select
             placeholder='Professor'
             searchable
-            value={coursesTaken[idx].professor}
-            onChange={newVal => setProperty(newVal, 'professor')}
+            value={professor}
+            onChange={setProfessor}
             data={[
               'Smallberg, D.A.',
               'Nachenberg, C.S.',
@@ -50,23 +62,23 @@ export default function CourseCard({ idx, editable, coursesTaken, setCoursesTake
           />
           <Rating
             count={10}
-            value={coursesTaken[idx].rating}
-            onChange={newVal => setProperty(newVal, 'rating')}
+            value={rating}
+            onChange={setRating}
           />
           <textarea
             placeholder = 'Express your feelings for the course here...'
             rows='4'
             cols='36'
-            value={coursesTaken[idx].feelings}
-            onChange={event => setProperty(event.target.value, 'feelings')}
+            value={feelings}
+            onChange={e => setFeelings(e.target.value)}
           />
         </>
       ) : (
         <>
-          <div><strong>{coursesTaken[idx].department + ' ' + coursesTaken[idx].course}</strong></div>
-          <div>{coursesTaken[idx].professor}</div>
-          <Rating count={10} value={coursesTaken[idx].rating} readOnly />
-          <div>{coursesTaken[idx].feelings}</div>
+          <div><strong>{reviewInfo.department + ' ' + reviewInfo.courseCode}</strong>{' ' + reviewInfo.courseTitle}</div>
+          <div>{reviewInfo.professor}</div>
+          <Rating count={10} value={reviewInfo.rating} readOnly />
+          <div>{reviewInfo.feelings}</div>
         </>
       )}
     </div>

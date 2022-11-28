@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState } from 'react'
 import TextInput from './TextInput'
 import { Select } from '@mantine/core'
 
@@ -11,11 +11,6 @@ export default function UserInfo({name, year, major, editable}) {
     year: '2025',
     major: 'Computer Science and Engineering'
   })
-
-  useEffect(() => {
-    console.log(info)
-    console.log(years.get(info.year))
-  }, [info])
 
   function setProperty(event) {
     const {name, value} = event.target

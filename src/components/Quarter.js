@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import CourseCard from './CourseCard'
 
-export default function Quarter({ name, editable }) {
+export default function Quarter({ name, editable, reviews, handleReviewChange }) {
   const [coursesTaken, setCoursesTaken] = useState([])
   const [dumbID, setDumbID] = useState(0)
 
@@ -23,18 +23,20 @@ export default function Quarter({ name, editable }) {
   return (
     <div className='quarter'>
       <div>{name}</div>
-      {coursesTaken.length !== 0 ? (
-        coursesTaken.map((course) => (
+      {reviews.length !== 0 ? (
+        reviews.map((review) => (
           <CourseCard
-            key={course.id}
-            idx={coursesTaken.findIndex(targetCourse => targetCourse.id === course.id)}
+            key={review.reviewID}
+            // idx={coursesTaken.findIndex(targetCourse => targetCourse.id === course.id)}
             editable={editable}
             coursesTaken={coursesTaken}
             setCoursesTaken={setCoursesTaken}
+            reviewInfo={review}
+            handleReviewChange={handleReviewChange}
           />
         )) 
       ) : (
-        <div>No courses taken this quarter.</div>
+        <div>No reviews for this quarter.</div>
       )}
       {editable && <button onClick={addCourseCard}>Add course</button>}
     </div>

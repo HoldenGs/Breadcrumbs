@@ -7,7 +7,7 @@ import Profile from './pages/Profile'
 const router = createBrowserRouter([
   {
     path: '/',
-    element: <Following />,
+    element: <Profile />,
     errorElement: <div>Error!</div>
   }
 ])
