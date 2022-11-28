@@ -1,5 +1,7 @@
 import {useState, useEffect} from 'react'
-import {Link} from 'react-router-dom'
+import {Link, useNavigate} from 'react-router-dom'
+
+import useAuth from "../components/AuthContext"
 import SearchInput from './SearchInput'
 import IconButton from './IconButton'
 import NavButton from './NavButton'
@@ -15,9 +17,16 @@ export default function Header({username}) {
   const [qry, setQuery] = useState('')
   const [id, setID] = useState('')
 
+  const { logout } = useAuth()
+  const navigate = useNavigate()
+
   function handleSearch() {}
 
-  function handleLogout() {}
+  function handleLogout() {
+    logout().finally(() => {
+      navigate('/')
+    })
+  }
   
   useEffect(() => {
     const asyncFetchDailyData = async() => {
