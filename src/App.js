@@ -1,8 +1,9 @@
-import {createBrowserRouter, RouterProvider} from 'react-router-dom'
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
-import Following from './pages/Following'
-import Login from './pages/Login'
-import Profile from './pages/Profile'
+import Following from "./pages/Following";
+import Login from "./pages/Login";
+import CreateAccount from "./pages/CreateAccount";
+import Profile from "./pages/Profile";
 
 const router = createBrowserRouter([
   {
@@ -13,5 +14,5 @@ const router = createBrowserRouter([
 ])
 
 export default function App() {
-  return <RouterProvider router={router} />
+	return <RouterProvider router={router} />;
 }
