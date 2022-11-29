@@ -7,6 +7,7 @@ export default function SearchInput({value, handleChange, handleClick}) {
   return (
     <div className='search-input'>
       <TextInput
+        name='search'
         placeholder='Search'
         value={value}
         handleChange={handleChange}
