@@ -2,28 +2,27 @@
 
 A student-centric course recommendation platform.
 
-## Running
+## Installation
 
-First install npm, then run:
-`npm install`
-`npm start`
+It's fairly simple!
+
+1. Install [Node.js LTS](https://nodejs.org/en/download/)
+2. Download this repository, and CD into that directory
+3. Run `npm install`
+4. To test locally, use `npm start`
 
 ## Deploying to Firebase
 
 First, login with
 `firebase login`
 
-Then, follow one of the following to deploy what you need:
-
-### Deploy to hosting
-
-First, build the webapp with
+Then, build the web app for production with
 `npm run build`
 
-This places built files in /build. Then, run
-`firebase deploy --only hosting`
+This places built files in `/build`. Run
+`firebase deploy --only hosting` to deploy these files.
 
-The tool will upload all files in /build and provide a deployed link!
+The tool will upload all files in `/build` and provide a deployed link!
 
 ## Scraping UCLA registrar data
 
