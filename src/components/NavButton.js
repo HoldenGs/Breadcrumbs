@@ -4,9 +4,13 @@ import { NavLink } from 'react-router-dom'
 // dest prop, navigation button destination
 // text prop, navigation button text
 // userID prop, userId if available (to pass through e.g. Profile -> Following)
-export default function NavButton({ dest, text, userID }) {
+export default function NavButton({ dest, text, userID, reviews, setReviews }) {
 	return (
-		<NavLink to={dest} state={{ userID: userID }} className="nav-button">
+		<NavLink
+			to={dest}
+			state={{ userID: userID, reviews: reviews, setReviews: setReviews }}
+			className="nav-button"
+		>
 			{text}
 		</NavLink>
 	)
