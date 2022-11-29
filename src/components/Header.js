@@ -1,43 +1,56 @@
-import {useState} from 'react'
-import {Link} from 'react-router-dom'
+import { useState } from 'react'
+import { Link, useNavigate } from 'react-router-dom'
 
+import useAuth from '../components/AuthContext'
 import SearchInput from './SearchInput'
 import IconButton from './IconButton'
 import NavButton from './NavButton'
 
-export default function Header() {
-  const [query, setQuery] = useState('')
+// username/id params are to pass through to profile/following pages
+export default function Header({ username, id }) {
+	const [qry, setQuery] = useState('')
 
-  function handleSearch() {}
+	const { logout } = useAuth()
+	const navigate = useNavigate()
 
-  function handleLogout() {}
+	function handleSearch() {}
 
-  return (
-    <div className='header'>
-      <div className='header__topbar'>
-        <Link to='/'>
-          <img
-            className='header__icon'
-            src='/icons/breadcrumbs-icon-jet.svg'
-            alt='Breadcrumbs Icon - Jet'
-          />
-        </Link>
-        <SearchInput
-          value={query}
-          handleChange={e => setQuery(e.target.value)}
-          handleClick={handleSearch}
-        />
-        <IconButton
-          type='logout'
-          iconURL='/icons/logout.svg'
-          alt='Logout'
-          handleClick={handleLogout}
-        />
-      </div>
-      <div className='header__navbar'>
-        <NavButton dest='/' text='Profile' />
-        <NavButton dest='/following' text='Following' />
-      </div>
-    </div>
-  )
+	function handleLogout() {
+		logout().finally(() => {
+			navigate('/')
+		})
+	}
+
+	return (
+		<div className="header">
+			<div className="header__topbar">
+				<Link to="/">
+					<img
+						className="header__icon"
+						src="/icons/breadcrumbs-icon-jet.svg"
+						alt="Breadcrumbs Icon - Jet"
+					/>
+				</Link>
+				<SearchInput
+					value={qry}
+					handleChange={(e) => setQuery(e.target.value)}
+					handleClick={handleSearch}
+				/>
+				<IconButton
+					type="logout"
+					iconURL="/icons/logout.svg"
+					alt="Logout"
+					handleClick={handleLogout}
+				/>
+			</div>
+			<div className="header__navbar">
+				<NavButton dest={`/profile/${username}`} text="Profile" userID={id} />
+				<NavButton
+					dest={`/following/${username}`}
+					text="Following"
+					userID={id}
+				/>
+			</div>
+		</div>
+	)
 }

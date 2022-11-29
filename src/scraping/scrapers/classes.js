@@ -1,47 +1,48 @@
 const axios = require('axios').create({
-	baseURL: 'https://sa.ucla.edu/ro/public/soc/Results'
-});
+	baseURL: 'https://sa.ucla.edu/ro/public/soc/Results',
+})
 
-const firstPageAddend = '?sBy=subject'; // ?t=22F&subj=COM+SCI
-const nextPageAddend = '/CourseTitlesView?search_by=subject';
+const firstPageAddend = '?sBy=subject' // ?t=22F&subj=COM+SCI
+const nextPageAddend = '/CourseTitlesView?search_by=subject'
 const classDataAddend = '/GetCourseSummary'
 
-const pageRegex = /<input type="hidden" name="pageCount" id="pageCount" value="(\d+)" \/>/;
+const pageRegex =
+	/<input type="hidden" name="pageCount" id="pageCount" value="(\d+)" \/>/
 
-const classTitleRegex = /<button class="linkLikeButton" id=".+-title" type="button" aria-expanded="false" aria-controls=".+-container" aria-disabled="false">(.+ - .+)<\/button>/g;
-const classModelRegex = /var addCourse.+\d{4}.* = function \(\) { Iwe_ClassSearch_SearchResults.AddToCourseData\(".+\d{4}.*",({.+})\); };/g;
+const classTitleRegex =
+	/<button class="linkLikeButton" id=".+-title" type="button" aria-expanded="false" aria-controls=".+-container" aria-disabled="false">(.+ - .+)<\/button>/g
+const classModelRegex =
+	/var addCourse.+\d{4}.* = function \(\) { Iwe_ClassSearch_SearchResults.AddToCourseData\(".+\d{4}.*",({.+})\); };/g
 
-const professorRegex = /<div class="instructorColumn hide-small" id="\d+_.+-instructor_data"><p>(.+)<\/p><\/div>/g;
-const lineBreakRegex = /<br \/>/g;
+const professorRegex =
+	/<div class="instructorColumn hide-small" id="\d+_.+-instructor_data"><p>(.+)<\/p><\/div>/g
+const lineBreakRegex = /<br \/>/g
 
-const noClassInstructors = [ 'No instructors', 'The Staff' ]
+const noClassInstructors = ['No instructors', 'The Staff']
 
 const filterFlags = JSON.stringify({
-	"enrollment_status": "O,W,C,X,T,S",
-	"advanced": "y",
-	"meet_days": "M,T,W,R,F",
-	"start_time": "7:00 am",
-	"end_time": "11:00 pm",
-	"meet_locations": null,
-	"meet_units": null,
-	"instructor": null,
-	"class_career": null,
-	"impacted": null,
-	"enrollment_restrictions": null,
-	"enforced_requisites": null,
-	"individual_studies": null,
-	"summer_session": null
-});
+	enrollment_status: 'O,W,C,X,T,S',
+	advanced: 'y',
+	meet_days: 'M,T,W,R,F',
+	start_time: '7:00 am',
+	end_time: '11:00 pm',
+	meet_locations: null,
+	meet_units: null,
+	instructor: null,
+	class_career: null,
+	impacted: null,
+	enrollment_restrictions: null,
+	enforced_requisites: null,
+	individual_studies: null,
+	summer_session: null,
+})
 
-const baseModel = { // need subj_area_cd (e.g. COM SCI) and term_cd (e.g. 22F)
-	"search_by": "Subject",
-	"ActiveEnrollmentFlag":"n",
-	"HasData":"False"
+const baseModel = {
+	// need subj_area_cd (e.g. COM SCI) and term_cd (e.g. 22F)
+	search_by: 'Subject',
+	ActiveEnrollmentFlag: 'n',
+	HasData: 'False',
 }
-
-
-
-
 
 // THIS IS THE FUNCTION EXPORTED BY THIS FILE
 /**
@@ -59,77 +60,86 @@ const baseModel = { // need subj_area_cd (e.g. COM SCI) and term_cd (e.g. 22F)
  */
 function getAllClassesBySubject(term, subject) {
 	return new Promise((resolve, reject) => {
-		getClassesFirstPage(term, subject).then(async ({ pages, classes }) => {
-			if (pages > 1) { // fetch remaining pages
-				let toFetch = [];
-				let vals;
+		getClassesFirstPage(term, subject)
+			.then(async ({ pages, classes }) => {
+				if (pages > 1) {
+					// fetch remaining pages
+					let toFetch = []
+					let vals
 
-				for (let page = 2; page <= pages; ++page)
-					toFetch.push(getClassesByPage(term, subject, page));
+					for (let page = 2; page <= pages; ++page)
+						toFetch.push(getClassesByPage(term, subject, page))
+
+					try {
+						vals = await Promise.all(toFetch)
+					} catch (err) {
+						reject(err)
+					}
+
+					vals.forEach((val) => {
+						classes = classes.concat(val)
+					})
+				}
+
+				// remove classes above 297
+				classes = classes.filter((c) => {
+					const model = JSON.parse(c.model)
+					const code = model.CatalogNumber.slice(0, 4)
+
+					return parseInt(code) <= 297
+				})
+
+				let toFetch = []
+
+				for (let i = 0; i < classes.length; ++i) {
+					toFetch.push(
+						new Promise((resolve, reject) => {
+							setTimeout(() => {
+								// stagger requests by 50 ms.
+								getProfessors(classes[i].model).then(resolve).catch(reject)
+							}, i * 50)
+						})
+					)
+				}
+
+				let profs
 
 				try {
-					vals = await Promise.all(toFetch);
+					profs = await Promise.all(toFetch)
 				} catch (err) {
-					reject(err);
+					reject(err)
 				}
-				
-				vals.forEach(val => {
-					classes = classes.concat(val);
-				});
-			}
 
-			// remove classes above 297
-			classes = classes.filter(c => {
-				const model = JSON.parse(c.model);
-				const code = model.CatalogNumber.slice(0, 4);
+				if (classes.length !== profs.length)
+					return reject(
+						`Profs length ${profs.length} does not equal classes length ${classes.length}!`
+					)
 
-				return parseInt(code) <= 297;
-			});
+				let outClasses = []
 
-			let toFetch = [];
+				classes.forEach((data, i) => {
+					const [code, title] = data.displayTitle.split(' - ')
 
-			for (let i = 0; i < classes.length; ++i) {
-				toFetch.push(new Promise((resolve, reject) => {
-					setTimeout(() => { // stagger requests by 50 ms.
-						getProfessors(classes[i].model).then(resolve).catch(reject);
-					}, i * 50);
-				}));
-			}
+					if (!profs[i])
+						// remove classes deemed to have no profs
+						return
 
-			let profs;
+					profs[i].forEach((professor) => {
+						outClasses.push({
+							quarter: prettifyTerm(term),
+							department: subject,
+							code,
+							title,
+							professor,
+						})
+					})
+				})
 
-			try {
-				profs = await Promise.all(toFetch);
-			} catch (err) {
-				reject(err);
-			}
-
-			if (classes.length !== profs.length)
-				return reject(`Profs length ${profs.length} does not equal classes length ${classes.length}!`);
-
-			let outClasses = [];
-			
-			classes.forEach((data, i) => {
-				const [ code, title ] = data.displayTitle.split(' - ');
-
-				if (!profs[i]) // remove classes deemed to have no profs
-					return;
-				
-				profs[i].forEach(professor => {
-					outClasses.push({
-						quarter: prettifyTerm(term),
-						department: subject,
-						code, title, professor
-					});
-				});
-			});
-
-			resolve(outClasses);
-		}).catch(reject);
-	});
+				resolve(outClasses)
+			})
+			.catch(reject)
+	})
 }
-
-
 
 /*
 	get number of pages and classes listed on first page of search for classes, by subject
@@ -145,26 +155,27 @@ function getAllClassesBySubject(term, subject) {
 
 function getClassesFirstPage(term, subject) {
 	return new Promise((resolve, reject) => {
-		axios.get(firstPageAddend + `&t=${term}&subj=${encodeURIComponent(subject)}`).then(res => {
-			const data = res.data;
+		axios
+			.get(firstPageAddend + `&t=${term}&subj=${encodeURIComponent(subject)}`)
+			.then((res) => {
+				const data = res.data
 
-			const pageMatch = pageRegex.exec(data);
+				const pageMatch = pageRegex.exec(data)
 
-			if (!pageMatch)
-				return resolve ({
-					pages: 0,
-					classes: []
-				});
+				if (!pageMatch)
+					return resolve({
+						pages: 0,
+						classes: [],
+					})
 
-			const pages = parseInt(pageMatch[1]);
-			const classes = extractClasses(data);
+				const pages = parseInt(pageMatch[1])
+				const classes = extractClasses(data)
 
-			resolve({ pages, classes });
-		}).catch(reject);
-	});
+				resolve({ pages, classes })
+			})
+			.catch(reject)
+	})
 }
-
-
 
 /*
 	get classes on a given page number
@@ -179,22 +190,27 @@ function getClassesByPage(term, subject, page) {
 		const model = JSON.stringify({
 			...baseModel,
 			subj_area_cd: subject,
-			term_cd: term
-		});
+			term_cd: term,
+		})
 
-		axios.get(nextPageAddend + `&pageNumber=${page}&model=${model}&filterFlags=${filterFlags}`, {
-			headers: {
-				'X-Requested-With': 'XMLHttpRequest'
-			}
-		}).then(res => {
-			const classes = extractClasses(res.data);
+		axios
+			.get(
+				nextPageAddend +
+					`&pageNumber=${page}&model=${model}&filterFlags=${filterFlags}`,
+				{
+					headers: {
+						'X-Requested-With': 'XMLHttpRequest',
+					},
+				}
+			)
+			.then((res) => {
+				const classes = extractClasses(res.data)
 
-			resolve(classes);
-		}).catch(reject);
-	});
+				resolve(classes)
+			})
+			.catch(reject)
+	})
 }
-
-
 
 /*
 	helper function for getClasses__ functions
@@ -206,23 +222,21 @@ function getClassesByPage(term, subject, page) {
 function extractClasses(data) {
 	let classes = []
 
-	let titleMatch = classTitleRegex.exec(data);
-	let classMatch = classModelRegex.exec(data);
+	let titleMatch = classTitleRegex.exec(data)
+	let classMatch = classModelRegex.exec(data)
 
 	while (titleMatch && classMatch) {
 		classes.push({
 			displayTitle: titleMatch[1],
-			model: classMatch[1]
-		});
+			model: classMatch[1],
+		})
 
-		titleMatch = classTitleRegex.exec(data);
-		classMatch = classModelRegex.exec(data);
+		titleMatch = classTitleRegex.exec(data)
+		classMatch = classModelRegex.exec(data)
 	}
 
-	return classes;
+	return classes
 }
-
-
 
 /*
 	get professors teaching a course for a given model
@@ -239,33 +253,34 @@ function extractClasses(data) {
 
 function getProfessors(model) {
 	return new Promise((resolve, reject) => {
-		axios.get(classDataAddend + `?model=${model}&FilterFlags=${filterFlags}`).then(res => {
-			let professorMatch = professorRegex.exec(res.data);
-			let professors = [];
+		axios
+			.get(classDataAddend + `?model=${model}&FilterFlags=${filterFlags}`)
+			.then((res) => {
+				let professorMatch = professorRegex.exec(res.data)
+				let professors = []
 
-			while (professorMatch) {
-				if (noClassInstructors.includes(professorMatch[1]))
-					return resolve(null);
-				
-				professors.push(professorMatch[1].replace(lineBreakRegex, '; '));
-				professorMatch = professorRegex.exec(res.data);
-			}
+				while (professorMatch) {
+					if (noClassInstructors.includes(professorMatch[1]))
+						return resolve(null)
 
-			professors = [ ...new Set(professors) ] // removes dupes
+					professors.push(professorMatch[1].replace(lineBreakRegex, '; '))
+					professorMatch = professorRegex.exec(res.data)
+				}
 
-			resolve(professors);
-		}).catch(reject);
-	});
+				professors = [...new Set(professors)] // removes dupes
+
+				resolve(professors)
+			})
+			.catch(reject)
+	})
 }
 
-
-
 const prettifiedQuarters = {
-	'1': 'Summer Sessions',
-	'2': 'Summer', // grad courses lol
-	'F': 'Fall',
-	'W': 'Winter',
-	'S': 'Spring'
+	1: 'Summer Sessions',
+	2: 'Summer', // grad courses lol
+	F: 'Fall',
+	W: 'Winter',
+	S: 'Spring',
 }
 
 /*
@@ -277,12 +292,10 @@ const prettifiedQuarters = {
 */
 
 function prettifyTerm(term) {
-	const year = term.slice(0, 2);
-	const quarter = term.slice(-1);
+	const year = term.slice(0, 2)
+	const quarter = term.slice(-1)
 
-	return prettifiedQuarters[quarter] + ' 20' + year;
+	return prettifiedQuarters[quarter] + ' 20' + year
 }
 
-
-
-module.exports = getAllClassesBySubject;
+module.exports = getAllClassesBySubject

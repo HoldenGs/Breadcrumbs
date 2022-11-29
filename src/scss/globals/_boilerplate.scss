@@ -3,8 +3,8 @@ html {
 	font-size: 100%;
 }
 
-*, 
-*::before, 
+*,
+*::before,
 *::after {
 	box-sizing: inherit;
 }
@@ -15,12 +15,12 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	background-color: white;
 	color: black;
- }
+}
 
- button {
-  border-radius: 5px;
-  border: none;
-  font-family: inherit;
-  font-size: 1.25rem;
-  cursor: pointer;
+button {
+	border-radius: 5px;
+	border: none;
+	font-family: inherit;
+	font-size: 1.25rem;
+	cursor: pointer;
 }

@@ -1,23 +1,24 @@
 import React from 'react'
+import NavButton from './NavButton'
 
 import CourseCard from './CourseCard'
 
 export default function ProfileCard({
-  name,
-  gradYear,
-  major,
-  reviewLabel,
-  review
+	name,
+	gradYear,
+	major,
+	reviewLabel,
+	review,
 }) {
-  const years = ['1st Year', '2nd Year', '3rd Year', '4th Year']
+	const years = ['1st Year', '2nd Year', '3rd Year', '4th Year']
 
-  return (
-    <div className='profile-card'>
-      <h2 className='profile-card__name'>{name}</h2>
-      <h2 className='profile-card__year'>{years[2026 - gradYear]}</h2>
-      <p className='profile-card__major'>{major}</p>
-      <h3 className='profile-card__review-label'>{reviewLabel}</h3>
-      <CourseCard editable={false} reviewInfo={review} />
-    </div>
-  )
+	return (
+		<div className="profile-card">
+			<h2 className="profile-card__name">{name}</h2>
+			<h2 className="profile-card__year">{years[2026 - gradYear]}</h2>
+			<p className="profile-card__major">{major}</p>
+			<h3 className="profile-card__review-label">{reviewLabel}</h3>
+			<CourseCard editable={false} reviewInfo={review} />
+		</div>
+	)
 }
