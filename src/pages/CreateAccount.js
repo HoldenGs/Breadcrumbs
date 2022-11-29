@@ -1,11 +1,9 @@
 import { useState, useEffect } from 'react'
-
-import { MultiSelect } from '@mantine/core'
-
 import FullScreenContainer from '../components/FullScreenContainer'
 import TextInput from '../components/TextInput'
 import Button from '../components/Button'
 import StyledSelect from '../components/StyledSelect'
+import StyledMultiSelect from '../components/StyledMultiSelect'
 import useAuth from '../components/AuthContext'
 import { useNavigate } from 'react-router-dom'
 import { db } from '../firebase'
@@ -194,7 +192,7 @@ export default function CreateAccount() {
 					required
 					dark
 				/>
-				<MultiSelect
+				<StyledMultiSelect
 					placeholder="Major"
 					searchable
 					nothingFound="Invalid Major"
@@ -203,8 +201,9 @@ export default function CreateAccount() {
 					onChange={(value) => handleSelectChange('major', value)}
 					required
 					maxSelectedValues={3}
+					dark
 				/>
-				<MultiSelect
+				<StyledMultiSelect
 					placeholder="Minor"
 					searchable
 					nothingFound="Invalid Minor"
@@ -213,6 +212,7 @@ export default function CreateAccount() {
 					onChange={(value) => handleSelectChange('minor', value)}
 					required
 					maxSelectedValues={3}
+					dark
 				/>
 				<TextInput
 					name="username"

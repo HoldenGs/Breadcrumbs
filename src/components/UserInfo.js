@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import TextInput from './TextInput'
-import { MultiSelect } from '@mantine/core'
 import StyledSelect from './StyledSelect'
+import StyledMultiSelect from './StyledMultiSelect'
 import useAuth from '../components/AuthContext'
 import dataStore from '../helpers/dataStore'
 import { db } from '../firebase'
@@ -149,7 +149,7 @@ export default function UserInfo({ username, editable }) {
 						onChange={(value) => handleSelectChange('gradYear', value)}
 						data={['2023', '2024', '2025', '2026']}
 					/>
-					<MultiSelect
+					<StyledMultiSelect
 						placeholder="Major"
 						searchable
 						nothingFound="Invalid Major"
@@ -159,7 +159,7 @@ export default function UserInfo({ username, editable }) {
 						required
 						maxSelectedValues={3}
 					/>
-					<MultiSelect
+					<StyledMultiSelect
 						placeholder="Minor"
 						searchable
 						nothingFound="Invalid Minor"
