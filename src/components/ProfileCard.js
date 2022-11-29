@@ -1,4 +1,5 @@
 import React from 'react'
+import NavButton from './NavButton'
 
 const YEARS = {
 	2026: '1st Year',
@@ -8,6 +9,8 @@ const YEARS = {
 }
 
 export default function ProfileCard({
+	username,
+	id,
 	name,
 	gradYear,
 	major,
@@ -15,6 +18,7 @@ export default function ProfileCard({
 }) {
 	return (
 		<div className="profile-card">
+			<NavButton dest={`/profile/${username}`} text={username} userID={id} />
 			<div className="profile-card__name">{name}</div>
 			<div className="profile-card__year">{YEARS[gradYear]}</div>
 			<div className="profile-card__major">{major}</div>
