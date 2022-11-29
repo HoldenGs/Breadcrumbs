@@ -6,7 +6,8 @@ const SSelect = styled(Select)`
 		height: 2.6rem;
 		width: 100%;
 		padding-left: 0.5rem;
-		background-color: var(--dough);
+		background-color: ${(props) =>
+			props.dark ? 'var(--tan)' : 'var(--dough)'};
 		border: 0.2rem solid var(--jet);
 		border-radius: 3px;
 		font-size: 1rem;
@@ -14,11 +15,13 @@ const SSelect = styled(Select)`
 		transition: background-color 150ms ease;
 
 		&:hover {
-			background-color: var(--dough-dark1);
+			background-color: ${(props) =>
+				props.dark ? 'var(--tan-dark1)' : 'var(--dough-dark1)'};
 		}
 
 		&:active {
-			background-color: var(--dough-dark2);
+			background-color: ${(props) =>
+				props.dark ? 'var(--tan-dark2)' : 'var(--dough-dark2)'};
 		}
 
 		&::placeholder {
@@ -26,7 +29,8 @@ const SSelect = styled(Select)`
 		}
 
 		&:focus {
-			background-color: var(--dough-dark2);
+			background-color: ${(props) =>
+				props.dark ? 'var(--tan-dark2)' : 'var(--dough-dark2)'};
 			&::placeholder {
 				opacity: 0;
 			}
@@ -34,14 +38,25 @@ const SSelect = styled(Select)`
 	}
 `
 
-export default function StyledSelect({ placeholder, value, onChange, data }) {
+export default function StyledSelect({
+	placeholder,
+	value,
+	onChange,
+	nothingFound,
+	data,
+	required,
+	dark,
+}) {
 	return (
 		<SSelect
 			placeholder={placeholder}
 			searchable
 			value={value}
 			onChange={onChange}
+			nothingFound={nothingFound}
 			data={data}
+			required={required}
+			dark={dark}
 		/>
 	)
 }

@@ -1,6 +1,6 @@
 import React from 'react'
 import { Select, Rating } from '@mantine/core'
-import StyledSelect from '../components/StyledSelect'
+import StyledSelect from './StyledSelect'
 
 export default function CourseCard({
 	editable,
