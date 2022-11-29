@@ -38,7 +38,6 @@ export default function ProfileCard({
 	return (
 		<div className="profile-card">
 			<NavButton dest={`/profile/${username}`} text={name} userID={id} />
-			<h2 className="profile-card__name">{name}</h2>
 			<h2 className="profile-card__year">{years[2026 - gradYear]}</h2>
 			{renderListMajor}
 			{renderListMinor}
