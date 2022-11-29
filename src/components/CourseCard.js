@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { Select, Rating } from '@mantine/core'
 
-import dataStore from '../helpers/DataStore'
+import dataStore from '../helpers/dataStore'
 
 export default function CourseCard({
 	idx,
@@ -44,7 +44,9 @@ export default function CourseCard({
 
 	function onDepartmentChange(newVal) {
 		setProperty(newVal, 'department')
-		setProperty('', 'course')
+		setProperty('', 'code')
+		setProperty('', 'title')
+		setProperty('', 'professor')
 		setCourses([])
 		dataStore
 			.classes(quarterCode, coursesTaken[idx].department)
@@ -55,6 +57,7 @@ export default function CourseCard({
 		const [code, title] = newVal.split(' — ')
 		setProperty(code, 'code')
 		setProperty(title, 'title')
+		setProperty('', 'professor')
 		setProfs(
 			courses
 				.filter((c) => c.code === coursesTaken[idx].code)

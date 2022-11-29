@@ -8,7 +8,7 @@ import Button from '../components/Button'
 import useAuth from '../components/AuthContext'
 import { useNavigate } from 'react-router-dom'
 import { db } from '../firebase'
-import dataStore from '../helpers/DataStore'
+import dataStore from '../helpers/dataStore'
 import {
 	getDoc,
 	collection,
@@ -41,7 +41,7 @@ export default function CreateAccount() {
 	useEffect(() => {
 		dataStore.majors().then(setMajors)
 		dataStore.minors().then(setMinors)
-	})
+	}, [])
 
 	// For TextInput components
 	function handleFormChange(e) {

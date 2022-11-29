@@ -6,11 +6,12 @@ import UserInfo from '../components/UserInfo'
 import { useLocation } from 'react-router-dom'
 import useAuth from '../components/AuthContext'
 import { db } from '../firebase'
+import dataStore from '../helpers/dataStore'
 import { query, getDocs, collection, where } from 'firebase/firestore'
 
 export default function Profile() {
 	const [editable, setEditable] = useState(false)
-	const quarters = ['Fall 2022', 'Spring 2022', 'Winter 2022', 'Fall 2021']
+	const [quarters, setQuarters] = useState([])
 
 	const location = useLocation()
 	const { currentUser } = useAuth()
@@ -29,6 +30,18 @@ export default function Profile() {
 
 		if (!id) fetchID()
 	}, [username, id])
+
+	useEffect(() => {
+		dataStore.quarters().then((quarters) => {
+			setQuarters(
+				quarters
+					.sort((a, b) => {
+						return b.date - a.date
+					})
+					.map((data) => data.long)
+			)
+		})
+	}, [])
 
 	//can't edit another user's profile
 	function editProf(currentUserID, id) {
