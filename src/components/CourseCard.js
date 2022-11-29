@@ -1,5 +1,7 @@
-import React, { useEffect } from 'react'
+import React, { useEffect, useState } from 'react'
 import { Select, Rating } from '@mantine/core'
+
+import dataStore from '../helpers/DataStore'
 
 export default function CourseCard({
 	idx,
@@ -7,6 +9,25 @@ export default function CourseCard({
 	coursesTaken,
 	setCoursesTaken,
 }) {
+	const [quarterCode, setQuarterCode] = useState(null)
+	const [departments, setDepts] = useState([])
+	const [courses, setCourses] = useState([])
+	const [professors, setProfs] = useState([])
+
+	useEffect(() => {
+		dataStore.quarters().then((quarters) => {
+			const { short } = quarters.find((quarter) => {
+				return quarter.long === coursesTaken[idx].quarter
+			})
+
+			setQuarterCode(short)
+		})
+
+		dataStore.departments().then(setDepts)
+		// want an empty dependency array; quarter will not change per-card
+		// eslint-disable-next-line
+	}, [])
+
 	function setProperty(newVal, propName) {
 		let newCoursesTaken = coursesTaken.slice()
 		newCoursesTaken[idx][propName] = newVal
@@ -21,6 +42,26 @@ export default function CourseCard({
 		)
 	}
 
+	function onDepartmentChange(newVal) {
+		setProperty(newVal, 'department')
+		setProperty('', 'course')
+		setCourses([])
+		dataStore
+			.classes(quarterCode, coursesTaken[idx].department)
+			.then(setCourses)
+	}
+
+	function onCourseChange(newVal) {
+		const [code, title] = newVal.split(' — ')
+		setProperty(code, 'code')
+		setProperty(title, 'title')
+		setProfs(
+			courses
+				.filter((c) => c.code === coursesTaken[idx].code)
+				.map((c) => c.professor)
+		)
+	}
+
 	return (
 		<div className="course-card">
 			{editable ? (
@@ -30,32 +71,24 @@ export default function CourseCard({
 						placeholder="Department"
 						searchable
 						value={coursesTaken[idx].department}
-						onChange={(newVal) => setProperty(newVal, 'department')}
-						data={['COM SCI', 'MATH', 'PHYSICS', 'PSYCH']}
+						onChange={onDepartmentChange}
+						data={departments}
 					/>
 					<Select
 						placeholder="Course"
 						searchable
-						value={coursesTaken[idx].course}
-						onChange={(newVal) => setProperty(newVal, 'course')}
-						data={[
-							'31 - Introduction to Computer Science I',
-							'32 - Introduction to Computer Science II',
-							'33 - Introduction to Computer Organization',
-							'35L - Software Construction',
-						]}
+						value={coursesTaken[idx].code + ' — ' + coursesTaken[idx].title}
+						onChange={onCourseChange}
+						data={[...new Set(courses.map((c) => c.code + ' — ' + c.title))]}
+						disabled={!courses.length}
 					/>
 					<Select
 						placeholder="Professor"
 						searchable
 						value={coursesTaken[idx].professor}
 						onChange={(newVal) => setProperty(newVal, 'professor')}
-						data={[
-							'Smallberg, D.A.',
-							'Nachenberg, C.S.',
-							'Nowatzki, A.J.',
-							'Eggert, P.R.',
-						]}
+						data={professors}
+						disabled={!professors.length}
 					/>
 					<Rating
 						count={10}
@@ -74,7 +107,11 @@ export default function CourseCard({
 				<>
 					<div>
 						<strong>
-							{coursesTaken[idx].department + ' ' + coursesTaken[idx].course}
+							{coursesTaken[idx].department +
+								' ' +
+								coursesTaken[idx].code +
+								' — ' +
+								coursesTaken[idx].title}
 						</strong>
 					</div>
 					<div>{coursesTaken[idx].professor}</div>
