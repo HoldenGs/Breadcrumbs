@@ -6,13 +6,29 @@ export default function ProfileCard({
 	name,
 	gradYear,
 	major,
+	minor,
 	reviewLabel,
 	review,
 }) {
 	const renderCourseCard = courseCard()
+	const renderListMajor = listMajor(major)
+	const renderListMinor = listMinor(minor)
+
 	function courseCard() {
 		if (!review) return
 		return <CourseCard editable={false} reviewInfo={review} />
+	}
+
+	function listMajor(majors) {
+		if (!majors || majors.length === 0) return
+		console.log(majors)
+		return <p className="user-info__name">{`${majors.join(', ')}`}</p>
+	}
+
+	function listMinor(minors) {
+		if (!minors || minors.length === 0) return
+
+		return <p className="user-info__name">{`Minor: ${minors.join(', ')}`}</p>
 	}
 
 	const years = ['1st Year', '2nd Year', '3rd Year', '4th Year']
@@ -20,7 +36,8 @@ export default function ProfileCard({
 		<div className="profile-card">
 			<h2 className="profile-card__name">{name}</h2>
 			<h2 className="profile-card__year">{years[2026 - gradYear]}</h2>
-			<p className="profile-card__major">{major}</p>
+			{renderListMajor}
+			{renderListMinor}
 			<h3 className="profile-card__review-label">{reviewLabel}</h3>
 			{renderCourseCard}
 		</div>
