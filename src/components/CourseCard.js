@@ -8,9 +8,50 @@ export default function CourseCard({
 	reviewInfo,
 	handleReviewChange,
 }) {
+	const [quarterCode, setQuarterCode] = useState(null)
+	const [departments, setDepts] = useState([])
+	const [courses, setCourses] = useState([])
+	const [professors, setProfs] = useState([])
+
+	useEffect(() => {
+		if (!editable) return
+
+		dataStore.quarters().then((quarters) => {
+			const { short } = quarters.find((quarter) => {
+				return quarter.long === reviewInfo.quarter
+			})
+
+			setQuarterCode(short)
+		})
+
+		dataStore.departments().then(setDepts)
+	}, [editable, reviewInfo.quarter])
+
 	function removeCourseCard() {
 		handleReviewChange(reviewInfo, true)
 	}
+
+	// on department change, fetch classes for that department and set profs to []
+	useEffect(() => {
+		if (!departments.length || !quarterCode) return
+
+		setProfs([])
+
+		if (reviewInfo.department)
+			dataStore.classes(quarterCode, reviewInfo.department).then(setCourses)
+	}, [departments, quarterCode, reviewInfo.department])
+
+	// on course change, fetch profs for that course
+	useEffect(() => {
+		if (!courses.length || !reviewInfo.courseCode) return
+
+		setProfs(
+			courses
+				.filter((c) => c.code === reviewInfo.courseCode)
+				.map((c) => c.professor)
+		)
+	}, [courses, reviewInfo.courseCode])
+
 	return (
 		<div className="course-card">
 			{editable ? (
@@ -20,25 +61,37 @@ export default function CourseCard({
 						placeholder="Department"
 						searchable
 						value={reviewInfo.department}
-						onChange={(newDepartment) =>
+						onChange={(newDepartment) => {
 							handleReviewChange({
 								...reviewInfo,
 								department: newDepartment,
+								courseCode: '',
+								courseTitle: '',
+								professor: '',
 							})
-						}
-						data={['COM SCI', 'MATH', 'PHYSICS', 'PSYCH']}
+						}}
+						data={departments}
 					/>
 					<Select
 						placeholder="Course Code"
 						searchable
-						value={reviewInfo.courseCode}
-						onChange={(newCourseCode) =>
+						value={reviewInfo.courseCode + ' — ' + reviewInfo.courseTitle}
+						onChange={(newCourse) => {
+							const [code, title] = newCourse.split(' — ')
+
 							handleReviewChange({
 								...reviewInfo,
-								courseCode: newCourseCode,
+								courseCode: code,
+								courseTitle: title,
+								professor: '',
 							})
+						}}
+						data={[...new Set(courses.map((c) => c.code + ' — ' + c.title))]}
+						nothingFound={
+							!courses.length
+								? `No ${reviewInfo.department} courses in ${reviewInfo.quarter}`
+								: `Invalid course`
 						}
-						data={['35L', '200', '300']}
 					/>
 					<Select
 						placeholder="Professor"
@@ -50,12 +103,8 @@ export default function CourseCard({
 								professor: newProfessor,
 							})
 						}
-						data={[
-							'Smallberg, D.A.',
-							'Nachenberg, C.S.',
-							'Nowatzki, A.J.',
-							'Eggert, P.R.',
-						]}
+						data={professors}
+						disabled={!professors.length}
 					/>
 					<Rating
 						count={10}

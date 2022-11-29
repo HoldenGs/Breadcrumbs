@@ -16,11 +16,12 @@ import {
 	updateDoc,
 	doc,
 	addDoc,
+	deleteDoc,
 } from 'firebase/firestore'
 
 export default function Profile() {
 	const [editable, setEditable] = useState(false)
-	const quarters = ['Fall 2022', 'Spring 2022', 'Winter 2022', 'Fall 2021']
+	const [quarters, setQuarters] = useState([])
 	const [reviews, setReviews] = useState([])
 
 	const location = useLocation()
@@ -42,7 +43,7 @@ export default function Profile() {
 		}
 
 		if (!id) fetchID()
-	}, [username, id])
+	}, [username, id, currentUser.uid])
 
 	useEffect(() => {
 		const fetchReviews = async () => {
@@ -54,6 +55,18 @@ export default function Profile() {
 			})
 		}
 		fetchReviews()
+	}, [username])
+
+	useEffect(() => {
+		dataStore.quarters().then((quarters) => {
+			setQuarters(
+				quarters
+					.sort((a, b) => {
+						return b.date - a.date
+					})
+					.map((data) => data.long)
+			)
+		})
 	}, [])
 
 	//can't edit another user's profile
@@ -68,40 +81,43 @@ export default function Profile() {
 		setEditable(!editable)
 		if (!editable) return
 
-		reviews.map((course) => {
+		reviews.forEach((review) => {
+			// only update reviews that have changed
+			if (!review.modified) return
+
+			review.modified = false
+
 			const fetchDocs = async () => {
 				const querySnapshot = await getDocs(
 					query(
 						collection(db, 'Reviews'),
-						where('reviewID', '==', course.reviewID)
+						where('reviewID', '==', review.reviewID)
 					)
 				)
 				if (!querySnapshot.empty) {
 					const ref = doc(db, 'Reviews', querySnapshot.docs[0].id)
 					updateDoc(ref, {
-						reviewID: course.reviewID,
-						department: course.department,
-						courseCode: course.courseCode,
-						courseTitle: course.courseTitle,
-						professor: course.professor,
-						quarter: course.quarter,
-						startDate: course.startDate,
-						rating: course.rating,
-						feelings: course.feelings,
+						reviewID: review.reviewID,
+						department: review.department,
+						courseCode: review.courseCode,
+						courseTitle: review.courseTitle,
+						professor: review.professor,
+						quarter: review.quarter,
+						rating: review.rating,
+						feelings: review.feelings,
 					})
 				} else {
 					addDoc(collection(db, 'Reviews'), {
-						reviewID: course.reviewID,
+						reviewID: review.reviewID,
 						userID: id,
 						creationDate: serverTimestamp(),
-						department: course.department,
-						courseCode: course.courseCode,
-						courseTitle: course.courseTitle,
-						professor: course.professor,
-						quarter: course.quarter,
-						startDate: course.startDate,
-						rating: course.rating,
-						feelings: course.feelings,
+						department: review.department,
+						courseCode: review.courseCode,
+						courseTitle: review.courseTitle,
+						professor: review.professor,
+						quarter: review.quarter,
+						rating: review.rating,
+						feelings: review.feelings,
 						username: username,
 					}).catch((err) => {
 						console.error(err)
@@ -112,7 +128,7 @@ export default function Profile() {
 				)
 				const updateUserRef = doc(db, 'user', userRef.docs[0].id)
 				updateDoc(updateUserRef, {
-					latestReview: course,
+					latestReview: review,
 				})
 			}
 			fetchDocs()
@@ -121,15 +137,17 @@ export default function Profile() {
 
 	function handleReviewChange(changedReview, remove = false) {
 		if (remove) {
-			let userSnapshot
-			const fetchData = async () => {
+			const deleteReview = async () => {
 				const userQuery = query(
 					collection(db, 'Reviews'),
-					where('userID', '==', changedReview.reviewID)
+					where('reviewID', '==', changedReview.reviewID)
 				)
-				userSnapshot = await getDocs(userQuery)
+
+				const snapshot = await getDocs(userQuery)
+
+				if (snapshot && !snapshot.empty) deleteDoc(snapshot.docs[0].ref)
 			}
-			fetchData().then(userSnapshot.docs[0].ref.delete())
+			deleteReview()
 
 			setReviews(
 				reviews.filter(
@@ -138,9 +156,13 @@ export default function Profile() {
 			)
 			return
 		}
+
+		changedReview.modified = true
+
 		let idx = reviews.findIndex(
 			(review) => review.reviewID === changedReview.reviewID
 		)
+
 		if (idx === -1) {
 			setReviews((state) => {
 				let newState = state.slice()
@@ -158,12 +180,7 @@ export default function Profile() {
 
 	return (
 		<div className="profile">
-			<Header
-				username={username}
-				id={id}
-				reviews={reviews}
-				setReviews={setReviews}
-			/>
+			<Header username={username} id={id} />
 			<UserInfo
 				name="Bobbie Smith"
 				year={2}
@@ -176,6 +193,7 @@ export default function Profile() {
 			{renderEditProfile}
 			{quarters.map((quarter) => (
 				<Quarter
+					userID={id}
 					key={quarter}
 					name={quarter}
 					editable={editable}
