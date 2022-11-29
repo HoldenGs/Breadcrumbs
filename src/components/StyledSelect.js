@@ -12,6 +12,7 @@ const SSelect = styled(Select)`
 		border-radius: 3px;
 		font-size: 1rem;
 		font-color: black;
+		font-family: 'Lexend', serif;
 		transition: background-color 150ms ease;
 
 		&:hover {
