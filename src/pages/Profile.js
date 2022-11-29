@@ -6,7 +6,7 @@ import UserInfo from '../components/UserInfo'
 import { useLocation } from 'react-router-dom'
 import useAuth from '../components/AuthContext'
 import { db } from '../firebase'
-import dataStore from '../helpers/DataStore'
+import dataStore from '../helpers/dataStore'
 import { query, getDocs, collection, where } from 'firebase/firestore'
 
 export default function Profile() {

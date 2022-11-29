@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { Select, Rating } from '@mantine/core'
 
-import dataStore from '../helpers/DataStore'
+import dataStore from '../helpers/dataStore'
 
 export default function CourseCard({
 	idx,
