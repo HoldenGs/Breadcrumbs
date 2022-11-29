@@ -25,7 +25,7 @@ import {
 // FRONTEND TODO:
 // 	* Make the results "clickable"
 // 	* Empty results message
-export default function Search({ queryResults }) {
+export default function Search() {
 	const [profiles, setProfiles] = useState([])
 	const [courses, setCourses] = useState([])
 	const [numProfiles, setNumProfiles] = useState(5)
