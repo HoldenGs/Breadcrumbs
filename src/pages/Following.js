@@ -10,7 +10,6 @@ export default function Following() {
 	const location = useLocation()
 	const [id, setID] = useState(location.state ? location.state.userID : null)
 	const username = location.pathname.split('/').at(-1) // /following/:username
-
 	// on load, if no ID, fetch that. then fetch all followers.
 	useEffect(() => {
 		const asyncFetchFollowing = async () => {
@@ -20,7 +19,6 @@ export default function Following() {
 				)
 				setID(userSnapshot.docs[0].data().userID)
 			}
-
 			const querySnapshot = await getDocs(
 				query(collection(db, 'user'), where('followers', 'array-contains', id))
 			)
@@ -28,7 +26,6 @@ export default function Following() {
 				setFollowing((arr) => [...arr, doc.data()])
 			})
 		}
-
 		asyncFetchFollowing()
 	}, [username, id])
 
@@ -40,9 +37,11 @@ export default function Following() {
 				<ProfileCard
 					name={usr.firstName + ' ' + usr.lastName}
 					gradYear={usr.gradYear}
-					major={usr.majors ? usr.majors[0] : null}
+					major={usr.majors ? usr.majors : null}
 					username={usr.username}
 					id={usr.userID}
+					review={usr.latestReview}
+					minor={usr.minors ? usr.majors : null}
 				/>
 			))}
 			<ProfileCard />

@@ -65,7 +65,6 @@ const defaultConfig = {
 // =========================
 
 let config
-
 ;(async () => {
 	if (fs.existsSync(configPath)) {
 		try {

@@ -1,43 +1,41 @@
-import React, { useState } from 'react'
+import React from 'react'
 import CourseCard from './CourseCard'
 
-export default function Quarter({ name, editable }) {
-	const [coursesTaken, setCoursesTaken] = useState([])
-	const [dumbID, setDumbID] = useState(0)
-
+export default function Quarter({
+	userID,
+	name,
+	editable,
+	reviews,
+	handleReviewChange,
+}) {
 	function addCourseCard() {
-		let newCoursesTaken = coursesTaken.slice()
-		newCoursesTaken.push({
-			id: dumbID,
+		handleReviewChange({
+			reviewID: Math.random().toString() + Date.now(),
+			userID: userID,
 			department: '',
-			code: '',
-			title: '',
+			courseCode: '',
+			courseTitle: '',
 			professor: '',
 			quarter: name,
 			rating: 0,
 			feelings: '',
 		})
-		setCoursesTaken(newCoursesTaken)
-		setDumbID(dumbID + 1)
 	}
 
 	return (
 		<div className="quarter">
 			<div>{name}</div>
-			{coursesTaken.length !== 0 ? (
-				coursesTaken.map((course) => (
+			{reviews.length !== 0 ? (
+				reviews.map((review) => (
 					<CourseCard
-						key={course.id}
-						idx={coursesTaken.findIndex(
-							(targetCourse) => targetCourse.id === course.id
-						)}
+						key={review.reviewID}
 						editable={editable}
-						coursesTaken={coursesTaken}
-						setCoursesTaken={setCoursesTaken}
+						reviewInfo={review}
+						handleReviewChange={handleReviewChange}
 					/>
 				))
 			) : (
-				<div>No courses taken this quarter.</div>
+				<div>No reviews for this quarter.</div>
 			)}
 			{editable && <button onClick={addCourseCard}>Add course</button>}
 		</div>

@@ -74,7 +74,22 @@ export default function CreateAccount() {
 		if (formData.password !== formData.passwordConfirmation) {
 			// check if want to send an alert() message
 			alert('Passwords do not match')
-			return
+			return setLoading(false)
+		}
+
+		// create user with firebase auth
+		let userCredential
+		try {
+			userCredential = await signup(formData.email, formData.password)
+		} catch (err) {
+			console.error(err)
+			alert(err.message)
+			return setLoading(false)
+		}
+
+		if (!userCredential || !userCredential.user) {
+			console.error('error: no user login credential returned')
+			return setLoading(false)
 		}
 
 		// get user object from db
@@ -89,29 +104,14 @@ export default function CreateAccount() {
 			userSnapshot = await getDocs(userQuery)
 		} catch (err) {
 			console.error('error getting user snapshot: ', err)
-			return
+			return setLoading(false)
 		}
 
 		if (!userSnapshot.empty) {
 			console.error(
 				'error: username already chosen. Choose a different username'
 			)
-			return
-		}
-
-		// create user with firebase auth
-		let userCredential
-		try {
-			userCredential = await signup(formData.email, formData.password)
-		} catch (err) {
-			console.error(err)
-			alert(err.message)
-			return
-		}
-
-		if (!userCredential || !userCredential.user) {
-			console.error('error: no user login credential returned')
-			return
+			return setLoading(false)
 		}
 
 		// create user database entry
@@ -243,11 +243,7 @@ export default function CreateAccount() {
 					handleChange={handleFormChange}
 					required={true}
 				/>
-				<Button
-					text="Create Account"
-					disabled={loading}
-					handleClick={handleCreateAccount}
-				/>
+				<Button text="Create Account" disabled={loading} />
 			</form>
 			<Button text="Cancel" handleClick={handleCancel} disabled={loading} />
 		</FullScreenContainer>

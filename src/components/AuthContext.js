@@ -18,7 +18,10 @@ export function AuthProvider({ children }) {
 	const [loading, setLoading] = useState(true)
 
 	function signup(email, password) {
-		return createUserWithEmailAndPassword(auth, email, password)
+		//todo: change this alert
+		if (!email) alert('Enter a valid email')
+		else if (!password) alert('Enter a valid password')
+		else return createUserWithEmailAndPassword(auth, email, password)
 	}
 
 	function login(email, password) {

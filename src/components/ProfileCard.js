@@ -1,28 +1,49 @@
 import React from 'react'
+
+import CourseCard from './CourseCard'
 import NavButton from './NavButton'
 
-const YEARS = {
-	2026: '1st Year',
-	2025: '2nd Year',
-	2024: '3rd Year',
-	2023: '4th Year',
-}
-
 export default function ProfileCard({
-	username,
-	id,
 	name,
 	gradYear,
 	major,
-	highlightedReview,
+	minor,
+	reviewLabel,
+	review,
+	id,
+	username,
 }) {
+	const renderCourseCard = courseCard()
+	const renderListMajor = listMajor(major)
+	const renderListMinor = listMinor(minor)
+
+	function courseCard() {
+		if (!review) return
+		return <CourseCard editable={false} reviewInfo={review} />
+	}
+
+	function listMajor(majors) {
+		if (!majors || majors.length === 0) return
+		console.log(majors)
+		return <p className="user-info__name">{`${majors.join(', ')}`}</p>
+	}
+
+	function listMinor(minors) {
+		if (!minors || minors.length === 0) return
+
+		return <p className="user-info__name">{`Minor: ${minors.join(', ')}`}</p>
+	}
+
+	const years = ['1st Year', '2nd Year', '3rd Year', '4th Year']
 	return (
 		<div className="profile-card">
-			<NavButton dest={`/profile/${username}`} text={username} userID={id} />
-			<div className="profile-card__name">{name}</div>
-			<div className="profile-card__year">{YEARS[gradYear]}</div>
-			<div className="profile-card__major">{major}</div>
-			<div className="profile-card__review">{highlightedReview}</div>
+			<NavButton dest={`/profile/${username}`} text={name} userID={id} />
+			<h2 className="profile-card__name">{name}</h2>
+			<h2 className="profile-card__year">{years[2026 - gradYear]}</h2>
+			{renderListMajor}
+			{renderListMinor}
+			<h3 className="profile-card__review-label">{reviewLabel}</h3>
+			{renderCourseCard}
 		</div>
 	)
 }

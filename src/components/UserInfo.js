@@ -11,9 +11,16 @@ import {
 	where,
 	doc,
 	updateDoc,
+	arrayRemove,
+	arrayUnion,
 } from 'firebase/firestore'
 
-export default function UserInfo({ username, editable }) {
+export default function UserInfo({
+	username,
+	editable,
+	loggedInUserFollowing,
+	setLoggedInUserFollowing,
+}) {
 	let years = new Map([
 		['2023', '4th Year'],
 		['2024', '3rd Year'],
@@ -35,6 +42,7 @@ export default function UserInfo({ username, editable }) {
 
 	const renderListMajor = listMajor(info.majors)
 	const renderListMinor = listMinor(info.minors)
+	const renderFollowButton = follow()
 
 	const [majors, setMajors] = useState([])
 	const [minors, setMinors] = useState([])
@@ -88,6 +96,32 @@ export default function UserInfo({ username, editable }) {
 		updateDoc(ref, {
 			[name]: value,
 		})
+	}
+
+	function follow() {
+		if (currentUser.uid === info.userId) return
+		return (
+			<button
+				text={loggedInUserFollowing ? 'Unfollow' : 'Follow'}
+				onClick={() => handleFollowButton(loggedInUserFollowing)}
+			>
+				{loggedInUserFollowing ? 'Follow' : 'Unfollow'}
+			</button>
+		)
+	}
+
+	function handleFollowButton(loggedInUserFollowing) {
+		setLoggedInUserFollowing(!loggedInUserFollowing)
+		const ref = doc(db, 'user', info.docID)
+		if (!loggedInUserFollowing) {
+			updateDoc(ref, {
+				followers: arrayRemove(currentUser.uid.toString()),
+			})
+		} else {
+			updateDoc(ref, {
+				followers: arrayUnion(currentUser.uid.toString()),
+			})
+		}
 	}
 
 	function handleSelectChange(name, value) {
@@ -186,6 +220,7 @@ export default function UserInfo({ username, editable }) {
 					>
 						Share
 					</button>
+					{renderFollowButton}
 				</>
 			)}
 		</div>

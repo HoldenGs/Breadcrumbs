@@ -1,13 +1,12 @@
-import React, { useEffect, useState } from 'react'
+import { React, useState, useEffect } from 'react'
 import { Select, Rating } from '@mantine/core'
 
 import dataStore from '../helpers/dataStore'
 
 export default function CourseCard({
-	idx,
 	editable,
-	coursesTaken,
-	setCoursesTaken,
+	reviewInfo,
+	handleReviewChange,
 }) {
 	const [quarterCode, setQuarterCode] = useState(null)
 	const [departments, setDepts] = useState([])
@@ -15,111 +14,132 @@ export default function CourseCard({
 	const [professors, setProfs] = useState([])
 
 	useEffect(() => {
+		if (!editable) return
+
 		dataStore.quarters().then((quarters) => {
 			const { short } = quarters.find((quarter) => {
-				return quarter.long === coursesTaken[idx].quarter
+				return quarter.long === reviewInfo.quarter
 			})
 
 			setQuarterCode(short)
 		})
 
 		dataStore.departments().then(setDepts)
-		// want an empty dependency array; quarter will not change per-card
-		// eslint-disable-next-line
-	}, [])
+	}, [editable, reviewInfo.quarter])
 
-	function setProperty(newVal, propName) {
-		let newCoursesTaken = coursesTaken.slice()
-		newCoursesTaken[idx][propName] = newVal
-		setCoursesTaken(newCoursesTaken)
+	function removeCourseCard() {
+		handleReviewChange(reviewInfo, true)
 	}
 
-	function removeCourse() {
-		setCoursesTaken(
-			coursesTaken.filter(
-				(targetCourse) => targetCourse.id !== coursesTaken[idx].id
-			)
-		)
-	}
+	// on department change, fetch classes for that department and set profs to []
+	useEffect(() => {
+		if (!departments.length || !quarterCode) return
 
-	function onDepartmentChange(newVal) {
-		setProperty(newVal, 'department')
-		setProperty('', 'code')
-		setProperty('', 'title')
-		setProperty('', 'professor')
-		setCourses([])
-		dataStore
-			.classes(quarterCode, coursesTaken[idx].department)
-			.then(setCourses)
-	}
+		setProfs([])
 
-	function onCourseChange(newVal) {
-		const [code, title] = newVal.split(' — ')
-		setProperty(code, 'code')
-		setProperty(title, 'title')
-		setProperty('', 'professor')
+		if (reviewInfo.department)
+			dataStore.classes(quarterCode, reviewInfo.department).then(setCourses)
+	}, [departments, quarterCode, reviewInfo.department])
+
+	// on course change, fetch profs for that course
+	useEffect(() => {
+		if (!courses.length || !reviewInfo.courseCode) return
+
 		setProfs(
 			courses
-				.filter((c) => c.code === coursesTaken[idx].code)
+				.filter((c) => c.code === reviewInfo.courseCode)
 				.map((c) => c.professor)
 		)
-	}
+	}, [courses, reviewInfo.courseCode])
 
 	return (
 		<div className="course-card">
 			{editable ? (
 				<>
-					<button onClick={removeCourse}>X</button>
+					<button onClick={removeCourseCard}>X</button>
 					<Select
 						placeholder="Department"
 						searchable
-						value={coursesTaken[idx].department}
-						onChange={onDepartmentChange}
+						value={reviewInfo.department}
+						onChange={(newDepartment) => {
+							handleReviewChange({
+								...reviewInfo,
+								department: newDepartment,
+								courseCode: '',
+								courseTitle: '',
+								professor: '',
+							})
+						}}
 						data={departments}
 					/>
 					<Select
-						placeholder="Course"
+						placeholder="Course Code"
 						searchable
-						value={coursesTaken[idx].code + ' — ' + coursesTaken[idx].title}
-						onChange={onCourseChange}
+						value={reviewInfo.courseCode + ' — ' + reviewInfo.courseTitle}
+						onChange={(newCourse) => {
+							const [code, title] = newCourse.split(' — ')
+
+							handleReviewChange({
+								...reviewInfo,
+								courseCode: code,
+								courseTitle: title,
+								professor: '',
+							})
+						}}
 						data={[...new Set(courses.map((c) => c.code + ' — ' + c.title))]}
-						disabled={!courses.length}
+						nothingFound={
+							!courses.length
+								? `No ${reviewInfo.department} courses in ${reviewInfo.quarter}`
+								: `Invalid course`
+						}
 					/>
 					<Select
 						placeholder="Professor"
 						searchable
-						value={coursesTaken[idx].professor}
-						onChange={(newVal) => setProperty(newVal, 'professor')}
+						value={reviewInfo.professor}
+						onChange={(newProfessor) =>
+							handleReviewChange({
+								...reviewInfo,
+								professor: newProfessor,
+							})
+						}
 						data={professors}
 						disabled={!professors.length}
 					/>
 					<Rating
 						count={10}
-						value={coursesTaken[idx].rating}
-						onChange={(newVal) => setProperty(newVal, 'rating')}
+						value={reviewInfo.rating}
+						onChange={(newRating) =>
+							handleReviewChange({
+								...reviewInfo,
+								rating: newRating,
+							})
+						}
 					/>
 					<textarea
 						placeholder="Express your feelings for the course here..."
 						rows="4"
 						cols="36"
-						value={coursesTaken[idx].feelings}
-						onChange={(event) => setProperty(event.target.value, 'feelings')}
+						value={reviewInfo.feelings}
+						onChange={(e) =>
+							handleReviewChange({
+								...reviewInfo,
+								feelings: e.target.value,
+							})
+						}
 					/>
 				</>
 			) : (
 				<>
 					<div>
 						<strong>
-							{coursesTaken[idx].department +
-								' ' +
-								coursesTaken[idx].code +
-								' — ' +
-								coursesTaken[idx].title}
+							{reviewInfo.department + ' ' + reviewInfo.courseCode}
 						</strong>
+						{' ' + reviewInfo.courseTitle}
 					</div>
-					<div>{coursesTaken[idx].professor}</div>
-					<Rating count={10} value={coursesTaken[idx].rating} readOnly />
-					<div>{coursesTaken[idx].feelings}</div>
+					<div>{reviewInfo.professor}</div>
+					<Rating count={10} value={reviewInfo.rating} readOnly />
+					<div>{reviewInfo.feelings}</div>
 				</>
 			)}
 		</div>
