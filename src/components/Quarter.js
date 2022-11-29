@@ -10,7 +10,8 @@ export default function Quarter({ name, editable }) {
 		newCoursesTaken.push({
 			id: dumbID,
 			department: '',
-			course: '',
+			code: '',
+			title: '',
 			professor: '',
 			quarter: name,
 			rating: 0,

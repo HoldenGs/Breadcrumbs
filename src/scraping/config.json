@@ -1,10 +1,8 @@
 {
 	"scrape": {
-		"studies": false,
+		"studies": true,
 		"departments": false,
-		"classes": {
-			"term": "221"
-		}
+		"classes": false
 	},
 	"upload": {
 		"studies": false,
