@@ -11,8 +11,8 @@ const SSelect = styled(Select)`
 			props.dark ? 'var(--tan)' : 'var(--dough)'};
 		border: 0.2rem solid var(--jet);
 		border-radius: 3px;
-		font-size: 1rem;
 		color: var(--jet);
+		font-size: 1rem;
 		font-family: 'Lexend', sans-serif;
 		transition: background-color 150ms ease;
 

@@ -1,4 +1,4 @@
-import React from 'react'
+import { useRef, useEffect } from 'react'
 import { MultiSelect } from '@mantine/core'
 import styled from '@emotion/styled'
 
@@ -10,7 +10,6 @@ const SMultiSelect = styled(MultiSelect)`
 			props.dark ? 'var(--tan)' : 'var(--dough)'};
 		border: 0.2rem solid var(--jet);
 		border-radius: 3px;
-		font-size: 1rem;
 		color: var(--jet);
 		font-family: 'Lexend', sans-serif;
 		transition: background-color 150ms ease;
@@ -23,6 +22,7 @@ const SMultiSelect = styled(MultiSelect)`
 
 	& .mantine-MultiSelect-searchInput {
 		color: var(--jet);
+		font-size: 1rem;
 		font-family: 'Lexend', sans-serif;
 		transition: background-color 150ms ease;
 
@@ -55,15 +55,24 @@ export default function StyledMultiSelect({
 	maxSelectedValues,
 	dark,
 }) {
+	const inputRef = useRef(null)
+
+	useEffect(() => {
+		if (required) {
+			if (value?.length) inputRef.current.required = false
+			else inputRef.current.required = true
+		}
+	}, [value])
+
 	return (
 		<SMultiSelect
+			ref={inputRef}
 			placeholder={placeholder}
 			searchable
 			value={value}
 			onChange={onChange}
 			nothingFound={nothingFound}
 			data={data}
-			required={required}
 			maxSelectedValues={maxSelectedValues}
 			dark={dark}
 		/>

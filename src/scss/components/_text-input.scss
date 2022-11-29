@@ -29,4 +29,20 @@
 			opacity: 0;
 		}
 	}
+
+	&--dough {
+		background-color: var(--dough);
+
+		&:hover {
+			background-color: var(--dough-dark1);
+		}
+
+		&:active {
+			background-color: var(--dough-dark2);
+		}
+
+		&:focus {
+			background-color: var(--dough-dark2);
+		}
+	}
 }

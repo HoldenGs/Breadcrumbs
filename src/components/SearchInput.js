@@ -10,6 +10,7 @@ export default function SearchInput({ value, handleChange, handleClick }) {
 				name="search"
 				placeholder="Search"
 				value={value}
+				color="dough"
 				handleChange={handleChange}
 			/>
 			{value && (
