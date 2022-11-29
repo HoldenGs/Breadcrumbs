@@ -1,6 +1,7 @@
 import React from 'react'
 
 import CourseCard from './CourseCard'
+import NavButton from './NavButton'
 
 export default function ProfileCard({
 	name,
@@ -9,6 +10,8 @@ export default function ProfileCard({
 	minor,
 	reviewLabel,
 	review,
+	id,
+	username,
 }) {
 	const renderCourseCard = courseCard()
 	const renderListMajor = listMajor(major)
@@ -34,6 +37,7 @@ export default function ProfileCard({
 	const years = ['1st Year', '2nd Year', '3rd Year', '4th Year']
 	return (
 		<div className="profile-card">
+			<NavButton dest={`/profile/${username}`} text={name} userID={id} />
 			<h2 className="profile-card__name">{name}</h2>
 			<h2 className="profile-card__year">{years[2026 - gradYear]}</h2>
 			{renderListMajor}
