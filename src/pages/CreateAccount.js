@@ -8,7 +8,7 @@ import Button from '../components/Button'
 import useAuth from '../components/AuthContext'
 import { useNavigate } from 'react-router-dom'
 import { db } from '../firebase'
-import dataStore from '../helpers/DataStore'
+import dataStore from '../helpers/dataStore'
 import {
 	where,
 	query,
