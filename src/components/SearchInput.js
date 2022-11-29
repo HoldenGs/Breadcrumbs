@@ -7,6 +7,7 @@ export default function SearchInput({ value, handleChange, handleClick }) {
 	return (
 		<div className="search-input">
 			<TextInput
+				name="search-input"
 				placeholder="Search"
 				value={value}
 				handleChange={handleChange}
@@ -15,7 +16,7 @@ export default function SearchInput({ value, handleChange, handleClick }) {
 				<IconButton
 					iconURL="/icons/search.svg"
 					alt="Search"
-					onClick={handleClick}
+					handleClick={handleClick}
 				/>
 			)}
 		</div>

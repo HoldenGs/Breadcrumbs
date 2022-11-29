@@ -5,6 +5,7 @@ import Login from './pages/Login'
 import Profile from './pages/Profile'
 import CreateAccount from './pages/CreateAccount'
 import React from 'react'
+import Search from './pages/Search'
 
 const router = createBrowserRouter([
 	{
@@ -36,6 +37,14 @@ const router = createBrowserRouter([
 		element: (
 			<AuthProvider>
 				<CreateAccount />
+			</AuthProvider>
+		),
+	},
+	{
+		path: '/search',
+		element: (
+			<AuthProvider>
+				<Search />
 			</AuthProvider>
 		),
 	},
