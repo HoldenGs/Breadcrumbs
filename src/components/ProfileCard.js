@@ -11,7 +11,7 @@ export default function ProfileCard({
 	review,
 }) {
 	const years = ['1st Year', '2nd Year', '3rd Year', '4th Year']
-
+	console.log(review)
 	return (
 		<div className="profile-card">
 			<h2 className="profile-card__name">{name}</h2>
