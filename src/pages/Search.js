@@ -37,7 +37,7 @@ export default function Search() {
 		// Query from Firestore and store result into state
 		setLoading(true)
 
-		const qry = location.state
+		const qry = decodeURIComponent(location.pathname.split('/').at(-1))
 		console.log(qry)
 
 		let promises = [

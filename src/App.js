@@ -48,6 +48,14 @@ const router = createBrowserRouter([
 			</AuthProvider>
 		),
 	},
+	{
+		path: '/search/:query',
+		element: (
+			<AuthProvider>
+				<Search />
+			</AuthProvider>
+		),
+	},
 ])
 
 export default function App() {

@@ -13,7 +13,7 @@ export default function Header({ username, id }) {
 	const navigate = useNavigate()
 
 	async function handleSearch(e) {
-		navigate('/search', { state: qry })
+		navigate(`/search/${encodeURIComponent(qry)}`)
 	}
 
 	function handleLogout() {
