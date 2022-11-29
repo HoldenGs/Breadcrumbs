@@ -12,7 +12,9 @@ export default function Header({ username, id }) {
 	const { logout } = useAuth()
 	const navigate = useNavigate()
 
-	function handleSearch() {}
+	async function handleSearch(e) {
+		navigate(`/search/${encodeURIComponent(qry)}`)
+	}
 
 	function handleLogout() {
 		logout().finally(() => {
