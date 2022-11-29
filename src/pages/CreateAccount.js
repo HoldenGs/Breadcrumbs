@@ -1,10 +1,9 @@
 import { useState, useEffect } from 'react'
-
-import { Select, MultiSelect } from '@mantine/core'
-
 import FullScreenContainer from '../components/FullScreenContainer'
 import TextInput from '../components/TextInput'
 import Button from '../components/Button'
+import StyledSelect from '../components/StyledSelect'
+import StyledMultiSelect from '../components/StyledMultiSelect'
 import useAuth from '../components/AuthContext'
 import { useNavigate } from 'react-router-dom'
 import { db } from '../firebase'
@@ -182,7 +181,7 @@ export default function CreateAccount() {
 					handleChange={handleFormChange}
 					required={true}
 				/>
-				<Select
+				<StyledSelect
 					placeholder="Graduation Year"
 					searchable
 					nothingFound="Invalid Graduation Year"
@@ -190,8 +189,9 @@ export default function CreateAccount() {
 					value={formData.gradYear}
 					onChange={(value) => handleSelectChange('gradYear', value)}
 					required
+					dark
 				/>
-				<MultiSelect
+				<StyledMultiSelect
 					placeholder="Major"
 					searchable
 					nothingFound="Invalid Major"
@@ -200,8 +200,9 @@ export default function CreateAccount() {
 					onChange={(value) => handleSelectChange('majors', value)}
 					required
 					maxSelectedValues={3}
+					dark
 				/>
-				<MultiSelect
+				<StyledMultiSelect
 					placeholder="Minor"
 					searchable
 					nothingFound="Invalid Minor"
@@ -210,6 +211,7 @@ export default function CreateAccount() {
 					onChange={(value) => handleSelectChange('minors', value)}
 					required
 					maxSelectedValues={3}
+					dark
 				/>
 				<TextInput
 					name="username"
