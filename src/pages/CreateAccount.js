@@ -8,7 +8,7 @@ import Button from '../components/Button'
 import useAuth from '../components/AuthContext'
 import { useNavigate } from 'react-router-dom'
 import { db } from '../firebase'
-import dataStore from '../helpers/dataStore'
+import dataStore from '../helpers/DataStore'
 import {
 	getDoc,
 	collection,
@@ -122,16 +122,6 @@ export default function CreateAccount() {
 			console.error('error: no user login snapshot returned')
 			return
 		}
-
-		// not sure why this code to update login time is here?
-
-		// const userId = snapshot.docs[0].id
-		// const loginUpdateRef = doc(db, 'user', userId)
-		// await updateDoc(loginUpdateRef, { loggedIn: serverTimestamp() }).catch(
-		// 	(err) => {
-		// 		console.log('Error updating user login timestamp: ', err)
-		// 	}
-		// )
 
 		setLoading(false)
 		//navigate(`/profile/${formData.username}`)

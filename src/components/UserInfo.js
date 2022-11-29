@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react'
 import TextInput from './TextInput'
 import { Select, MultiSelect } from '@mantine/core'
 import useAuth from '../components/AuthContext'
-import dataStore from '../helpers/dataStore'
+import dataStore from '../helpers/DataStore'
 import { db } from '../firebase'
 import {
 	query,
