@@ -107,55 +107,17 @@ export default function Profile() {
 						console.error(err)
 					})
 				}
+				const userRef = await getDocs(
+					query(collection(db, 'user'), where('username', '==', username))
+				)
+				const updateUserRef = doc(db, 'user', userRef.docs[0].id)
+				updateDoc(updateUserRef, {
+					latestReview: course,
+				})
 			}
 			fetchDocs()
 		})
 	}
-
-	const exampleReviews = [
-		{
-			reviewID: '1',
-			userID: '1234567890',
-			creationDate: 'November 21, 2022 at 12:00:00 AM UTC-8',
-			department: 'COM SCI',
-			courseCode: '35L',
-			courseTitle: 'Software Construction',
-			professor: 'Eggert, P.R.',
-			quarter: 'Fall 2022',
-			startDate: '2022-9-19',
-			rating: 8,
-			feelings:
-				'This was an interesting class... An interesting class indeed. What an interesting class. There are some interesting observations about this class. Interesting...',
-		},
-		{
-			reviewID: '2',
-			userID: '1234567890',
-			creationDate: 'November 21, 2022 at 12:00:00 AM UTC-8',
-			department: 'COM SCI',
-			courseCode: '200',
-			courseTitle: 'Another Class',
-			professor: 'Eggert, P.R.',
-			quarter: 'Spring 2022',
-			startDate: '2022-9-19',
-			rating: 9,
-			feelings:
-				'This was an interesting class... An interesting class indeed. What an interesting class. There are some interesting observations about this class. Interesting...',
-		},
-		{
-			reviewID: '3',
-			userID: '1234567890',
-			creationDate: 'November 21, 2022 at 12:00:00 AM UTC-8',
-			department: 'COM SCI',
-			courseCode: '300',
-			courseTitle: 'A Third Class',
-			professor: 'Eggert, P.R.',
-			quarter: 'Fall 2022',
-			startDate: '2022-9-19',
-			rating: 10,
-			feelings:
-				'This was an interesting class... An interesting class indeed. What an interesting class. There are some interesting observations about this class. Interesting...',
-		},
-	]
 
 	function handleReviewChange(changedReview, remove = false) {
 		if (remove) {
