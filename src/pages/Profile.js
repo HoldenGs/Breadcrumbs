@@ -7,11 +7,110 @@ import { useLocation } from 'react-router-dom'
 import useAuth from '../components/AuthContext'
 import { db } from '../firebase'
 import dataStore from '../helpers/dataStore'
-import { query, getDocs, collection, where } from 'firebase/firestore'
+import {
+	query,
+	getDocs,
+	collection,
+	where,
+	serverTimestamp,
+	updateDoc,
+	doc,
+	addDoc,
+} from 'firebase/firestore'
 
 export default function Profile() {
 	const [editable, setEditable] = useState(false)
 	const quarters = ['Fall 2022', 'Spring 2022', 'Winter 2022', 'Fall 2021']
+	const [reviews, setReviews] = useState([])
+
+	const location = useLocation()
+	const { currentUser } = useAuth()
+	const [id, setID] = useState(location.state ? location.state.userID : null)
+	const [loggedInUserFollowing, setLoggedInUserFollowing] = useState()
+	const username = location.pathname.split('/').at(-1)
+	const renderEditProfile = editProf(currentUser.uid.toString(), id)
+
+	useEffect(() => {
+		const fetchID = async () => {
+			const querySnapshot = await getDocs(
+				query(collection(db, 'user'), where('username', '==', username))
+			)
+			setID(querySnapshot.docs[0].data().userID)
+			setLoggedInUserFollowing(
+				querySnapshot.docs[0].data().followers.includes(currentUser.uid)
+			)
+		}
+
+		if (!id) fetchID()
+	}, [username, id])
+
+	useEffect(() => {
+		const fetchReviews = async () => {
+			const querySnapshot = await getDocs(
+				query(collection(db, 'Reviews'), where('username', '==', username))
+			)
+			querySnapshot.forEach((doc) => {
+				setReviews((arr) => [...arr, doc.data()])
+			})
+		}
+		fetchReviews()
+	}, [])
+
+	//can't edit another user's profile
+	function editProf(currentUserID, id) {
+		if (currentUserID !== id) return
+		return (
+			<Button text={editable ? 'Save' : 'Edit'} handleClick={handleEditProf} />
+		)
+	}
+
+	function handleEditProf() {
+		setEditable(!editable)
+		if (!editable) return
+
+		reviews.map((course) => {
+			const fetchDocs = async () => {
+				const querySnapshot = await getDocs(
+					query(
+						collection(db, 'Reviews'),
+						where('reviewID', '==', course.reviewID)
+					)
+				)
+				if (!querySnapshot.empty) {
+					const ref = doc(db, 'Reviews', querySnapshot.docs[0].id)
+					updateDoc(ref, {
+						reviewID: course.reviewID,
+						department: course.department,
+						courseCode: course.courseCode,
+						courseTitle: course.courseTitle,
+						professor: course.professor,
+						quarter: course.quarter,
+						startDate: course.startDate,
+						rating: course.rating,
+						feelings: course.feelings,
+					})
+				} else {
+					addDoc(collection(db, 'Reviews'), {
+						reviewID: course.reviewID,
+						userID: id,
+						creationDate: serverTimestamp(),
+						department: course.department,
+						courseCode: course.courseCode,
+						courseTitle: course.courseTitle,
+						professor: course.professor,
+						quarter: course.quarter,
+						startDate: course.startDate,
+						rating: course.rating,
+						feelings: course.feelings,
+						username: username,
+					}).catch((err) => {
+						console.error(err)
+					})
+				}
+			}
+			fetchDocs()
+		})
+	}
 
 	const exampleReviews = [
 		{
@@ -58,10 +157,18 @@ export default function Profile() {
 		},
 	]
 
-	const [reviews, setReviews] = useState(exampleReviews)
-
 	function handleReviewChange(changedReview, remove = false) {
 		if (remove) {
+			let userSnapshot
+			const fetchData = async () => {
+				const userQuery = query(
+					collection(db, 'Reviews'),
+					where('userID', '==', changedReview.reviewID)
+				)
+				userSnapshot = await getDocs(userQuery)
+			}
+			fetchData().then(userSnapshot.docs[0].ref.delete())
+
 			setReviews(
 				reviews.filter(
 					(targetReview) => targetReview.reviewID !== changedReview.reviewID
@@ -89,17 +196,22 @@ export default function Profile() {
 
 	return (
 		<div className="profile">
-			<Header />
+			<Header
+				username={username}
+				id={id}
+				reviews={reviews}
+				setReviews={setReviews}
+			/>
 			<UserInfo
 				name="Bobbie Smith"
 				year={2}
 				major="Computer Science and Engineering"
 				editable={editable}
+				username={username}
+				loggedInUserFollowing={loggedInUserFollowing}
+				setLoggedInUserFollowing={setLoggedInUserFollowing}
 			/>
-			<Button
-				text={editable ? 'Save' : 'Edit'}
-				handleClick={() => setEditable(!editable)}
-			/>
+			{renderEditProfile}
 			{quarters.map((quarter) => (
 				<Quarter
 					key={quarter}
