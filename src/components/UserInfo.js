@@ -220,6 +220,7 @@ export default function UserInfo({
 					>
 						Share
 					</button>
+					{renderFollowButton}
 				</>
 			)}
 		</div>
