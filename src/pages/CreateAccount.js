@@ -26,8 +26,8 @@ export default function CreateAccount() {
 		firstName: '',
 		lastName: '',
 		gradYear: '',
-		major: '',
-		minor: '',
+		majors: [],
+		minors: [],
 		username: '',
 		email: '',
 		password: '',
@@ -55,7 +55,7 @@ export default function CreateAccount() {
 		}))
 	}
 
-	// For Mantine Select components
+	// For Mantine Select and MultiSelect components
 	function handleSelectChange(name, value) {
 		setFormData((prevFormData) => ({
 			...prevFormData,
@@ -120,8 +120,8 @@ export default function CreateAccount() {
 			lastName: formData.lastName,
 			username: formData.username,
 			gradYear: formData.gradYear,
-			majors: formData.major,
-			minors: formData.minor,
+			majors: formData.majors,
+			minors: formData.minors,
 			email: formData.email,
 			createdAt: serverTimestamp(),
 			loggedIn: serverTimestamp(),
@@ -150,7 +150,6 @@ export default function CreateAccount() {
 		}
 
 		setLoading(false)
-		//navigate(`/profile/${formData.username}`)
 		navigate(`/profile/${formData.username}`, {
 			state: snapshot.data(),
 		})
@@ -197,8 +196,8 @@ export default function CreateAccount() {
 					searchable
 					nothingFound="Invalid Major"
 					data={majors}
-					value={formData.major}
-					onChange={(value) => handleSelectChange('major', value)}
+					value={formData.majors}
+					onChange={(value) => handleSelectChange('majors', value)}
 					required
 					maxSelectedValues={3}
 				/>
@@ -207,8 +206,8 @@ export default function CreateAccount() {
 					searchable
 					nothingFound="Invalid Minor"
 					data={minors}
-					value={formData.minor}
-					onChange={(value) => handleSelectChange('minor', value)}
+					value={formData.minors}
+					onChange={(value) => handleSelectChange('minors', value)}
 					required
 					maxSelectedValues={3}
 				/>
@@ -245,8 +244,9 @@ export default function CreateAccount() {
 				/>
 				<Button
 					text="Create Account"
-					disabled={loading}
 					handleClick={handleCreateAccount}
+					color="jet"
+					disabled={loading}
 				/>
 			</form>
 			<Button text="Cancel" handleClick={handleCancel} disabled={loading} />

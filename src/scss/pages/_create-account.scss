@@ -1,0 +1,19 @@
+.create-account {
+	&__form {
+		& .text-input:first-of-type {
+			margin-top: 1.5rem;
+		}
+
+		& .text-input:not(:first-of-type) {
+			margin-top: 0.75rem;
+		}
+
+		& .button {
+			margin-top: 1.5rem;
+		}
+	}
+
+	& > .button {
+		margin-top: 0.75rem;
+	}
+}
