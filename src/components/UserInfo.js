@@ -1,6 +1,7 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import TextInput from './TextInput'
-import { Select, MultiSelect } from '@mantine/core'
+import { MultiSelect } from '@mantine/core'
+import StyledSelect from './StyledSelect'
 import useAuth from '../components/AuthContext'
 import dataStore from '../helpers/dataStore'
 import { db } from '../firebase'
@@ -141,10 +142,9 @@ export default function UserInfo({ username, editable }) {
 						value={info.username}
 						handleChange={setProperty}
 					/>
-					<Select
+					<StyledSelect
 						name="year"
 						placeholder="Graduation Year"
-						searchable
 						value={info.year}
 						onChange={(value) => handleSelectChange('gradYear', value)}
 						data={['2023', '2024', '2025', '2026']}
