@@ -37,10 +37,11 @@ export default function Following() {
 				<ProfileCard
 					name={usr.firstName + ' ' + usr.lastName}
 					gradYear={usr.gradYear}
-					major={usr.majors ? usr.majors[0] : null}
+					major={usr.majors ? usr.majors : null}
 					username={usr.username}
 					id={usr.userID}
 					review={usr.latestReview}
+					minor={usr.minors ? usr.majors : null}
 				/>
 			))}
 			<ProfileCard />
