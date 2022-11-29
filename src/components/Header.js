@@ -7,9 +7,9 @@ import IconButton from './IconButton'
 import NavButton from './NavButton'
 
 // username/id params are to pass through to profile/following pages
-export default function Header({ username, id }) {
+export default function Header({ username, id, reviews, setReviews }) {
 	const [qry, setQuery] = useState('')
-
+	console.log(reviews)
 	const { logout } = useAuth()
 	const navigate = useNavigate()
 
@@ -49,6 +49,8 @@ export default function Header({ username, id }) {
 					dest={`/following/${username}`}
 					text="Following"
 					userID={id}
+					reviews={reviews}
+					setReviews={setReviews}
 				/>
 			</div>
 		</div>
