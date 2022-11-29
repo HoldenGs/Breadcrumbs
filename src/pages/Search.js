@@ -79,7 +79,7 @@ export default function Search() {
 			setProfiles(merge)
 			setLoading(false)
 		})
-	}, [])
+	}, [location.pathname])
 
 	const profileCards = profiles
 		.slice(0, numProfiles)
