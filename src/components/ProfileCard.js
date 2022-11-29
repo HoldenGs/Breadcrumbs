@@ -10,15 +10,15 @@ const YEARS = {
 
 export default function ProfileCard({
 	username,
-  id,
-  name,
+	id,
+	name,
 	gradYear,
 	major,
 	highlightedReview,
 }) {
 	return (
 		<div className="profile-card">
-      <NavButton dest={`/profile/${username}`} text={username} userID={id} />
+			<NavButton dest={`/profile/${username}`} text={username} userID={id} />
 			<div className="profile-card__name">{name}</div>
 			<div className="profile-card__year">{YEARS[gradYear]}</div>
 			<div className="profile-card__major">{major}</div>
