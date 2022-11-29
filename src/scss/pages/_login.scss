@@ -3,7 +3,23 @@
 		width: 100%;
 	}
 
-	&__text {
+	&__description {
+		margin-block: 1.5rem;
+		text-align: center;
+	}
+
+	&__form {
+		& .text-input:last-of-type {
+			margin-top: 0.75rem;
+		}
+
+		& .button {
+			margin-top: 1.5rem;
+		}
+	}
+
+	&__or {
+		margin-block: 0.75rem;
 		text-align: center;
 	}
 }

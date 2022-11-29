@@ -8,7 +8,7 @@ import './scss/style.scss'
 
 const root = createRoot(document.getElementById('root'))
 root.render(
-	<MantineProvider withGlobalStyles withNormalizeCSS>
+	<MantineProvider>
 		<App />
 	</MantineProvider>
 )

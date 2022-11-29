@@ -2,20 +2,37 @@
 	display: block;
 	width: 100%;
 	padding-block: 0.625rem;
+	background-color: var(--tan);
+	border: 0.2rem solid var(--jet);	
 	border-radius: 3px;
 	font-size: 1rem;
 	color: var(--jet);
 	transition: background-color 150ms ease;
 
 	&:hover {
+		background-color: var(--tan-dark1);
 	}
 
 	&:active {
+		background-color: var(--tan-dark2);
 	}
 
 	&--disabled,
 	&--disabled:hover,
 	&--disabled:active {
 		cursor: not-allowed;
+	}
+
+	&--jet {
+		background-color: var(--jet);
+		color: var(--tan);
+
+		&:hover {
+			background-color: var(--jet-dark1);
+		}
+
+		&:active {
+			background-color: var(--jet-dark2);
+		}
 	}
 }

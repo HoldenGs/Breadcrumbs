@@ -111,7 +111,7 @@ export default function Login() {
 					handleChange={handleFormChange}
 					required={true}
 				/>
-				<Button text="Login" disabled={loading} />
+				<Button text="Login" color="jet" disabled={loading} />
 			</form>
 			<p className="login__or">or</p>
 			<Button
