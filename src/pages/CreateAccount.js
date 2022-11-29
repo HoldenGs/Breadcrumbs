@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 
-import { Select, MultiSelect } from '@mantine/core'
+import { MultiSelect } from '@mantine/core'
 
 import FullScreenContainer from '../components/FullScreenContainer'
 import TextInput from '../components/TextInput'

@@ -1,6 +1,6 @@
 import React from 'react'
-import { Select, Rating } from '@mantine/core'
 import StyledSelect from './StyledSelect'
+import StyledRating from './StyledRating'
 
 export default function CourseCard({
 	editable,
@@ -54,7 +54,7 @@ export default function CourseCard({
 							'Eggert, P.R.',
 						]}
 					/>
-					<Rating
+					<StyledRating
 						count={10}
 						value={reviewInfo.rating}
 						onChange={(newRating) =>
@@ -86,7 +86,7 @@ export default function CourseCard({
 						{' ' + reviewInfo.courseTitle}
 					</div>
 					<div>{reviewInfo.professor}</div>
-					<Rating count={10} value={reviewInfo.rating} readOnly />
+					<StyledRating count={10} value={reviewInfo.rating} readOnly />
 					<div>{reviewInfo.feelings}</div>
 				</>
 			)}
