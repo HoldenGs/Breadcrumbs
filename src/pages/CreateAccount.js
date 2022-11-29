@@ -10,6 +10,9 @@ import { useNavigate } from 'react-router-dom'
 import { db } from '../firebase'
 import dataStore from '../helpers/DataStore'
 import {
+	where,
+	query,
+	getDocs,
 	getDoc,
 	collection,
 	addDoc,
@@ -74,6 +77,28 @@ export default function CreateAccount() {
 			return
 		}
 
+		// get user object from db
+		const userQuery = query(
+			collection(db, 'user'),
+			where('username', '==', formData.username)
+		)
+
+		// check if email or username already exists
+		let userSnapshot
+		try {
+			userSnapshot = await getDocs(userQuery)
+		} catch (err) {
+			console.error('error getting user snapshot: ', err)
+			return
+		}
+
+		if (!userSnapshot.empty) {
+			console.error(
+				'error: username already chosen. Choose a different username'
+			)
+			return
+		}
+
 		// create user with firebase auth
 		let userCredential
 		try {
@@ -97,6 +122,7 @@ export default function CreateAccount() {
 			gradYear: formData.gradYear,
 			majors: formData.major,
 			minors: formData.minor,
+			email: formData.email,
 			createdAt: serverTimestamp(),
 			loggedIn: serverTimestamp(),
 			followers: arrayUnion(),
