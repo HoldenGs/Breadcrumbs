@@ -43,6 +43,7 @@ export default function Following() {
 		}
 		return following.map((usr) => (
 			<ProfileCard
+				key={usr.userID}
 				name={usr.firstName + ' ' + usr.lastName}
 				gradYear={usr.gradYear}
 				majors={usr.majors ? usr.majors : null}
@@ -60,7 +61,6 @@ export default function Following() {
 			<Header username={username} id={id} />
 			<h1 className="following--name">@{username}: following</h1>
 			{renderFollowingUsers}
-			<ProfileCard />
 		</PageContainer>
 	)
 }

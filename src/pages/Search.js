@@ -76,6 +76,7 @@ export default function Search() {
 		.map(
 			({ username, userID, name, gradYear, majors, minors, latestReview }) => (
 				<ProfileCard
+					key={userID}
 					name={name}
 					gradYear={gradYear}
 					majors={majors}
@@ -90,8 +91,9 @@ export default function Search() {
 
 	const courseCards = courses
 		.slice(0, numCourses)
-		.map(({ name, gradYear, major, latestReview }) => (
+		.map(({ userID, name, gradYear, major, latestReview }) => (
 			<ProfileCard
+				key={userID}
 				name={name}
 				gradYear={gradYear}
 				major={major}
