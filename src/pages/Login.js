@@ -40,14 +40,14 @@ export default function Login() {
 				try {
 					userSnapshot = await getDocs(userQuery)
 				} catch (err) {
-					console.error('error getting user snapshot: ', err)
 					setError(err.toString())
+					setLoading(false)
 					return
 				}
 
 				if (!userSnapshot || !userSnapshot.docs[0]) {
-					console.error('error: no user login snapshot returned')
 					setError('error: no user login snapshot returned')
+					setLoading(false)
 					return
 				}
 
@@ -55,8 +55,9 @@ export default function Login() {
 				const loginUpdateRef = doc(db, 'user', userId)
 				await updateDoc(loginUpdateRef, { loggedIn: serverTimestamp() }).catch(
 					(err) => {
-						console.log('Error updating user login timestamp: ', err)
 						setError('Error updating user login timestamp: ' + err.toString())
+						setLoading(false)
+						return
 					}
 				)
 
@@ -103,12 +104,13 @@ export default function Login() {
 				setError(err.toString())
 			}
 
+			setLoading(false)
 			return
 		}
 
 		if (!userCred) {
-			console.error('error: no user login credential returned')
 			setError('error: no user login credential returned')
+			setLoading(false)
 			return
 		}
 	}
