@@ -61,7 +61,7 @@ export default function Login() {
 					}
 				)
 
-				navigate(`/profile/${userSnapshot.docs[0].data().username}`, {
+				navigate(`/${userSnapshot.docs[0].data().username}/profile`, {
 					state: userSnapshot.docs[0].data(),
 				})
 			}
@@ -133,6 +133,7 @@ export default function Login() {
 					value={formData.email}
 					handleChange={handleFormChange}
 					required={true}
+					autocomplete="email"
 				/>
 				<TextInput
 					type="password"
@@ -141,6 +142,7 @@ export default function Login() {
 					value={formData.password}
 					handleChange={handleFormChange}
 					required={true}
+					autocomplete="password"
 				/>
 				<Button text="Login" color="jet" disabled={loading} />
 			</form>

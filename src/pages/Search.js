@@ -76,6 +76,7 @@ export default function Search() {
 		.map(
 			({ username, userID, name, gradYear, majors, minors, latestReview }) => (
 				<ProfileCard
+					key={userID}
 					name={name}
 					gradYear={gradYear}
 					majors={majors}
@@ -90,8 +91,9 @@ export default function Search() {
 
 	const courseCards = courses
 		.slice(0, numCourses)
-		.map(({ name, gradYear, major, latestReview }) => (
+		.map(({ userID, name, gradYear, major, latestReview }) => (
 			<ProfileCard
+				key={userID}
 				name={name}
 				gradYear={gradYear}
 				major={major}
@@ -109,7 +111,13 @@ export default function Search() {
 				<>
 					<div className="search__profiles">
 						<h2 className="search__heading">Profile Results</h2>
-						{profileCards}
+						{profiles.length !== 0 ? (
+							profileCards
+						) : (
+							<p>
+								<i>No profile results found</i>
+							</p>
+						)}
 						{numProfiles < profiles.length && (
 							<Button
 								text="Show More"

@@ -5,13 +5,15 @@ import ProfileCard from '../components/ProfileCard'
 import { useNavigate, useLocation } from 'react-router-dom'
 import { db } from '../firebase'
 import { collection, getDocs, where, query } from 'firebase/firestore'
+import useAuth from '../components/AuthContext'
 
 export default function Following() {
 	const [following, setFollowing] = useState([])
 	const location = useLocation()
 	const navigate = useNavigate()
+	const { currentUser } = useAuth()
 	const [id, setID] = useState(location.state ? location.state.userID : null)
-	const username = location.pathname.split('/').at(-1) // /following/:username
+	const username = location.pathname.split('/').at(1) // /:username/following
 	const renderFollowingUsers = followingUsers()
 
 	// on load, if no ID, fetch that. then fetch all followers.
@@ -43,6 +45,7 @@ export default function Following() {
 		}
 		return following.map((usr) => (
 			<ProfileCard
+				key={usr.userID}
 				name={usr.firstName + ' ' + usr.lastName}
 				gradYear={usr.gradYear}
 				majors={usr.majors ? usr.majors : null}
@@ -57,10 +60,12 @@ export default function Following() {
 
 	return (
 		<PageContainer className="following">
-			<Header username={username} id={id} />
-			<h1 className="following--name">@{username}: following</h1>
+			<Header
+				username={currentUser && currentUser.uid === id ? username : null}
+				id={currentUser ? currentUser.uid : null}
+				active={currentUser && currentUser.uid === id ? 'following' : ''}
+			/>
 			{renderFollowingUsers}
-			<ProfileCard />
 		</PageContainer>
 	)
 }
