@@ -45,9 +45,13 @@ export default function Header({ username, id, searchVal }) {
 				/>
 			</div>
 			<div className="header__navbar">
-				<NavButton dest={`/profile/${username}`} text="Profile" userID={id} />
 				<NavButton
-					dest={`/following/${username}`}
+					dest={username ? `/profile/${username}` : '/profile'}
+					text="Profile"
+					userID={id}
+				/>
+				<NavButton
+					dest={username ? `/following/${username}` : '/following'}
 					text="Following"
 					userID={id}
 				/>
