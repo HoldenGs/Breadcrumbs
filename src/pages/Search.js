@@ -2,9 +2,11 @@ import { useState, useEffect } from 'react'
 
 import { Loader } from '@mantine/core'
 
+import PageContainer from '../components/PageContainer'
 import Header from '../components/Header'
 import ProfileCard from '../components/ProfileCard'
 import Button from '../components/Button'
+
 import { useLocation } from 'react-router-dom'
 import { db } from '../firebase'
 import { query, getDocs, collection, where } from 'firebase/firestore'
@@ -99,7 +101,7 @@ export default function Search() {
 		))
 
 	return (
-		<div className="search">
+		<PageContainer className="search">
 			<Header searchVal={qry} />
 			{loading ? (
 				<Loader size="lg" />
@@ -131,6 +133,6 @@ export default function Search() {
 					</div>
 				</>
 			)}
-		</div>
+		</PageContainer>
 	)
 }

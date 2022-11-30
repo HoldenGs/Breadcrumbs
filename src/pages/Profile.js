@@ -1,4 +1,5 @@
 import { React, useState, useEffect } from 'react'
+import PageContainer from '../components/PageContainer'
 import Button from '../components/Button'
 import Header from '../components/Header'
 import Quarter from '../components/Quarter'
@@ -188,28 +189,30 @@ export default function Profile() {
 	}
 
 	return (
-		<div className="profile">
+		<PageContainer className="profile">
 			<Header username={username} id={id} />
-			<UserInfo
-				name="Bobbie Smith"
-				year={2}
-				major="Computer Science and Engineering"
-				editable={editable}
-				username={username}
-				loggedInUserFollowing={loggedInUserFollowing}
-				setLoggedInUserFollowing={setLoggedInUserFollowing}
-			/>
-			{renderEditProfile}
-			{quarters.map((quarter) => (
-				<Quarter
-					userID={id}
-					key={quarter}
-					name={quarter}
+			<article className="profile__article">
+				<UserInfo
+					name="Bobbie Smith"
+					year={2}
+					major="Computer Science and Engineering"
 					editable={editable}
-					reviews={reviews.filter((review) => review.quarter === quarter)}
-					handleReviewChange={handleReviewChange}
+					username={username}
+					loggedInUserFollowing={loggedInUserFollowing}
+					setLoggedInUserFollowing={setLoggedInUserFollowing}
 				/>
-			))}
-		</div>
+				{renderEditProfile}
+				{quarters.map((quarter) => (
+					<Quarter
+						userID={id}
+						key={quarter}
+						name={quarter}
+						editable={editable}
+						reviews={reviews.filter((review) => review.quarter === quarter)}
+						handleReviewChange={handleReviewChange}
+					/>
+				))}
+			</article>
+		</PageContainer>
 	)
 }

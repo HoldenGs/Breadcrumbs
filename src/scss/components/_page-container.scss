@@ -1,0 +1,15 @@
+.page-container {
+	display: flex;
+	justify-content: center;
+	height: 100vh;
+	padding: 1rem;
+	background-color: var(--dough);
+
+	@media (min-width: 700px) {
+		padding: 3rem;
+	}
+
+	&__div {
+		width: min(100%, 75rem);
+	}
+}

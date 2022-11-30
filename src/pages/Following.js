@@ -1,4 +1,5 @@
 import { React, useState, useEffect } from 'react'
+import PageContainer from '../components/PageContainer'
 import Header from '../components/Header'
 import ProfileCard from '../components/ProfileCard'
 import { useNavigate, useLocation } from 'react-router-dom'
@@ -55,10 +56,11 @@ export default function Following() {
 	}
 
 	return (
-		<div className="following">
+		<PageContainer className="following">
 			<Header username={username} id={id} />
 			<h1 className="following--name">@{username}: following</h1>
 			{renderFollowingUsers}
-		</div>
+			<ProfileCard />
+		</PageContainer>
 	)
 }
