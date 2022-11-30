@@ -180,9 +180,9 @@ export default function UserInfo({
 					<StyledSelect
 						name="year"
 						placeholder="Graduation Year"
-						value={info.year}
+						value={info.gradYear}
 						onChange={(value) => handleSelectChange('gradYear', value)}
-						data={['2023', '2024', '2025', '2026']}
+						data={Object.keys(YEARS)}
 					/>
 					<StyledMultiSelect
 						placeholder="Major"
