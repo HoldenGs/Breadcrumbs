@@ -62,7 +62,7 @@ export default function StyledMultiSelect({
 			if (value?.length) inputRef.current.required = false
 			else inputRef.current.required = true
 		}
-	}, [value])
+	}, [value, required])
 
 	return (
 		<SMultiSelect
