@@ -7,6 +7,7 @@ import { db } from '../firebase'
 
 import useAuth from '../components/AuthContext'
 import Header from '../components/Header'
+import PageContainer from '../components/PageContainer'
 
 export default function Redirect() {
 	const location = useLocation()
@@ -16,9 +17,11 @@ export default function Redirect() {
 	const path = location.pathname.split('/')
 
 	useEffect(() => {
-		if (!currentUser || path.length <= 1) return navigate('/')
+		if (path.length <= 1) return navigate('/')
 
 		const usernameRedirect = async () => {
+			if (!currentUser) return navigate('/')
+
 			const snapshot = await getDocs(
 				query(collection(db, 'user'), where('userID', '==', currentUser.uid))
 			)
@@ -39,8 +42,8 @@ export default function Redirect() {
 	}, []) // eslint-disable-line
 
 	return (
-		<div className="following">
+		<PageContainer>
 			<Header />
-		</div>
+		</PageContainer>
 	)
 }
