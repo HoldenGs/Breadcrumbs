@@ -4,7 +4,7 @@ import Button from '../components/Button'
 import Header from '../components/Header'
 import Quarter from '../components/Quarter'
 import UserInfo from '../components/UserInfo'
-import { useLocation } from 'react-router-dom'
+import { useNavigate, useLocation } from 'react-router-dom'
 import useAuth from '../components/AuthContext'
 import { db } from '../firebase'
 import dataStore from '../helpers/dataStore'
@@ -26,6 +26,7 @@ export default function Profile() {
 	const [reviews, setReviews] = useState([])
 
 	const location = useLocation()
+	const navigate = useNavigate()
 	const { currentUser } = useAuth()
 	const [id, setID] = useState(location.state ? location.state.userID : null)
 	const [loggedInUserFollowing, setLoggedInUserFollowing] = useState()
@@ -39,8 +40,8 @@ export default function Profile() {
 				query(collection(db, 'user'), where('username', '==', username))
 			)
 
-			if (!querySnapshot || querySnapshot.empty)
-				return console.log('No query snapshot for user on Profile returned')
+			// navigate to '/' if invalid username
+			if (!querySnapshot || querySnapshot.empty) return navigate('/')
 
 			if (!id) setID(querySnapshot.docs[0].data().userID)
 
@@ -51,6 +52,7 @@ export default function Profile() {
 		}
 
 		if (!id || typeof loggedInUserFollowing !== 'boolean') fetchIDAndFollowing()
+		// eslint-disable-next-line
 	}, [username, loggedInUserFollowing, id, currentUser, currentUser.uid])
 
 	useEffect(() => {

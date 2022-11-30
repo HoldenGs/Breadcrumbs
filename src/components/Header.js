@@ -7,8 +7,8 @@ import IconButton from './IconButton'
 import NavButton from './NavButton'
 
 // username/id params are to pass through to profile/following pages
-export default function Header({ username, id }) {
-	const [query, setQuery] = useState('')
+export default function Header({ username, id, searchVal }) {
+	const [query, setQuery] = useState(searchVal)
 	const { logout } = useAuth()
 	const navigate = useNavigate()
 
@@ -45,13 +45,21 @@ export default function Header({ username, id }) {
 				/>
 			</div>
 			<div className="header__navbar">
-				<NavButton dest={`/profile/${username}`} text="Profile" userID={id} />
 				<NavButton
-					dest={`/following/${username}`}
+					dest={username ? `/profile/${username}` : '/profile'}
+					text="Profile"
+					userID={id}
+				/>
+				<NavButton
+					dest={username ? `/following/${username}` : '/following'}
 					text="Following"
 					userID={id}
 				/>
 			</div>
 		</div>
 	)
+}
+
+Header.defaultProps = {
+	searchVal: '',
 }

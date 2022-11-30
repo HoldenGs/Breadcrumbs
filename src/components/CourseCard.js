@@ -88,11 +88,12 @@ export default function CourseCard({
 							})
 						}}
 						data={[...new Set(courses.map((c) => c.code + ' — ' + c.title))]}
-						nothingFound={
-							!courses.length
-								? `No ${reviewInfo.department} courses in ${reviewInfo.quarter}`
-								: `Invalid course`
-						}
+						nothingFound={(() => {
+							if (!reviewInfo.department) return 'No department selected'
+							if (!courses.length)
+								return `No ${reviewInfo.department} courses in ${reviewInfo.quarter}`
+							return 'Invalid course'
+						})()}
 					/>
 					<StyledSelect
 						placeholder="Professor"
