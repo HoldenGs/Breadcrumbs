@@ -25,7 +25,7 @@ export default function Header({ username, id, searchVal, active }) {
 	return (
 		<div className="header">
 			<div className="header__topbar">
-				<Link to="/">
+				<Link to="/profile">
 					<img
 						className="header__icon"
 						src="/icons/breadcrumbs-icon-jet.svg"
