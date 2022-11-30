@@ -32,19 +32,26 @@ export default function Profile() {
 	const username = location.pathname.split('/').at(-1)
 	const renderEditProfile = editProf(currentUser.uid.toString(), id)
 
+	// fetch ID for username of profile
 	useEffect(() => {
-		const fetchID = async () => {
+		const fetchIDAndFollowing = async () => {
 			const querySnapshot = await getDocs(
 				query(collection(db, 'user'), where('username', '==', username))
 			)
-			setID(querySnapshot.docs[0].data().userID)
-			setLoggedInUserFollowing(
-				querySnapshot.docs[0].data().followers.includes(currentUser.uid)
-			)
+
+			if (!querySnapshot || querySnapshot.empty)
+				return console.log('No query snapshot for user on Profile returned')
+
+			if (!id) setID(querySnapshot.docs[0].data().userID)
+
+			if (currentUser)
+				setLoggedInUserFollowing(
+					querySnapshot.docs[0].data().followers.includes(currentUser.uid)
+				)
 		}
 
-		if (!id) fetchID()
-	}, [username, id, currentUser.uid])
+		if (!id || typeof loggedInUserFollowing !== 'boolean') fetchIDAndFollowing()
+	}, [username, loggedInUserFollowing, id, currentUser, currentUser.uid])
 
 	useEffect(() => {
 		const fetchReviews = async () => {

@@ -11,6 +11,8 @@ export default function Following() {
 	const location = useLocation()
 	const [id, setID] = useState(location.state ? location.state.userID : null)
 	const username = location.pathname.split('/').at(-1) // /following/:username
+	const renderFollowingUsers = followingUsers()
+
 	// on load, if no ID, fetch that. then fetch all followers.
 	useEffect(() => {
 		const asyncFetchFollowing = async () => {
@@ -30,21 +32,28 @@ export default function Following() {
 		asyncFetchFollowing()
 	}, [username, id])
 
+	function followingUsers() {
+		if (following.length === 0) {
+			return <h2 className="following--name">Nobody</h2>
+		}
+		return following.map((usr) => (
+			<ProfileCard
+				name={usr.firstName + ' ' + usr.lastName}
+				gradYear={usr.gradYear}
+				major={usr.majors ? usr.majors : null}
+				username={usr.username}
+				id={usr.userID}
+				review={usr.latestReview}
+				minor={usr.minors ? usr.majors : null}
+			/>
+		))
+	}
+
 	return (
 		<PageContainer className="following">
 			<Header username={username} id={id} />
 			<h1 className="following--name">@{username}: following</h1>
-			{following.map((usr) => (
-				<ProfileCard
-					name={usr.firstName + ' ' + usr.lastName}
-					gradYear={usr.gradYear}
-					major={usr.majors ? usr.majors : null}
-					username={usr.username}
-					id={usr.userID}
-					review={usr.latestReview}
-					minor={usr.minors ? usr.majors : null}
-				/>
-			))}
+			{renderFollowingUsers}
 			<ProfileCard />
 		</PageContainer>
 	)
