@@ -40,6 +40,8 @@ export default function CreateAccount() {
 	const [majors, setMajors] = useState([])
 	const [minors, setMinors] = useState([])
 
+	const [error, setError] = useState('')
+
 	useEffect(() => {
 		dataStore.majors().then(setMajors)
 		dataStore.minors().then(setMinors)
@@ -72,7 +74,7 @@ export default function CreateAccount() {
 
 		if (formData.password !== formData.passwordConfirmation) {
 			// check if want to send an alert() message
-			alert('Passwords do not match')
+			setError("Passwords don't match")
 			return setLoading(false)
 		}
 
@@ -82,12 +84,13 @@ export default function CreateAccount() {
 			userCredential = await signup(formData.email, formData.password)
 		} catch (err) {
 			console.error(err)
-			alert(err.message)
+			setError(err.message)
 			return setLoading(false)
 		}
 
 		if (!userCredential || !userCredential.user) {
 			console.error('error: no user login credential returned')
+			setError('error: no user login credential returned')
 			return setLoading(false)
 		}
 
@@ -103,6 +106,7 @@ export default function CreateAccount() {
 			userSnapshot = await getDocs(userQuery)
 		} catch (err) {
 			console.error('error getting user snapshot: ', err)
+			setError(err.message)
 			return setLoading(false)
 		}
 
@@ -110,6 +114,7 @@ export default function CreateAccount() {
 			console.error(
 				'error: username already chosen. Choose a different username'
 			)
+			setError('error: username already chosen. Choose a different username')
 			return setLoading(false)
 		}
 
@@ -127,6 +132,7 @@ export default function CreateAccount() {
 			followers: arrayUnion(),
 			userID: userCredential.user.uid,
 		}).catch((err) => {
+			setError(err.message)
 			console.error(err)
 		})
 
@@ -139,11 +145,13 @@ export default function CreateAccount() {
 		try {
 			snapshot = await getDoc(docRef)
 		} catch (err) {
+			setError(err.message)
 			console.error(err)
 			return
 		}
 
 		if (!snapshot || !snapshot.exists()) {
+			setError('error: no user login snapshot returned')
 			console.error('error: no user login snapshot returned')
 			return
 		}
@@ -247,6 +255,9 @@ export default function CreateAccount() {
 				<Button text="Create Account" color="jet" disabled={loading} />
 			</form>
 			<Button text="Cancel" handleClick={handleCancel} disabled={loading} />
+			<div style={{ color: 'red' }} hidden={!error}>
+				{error}
+			</div>
 		</FullScreenContainer>
 	)
 }
