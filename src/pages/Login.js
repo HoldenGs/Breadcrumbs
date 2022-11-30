@@ -62,6 +62,8 @@ export default function Login() {
 			}
 		}
 		navigateIfLoggedIn()
+		// since navigate function won't change
+		// eslint-disable-next-line
 	}, [currentUser])
 
 	function handleFormChange(e) {
