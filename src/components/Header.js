@@ -8,12 +8,12 @@ import NavButton from './NavButton'
 
 // username/id params are to pass through to profile/following pages
 export default function Header({ username, id, searchVal }) {
-	const [qry, setQuery] = useState(searchVal)
+	const [query, setQuery] = useState(searchVal)
 	const { logout } = useAuth()
 	const navigate = useNavigate()
 
 	async function handleSearch(e) {
-		navigate(`/search/${encodeURIComponent(qry)}`)
+		navigate(`/search/${encodeURIComponent(query)}`)
 	}
 
 	function handleLogout() {
@@ -33,7 +33,7 @@ export default function Header({ username, id, searchVal }) {
 					/>
 				</Link>
 				<SearchInput
-					value={qry}
+					value={query}
 					handleChange={(e) => setQuery(e.target.value)}
 					handleClick={handleSearch}
 				/>
