@@ -7,7 +7,11 @@ import { NavLink } from 'react-router-dom'
 export default function NavButton({ dest, text, userID }) {
 	return (
 		<NavLink to={dest} state={{ userID: userID }} className="nav-button">
-			{text}
+			<div className="nav-button__breadcrumb"></div>
+			<div className="nav-button__breadcrumb"></div>
+			<h3 className="nav-button__text">{text}</h3>
+			<div className="nav-button__breadcrumb"></div>
+			<div className="nav-button__breadcrumb"></div>
 		</NavLink>
 	)
 }

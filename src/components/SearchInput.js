@@ -5,7 +5,13 @@ import TextInput from './TextInput'
 
 export default function SearchInput({ value, handleChange, handleClick }) {
 	return (
-		<div className="search-input">
+		<form
+			className="search-input"
+			onSubmit={(e) => {
+				e.preventDefault()
+				handleClick()
+			}}
+		>
 			<TextInput
 				name="search"
 				placeholder="Search"
@@ -13,14 +19,8 @@ export default function SearchInput({ value, handleChange, handleClick }) {
 				color="dough"
 				handleChange={handleChange}
 			/>
-			{value && (
-				<IconButton
-					iconURL="/icons/search.svg"
-					alt="Search"
-					handleClick={handleClick}
-				/>
-			)}
-		</div>
+			{value && <IconButton iconURL="/icons/search.svg" alt="Search" />}
+		</form>
 	)
 }
 
