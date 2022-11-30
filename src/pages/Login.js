@@ -122,9 +122,7 @@ export default function Login() {
 				src="/logo-jet.svg"
 				alt="Breadcrumbs Logo - Color"
 			/>
-			<p className="login__description">
-				A human-centered course recommendation platform.
-			</p>
+			<p className="login__description">A delightful little course journal.</p>
 			<form className="login__form" onSubmit={handleLogin}>
 				<TextInput
 					type="email"

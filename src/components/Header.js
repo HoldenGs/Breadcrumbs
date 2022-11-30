@@ -38,7 +38,7 @@ export default function Header({ username, id, searchVal, active }) {
 					handleClick={handleSearch}
 				/>
 				<IconButton
-					type="logout"
+					type="medium"
 					iconURL="/icons/logout.svg"
 					alt="Logout"
 					handleClick={handleLogout}
