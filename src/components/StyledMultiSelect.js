@@ -43,6 +43,10 @@ const SMultiSelect = styled(MultiSelect)`
 			background-color: var(--dough-dark1);
 		}
 	}
+
+	.mantine-MultiSelect-defaultValueRemove {
+		styles: none;
+	}
 `
 
 export default function StyledMultiSelect({
