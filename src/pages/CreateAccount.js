@@ -12,7 +12,6 @@ import {
 	where,
 	query,
 	getDocs,
-	getDoc,
 	collection,
 	addDoc,
 	serverTimestamp,
@@ -73,32 +72,16 @@ export default function CreateAccount() {
 		setLoading(true)
 
 		if (formData.password !== formData.passwordConfirmation) {
-			// check if want to send an alert() message
 			setError("Passwords don't match")
 			return setLoading(false)
 		}
 
-		// create user with firebase auth
-		let userCredential
-		try {
-			userCredential = await signup(formData.email, formData.password)
-		} catch (err) {
-			setError(err.message)
-			return setLoading(false)
-		}
-
-		if (!userCredential || !userCredential.user) {
-			setError('error: no user login credential returned')
-			return setLoading(false)
-		}
-
-		// get user object from db
+		// check if username exists
 		const userQuery = query(
 			collection(db, 'user'),
 			where('username', '==', formData.username)
 		)
 
-		// check if email or username already exists
 		let userSnapshot
 		try {
 			userSnapshot = await getDocs(userQuery)
@@ -108,52 +91,62 @@ export default function CreateAccount() {
 		}
 
 		if (!userSnapshot.empty) {
-			console.error(
-				'error: username already chosen. Choose a different username'
-			)
-			setError('error: username already chosen. Choose a different username')
+			setError('Username already chosen. Please choose a different username.')
+			return setLoading(false)
+		}
+
+		// create user with firebase auth
+		let userCredential
+		try {
+			userCredential = await signup(formData.email, formData.password)
+		} catch (err) {
+			switch (err.code) {
+				case 'auth/email-already-in-use':
+					setError(
+						'This email is already in use. Please use another email or login.'
+					)
+					break
+				case 'auth/weak-password':
+					setError('Your password is weak. Like you.')
+					break
+				default:
+					setError('Unknown error occurred. Please try again later.')
+					console.error('Unknown error while creating account', err)
+					break
+			}
+
+			return setLoading(false)
+		}
+
+		if (!userCredential || !userCredential.user) {
+			setError('Failed to create account. Please try again later.')
 			return setLoading(false)
 		}
 
 		// create user database entry
-		const docRef = await addDoc(collection(db, 'user'), {
-			firstName: formData.firstName,
-			lastName: formData.lastName,
-			username: formData.username,
-			gradYear: formData.gradYear,
-			majors: formData.majors,
-			minors: formData.minors,
-			email: formData.email,
-			createdAt: serverTimestamp(),
-			loggedIn: serverTimestamp(),
-			followers: arrayUnion(),
-			userID: userCredential.user.uid,
-		}).catch((err) => {
-			setError(err.message)
-			setLoading(false)
-		})
-
-		if (!docRef) {
-			console.error('error: no user login snapshot returned')
-			return setLoading(false)
-		}
-
-		let snapshot
 		try {
-			snapshot = await getDoc(docRef)
+			await addDoc(collection(db, 'user'), {
+				firstName: formData.firstName,
+				lastName: formData.lastName,
+				username: formData.username,
+				gradYear: formData.gradYear,
+				majors: formData.majors,
+				minors: formData.minors,
+				email: formData.email,
+				createdAt: serverTimestamp(),
+				loggedIn: serverTimestamp(),
+				followers: arrayUnion(),
+				userID: userCredential.user.uid,
+			})
 		} catch (err) {
-			setError(err.message)
+			console.error('Error creating user db entry', err)
+			setError('Failed to create account. Please try again later.')
 			return setLoading(false)
-		}
-
-		if (!snapshot || !snapshot.exists()) {
-			setError('error: no user login snapshot returned')
-			return
 		}
 
 		setLoading(false)
 		navigate(`/${formData.username}/profile`, {
-			state: snapshot.data(),
+			state: { userID: userCredential.user.uid },
 		})
 	}
 
