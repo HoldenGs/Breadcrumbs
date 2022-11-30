@@ -16,7 +16,7 @@ export default function ProfileCard({
 	return (
 		<div
 			className="profile-card"
-			onClick={() => navigate(`/profile/${username}`)}
+			onClick={() => navigate(`/${username}/profile`)}
 		>
 			<div className="profile-card__flex">
 				<h2 className="profile-card__name">{name}</h2>

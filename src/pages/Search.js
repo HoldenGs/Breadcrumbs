@@ -73,7 +73,7 @@ export default function Search() {
 
 	const profileCards = profiles
 		.slice(0, numProfiles)
-		.map(({ username, name, gradYear, majors, minors, latestReview }) => (
+		.map(({ username, name, gradYear, majors, latestReview }) => (
 			<ProfileCard
 				name={name}
 				gradYear={gradYear}
