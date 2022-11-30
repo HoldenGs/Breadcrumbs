@@ -100,21 +100,19 @@ export default function UserInfo({
 	}
 
 	function follow() {
-		if (currentUser.uid === info.userId) return
+		if (!currentUser || currentUser.uid === info.userId) return
+
 		return (
-			<button
-				text={loggedInUserFollowing ? 'Unfollow' : 'Follow'}
-				onClick={() => handleFollowButton(loggedInUserFollowing)}
-			>
-				{loggedInUserFollowing ? 'Follow' : 'Unfollow'}
+			<button onClick={() => handleFollowButton(loggedInUserFollowing)}>
+				{loggedInUserFollowing ? 'Unfollow' : 'Follow'}
 			</button>
 		)
 	}
 
 	function handleFollowButton(loggedInUserFollowing) {
-		setLoggedInUserFollowing(!loggedInUserFollowing)
 		const ref = doc(db, 'user', info.docID)
-		if (!loggedInUserFollowing) {
+
+		if (loggedInUserFollowing) {
 			updateDoc(ref, {
 				followers: arrayRemove(currentUser.uid.toString()),
 			})
@@ -123,6 +121,8 @@ export default function UserInfo({
 				followers: arrayUnion(currentUser.uid.toString()),
 			})
 		}
+
+		setLoggedInUserFollowing(!loggedInUserFollowing)
 	}
 
 	function handleSelectChange(name, value) {
