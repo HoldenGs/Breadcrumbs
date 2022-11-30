@@ -83,13 +83,11 @@ export default function CreateAccount() {
 		try {
 			userCredential = await signup(formData.email, formData.password)
 		} catch (err) {
-			console.error(err)
 			setError(err.message)
 			return setLoading(false)
 		}
 
 		if (!userCredential || !userCredential.user) {
-			console.error('error: no user login credential returned')
 			setError('error: no user login credential returned')
 			return setLoading(false)
 		}
@@ -105,7 +103,6 @@ export default function CreateAccount() {
 		try {
 			userSnapshot = await getDocs(userQuery)
 		} catch (err) {
-			console.error('error getting user snapshot: ', err)
 			setError(err.message)
 			return setLoading(false)
 		}
@@ -133,12 +130,12 @@ export default function CreateAccount() {
 			userID: userCredential.user.uid,
 		}).catch((err) => {
 			setError(err.message)
-			console.error(err)
+			setLoading(false)
 		})
 
 		if (!docRef) {
 			console.error('error: no user login snapshot returned')
-			return
+			return setLoading(false)
 		}
 
 		let snapshot
@@ -146,13 +143,11 @@ export default function CreateAccount() {
 			snapshot = await getDoc(docRef)
 		} catch (err) {
 			setError(err.message)
-			console.error(err)
-			return
+			return setLoading(false)
 		}
 
 		if (!snapshot || !snapshot.exists()) {
 			setError('error: no user login snapshot returned')
-			console.error('error: no user login snapshot returned')
 			return
 		}
 
