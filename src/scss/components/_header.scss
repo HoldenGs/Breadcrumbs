@@ -1,12 +1,13 @@
 .header {
 	display: flex;
 	flex-direction: column;
-	gap: 1rem;
-	padding-bottom: 1rem;
+	gap: 1.5rem;
+	padding-bottom: 1.5rem;
 	background-color: var(--dough);
 
 	@media (min-width: 700px) {
 		flex-direction: row;
+		gap: 3rem;
 		padding-bottom: 0;
 	}
 
@@ -16,7 +17,7 @@
 		width: 100%;
 
 		@media (min-width: 700px) {
-			width: 40%;
+			width: 30%;
 		}
 	}
 
@@ -30,7 +31,7 @@
 		gap: 1.5rem;
 
 		@media (min-width: 700px) {
-			width: calc(60% - 1rem);
+			width: calc(70% - 3rem);
 		}
 	}
 }

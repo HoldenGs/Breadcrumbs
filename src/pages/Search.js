@@ -73,20 +73,16 @@ export default function Search() {
 
 	const profileCards = profiles
 		.slice(0, numProfiles)
-		.map(
-			({ username, userID, name, gradYear, majors, minors, latestReview }) => (
-				<ProfileCard
-					name={name}
-					gradYear={gradYear}
-					majors={majors}
-					minors={minors}
-					id={userID}
-					username={username}
-					reviewLabel="Latest Review"
-					review={latestReview}
-				/>
-			)
-		)
+		.map(({ username, name, gradYear, majors, minors, latestReview }) => (
+			<ProfileCard
+				name={name}
+				gradYear={gradYear}
+				majors={majors}
+				username={username}
+				reviewLabel="Latest Review"
+				review={latestReview}
+			/>
+		))
 
 	const courseCards = courses
 		.slice(0, numCourses)

@@ -7,12 +7,13 @@ import { db } from '../firebase'
 import { collection, getDocs, where, query } from 'firebase/firestore'
 
 export default function Following() {
-	const [following, setFollowing] = useState([])
-	const location = useLocation()
 	const navigate = useNavigate()
+	const location = useLocation()
+
+	const [following, setFollowing] = useState([])
 	const [id, setID] = useState(location.state ? location.state.userID : null)
+
 	const username = location.pathname.split('/').at(-1) // /following/:username
-	const renderFollowingUsers = followingUsers()
 
 	// on load, if no ID, fetch that. then fetch all followers.
 	useEffect(() => {
@@ -31,26 +32,24 @@ export default function Following() {
 				query(collection(db, 'user'), where('followers', 'array-contains', id))
 			)
 			querySnapshot.docs.forEach((doc) => {
-				setFollowing((arr) => [...arr, doc.data()])
+				setFollowing((prevFollowing) => [...prevFollowing, doc.data()])
 			})
 		}
 		asyncFetchFollowing()
 	}, [username, id]) // eslint-disable-line
 
-	function followingUsers() {
+	function followingCards() {
 		if (following.length === 0) {
-			return <h2 className="following--name">Nobody</h2>
+			return <p className="following--empty">Nobody</p>
 		}
-		return following.map((usr) => (
+		return following.map((user) => (
 			<ProfileCard
-				name={usr.firstName + ' ' + usr.lastName}
-				gradYear={usr.gradYear}
-				majors={usr.majors ? usr.majors : null}
-				username={usr.username}
-				id={usr.userID}
-				reviewLabel="Latest review"
-				review={usr.latestReview}
-				minors={usr.minors ? usr.minors : null}
+				name={user.firstName + ' ' + user.lastName}
+				gradYear={user.gradYear}
+				majors={user.majors}
+				username={user.username}
+				reviewLabel="Latest Review"
+				review={user.latestReview}
 			/>
 		))
 	}
@@ -58,9 +57,10 @@ export default function Following() {
 	return (
 		<PageContainer className="following">
 			<Header username={username} id={id} />
-			<h1 className="following--name">@{username}: following</h1>
-			{renderFollowingUsers}
-			<ProfileCard />
+			<article className="following__article">
+				<h1 className="following__heading">Following</h1>
+				<div className="following__cards">{followingCards()}</div>
+			</article>
 		</PageContainer>
 	)
 }
