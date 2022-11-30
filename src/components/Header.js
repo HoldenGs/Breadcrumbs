@@ -7,9 +7,9 @@ import IconButton from './IconButton'
 import NavButton from './NavButton'
 
 // username/id params are to pass through to profile/following pages
-export default function Header({ username, id }) {
-	const [qry, setQuery] = useState('')
-	const { logout, currentUser } = useAuth()
+export default function Header({ username, id, searchVal }) {
+	const [qry, setQuery] = useState(searchVal)
+	const { logout } = useAuth()
 	const navigate = useNavigate()
 
 	async function handleSearch(e) {
@@ -54,4 +54,8 @@ export default function Header({ username, id }) {
 			</div>
 		</div>
 	)
+}
+
+Header.defaultProps = {
+	searchVal: '',
 }

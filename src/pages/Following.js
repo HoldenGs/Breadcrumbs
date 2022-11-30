@@ -39,11 +39,12 @@ export default function Following() {
 			<ProfileCard
 				name={usr.firstName + ' ' + usr.lastName}
 				gradYear={usr.gradYear}
-				major={usr.majors ? usr.majors : null}
+				majors={usr.majors ? usr.majors : null}
 				username={usr.username}
 				id={usr.userID}
+				reviewLabel="Latest review"
 				review={usr.latestReview}
-				minor={usr.minors ? usr.majors : null}
+				minors={usr.minors ? usr.minors : null}
 			/>
 		))
 	}
@@ -53,7 +54,6 @@ export default function Following() {
 			<Header username={username} id={id} />
 			<h1 className="following--name">@{username}: following</h1>
 			{renderFollowingUsers}
-			<ProfileCard />
 		</div>
 	)
 }
