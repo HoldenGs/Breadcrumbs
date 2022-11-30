@@ -13,12 +13,12 @@ export default function Redirect() {
 	const navigate = useNavigate()
 	const { currentUser } = useAuth()
 
-	const curPath = location.pathname.split('/').at(-1)
+	const path = location.pathname.split('/')
 
 	useEffect(() => {
-		if (!currentUser) return navigate('/')
+		if (!currentUser || path.length <= 1) return navigate('/')
 
-		const fetchUsername = async () => {
+		const usernameRedirect = async () => {
 			const snapshot = await getDocs(
 				query(collection(db, 'user'), where('userID', '==', currentUser.uid))
 			)
@@ -30,10 +30,12 @@ export default function Redirect() {
 
 			const { username } = snapshot.docs[0].data()
 
-			navigate(`/${curPath}/${username}`)
+			navigate(`/${username}/${path[1]}`)
 		}
 
-		fetchUsername()
+		if (['following', 'profile'].includes(path[1])) usernameRedirect()
+		else if (path.length === 2 || (path.length === 3 && !path[2]))
+			navigate(`/${path[1]}/profile`)
 	}, []) // eslint-disable-line
 
 	return (

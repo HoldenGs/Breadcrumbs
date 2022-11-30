@@ -22,21 +22,25 @@ const router = createBrowserRouter([
 				element: <Login />,
 			},
 			{
-				path: 'profile/:username',
+				path: ':username/profile',
 				element: <Profile />,
 			},
 			{
-				path: 'following/:username',
+				path: ':username/following',
 				element: <Following />,
 			},
 			{
-				path: 'profile',
+				path: ':username',
 				element: <Redirect />,
 			},
-			{
-				path: 'following',
-				element: <Redirect />,
-			},
+			// {
+			// 	path: 'profile',
+			// 	element: <Redirect />,
+			// },
+			// {
+			// 	path: 'following',
+			// 	element: <Redirect />,
+			// },
 			{
 				path: 'search/:query',
 				element: <Search />,

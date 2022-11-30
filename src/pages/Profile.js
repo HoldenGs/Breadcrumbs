@@ -30,8 +30,7 @@ export default function Profile() {
 	const { currentUser } = useAuth()
 	const [id, setID] = useState(location.state ? location.state.userID : null)
 	const [loggedInUserFollowing, setLoggedInUserFollowing] = useState()
-	const username = location.pathname.split('/').at(-1)
-	const renderEditProfile = editProf(currentUser.uid.toString(), id)
+	const username = location.pathname.split('/').at(-2)
 
 	// fetch ID for username of profile
 	useEffect(() => {
@@ -53,7 +52,7 @@ export default function Profile() {
 
 		if (!id || typeof loggedInUserFollowing !== 'boolean') fetchIDAndFollowing()
 		// eslint-disable-next-line
-	}, [username, loggedInUserFollowing, id, currentUser, currentUser.uid])
+	}, [username, loggedInUserFollowing, id, currentUser])
 
 	useEffect(() => {
 		const fetchReviews = async () => {
@@ -80,8 +79,8 @@ export default function Profile() {
 	}, [])
 
 	//can't edit another user's profile
-	function editProf(currentUserID, id) {
-		if (currentUserID !== id) return
+	function editProf() {
+		if (!currentUser || currentUser.uid !== id) return
 		return (
 			<Button text={editable ? 'Save' : 'Edit'} handleClick={handleEditProf} />
 		)
@@ -190,18 +189,19 @@ export default function Profile() {
 
 	return (
 		<PageContainer className="profile">
-			<Header username={username} id={id} />
+			<Header
+				username={currentUser && currentUser.uid === id ? username : null}
+				id={currentUser ? currentUser.uid : null}
+				active={currentUser && currentUser.uid === id ? 'profile' : ''}
+			/>
 			<article className="profile__article">
 				<UserInfo
-					name="Bobbie Smith"
-					year={2}
-					major="Computer Science and Engineering"
 					editable={editable}
 					username={username}
 					loggedInUserFollowing={loggedInUserFollowing}
 					setLoggedInUserFollowing={setLoggedInUserFollowing}
 				/>
-				{renderEditProfile}
+				{editProf()}
 				{quarters.map((quarter) => (
 					<Quarter
 						userID={id}

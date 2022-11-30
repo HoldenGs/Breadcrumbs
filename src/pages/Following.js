@@ -5,15 +5,17 @@ import ProfileCard from '../components/ProfileCard'
 import { useNavigate, useLocation } from 'react-router-dom'
 import { db } from '../firebase'
 import { collection, getDocs, where, query } from 'firebase/firestore'
+import useAuth from '../components/AuthContext'
 
 export default function Following() {
 	const navigate = useNavigate()
 	const location = useLocation()
-
+  const { currentUser } = useAuth()
+  
 	const [following, setFollowing] = useState([])
 	const [id, setID] = useState(location.state ? location.state.userID : null)
 
-	const username = location.pathname.split('/').at(-1) // /following/:username
+	const username = location.pathname.split('/').at(1) // /:username/following
 
 	// on load, if no ID, fetch that. then fetch all followers.
 	useEffect(() => {
@@ -44,6 +46,7 @@ export default function Following() {
 		}
 		return following.map((user) => (
 			<ProfileCard
+        key={user.userID}
 				name={user.firstName + ' ' + user.lastName}
 				gradYear={user.gradYear}
 				majors={user.majors}
@@ -56,7 +59,11 @@ export default function Following() {
 
 	return (
 		<PageContainer className="following">
-			<Header username={username} id={id} />
+			<Header
+				username={currentUser && currentUser.uid === id ? username : null}
+				id={currentUser ? currentUser.uid : null}
+				active={currentUser && currentUser.uid === id ? 'following' : ''}
+			/>
 			<article className="following__article">
 				<h1 className="following__heading">Following</h1>
 				<div className="following__cards">{followingCards()}</div>

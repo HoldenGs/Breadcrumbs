@@ -40,14 +40,14 @@ export default function Login() {
 				try {
 					userSnapshot = await getDocs(userQuery)
 				} catch (err) {
-					console.error('error getting user snapshot: ', err)
 					setError(err.toString())
+					setLoading(false)
 					return
 				}
 
 				if (!userSnapshot || !userSnapshot.docs[0]) {
-					console.error('error: no user login snapshot returned')
 					setError('error: no user login snapshot returned')
+					setLoading(false)
 					return
 				}
 
@@ -55,12 +55,13 @@ export default function Login() {
 				const loginUpdateRef = doc(db, 'user', userId)
 				await updateDoc(loginUpdateRef, { loggedIn: serverTimestamp() }).catch(
 					(err) => {
-						console.log('Error updating user login timestamp: ', err)
 						setError('Error updating user login timestamp: ' + err.toString())
+						setLoading(false)
+						return
 					}
 				)
 
-				navigate(`/profile/${userSnapshot.docs[0].data().username}`, {
+				navigate(`/${userSnapshot.docs[0].data().username}/profile`, {
 					state: userSnapshot.docs[0].data(),
 				})
 			}
@@ -103,12 +104,13 @@ export default function Login() {
 				setError(err.toString())
 			}
 
+			setLoading(false)
 			return
 		}
 
 		if (!userCred) {
-			console.error('error: no user login credential returned')
 			setError('error: no user login credential returned')
+			setLoading(false)
 			return
 		}
 	}
@@ -131,6 +133,7 @@ export default function Login() {
 					value={formData.email}
 					handleChange={handleFormChange}
 					required={true}
+					autocomplete="email"
 				/>
 				<TextInput
 					type="password"
@@ -139,6 +142,7 @@ export default function Login() {
 					value={formData.password}
 					handleChange={handleFormChange}
 					required={true}
+					autocomplete="password"
 				/>
 				<Button text="Login" color="jet" disabled={loading} />
 			</form>

@@ -8,6 +8,7 @@ export default function TextInput({
 	handleChange,
 	color,
 	required,
+	autocomplete,
 }) {
 	return (
 		<input
@@ -18,6 +19,7 @@ export default function TextInput({
 			value={value}
 			onChange={handleChange}
 			required={required}
+			autoComplete={autocomplete}
 		/>
 	)
 }

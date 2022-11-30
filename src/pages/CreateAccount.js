@@ -83,13 +83,11 @@ export default function CreateAccount() {
 		try {
 			userCredential = await signup(formData.email, formData.password)
 		} catch (err) {
-			console.error(err)
 			setError(err.message)
 			return setLoading(false)
 		}
 
 		if (!userCredential || !userCredential.user) {
-			console.error('error: no user login credential returned')
 			setError('error: no user login credential returned')
 			return setLoading(false)
 		}
@@ -105,7 +103,6 @@ export default function CreateAccount() {
 		try {
 			userSnapshot = await getDocs(userQuery)
 		} catch (err) {
-			console.error('error getting user snapshot: ', err)
 			setError(err.message)
 			return setLoading(false)
 		}
@@ -133,12 +130,12 @@ export default function CreateAccount() {
 			userID: userCredential.user.uid,
 		}).catch((err) => {
 			setError(err.message)
-			console.error(err)
+			setLoading(false)
 		})
 
 		if (!docRef) {
 			console.error('error: no user login snapshot returned')
-			return
+			return setLoading(false)
 		}
 
 		let snapshot
@@ -146,18 +143,16 @@ export default function CreateAccount() {
 			snapshot = await getDoc(docRef)
 		} catch (err) {
 			setError(err.message)
-			console.error(err)
-			return
+			return setLoading(false)
 		}
 
 		if (!snapshot || !snapshot.exists()) {
 			setError('error: no user login snapshot returned')
-			console.error('error: no user login snapshot returned')
 			return
 		}
 
 		setLoading(false)
-		navigate(`/profile/${formData.username}`, {
+		navigate(`/${formData.username}/profile`, {
 			state: snapshot.data(),
 		})
 	}
@@ -181,6 +176,7 @@ export default function CreateAccount() {
 					value={formData.firstName}
 					handleChange={handleFormChange}
 					required={true}
+					autocomplete="given-name"
 				/>
 				<TextInput
 					name="lastName"
@@ -188,6 +184,7 @@ export default function CreateAccount() {
 					value={formData.lastName}
 					handleChange={handleFormChange}
 					required={true}
+					autocomplete="family-name"
 				/>
 				<StyledSelect
 					placeholder="Graduation Year"
@@ -227,6 +224,7 @@ export default function CreateAccount() {
 					value={formData.username}
 					handleChange={handleFormChange}
 					required={true}
+					autocomplete="username"
 				/>
 				<TextInput
 					type="email"
@@ -235,6 +233,7 @@ export default function CreateAccount() {
 					value={formData.email}
 					handleChange={handleFormChange}
 					required={true}
+					autocomplete="email"
 				/>
 				<TextInput
 					type="password"
@@ -243,6 +242,7 @@ export default function CreateAccount() {
 					value={formData.password}
 					handleChange={handleFormChange}
 					required={true}
+					autocomplete="new-password"
 				/>
 				<TextInput
 					type="password"
@@ -251,6 +251,7 @@ export default function CreateAccount() {
 					value={formData.passwordConfirmation}
 					handleChange={handleFormChange}
 					required={true}
+					autocomplete="new-password"
 				/>
 				<Button text="Create Account" color="jet" disabled={loading} />
 			</form>
