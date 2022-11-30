@@ -188,7 +188,7 @@ export default function CreateAccount() {
 					data={gradYears}
 					value={formData.gradYear}
 					onChange={(value) => handleSelectChange('gradYear', value)}
-					required
+					required={true}
 					dark
 				/>
 				<StyledMultiSelect
@@ -198,7 +198,7 @@ export default function CreateAccount() {
 					data={majors}
 					value={formData.majors}
 					onChange={(value) => handleSelectChange('majors', value)}
-					required
+					required={true}
 					maxSelectedValues={3}
 					dark
 				/>
@@ -209,7 +209,7 @@ export default function CreateAccount() {
 					data={minors}
 					value={formData.minors}
 					onChange={(value) => handleSelectChange('minors', value)}
-					required
+					required={false}
 					maxSelectedValues={3}
 					dark
 				/>

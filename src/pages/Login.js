@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import FullScreenContainer from '../components/FullScreenContainer'
 import TextInput from '../components/TextInput'
 import Button from '../components/Button'
@@ -22,7 +22,49 @@ export default function Login() {
 	})
 	const [loading, setLoading] = useState(false)
 	const navigate = useNavigate()
-	const { login } = useAuth()
+	const { login, currentUser } = useAuth()
+
+	useEffect(() => {
+		const navigateIfLoggedIn = async () => {
+			if (currentUser) {
+				const user = currentUser
+
+				// get user object from db
+				const userQuery = query(
+					collection(db, 'user'),
+					where('userID', '==', user.uid)
+				)
+
+				let userSnapshot
+				try {
+					userSnapshot = await getDocs(userQuery)
+				} catch (err) {
+					console.error('error getting user snapshot: ', err)
+					return
+				}
+
+				if (!userSnapshot || !userSnapshot.docs[0]) {
+					console.error('error: no user login snapshot returned')
+					return
+				}
+
+				const userId = userSnapshot.docs[0].id
+				const loginUpdateRef = doc(db, 'user', userId)
+				await updateDoc(loginUpdateRef, { loggedIn: serverTimestamp() }).catch(
+					(err) => {
+						console.log('Error updating user login timestamp: ', err)
+					}
+				)
+
+				navigate(`/profile/${userSnapshot.docs[0].data().username}`, {
+					state: userSnapshot.docs[0].data(),
+				})
+			}
+		}
+		navigateIfLoggedIn()
+		// since navigate function won't change
+		// eslint-disable-next-line
+	}, [currentUser])
 
 	function handleFormChange(e) {
 		const { name, value } = e.target
@@ -37,51 +79,19 @@ export default function Login() {
 		setLoading(true)
 
 		// login with firestore
-		let userCredential
+		let userCred
 		try {
-			userCredential = await login(formData.email, formData.password)
+			userCred = await login(formData.email, formData.password)
 		} catch (err) {
 			// TODO: display error message
 			console.log('Error logging in', err)
 			return
 		}
 
-		if (!userCredential) {
+		if (!userCred) {
 			console.error('error: no user login credential returned')
 			return
 		}
-
-		const { user } = userCredential
-
-		// get user object from db
-		const userQuery = query(
-			collection(db, 'user'),
-			where('userID', '==', user.uid)
-		)
-
-		let userSnapshot
-		try {
-			userSnapshot = await getDocs(userQuery)
-		} catch (err) {
-			console.error('error getting user snapshot: ', err)
-			return
-		}
-
-		if (!userSnapshot || !userSnapshot.docs[0]) {
-			console.error('error: no user login snapshot returned')
-			return
-		}
-
-		const userId = userSnapshot.docs[0].id
-		const loginUpdateRef = doc(db, 'user', userId)
-		await updateDoc(loginUpdateRef, { loggedIn: serverTimestamp() }).catch(
-			(err) => {
-				console.log('Error updating user login timestamp: ', err)
-			}
-		)
-
-		const userName = userSnapshot.docs[0].data().username
-		navigate(`/profile/${userName}`, { state: userSnapshot.docs[0].data() })
 	}
 
 	return (
