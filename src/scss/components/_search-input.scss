@@ -1,14 +1,14 @@
 .search-input {
 	position: relative;
-	width: fit-content;
+	width: 100%;
 
-	& text-input {
-		padding-right: 3rem;
+	& .text-input {
+		padding-right: 2.6rem;
 	}
 
 	& .icon-button {
 		position: absolute;
-		top: 0.3rem;
-		right: 0.3rem;
+		top: 0.4rem;
+		right: 0.4rem;
 	}
 }

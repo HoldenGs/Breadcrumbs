@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
     "@mantine/core": "^5.7.1",
     "@mantine/hooks": "^5.7.1",
     "@testing-library/jest-dom": "^5.16.5",

@@ -1,5 +1,6 @@
 import { React, useState, useEffect } from 'react'
-import { Select, Rating } from '@mantine/core'
+import StyledSelect from './StyledSelect'
+import StyledRating from './StyledRating'
 
 import dataStore from '../helpers/dataStore'
 
@@ -57,7 +58,7 @@ export default function CourseCard({
 			{editable ? (
 				<>
 					<button onClick={removeCourseCard}>X</button>
-					<Select
+					<StyledSelect
 						placeholder="Department"
 						searchable
 						value={reviewInfo.department}
@@ -72,7 +73,7 @@ export default function CourseCard({
 						}}
 						data={departments}
 					/>
-					<Select
+					<StyledSelect
 						placeholder="Course Code"
 						searchable
 						value={reviewInfo.courseCode + ' — ' + reviewInfo.courseTitle}
@@ -93,7 +94,7 @@ export default function CourseCard({
 								: `Invalid course`
 						}
 					/>
-					<Select
+					<StyledSelect
 						placeholder="Professor"
 						searchable
 						value={reviewInfo.professor}
@@ -106,7 +107,7 @@ export default function CourseCard({
 						data={professors}
 						disabled={!professors.length}
 					/>
-					<Rating
+					<StyledRating
 						count={10}
 						value={reviewInfo.rating}
 						onChange={(newRating) =>
@@ -138,7 +139,7 @@ export default function CourseCard({
 						{' ' + reviewInfo.courseTitle}
 					</div>
 					<div>{reviewInfo.professor}</div>
-					<Rating count={10} value={reviewInfo.rating} readOnly />
+					<StyledRating count={10} value={reviewInfo.rating} readOnly />
 					<div>{reviewInfo.feelings}</div>
 				</>
 			)}

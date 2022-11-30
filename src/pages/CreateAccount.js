@@ -1,10 +1,9 @@
 import { useState, useEffect } from 'react'
-
-import { Select, MultiSelect } from '@mantine/core'
-
 import FullScreenContainer from '../components/FullScreenContainer'
 import TextInput from '../components/TextInput'
 import Button from '../components/Button'
+import StyledSelect from '../components/StyledSelect'
+import StyledMultiSelect from '../components/StyledMultiSelect'
 import useAuth from '../components/AuthContext'
 import { useNavigate } from 'react-router-dom'
 import { db } from '../firebase'
@@ -26,8 +25,8 @@ export default function CreateAccount() {
 		firstName: '',
 		lastName: '',
 		gradYear: '',
-		major: '',
-		minor: '',
+		majors: [],
+		minors: [],
 		username: '',
 		email: '',
 		password: '',
@@ -55,7 +54,7 @@ export default function CreateAccount() {
 		}))
 	}
 
-	// For Mantine Select components
+	// For Mantine Select and MultiSelect components
 	function handleSelectChange(name, value) {
 		setFormData((prevFormData) => ({
 			...prevFormData,
@@ -120,8 +119,8 @@ export default function CreateAccount() {
 			lastName: formData.lastName,
 			username: formData.username,
 			gradYear: formData.gradYear,
-			majors: formData.major,
-			minors: formData.minor,
+			majors: formData.majors,
+			minors: formData.minors,
 			email: formData.email,
 			createdAt: serverTimestamp(),
 			loggedIn: serverTimestamp(),
@@ -150,7 +149,6 @@ export default function CreateAccount() {
 		}
 
 		setLoading(false)
-		//navigate(`/profile/${formData.username}`)
 		navigate(`/profile/${formData.username}`, {
 			state: snapshot.data(),
 		})
@@ -183,7 +181,7 @@ export default function CreateAccount() {
 					handleChange={handleFormChange}
 					required={true}
 				/>
-				<Select
+				<StyledSelect
 					placeholder="Graduation Year"
 					searchable
 					nothingFound="Invalid Graduation Year"
@@ -191,26 +189,29 @@ export default function CreateAccount() {
 					value={formData.gradYear}
 					onChange={(value) => handleSelectChange('gradYear', value)}
 					required
+					dark
 				/>
-				<MultiSelect
+				<StyledMultiSelect
 					placeholder="Major"
 					searchable
 					nothingFound="Invalid Major"
 					data={majors}
-					value={formData.major}
-					onChange={(value) => handleSelectChange('major', value)}
+					value={formData.majors}
+					onChange={(value) => handleSelectChange('majors', value)}
 					required
 					maxSelectedValues={3}
+					dark
 				/>
-				<MultiSelect
+				<StyledMultiSelect
 					placeholder="Minor"
 					searchable
 					nothingFound="Invalid Minor"
 					data={minors}
-					value={formData.minor}
-					onChange={(value) => handleSelectChange('minor', value)}
+					value={formData.minors}
+					onChange={(value) => handleSelectChange('minors', value)}
 					required
 					maxSelectedValues={3}
+					dark
 				/>
 				<TextInput
 					name="username"
@@ -243,7 +244,7 @@ export default function CreateAccount() {
 					handleChange={handleFormChange}
 					required={true}
 				/>
-				<Button text="Create Account" disabled={loading} />
+				<Button text="Create Account" color="jet" disabled={loading} />
 			</form>
 			<Button text="Cancel" handleClick={handleCancel} disabled={loading} />
 		</FullScreenContainer>

@@ -6,11 +6,12 @@ export default function TextInput({
 	placeholder,
 	value,
 	handleChange,
+	color,
 	required,
 }) {
 	return (
 		<input
-			className="text-input"
+			className={'text-input' + (color ? ` text-input--${color}` : '')}
 			name={name}
 			type={type}
 			placeholder={placeholder}
@@ -27,6 +28,7 @@ TextInput.propTypes = {
 	placeholder: PropTypes.string.isRequired,
 	value: PropTypes.string.isRequired,
 	handleChange: PropTypes.func.isRequired,
+	color: PropTypes.string,
 	required: PropTypes.bool,
 }
 

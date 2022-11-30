@@ -1,11 +1,11 @@
 .header {
-	width: fit-content;
 	padding: 1rem;
 	background-color: var(--dough);
 
 	&__topbar {
 		display: flex;
 		gap: 1rem;
+		width: 100%;
 	}
 
 	&__icon {

@@ -12,9 +12,9 @@ html {
 body {
 	margin: 0;
 	padding: 0;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Lexend', sans-serif;
 	background-color: white;
-	color: black;
+	color: var(--jet);
 }
 
 button {
@@ -23,4 +23,8 @@ button {
 	font-family: inherit;
 	font-size: 1.25rem;
 	cursor: pointer;
+}
+
+input {
+	font-family: inherit;
 }

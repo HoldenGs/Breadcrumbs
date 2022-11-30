@@ -7,9 +7,10 @@ export default function SearchInput({ value, handleChange, handleClick }) {
 	return (
 		<div className="search-input">
 			<TextInput
-				name="search-input"
+				name="search"
 				placeholder="Search"
 				value={value}
+				color="dough"
 				handleChange={handleChange}
 			/>
 			{value && (

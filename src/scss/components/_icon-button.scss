@@ -2,16 +2,16 @@
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	height: 2rem;
-	width: 2rem;
+	height: 1.8rem;
+	width: 1.8rem;
 	border: 0.2rem solid var(--jet);
 	border-radius: 3px;
 	background-color: var(--dough);
+	transition: background-color 150ms ease;
 
 	&__image {
-		height: 1rem;
-		width: 1rem;
-		color: var(--jet);
+		height: 0.9rem;
+		width: 0.9rem;
 	}
 
 	&--logout {
@@ -22,5 +22,13 @@
 			height: 1.6rem;
 			width: 1.6rem;
 		}
+	}
+
+	&:hover {
+		background-color: var(--dough-dark1);
+	}
+
+	&:active {
+		background-color: var(--dough-dark2);
 	}
 }

@@ -3,6 +3,7 @@ import FullScreenContainer from '../components/FullScreenContainer'
 import TextInput from '../components/TextInput'
 import Button from '../components/Button'
 import useAuth from '../components/AuthContext'
+import StyledMultiSelect from '../components/StyledMultiSelect'
 import { useNavigate } from 'react-router-dom'
 import { db } from '../firebase'
 import {
@@ -21,6 +22,7 @@ export default function Login() {
 		password: '',
 	})
 	const [loading, setLoading] = useState(false)
+	const [minors, setMinors] = useState('')
 	const navigate = useNavigate()
 	const { login } = useAuth()
 
@@ -111,7 +113,7 @@ export default function Login() {
 					handleChange={handleFormChange}
 					required={true}
 				/>
-				<Button text="Login" disabled={loading} />
+				<Button text="Login" color="jet" disabled={loading} />
 			</form>
 			<p className="login__or">or</p>
 			<Button
