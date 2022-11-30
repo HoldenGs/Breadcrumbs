@@ -7,6 +7,12 @@
     "template": "remoteconfig.template.json"
   },
   "hosting": {
-    "public": "build"
+    "public": "build",
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
   }
 }
