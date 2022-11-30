@@ -131,6 +131,7 @@ export default function Login() {
 					value={formData.email}
 					handleChange={handleFormChange}
 					required={true}
+					autocomplete="email"
 				/>
 				<TextInput
 					type="password"
@@ -139,6 +140,7 @@ export default function Login() {
 					value={formData.password}
 					handleChange={handleFormChange}
 					required={true}
+					autocomplete="password"
 				/>
 				<Button text="Login" color="jet" disabled={loading} />
 			</form>

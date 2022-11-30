@@ -181,6 +181,7 @@ export default function CreateAccount() {
 					value={formData.firstName}
 					handleChange={handleFormChange}
 					required={true}
+					autocomplete="given-name"
 				/>
 				<TextInput
 					name="lastName"
@@ -188,6 +189,7 @@ export default function CreateAccount() {
 					value={formData.lastName}
 					handleChange={handleFormChange}
 					required={true}
+					autocomplete="family-name"
 				/>
 				<StyledSelect
 					placeholder="Graduation Year"
@@ -227,6 +229,7 @@ export default function CreateAccount() {
 					value={formData.username}
 					handleChange={handleFormChange}
 					required={true}
+					autocomplete="username"
 				/>
 				<TextInput
 					type="email"
@@ -235,6 +238,7 @@ export default function CreateAccount() {
 					value={formData.email}
 					handleChange={handleFormChange}
 					required={true}
+					autocomplete="email"
 				/>
 				<TextInput
 					type="password"
@@ -243,6 +247,7 @@ export default function CreateAccount() {
 					value={formData.password}
 					handleChange={handleFormChange}
 					required={true}
+					autocomplete="new-password"
 				/>
 				<TextInput
 					type="password"
@@ -251,6 +256,7 @@ export default function CreateAccount() {
 					value={formData.passwordConfirmation}
 					handleChange={handleFormChange}
 					required={true}
+					autocomplete="new-password"
 				/>
 				<Button text="Create Account" color="jet" disabled={loading} />
 			</form>
