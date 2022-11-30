@@ -34,7 +34,13 @@ export default function StyledSelect({ count, value, onChange, readOnly }) {
 	}
 
 	return (
-		<div style={{ display: 'flex', alignItems: 'center' }}>
+		<div
+			style={{
+				display: 'flex',
+				alignItems: 'center',
+				margin: '0.4rem 0.4rem 0.4rem -0.1rem',
+			}}
+		>
 			<SRating
 				count={count}
 				value={value}

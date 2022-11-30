@@ -1,6 +1,7 @@
 import React from 'react'
 import StyledSelect from './StyledSelect'
 import StyledRating from './StyledRating'
+import IconButton from './IconButton'
 
 export default function CourseCard({
 	editable,
@@ -15,30 +16,42 @@ export default function CourseCard({
 		<div className="course-card">
 			{editable ? (
 				<>
-					<button onClick={removeCourseCard}>X</button>
+					<div className="course-card__editable-course-info">
+						<StyledSelect
+							className="course-card__editable-department"
+							placeholder="Department"
+							value={reviewInfo.department}
+							onChange={(newDepartment) =>
+								handleReviewChange({
+									...reviewInfo,
+									department: newDepartment,
+								})
+							}
+							data={['COM SCI', 'MATH', 'PHYSICS', 'PSYCH']}
+						/>
+						<StyledSelect
+							className="course-card__editable-course"
+							placeholder="Course"
+							value={reviewInfo.courseCode}
+							onChange={(newCourseCode) =>
+								handleReviewChange({
+									...reviewInfo,
+									courseCode: newCourseCode,
+								})
+							}
+							data={['35L', '200', '300']}
+						/>
+						<IconButton
+							type="remove-course"
+							iconURL="/icons/icons8-close.svg"
+							alt="Remove Course"
+							handleClick={removeCourseCard}
+						>
+							X
+						</IconButton>
+					</div>
 					<StyledSelect
-						placeholder="Department"
-						value={reviewInfo.department}
-						onChange={(newDepartment) =>
-							handleReviewChange({
-								...reviewInfo,
-								department: newDepartment,
-							})
-						}
-						data={['COM SCI', 'MATH', 'PHYSICS', 'PSYCH']}
-					/>
-					<StyledSelect
-						placeholder="Course Code"
-						value={reviewInfo.courseCode}
-						onChange={(newCourseCode) =>
-							handleReviewChange({
-								...reviewInfo,
-								courseCode: newCourseCode,
-							})
-						}
-						data={['35L', '200', '300']}
-					/>
-					<StyledSelect
+						className="course-card__editable-professor"
 						placeholder="Professor"
 						value={reviewInfo.professor}
 						onChange={(newProfessor) =>
@@ -55,6 +68,7 @@ export default function CourseCard({
 						]}
 					/>
 					<StyledRating
+						className="course-card__editable-rating"
 						count={10}
 						value={reviewInfo.rating}
 						onChange={(newRating) =>
@@ -65,9 +79,8 @@ export default function CourseCard({
 						}
 					/>
 					<textarea
+						className="course-card__editable-feelings"
 						placeholder="Express your feelings for the course here..."
-						rows="4"
-						cols="36"
 						value={reviewInfo.feelings}
 						onChange={(e) =>
 							handleReviewChange({
@@ -79,15 +92,24 @@ export default function CourseCard({
 				</>
 			) : (
 				<>
-					<div>
+					<div className="course-card__viewable-title">
 						<strong>
 							{reviewInfo.department + ' ' + reviewInfo.courseCode}
 						</strong>
 						{' ' + reviewInfo.courseTitle}
 					</div>
-					<div>{reviewInfo.professor}</div>
-					<StyledRating count={10} value={reviewInfo.rating} readOnly />
-					<div>{reviewInfo.feelings}</div>
+					<div className="course-card__viewable-professor">
+						{reviewInfo.professor}
+					</div>
+					<StyledRating
+						className="course-card__viewable-rating"
+						count={10}
+						value={reviewInfo.rating}
+						readOnly
+					/>
+					<div className="course-card__viewable-feelings">
+						{reviewInfo.feelings}
+					</div>
 				</>
 			)}
 		</div>

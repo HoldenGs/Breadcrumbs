@@ -4,7 +4,6 @@ import styled from '@emotion/styled'
 
 const SMultiSelect = styled(MultiSelect)`
 	& .mantine-MultiSelect-input {
-		width: 100%;
 		padding-inline: 0.5rem;
 		background-color: ${(props) =>
 			props.dark ? 'var(--tan)' : 'var(--dough)'};
@@ -46,6 +45,7 @@ const SMultiSelect = styled(MultiSelect)`
 `
 
 export default function StyledMultiSelect({
+	className,
 	placeholder,
 	value,
 	onChange,
@@ -66,6 +66,7 @@ export default function StyledMultiSelect({
 
 	return (
 		<SMultiSelect
+			className={className}
 			ref={inputRef}
 			placeholder={placeholder}
 			searchable
