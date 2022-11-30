@@ -10,8 +10,8 @@ import useAuth from '../components/AuthContext'
 export default function Following() {
 	const navigate = useNavigate()
 	const location = useLocation()
-  const { currentUser } = useAuth()
-  
+	const { currentUser } = useAuth()
+
 	const [following, setFollowing] = useState([])
 	const [id, setID] = useState(location.state ? location.state.userID : null)
 
@@ -46,7 +46,7 @@ export default function Following() {
 		}
 		return following.map((user) => (
 			<ProfileCard
-        key={user.userID}
+				key={user.userID}
 				name={user.firstName + ' ' + user.lastName}
 				gradYear={user.gradYear}
 				majors={user.majors}

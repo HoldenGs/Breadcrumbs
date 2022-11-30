@@ -1,6 +1,47 @@
 .quarter {
-	margin: 1rem;
-	width: 28rem;
-	border: 0.15rem solid var(--jet);
-	border-radius: 0.25rem;
+	margin: 2rem auto;
+	width: 85%;
+	background-color: var(--dough);
+	color: var(--jet);
+
+	&__name {
+		margin-bottom: 0.75rem;
+		font-size: 1.5rem;
+		font-family: 'Lexend', sans-serif;
+		font-weight: bold;
+	}
+
+	&__reviews {
+		border: 0.2rem solid var(--jet);
+		border-radius: 3px;
+	}
+
+	&__viewable-no-reviews {
+		padding: 0.4rem;
+	}
+
+	&__editable-no-reviews {
+		border-bottom: 0.2rem solid var(--jet);
+		padding: 0.4rem;
+	}
+
+	&__add-course {
+		background: none;
+		border-radius: 0px;
+		color: var(--jet);
+		font-size: 1rem;
+		font-family: 'Lexend', sans-serif;
+		padding: 0.4rem 0;
+		text-align: center;
+		width: 100%;
+		transition: background-color 150ms ease;
+
+		&:hover {
+			background-color: var(--dough-dark1);
+		}
+
+		&:active {
+			background-color: var(--dough-dark2);
+		}
+	}
 }

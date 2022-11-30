@@ -12,7 +12,7 @@ export default function StyledSelect({ count, value, onChange, readOnly }) {
 	const [liveValue, setLiveValue] = useState(value)
 	useEffect(() => {
 		liveValue === -1 && setLiveValue(value)
-	}, [liveValue])
+	}, [liveValue, value])
 
 	const RatingCrumb = () => {
 		return (
@@ -34,7 +34,13 @@ export default function StyledSelect({ count, value, onChange, readOnly }) {
 	}
 
 	return (
-		<div style={{ display: 'flex', alignItems: 'center' }}>
+		<div
+			style={{
+				display: 'flex',
+				alignItems: 'center',
+				margin: '0.4rem 0.4rem 0.4rem -0.1rem',
+			}}
+		>
 			<SRating
 				count={count}
 				value={value}

@@ -23,17 +23,25 @@ export default function Quarter({
 	}
 
 	return (
-		<div className="quarter" hidden={!editable && !reviews.length}>
-			<div>{name}</div>
-			{reviews.map((review) => (
-				<CourseCard
-					key={review.reviewID}
-					editable={editable}
-					reviewInfo={review}
-					handleReviewChange={handleReviewChange}
-				/>
-			))}
-			{editable && <button onClick={addCourseCard}>Add course</button>}
-		</div>
+		(editable || reviews) && (
+			<div className="quarter" hidden={!editable && !reviews.length}>
+				<div className="quarter__name">{name}</div>
+				<div className="quarter__reviews">
+					{reviews.map((review) => (
+						<CourseCard
+							key={review.reviewID}
+							editable={editable}
+							reviewInfo={review}
+							handleReviewChange={handleReviewChange}
+						/>
+					))}
+					{editable && (
+						<button className="quarter__add-course" onClick={addCourseCard}>
+							Add course
+						</button>
+					)}
+				</div>
+			</div>
+		)
 	)
 }

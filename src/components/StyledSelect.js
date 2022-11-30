@@ -5,7 +5,6 @@ import styled from '@emotion/styled'
 const SSelect = styled(Select)`
 	& .mantine-Select-input {
 		height: 2.6rem;
-		width: 100%;
 		padding-inline: 0.5rem;
 		background-color: ${(props) =>
 			props.dark ? 'var(--tan)' : 'var(--dough)'};
@@ -36,6 +35,7 @@ const SSelect = styled(Select)`
 `
 
 export default function StyledSelect({
+	className,
 	placeholder,
 	value,
 	onChange,
@@ -47,6 +47,7 @@ export default function StyledSelect({
 }) {
 	return (
 		<SSelect
+			className={className}
 			placeholder={placeholder}
 			searchable
 			value={value}

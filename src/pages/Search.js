@@ -75,7 +75,7 @@ export default function Search() {
 		.slice(0, numProfiles)
 		.map(({ userID, username, name, gradYear, majors, latestReview }) => (
 			<ProfileCard
-        key={userID}
+				key={userID}
 				name={name}
 				gradYear={gradYear}
 				majors={majors}

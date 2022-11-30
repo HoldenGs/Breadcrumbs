@@ -1,6 +1,7 @@
 import { React, useState, useEffect } from 'react'
 import StyledSelect from './StyledSelect'
 import StyledRating from './StyledRating'
+import IconButton from './IconButton'
 
 import dataStore from '../helpers/dataStore'
 
@@ -57,45 +58,57 @@ export default function CourseCard({
 		<div className="course-card">
 			{editable ? (
 				<>
-					<button onClick={removeCourseCard}>X</button>
-					<StyledSelect
-						placeholder="Department"
-						searchable
-						value={reviewInfo.department}
-						onChange={(newDepartment) => {
-							handleReviewChange({
-								...reviewInfo,
-								department: newDepartment,
-								courseCode: '',
-								courseTitle: '',
-								professor: '',
-							})
-						}}
-						data={departments}
-					/>
-					<StyledSelect
-						placeholder="Course Code"
-						searchable
-						value={reviewInfo.courseCode + ' — ' + reviewInfo.courseTitle}
-						onChange={(newCourse) => {
-							const [code, title] = newCourse.split(' — ')
+					<div className="course-card__editable-course-info">
+						<StyledSelect
+							className="course-card__editable-department"
+							placeholder="Department"
+							searchable
+							value={reviewInfo.department}
+							onChange={(newDepartment) => {
+								handleReviewChange({
+									...reviewInfo,
+									department: newDepartment,
+									courseCode: '',
+									courseTitle: '',
+									professor: '',
+								})
+							}}
+							data={departments}
+						/>
+						<StyledSelect
+							className="course-card__editable-course"
+							placeholder="Course Code"
+							searchable
+							value={reviewInfo.courseCode + ' — ' + reviewInfo.courseTitle}
+							onChange={(newCourse) => {
+								const [code, title] = newCourse.split(' — ')
 
-							handleReviewChange({
-								...reviewInfo,
-								courseCode: code,
-								courseTitle: title,
-								professor: '',
-							})
-						}}
-						data={[...new Set(courses.map((c) => c.code + ' — ' + c.title))]}
-						nothingFound={(() => {
-							if (!reviewInfo.department) return 'No department selected'
-							if (!courses.length)
-								return `No ${reviewInfo.department} courses in ${reviewInfo.quarter}`
-							return 'Invalid course'
-						})()}
-					/>
+								handleReviewChange({
+									...reviewInfo,
+									courseCode: code,
+									courseTitle: title,
+									professor: '',
+								})
+							}}
+							data={[...new Set(courses.map((c) => c.code + ' — ' + c.title))]}
+							nothingFound={(() => {
+								if (!reviewInfo.department) return 'No department selected'
+								if (!courses.length)
+									return `No ${reviewInfo.department} courses in ${reviewInfo.quarter}`
+								return 'Invalid course'
+							})()}
+						/>
+						<IconButton
+							type="remove-course"
+							iconURL="/icons/icons8-close.svg"
+							alt="Remove Course"
+							handleClick={removeCourseCard}
+						>
+							X
+						</IconButton>
+					</div>
 					<StyledSelect
+						className="course-card__editable-professor"
 						placeholder="Professor"
 						searchable
 						value={reviewInfo.professor}
@@ -109,6 +122,7 @@ export default function CourseCard({
 						disabled={!professors.length}
 					/>
 					<StyledRating
+						className="course-card__editable-rating"
 						count={10}
 						value={reviewInfo.rating}
 						onChange={(newRating) =>
@@ -119,9 +133,8 @@ export default function CourseCard({
 						}
 					/>
 					<textarea
+						className="course-card__editable-feelings"
 						placeholder="Express your feelings for the course here..."
-						rows="4"
-						cols="36"
 						value={reviewInfo.feelings}
 						onChange={(e) =>
 							handleReviewChange({
@@ -133,15 +146,24 @@ export default function CourseCard({
 				</>
 			) : (
 				<>
-					<div>
+					<div className="course-card__viewable-title">
 						<strong>
 							{reviewInfo.department + ' ' + reviewInfo.courseCode}
 						</strong>
 						{' ' + reviewInfo.courseTitle}
 					</div>
-					<div>{reviewInfo.professor}</div>
-					<StyledRating count={10} value={reviewInfo.rating} readOnly />
-					<div>{reviewInfo.feelings}</div>
+					<div className="course-card__viewable-professor">
+						{reviewInfo.professor}
+					</div>
+					<StyledRating
+						className="course-card__viewable-rating"
+						count={10}
+						value={reviewInfo.rating}
+						readOnly
+					/>
+					<div className="course-card__viewable-feelings">
+						{reviewInfo.feelings}
+					</div>
 				</>
 			)}
 		</div>
