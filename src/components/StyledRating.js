@@ -12,7 +12,7 @@ export default function StyledSelect({ count, value, onChange, readOnly }) {
 	const [liveValue, setLiveValue] = useState(value)
 	useEffect(() => {
 		liveValue === -1 && setLiveValue(value)
-	}, [liveValue])
+	}, [liveValue, value])
 
 	const RatingCrumb = () => {
 		return (

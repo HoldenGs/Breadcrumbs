@@ -12,15 +12,23 @@ import {
 	where,
 	doc,
 	updateDoc,
+	arrayRemove,
+	arrayUnion,
 } from 'firebase/firestore'
 
-export default function UserInfo({ username, editable }) {
-	let years = new Map([
-		['2023', '4th Year'],
-		['2024', '3rd Year'],
-		['2025', '2nd Year'],
-		['2026', '1st Year'],
-	])
+const YEARS = {
+	2023: '4th Year',
+	2024: '3rd Year',
+	2025: '2nd Year',
+	2026: '1st Year',
+}
+
+export default function UserInfo({
+	username,
+	editable,
+	loggedInUserFollowing,
+	setLoggedInUserFollowing,
+}) {
 	const { currentUser } = useAuth()
 	const [info, setInfo] = useState({
 		firstName: '',
@@ -33,9 +41,6 @@ export default function UserInfo({ username, editable }) {
 		username: '',
 		docID: '',
 	})
-
-	const renderListMajor = listMajor(info.majors)
-	const renderListMinor = listMinor(info.minors)
 
 	const [majors, setMajors] = useState([])
 	const [minors, setMinors] = useState([])
@@ -70,13 +75,15 @@ export default function UserInfo({ username, editable }) {
 				username: profileUser.username,
 				majors: profileUser.majors,
 				minors: profileUser.minors,
-				loggedInUserFollowing: profileUser.followers.includes(currentUser.uid),
+				loggedInUserFollowing: currentUser
+					? profileUser.followers.includes(currentUser.uid)
+					: false,
 				docID,
 			}))
 		}
 
 		if (!info.userId) fetchData()
-	}, [info.userId, currentUser.uid, username])
+	}, [info.userId, currentUser, username])
 
 	function setProperty(event) {
 		const { name, value } = event.target
@@ -91,6 +98,32 @@ export default function UserInfo({ username, editable }) {
 		})
 	}
 
+	function follow() {
+		if (!currentUser || currentUser.uid === info.userId) return
+
+		return (
+			<button onClick={() => handleFollowButton()}>
+				{loggedInUserFollowing ? 'Unfollow' : 'Follow'}
+			</button>
+		)
+	}
+
+	function handleFollowButton() {
+		const ref = doc(db, 'user', info.docID)
+
+		if (loggedInUserFollowing) {
+			updateDoc(ref, {
+				followers: arrayRemove(currentUser.uid.toString()),
+			})
+		} else {
+			updateDoc(ref, {
+				followers: arrayUnion(currentUser.uid.toString()),
+			})
+		}
+
+		setLoggedInUserFollowing(!loggedInUserFollowing)
+	}
+
 	function handleSelectChange(name, value) {
 		setInfo((prevFormData) => ({
 			...prevFormData,
@@ -103,17 +136,19 @@ export default function UserInfo({ username, editable }) {
 		})
 	}
 
-	function listMajor(majors) {
-		if (!majors || majors.length === 0) return
+	function listMajors() {
+		if (!info.majors?.length) return
 
-		return <div className="user-info__name">{`${majors.join(', ')}`}</div>
+		return <div className="user-info__name">{`${info.majors.join(', ')}`}</div>
 	}
 
-	function listMinor(minors) {
-		if (!minors || minors.length === 0) return
+	function listMinors() {
+		if (!info.minors?.length) return
 
 		return (
-			<div className="user-info__name">{`Minor: ${minors.join(', ')}`}</div>
+			<div className="user-info__name">{`Minor: ${info.minors.join(
+				', '
+			)}`}</div>
 		)
 	}
 
@@ -145,9 +180,9 @@ export default function UserInfo({ username, editable }) {
 					<StyledSelect
 						name="year"
 						placeholder="Graduation Year"
-						value={info.year}
+						value={info.gradYear}
 						onChange={(value) => handleSelectChange('gradYear', value)}
-						data={['2023', '2024', '2025', '2026']}
+						data={Object.keys(YEARS)}
 					/>
 					<StyledMultiSelect
 						placeholder="Major"
@@ -174,18 +209,19 @@ export default function UserInfo({ username, editable }) {
 				<>
 					<div className="user-info__name">{`${info.firstName} ${info.lastName}`}</div>
 					<div className="user-info__name">{`@${info.username}`}</div>
-					{renderListMajor}
-					{renderListMinor}
-					<div className="user-info__year">{years.get(info.gradYear)}</div>
+					{listMajors()}
+					{listMinors()}
+					<div className="user-info__year">{YEARS[info.gradYear]}</div>
 					<button
 						onClick={() => {
 							navigator.clipboard.writeText(
-								`${window.location.host}/profile/${username}`
+								`${window.location.origin}/${username}`
 							)
 						}}
 					>
 						Share
 					</button>
+					{follow()}
 				</>
 			)}
 		</div>

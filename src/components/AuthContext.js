@@ -1,4 +1,5 @@
 import React, { useContext, useState, useEffect } from 'react'
+import { Outlet } from 'react-router-dom'
 import {
 	signInWithEmailAndPassword,
 	createUserWithEmailAndPassword,
@@ -18,7 +19,10 @@ export function AuthProvider({ children }) {
 	const [loading, setLoading] = useState(true)
 
 	function signup(email, password) {
-		return createUserWithEmailAndPassword(auth, email, password)
+		//todo: change this alert
+		if (!email) alert('Enter a valid email')
+		else if (!password) alert('Enter a valid password')
+		else return createUserWithEmailAndPassword(auth, email, password)
 	}
 
 	function login(email, password) {
@@ -26,6 +30,7 @@ export function AuthProvider({ children }) {
 	}
 
 	function logout() {
+		setCurrentUser()
 		return signOut(auth)
 	}
 
@@ -62,7 +67,7 @@ export function AuthProvider({ children }) {
 
 	return (
 		<AuthContext.Provider value={value}>
-			{!loading && children}
+			{!loading && <Outlet />}
 		</AuthContext.Provider>
 	)
 }

@@ -1,7 +1,8 @@
-import React, { useEffect } from 'react'
+import React from 'react'
 import CourseCard from './CourseCard'
 
 export default function Quarter({
+	userID,
 	name,
 	editable,
 	reviews,
@@ -9,48 +10,38 @@ export default function Quarter({
 }) {
 	function addCourseCard() {
 		handleReviewChange({
-			reviewID: Math.random(),
-			userID: '1234567890',
-			creationDate: 'November 21, 2022 at 12:00:00 AM UTC-8',
+			reviewID: Math.random().toString() + Date.now(),
+			userID: userID,
 			department: '',
 			courseCode: '',
 			courseTitle: '',
 			professor: '',
 			quarter: name,
-			startDate: '2022-9-19',
 			rating: 0,
 			feelings: '',
 		})
 	}
 
 	return (
-		<div className="quarter">
-			<div className="quarter__name">{name}</div>
-			<div className="quarter__reviews">
-				{reviews.length !== 0 ? (
-					reviews.map((review) => (
+		(editable || reviews) && (
+			<div className="quarter" hidden={!editable && !reviews.length}>
+				<div className="quarter__name">{name}</div>
+				<div className="quarter__reviews">
+					{reviews.map((review) => (
 						<CourseCard
 							key={review.reviewID}
 							editable={editable}
 							reviewInfo={review}
 							handleReviewChange={handleReviewChange}
 						/>
-					))
-				) : (
-					<div
-						className={`quarter__${
-							editable ? 'editable' : 'viewable'
-						}-no-reviews`}
-					>
-						No reviews for this quarter.
-					</div>
-				)}
-				{editable && (
-					<button className="quarter__add-course" onClick={addCourseCard}>
-						Add course
-					</button>
-				)}
+					))}
+					{editable && (
+						<button className="quarter__add-course" onClick={addCourseCard}>
+							Add course
+						</button>
+					)}
+				</div>
 			</div>
-		</div>
+		)
 	)
 }

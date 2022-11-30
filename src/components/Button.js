@@ -1,8 +1,12 @@
 import PropTypes from 'prop-types'
 
-export default function Button({ text, handleClick, color , disabled}) {
+export default function Button({ text, handleClick, color, disabled }) {
 	return (
-		<button className={"button" + (color ? ` button--${color}` : "")} onClick={handleClick} disabled={disabled}>
+		<button
+			className={'button' + (color ? ` button--${color}` : '')}
+			onClick={handleClick}
+			disabled={disabled}
+		>
 			{text}
 		</button>
 	)

@@ -1,16 +1,58 @@
-import React from 'react'
+import { React, useState, useEffect } from 'react'
 import StyledSelect from './StyledSelect'
 import StyledRating from './StyledRating'
 import IconButton from './IconButton'
+
+import dataStore from '../helpers/dataStore'
 
 export default function CourseCard({
 	editable,
 	reviewInfo,
 	handleReviewChange,
 }) {
+	const [quarterCode, setQuarterCode] = useState(null)
+	const [departments, setDepts] = useState([])
+	const [courses, setCourses] = useState([])
+	const [professors, setProfs] = useState([])
+
+	useEffect(() => {
+		if (!editable) return
+
+		dataStore.quarters().then((quarters) => {
+			const { short } = quarters.find((quarter) => {
+				return quarter.long === reviewInfo.quarter
+			})
+
+			setQuarterCode(short)
+		})
+
+		dataStore.departments().then(setDepts)
+	}, [editable, reviewInfo.quarter])
+
 	function removeCourseCard() {
 		handleReviewChange(reviewInfo, true)
 	}
+
+	// on department change, fetch classes for that department and set profs to []
+	useEffect(() => {
+		if (!departments.length || !quarterCode) return
+
+		setProfs([])
+
+		if (reviewInfo.department)
+			dataStore.classes(quarterCode, reviewInfo.department).then(setCourses)
+	}, [departments, quarterCode, reviewInfo.department])
+
+	// on course change, fetch profs for that course
+	useEffect(() => {
+		if (!courses.length || !reviewInfo.courseCode) return
+
+		setProfs(
+			courses
+				.filter((c) => c.code === reviewInfo.courseCode)
+				.map((c) => c.professor)
+		)
+	}, [courses, reviewInfo.courseCode])
 
 	return (
 		<div className="course-card">
@@ -20,26 +62,41 @@ export default function CourseCard({
 						<StyledSelect
 							className="course-card__editable-department"
 							placeholder="Department"
+							searchable
 							value={reviewInfo.department}
-							onChange={(newDepartment) =>
+							onChange={(newDepartment) => {
 								handleReviewChange({
 									...reviewInfo,
 									department: newDepartment,
+									courseCode: '',
+									courseTitle: '',
+									professor: '',
 								})
-							}
-							data={['COM SCI', 'MATH', 'PHYSICS', 'PSYCH']}
+							}}
+							data={departments}
 						/>
 						<StyledSelect
 							className="course-card__editable-course"
-							placeholder="Course"
-							value={reviewInfo.courseCode}
-							onChange={(newCourseCode) =>
+							placeholder="Course Code"
+							searchable
+							value={reviewInfo.courseCode + ' — ' + reviewInfo.courseTitle}
+							onChange={(newCourse) => {
+								const [code, title] = newCourse.split(' — ')
+
 								handleReviewChange({
 									...reviewInfo,
-									courseCode: newCourseCode,
+									courseCode: code,
+									courseTitle: title,
+									professor: '',
 								})
-							}
-							data={['35L', '200', '300']}
+							}}
+							data={[...new Set(courses.map((c) => c.code + ' — ' + c.title))]}
+							nothingFound={(() => {
+								if (!reviewInfo.department) return 'No department selected'
+								if (!courses.length)
+									return `No ${reviewInfo.department} courses in ${reviewInfo.quarter}`
+								return 'Invalid course'
+							})()}
 						/>
 						<IconButton
 							type="remove-course"
@@ -53,6 +110,7 @@ export default function CourseCard({
 					<StyledSelect
 						className="course-card__editable-professor"
 						placeholder="Professor"
+						searchable
 						value={reviewInfo.professor}
 						onChange={(newProfessor) =>
 							handleReviewChange({
@@ -60,12 +118,8 @@ export default function CourseCard({
 								professor: newProfessor,
 							})
 						}
-						data={[
-							'Smallberg, D.A.',
-							'Nachenberg, C.S.',
-							'Nowatzki, A.J.',
-							'Eggert, P.R.',
-						]}
+						data={professors}
+						disabled={!professors.length}
 					/>
 					<StyledRating
 						className="course-card__editable-rating"

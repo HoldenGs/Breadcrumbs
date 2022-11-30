@@ -12,7 +12,6 @@ import {
 	where,
 	query,
 	getDocs,
-	getDoc,
 	collection,
 	addDoc,
 	serverTimestamp,
@@ -39,6 +38,8 @@ export default function CreateAccount() {
 	const gradYears = ['2023', '2024', '2025', '2026']
 	const [majors, setMajors] = useState([])
 	const [minors, setMinors] = useState([])
+
+	const [error, setError] = useState('')
 
 	useEffect(() => {
 		dataStore.majors().then(setMajors)
@@ -71,31 +72,27 @@ export default function CreateAccount() {
 		setLoading(true)
 
 		if (formData.password !== formData.passwordConfirmation) {
-			// check if want to send an alert() message
-			alert('Passwords do not match')
-			return
+			setError("Passwords don't match")
+			return setLoading(false)
 		}
 
-		// get user object from db
+		// check if username exists
 		const userQuery = query(
 			collection(db, 'user'),
 			where('username', '==', formData.username)
 		)
 
-		// check if email or username already exists
 		let userSnapshot
 		try {
 			userSnapshot = await getDocs(userQuery)
 		} catch (err) {
-			console.error('error getting user snapshot: ', err)
-			return
+			setError(err.message)
+			return setLoading(false)
 		}
 
 		if (!userSnapshot.empty) {
-			console.error(
-				'error: username already chosen. Choose a different username'
-			)
-			return
+			setError('Username already chosen. Please choose a different username.')
+			return setLoading(false)
 		}
 
 		// create user with firebase auth
@@ -103,54 +100,53 @@ export default function CreateAccount() {
 		try {
 			userCredential = await signup(formData.email, formData.password)
 		} catch (err) {
-			console.error(err)
-			alert(err.message)
-			return
+			switch (err.code) {
+				case 'auth/email-already-in-use':
+					setError(
+						'This email is already in use. Please use another email or login.'
+					)
+					break
+				case 'auth/weak-password':
+					setError('Your password is weak. Like you.')
+					break
+				default:
+					setError('Unknown error occurred. Please try again later.')
+					console.error('Unknown error while creating account', err)
+					break
+			}
+
+			return setLoading(false)
 		}
 
 		if (!userCredential || !userCredential.user) {
-			console.error('error: no user login credential returned')
-			return
+			setError('Failed to create account. Please try again later.')
+			return setLoading(false)
 		}
 
 		// create user database entry
-		const docRef = await addDoc(collection(db, 'user'), {
-			firstName: formData.firstName,
-			lastName: formData.lastName,
-			username: formData.username,
-			gradYear: formData.gradYear,
-			majors: formData.majors,
-			minors: formData.minors,
-			email: formData.email,
-			createdAt: serverTimestamp(),
-			loggedIn: serverTimestamp(),
-			followers: arrayUnion(),
-			userID: userCredential.user.uid,
-		}).catch((err) => {
-			console.error(err)
-		})
-
-		if (!docRef) {
-			console.error('error: no user login snapshot returned')
-			return
-		}
-
-		let snapshot
 		try {
-			snapshot = await getDoc(docRef)
+			await addDoc(collection(db, 'user'), {
+				firstName: formData.firstName,
+				lastName: formData.lastName,
+				username: formData.username,
+				gradYear: formData.gradYear,
+				majors: formData.majors,
+				minors: formData.minors,
+				email: formData.email,
+				createdAt: serverTimestamp(),
+				loggedIn: serverTimestamp(),
+				followers: arrayUnion(),
+				userID: userCredential.user.uid,
+			})
 		} catch (err) {
-			console.error(err)
-			return
-		}
-
-		if (!snapshot || !snapshot.exists()) {
-			console.error('error: no user login snapshot returned')
-			return
+			console.error('Error creating user db entry', err)
+			setError('Failed to create account. Please try again later.')
+			return setLoading(false)
 		}
 
 		setLoading(false)
-		navigate(`/profile/${formData.username}`, {
-			state: snapshot.data(),
+		navigate(`/${formData.username}/profile`, {
+			state: { userID: userCredential.user.uid },
 		})
 	}
 
@@ -173,6 +169,7 @@ export default function CreateAccount() {
 					value={formData.firstName}
 					handleChange={handleFormChange}
 					required={true}
+					autocomplete="given-name"
 				/>
 				<TextInput
 					name="lastName"
@@ -180,6 +177,7 @@ export default function CreateAccount() {
 					value={formData.lastName}
 					handleChange={handleFormChange}
 					required={true}
+					autocomplete="family-name"
 				/>
 				<StyledSelect
 					placeholder="Graduation Year"
@@ -188,7 +186,7 @@ export default function CreateAccount() {
 					data={gradYears}
 					value={formData.gradYear}
 					onChange={(value) => handleSelectChange('gradYear', value)}
-					required
+					required={true}
 					dark
 				/>
 				<StyledMultiSelect
@@ -198,7 +196,7 @@ export default function CreateAccount() {
 					data={majors}
 					value={formData.majors}
 					onChange={(value) => handleSelectChange('majors', value)}
-					required
+					required={true}
 					maxSelectedValues={3}
 					dark
 				/>
@@ -209,7 +207,7 @@ export default function CreateAccount() {
 					data={minors}
 					value={formData.minors}
 					onChange={(value) => handleSelectChange('minors', value)}
-					required
+					required={false}
 					maxSelectedValues={3}
 					dark
 				/>
@@ -219,6 +217,7 @@ export default function CreateAccount() {
 					value={formData.username}
 					handleChange={handleFormChange}
 					required={true}
+					autocomplete="username"
 				/>
 				<TextInput
 					type="email"
@@ -227,6 +226,7 @@ export default function CreateAccount() {
 					value={formData.email}
 					handleChange={handleFormChange}
 					required={true}
+					autocomplete="email"
 				/>
 				<TextInput
 					type="password"
@@ -235,6 +235,7 @@ export default function CreateAccount() {
 					value={formData.password}
 					handleChange={handleFormChange}
 					required={true}
+					autocomplete="new-password"
 				/>
 				<TextInput
 					type="password"
@@ -243,15 +244,14 @@ export default function CreateAccount() {
 					value={formData.passwordConfirmation}
 					handleChange={handleFormChange}
 					required={true}
+					autocomplete="new-password"
 				/>
-				<Button
-					text="Create Account"
-					handleClick={handleCreateAccount}
-					color="jet"
-					disabled={loading}
-				/>
+				<Button text="Create Account" color="jet" disabled={loading} />
 			</form>
 			<Button text="Cancel" handleClick={handleCancel} disabled={loading} />
+			<div style={{ color: 'red' }} hidden={!error}>
+				{error}
+			</div>
 		</FullScreenContainer>
 	)
 }

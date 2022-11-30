@@ -1,10 +1,36 @@
 .nav-button {
-	padding: 0.2rem 0.4rem;
-	font-size: 1.25rem;
-	text-align: center;
-	color: var(--crust);
+	display: flex;
+	align-items: center;
+	gap: 0.2rem;
+	font-weight: 300;
+	transition: font-weight 50ms ease;
 
-	&.active {
-		font-weight: 700;
+	&:hover {
+		font-weight: 400;
+	}
+
+	&__breadcrumb {
+		width: 0.6rem;
+		height: 0.6rem;
+		border-radius: 2px;
+		background-color: var(--dough);
+	}
+
+	&__text {
+		margin: 0 0.2rem;
+		font-size: 1.25rem;
+		font-weight: inherit;
+		text-align: center;
+		color: var(--crust);
+	}
+
+	&--custom-active {
+		& .nav-button__breadcrumb {
+			background-color: var(--crust);
+		}
+
+		& .nav-button__text {
+			font-weight: 700;
+		}
 	}
 }

@@ -1,11 +1,24 @@
 .header {
-	padding: 1rem;
+	display: flex;
+	flex-direction: column;
+	gap: 1.5rem;
+	padding-bottom: 1.5rem;
 	background-color: var(--dough);
+
+	@media (min-width: 700px) {
+		flex-direction: row;
+		gap: 3rem;
+		padding-bottom: 0;
+	}
 
 	&__topbar {
 		display: flex;
 		gap: 1rem;
 		width: 100%;
+
+		@media (min-width: 700px) {
+			width: 30%;
+		}
 	}
 
 	&__icon {
@@ -15,7 +28,10 @@
 	&__navbar {
 		display: flex;
 		justify-content: center;
-		gap: 1rem;
-		margin-block: 1.25rem;
+		gap: 1.5rem;
+
+		@media (min-width: 700px) {
+			width: calc(70% - 3rem);
+		}
 	}
 }

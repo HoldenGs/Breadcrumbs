@@ -8,7 +8,7 @@ const SSelect = styled(Select)`
 		padding-inline: 0.5rem;
 		background-color: ${(props) =>
 			props.dark ? 'var(--tan)' : 'var(--dough)'};
-		border: 0.2rem solid var(--jet);
+		border: 0.15rem solid var(--jet);
 		border-radius: 3px;
 		color: var(--jet);
 		font-size: 1rem;
@@ -43,6 +43,7 @@ export default function StyledSelect({
 	data,
 	required,
 	dark,
+	disabled,
 }) {
 	return (
 		<SSelect
@@ -55,6 +56,7 @@ export default function StyledSelect({
 			data={data}
 			required={required}
 			dark={dark}
+			disabled={disabled}
 		/>
 	)
 }

@@ -1,9 +1,8 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import FullScreenContainer from '../components/FullScreenContainer'
 import TextInput from '../components/TextInput'
 import Button from '../components/Button'
 import useAuth from '../components/AuthContext'
-import StyledMultiSelect from '../components/StyledMultiSelect'
 import { useNavigate } from 'react-router-dom'
 import { db } from '../firebase'
 import {
@@ -22,9 +21,55 @@ export default function Login() {
 		password: '',
 	})
 	const [loading, setLoading] = useState(false)
-	const [minors, setMinors] = useState('')
+	const [error, setError] = useState('')
 	const navigate = useNavigate()
-	const { login } = useAuth()
+	const { login, currentUser } = useAuth()
+
+	useEffect(() => {
+		const navigateIfLoggedIn = async () => {
+			if (currentUser) {
+				const user = currentUser
+
+				// get user object from db
+				const userQuery = query(
+					collection(db, 'user'),
+					where('userID', '==', user.uid)
+				)
+
+				let userSnapshot
+				try {
+					userSnapshot = await getDocs(userQuery)
+				} catch (err) {
+					setError(err.toString())
+					setLoading(false)
+					return
+				}
+
+				if (!userSnapshot || !userSnapshot.docs[0]) {
+					setError('error: no user login snapshot returned')
+					setLoading(false)
+					return
+				}
+
+				const userId = userSnapshot.docs[0].id
+				const loginUpdateRef = doc(db, 'user', userId)
+				await updateDoc(loginUpdateRef, { loggedIn: serverTimestamp() }).catch(
+					(err) => {
+						setError('Error updating user login timestamp: ' + err.toString())
+						setLoading(false)
+						return
+					}
+				)
+
+				navigate(`/${userSnapshot.docs[0].data().username}/profile`, {
+					state: userSnapshot.docs[0].data(),
+				})
+			}
+		}
+		navigateIfLoggedIn()
+		// since navigate function won't change
+		// eslint-disable-next-line
+	}, [currentUser])
 
 	function handleFormChange(e) {
 		const { name, value } = e.target
@@ -39,51 +84,35 @@ export default function Login() {
 		setLoading(true)
 
 		// login with firestore
-		let userCredential
+		let userCred
 		try {
-			userCredential = await login(formData.email, formData.password)
+			userCred = await login(formData.email, formData.password)
 		} catch (err) {
 			// TODO: display error message
 			console.log('Error logging in', err)
-			return
-		}
-
-		if (!userCredential) {
-			console.error('error: no user login credential returned')
-			return
-		}
-
-		const { user } = userCredential
-
-		// get user object from db
-		const userQuery = query(
-			collection(db, 'user'),
-			where('userID', '==', user.uid)
-		)
-
-		let userSnapshot
-		try {
-			userSnapshot = await getDocs(userQuery)
-		} catch (err) {
-			console.error('error getting user snapshot: ', err)
-			return
-		}
-
-		if (!userSnapshot || !userSnapshot.docs[0]) {
-			console.error('error: no user login snapshot returned')
-			return
-		}
-
-		const userId = userSnapshot.docs[0].id
-		const loginUpdateRef = doc(db, 'user', userId)
-		await updateDoc(loginUpdateRef, { loggedIn: serverTimestamp() }).catch(
-			(err) => {
-				console.log('Error updating user login timestamp: ', err)
+			if (
+				err.toString() ===
+				'FirebaseError: Firebase: Error (auth/wrong-password).'
+			) {
+				setError('Wrong Password. Please try again.')
+			} else if (
+				err.toString() ===
+				'FirebaseError: Firebase: Error (auth/user-not-found).'
+			) {
+				setError('No account exists with this email')
+			} else {
+				setError(err.toString())
 			}
-		)
 
-		const userName = userSnapshot.docs[0].data().username
-		navigate(`/profile/${userName}`, { state: userSnapshot.docs[0].data() })
+			setLoading(false)
+			return
+		}
+
+		if (!userCred) {
+			setError('error: no user login credential returned')
+			setLoading(false)
+			return
+		}
 	}
 
 	return (
@@ -104,6 +133,7 @@ export default function Login() {
 					value={formData.email}
 					handleChange={handleFormChange}
 					required={true}
+					autocomplete="email"
 				/>
 				<TextInput
 					type="password"
@@ -112,6 +142,7 @@ export default function Login() {
 					value={formData.password}
 					handleChange={handleFormChange}
 					required={true}
+					autocomplete="password"
 				/>
 				<Button text="Login" color="jet" disabled={loading} />
 			</form>
@@ -120,6 +151,9 @@ export default function Login() {
 				text="Create Account"
 				handleClick={() => navigate('/create-account')}
 			/>
+			<div style={{ color: 'red' }} hidden={!error}>
+				{error}
+			</div>
 		</FullScreenContainer>
 	)
 }

@@ -1,0 +1,44 @@
+.profile-card {
+	padding: 0.75rem;
+	border: 0.15rem solid var(--jet);
+	border-radius: 3px;
+	transition: background-color 150ms ease;
+
+	&:hover {
+		background-color: var(--dough-dark1);
+		cursor: pointer;
+	}
+
+	&:active {
+		background-color: var(--dough-dark2);
+		cursor: pointer;
+	}
+
+	@media (min-width: 700px) {
+		padding: 1rem;
+	}
+
+	&__flex {
+		display: flex;
+		gap: 1rem;
+	}
+
+	&__name,
+	&__year {
+		margin-bottom: 0;
+		font-size: 1.25rem;
+	}
+
+	&__year {
+		font-weight: 400;
+	}
+
+	&__majors {
+		margin-top: 0.25rem;
+	}
+
+	&__review-label {
+		margin-top: 0.75rem;
+		font-weight: 700;
+	}
+}

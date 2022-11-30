@@ -5,39 +5,47 @@ import Login from './pages/Login'
 import Profile from './pages/Profile'
 import CreateAccount from './pages/CreateAccount'
 import React from 'react'
+import Search from './pages/Search'
+import Redirect from './pages/Redirect'
 
 const router = createBrowserRouter([
 	{
 		path: '/',
-		element: (
-			<AuthProvider>
-				<Login />
-			</AuthProvider>
-		),
-	},
-	{
-		path: '/profile/:username',
-		element: (
-			<AuthProvider>
-				<Profile />
-			</AuthProvider>
-		),
-	},
-	{
-		path: '/following/:username',
-		element: (
-			<AuthProvider>
-				<Following />
-			</AuthProvider>
-		),
-	},
-	{
-		path: '/create-account',
-		element: (
-			<AuthProvider>
-				<CreateAccount />
-			</AuthProvider>
-		),
+		element: <AuthProvider />,
+		children: [
+			{
+				path: 'create-account',
+				element: <CreateAccount />,
+			},
+			{
+				path: '',
+				element: <Login />,
+			},
+			{
+				path: ':username/profile',
+				element: <Profile />,
+			},
+			{
+				path: ':username/following',
+				element: <Following />,
+			},
+			{
+				path: ':username',
+				element: <Redirect />,
+			},
+			// {
+			// 	path: 'profile',
+			// 	element: <Redirect />,
+			// },
+			// {
+			// 	path: 'following',
+			// 	element: <Redirect />,
+			// },
+			{
+				path: 'search/:query',
+				element: <Search />,
+			},
+		],
 	},
 ])
 
