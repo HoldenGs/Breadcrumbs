@@ -43,6 +43,7 @@ export default function StyledSelect({
 	data,
 	required,
 	dark,
+	disabled,
 }) {
 	return (
 		<SSelect
@@ -54,6 +55,7 @@ export default function StyledSelect({
 			data={data}
 			required={required}
 			dark={dark}
+			disabled={disabled}
 		/>
 	)
 }

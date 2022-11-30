@@ -7,16 +7,7 @@ import ProfileCard from '../components/ProfileCard'
 import Button from '../components/Button'
 import { useLocation } from 'react-router-dom'
 import { db } from '../firebase'
-import {
-	query,
-	getDocs,
-	collection,
-	where,
-	serverTimestamp,
-	updateDoc,
-	doc,
-	addDoc,
-} from 'firebase/firestore'
+import { query, getDocs, collection, where } from 'firebase/firestore'
 
 // Search query will be read from the URL
 // Firestore query will be called from this component
@@ -27,18 +18,17 @@ import {
 // 	* Empty results message
 export default function Search() {
 	const [profiles, setProfiles] = useState([])
-	const [courses, setCourses] = useState([])
+	const [courses, setCourses] = useState([]) //eslint-disable-line
 	const [numProfiles, setNumProfiles] = useState(5)
 	const [numCourses, setNumCourses] = useState(5)
 	const [loading, setLoading] = useState(true)
+
 	const location = useLocation()
+	const qry = decodeURIComponent(location.pathname.split('/').at(-1))
 
 	useEffect(() => {
 		// Query from Firestore and store result into state
 		setLoading(true)
-
-		const qry = decodeURIComponent(location.pathname.split('/').at(-1))
-		console.log(qry)
 
 		let promises = [
 			where('username', '==', qry),
@@ -47,8 +37,6 @@ export default function Search() {
 		].map((whereFunc) => {
 			return getDocs(query(collection(db, 'user'), whereFunc))
 		})
-
-		console.log(qry.split(' ').length)
 
 		if (qry.split(' ').length > 1) {
 			promises.push(
@@ -79,19 +67,24 @@ export default function Search() {
 			setProfiles(merge)
 			setLoading(false)
 		})
-	}, [location.pathname])
+	}, [qry])
 
 	const profileCards = profiles
 		.slice(0, numProfiles)
-		.map(({ name, gradYear, major, highlightedReview }) => (
-			<ProfileCard
-				name={name}
-				gradYear={gradYear}
-				major={major}
-				reviewLabel="Latest Review"
-				review={highlightedReview}
-			/>
-		))
+		.map(
+			({ username, userID, name, gradYear, majors, minors, latestReview }) => (
+				<ProfileCard
+					name={name}
+					gradYear={gradYear}
+					majors={majors}
+					minors={minors}
+					id={userID}
+					username={username}
+					reviewLabel="Latest Review"
+					review={latestReview}
+				/>
+			)
+		)
 
 	const courseCards = courses
 		.slice(0, numCourses)
@@ -107,7 +100,7 @@ export default function Search() {
 
 	return (
 		<div className="search">
-			<Header />
+			<Header searchVal={qry} />
 			{loading ? (
 				<Loader size="lg" />
 			) : (
@@ -124,7 +117,7 @@ export default function Search() {
 							/>
 						)}
 					</div>
-					<div className="search__courses">
+					<div hidden={true} className="search__courses">
 						<h2 className="search__heading">Course Results</h2>
 						{courseCards}
 						{numCourses < courses.length && (

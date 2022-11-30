@@ -6,6 +6,7 @@ import Profile from './pages/Profile'
 import CreateAccount from './pages/CreateAccount'
 import React from 'react'
 import Search from './pages/Search'
+import Redirect from './pages/Redirect'
 
 const router = createBrowserRouter([
 	{
@@ -27,6 +28,14 @@ const router = createBrowserRouter([
 			{
 				path: 'following/:username',
 				element: <Following />,
+			},
+			{
+				path: 'profile',
+				element: <Redirect />,
+			},
+			{
+				path: 'following',
+				element: <Redirect />,
 			},
 			{
 				path: 'search/:query',
