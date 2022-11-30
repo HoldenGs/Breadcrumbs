@@ -215,7 +215,7 @@ export default function UserInfo({
 					<button
 						onClick={() => {
 							navigator.clipboard.writeText(
-								`${window.location.origin}/profile/${username}`
+								`${window.location.origin}/${username}`
 							)
 						}}
 					>

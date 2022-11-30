@@ -60,7 +60,7 @@ export default function Login() {
 					}
 				)
 
-				navigate(`/profile/${userSnapshot.docs[0].data().username}`, {
+				navigate(`/${userSnapshot.docs[0].data().username}/profile`, {
 					state: userSnapshot.docs[0].data(),
 				})
 			}

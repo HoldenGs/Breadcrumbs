@@ -30,7 +30,7 @@ export default function Profile() {
 	const { currentUser } = useAuth()
 	const [id, setID] = useState(location.state ? location.state.userID : null)
 	const [loggedInUserFollowing, setLoggedInUserFollowing] = useState()
-	const username = location.pathname.split('/').at(-1)
+	const username = location.pathname.split('/').at(-2)
 
 	// fetch ID for username of profile
 	useEffect(() => {
@@ -189,7 +189,11 @@ export default function Profile() {
 
 	return (
 		<PageContainer className="profile">
-			<Header username={username} id={id} />
+			<Header
+				username={currentUser && currentUser.uid === id ? username : null}
+				id={currentUser ? currentUser.uid : null}
+				active={currentUser && currentUser.uid === id ? 'profile' : ''}
+			/>
 			<article className="profile__article">
 				<UserInfo
 					editable={editable}

@@ -19,7 +19,7 @@ export default function TextInput({
 			value={value}
 			onChange={handleChange}
 			required={required}
-			autocomplete={autocomplete}
+			autoComplete={autocomplete}
 		/>
 	)
 }

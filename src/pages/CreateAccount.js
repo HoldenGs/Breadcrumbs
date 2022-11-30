@@ -157,7 +157,7 @@ export default function CreateAccount() {
 		}
 
 		setLoading(false)
-		navigate(`/profile/${formData.username}`, {
+		navigate(`/${formData.username}/profile`, {
 			state: snapshot.data(),
 		})
 	}

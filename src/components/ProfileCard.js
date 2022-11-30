@@ -38,7 +38,7 @@ export default function ProfileCard({
 	const years = ['1st Year', '2nd Year', '3rd Year', '4th Year']
 	return (
 		<div className="profile-card">
-			<NavButton dest={`/profile/${username}`} text={name} userID={id} />
+			<NavButton dest={`/${username}/profile`} text={name} userID={id} />
 			<h2 className="profile-card__year">{years[2026 - gradYear]}</h2>
 			{listMajors()}
 			{listMinors()}
