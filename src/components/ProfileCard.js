@@ -24,7 +24,6 @@ export default function ProfileCard({
 
 	function listMajor(majors) {
 		if (!majors || majors.length === 0) return
-		console.log(majors)
 		return <p className="user-info__name">{`${majors.join(', ')}`}</p>
 	}
 

@@ -10,51 +10,29 @@ import Search from './pages/Search'
 const router = createBrowserRouter([
 	{
 		path: '/',
-		element: (
-			<AuthProvider>
-				<Login />
-			</AuthProvider>
-		),
-	},
-	{
-		path: '/profile/:username',
-		element: (
-			<AuthProvider>
-				<Profile />
-			</AuthProvider>
-		),
-	},
-	{
-		path: '/following/:username',
-		element: (
-			<AuthProvider>
-				<Following />
-			</AuthProvider>
-		),
-	},
-	{
-		path: '/create-account',
-		element: (
-			<AuthProvider>
-				<CreateAccount />
-			</AuthProvider>
-		),
-	},
-	{
-		path: '/search',
-		element: (
-			<AuthProvider>
-				<Search />
-			</AuthProvider>
-		),
-	},
-	{
-		path: '/search/:query',
-		element: (
-			<AuthProvider>
-				<Search />
-			</AuthProvider>
-		),
+		element: <AuthProvider />,
+		children: [
+			{
+				path: 'create-account',
+				element: <CreateAccount />,
+			},
+			{
+				path: '',
+				element: <Login />,
+			},
+			{
+				path: 'profile/:username',
+				element: <Profile />,
+			},
+			{
+				path: 'following/:username',
+				element: <Following />,
+			},
+			{
+				path: 'search/:query',
+				element: <Search />,
+			},
+		],
 	},
 ])
 

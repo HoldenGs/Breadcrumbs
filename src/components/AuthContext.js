@@ -1,4 +1,5 @@
 import React, { useContext, useState, useEffect } from 'react'
+import { Outlet } from 'react-router-dom'
 import {
 	signInWithEmailAndPassword,
 	createUserWithEmailAndPassword,
@@ -65,7 +66,7 @@ export function AuthProvider({ children }) {
 
 	return (
 		<AuthContext.Provider value={value}>
-			{!loading && children}
+			{!loading && <Outlet />}
 		</AuthContext.Provider>
 	)
 }
