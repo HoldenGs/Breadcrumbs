@@ -21,6 +21,7 @@ export default function Login() {
 		password: '',
 	})
 	const [loading, setLoading] = useState(false)
+	const [error, setError] = useState('')
 	const navigate = useNavigate()
 	const { login, currentUser } = useAuth()
 
@@ -40,11 +41,13 @@ export default function Login() {
 					userSnapshot = await getDocs(userQuery)
 				} catch (err) {
 					console.error('error getting user snapshot: ', err)
+					setError(err.toString())
 					return
 				}
 
 				if (!userSnapshot || !userSnapshot.docs[0]) {
 					console.error('error: no user login snapshot returned')
+					setError('error: no user login snapshot returned')
 					return
 				}
 
@@ -53,6 +56,7 @@ export default function Login() {
 				await updateDoc(loginUpdateRef, { loggedIn: serverTimestamp() }).catch(
 					(err) => {
 						console.log('Error updating user login timestamp: ', err)
+						setError('Error updating user login timestamp: ' + err.toString())
 					}
 				)
 
@@ -85,11 +89,26 @@ export default function Login() {
 		} catch (err) {
 			// TODO: display error message
 			console.log('Error logging in', err)
+			if (
+				err.toString() ===
+				'FirebaseError: Firebase: Error (auth/wrong-password).'
+			) {
+				setError('Wrong Password. Please try again.')
+			} else if (
+				err.toString() ===
+				'FirebaseError: Firebase: Error (auth/user-not-found).'
+			) {
+				setError('No account exists with this email')
+			} else {
+				setError(err.toString())
+			}
+
 			return
 		}
 
 		if (!userCred) {
 			console.error('error: no user login credential returned')
+			setError('error: no user login credential returned')
 			return
 		}
 	}
@@ -128,6 +147,9 @@ export default function Login() {
 				text="Create Account"
 				handleClick={() => navigate('/create-account')}
 			/>
+			<div style={{ color: 'red' }} hidden={!error}>
+				{error}
+			</div>
 		</FullScreenContainer>
 	)
 }
