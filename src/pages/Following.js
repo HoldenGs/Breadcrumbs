@@ -1,13 +1,14 @@
 import { React, useState, useEffect } from 'react'
 import Header from '../components/Header'
 import ProfileCard from '../components/ProfileCard'
-import { useLocation } from 'react-router-dom'
+import { useNavigate, useLocation } from 'react-router-dom'
 import { db } from '../firebase'
 import { collection, getDocs, where, query } from 'firebase/firestore'
 
 export default function Following() {
 	const [following, setFollowing] = useState([])
 	const location = useLocation()
+	const navigate = useNavigate()
 	const [id, setID] = useState(location.state ? location.state.userID : null)
 	const username = location.pathname.split('/').at(-1) // /following/:username
 	const renderFollowingUsers = followingUsers()
@@ -19,6 +20,10 @@ export default function Following() {
 				const userSnapshot = await getDocs(
 					query(collection(db, 'user'), where('username', '==', username))
 				)
+
+				// navigate to / if user does not exist
+				if (!userSnapshot || userSnapshot.empty) return navigate('/')
+
 				setID(userSnapshot.docs[0].data().userID)
 			}
 			const querySnapshot = await getDocs(
@@ -29,7 +34,7 @@ export default function Following() {
 			})
 		}
 		asyncFetchFollowing()
-	}, [username, id])
+	}, [username, id]) // eslint-disable-line
 
 	function followingUsers() {
 		if (following.length === 0) {
