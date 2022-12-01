@@ -1,9 +1,13 @@
 import PropTypes from 'prop-types'
 
-export default function ArticleContainer({ className, children }) {
+export default function ArticleContainer({ type, className, children }) {
 	return (
 		<article
-			className={'article-container' + (className ? ` ${className}` : '')}
+			className={
+				'article-container' +
+				(type ? ` article-container--${type}` : '') +
+				(className ? ` ${className}` : '')
+			}
 		>
 			{children}
 		</article>
@@ -11,5 +15,6 @@ export default function ArticleContainer({ className, children }) {
 }
 
 ArticleContainer.propTypes = {
+	type: PropTypes.string,
 	className: PropTypes.string,
 }

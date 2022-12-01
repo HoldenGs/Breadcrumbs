@@ -67,7 +67,7 @@ export default function Following() {
 				id={currentUser ? currentUser.uid : null}
 				active={currentUser && currentUser.uid === id ? 'following' : ''}
 			/>
-			<ArticleContainer className="following__article">
+			<ArticleContainer type="dense" className="following__article">
 				<h1 className="following__heading">Following</h1>
 				<div className="following__cards">{followingCards()}</div>
 			</ArticleContainer>

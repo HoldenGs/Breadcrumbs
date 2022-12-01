@@ -8,4 +8,8 @@
 		grid-template: 1fr / 1fr 2fr;
 		margin-top: 3rem;
 	}
+
+	&--dense {
+		gap: 0.75rem;
+	}
 }

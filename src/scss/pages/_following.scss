@@ -1,10 +1,6 @@
 .following {
 	&__heading {
-		font-size: 1.75rem;
-
-		@media (min-width: 700px) {
-			font-size: 2rem;
-		}
+		font-size: 2rem;
 	}
 
 	&__cards {

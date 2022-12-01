@@ -106,7 +106,7 @@ export default function Search() {
 				<Loader size="lg" />
 			) : (
 				<>
-					<ArticleContainer className="search__profiles">
+					<ArticleContainer type="dense" className="search__profiles">
 						<h2 className="search__heading">Profile Results</h2>
 						<div className="search__profile-cards">
 							{profiles.length !== 0 ? (
