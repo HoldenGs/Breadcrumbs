@@ -23,7 +23,7 @@ export default function Header({ username, id, searchVal, active }) {
 	}
 
 	return (
-		<div className="header">
+		<header className="header">
 			<div className="header__topbar">
 				<Link to="/profile">
 					<img
@@ -38,7 +38,7 @@ export default function Header({ username, id, searchVal, active }) {
 					handleClick={handleSearch}
 				/>
 				<IconButton
-					type="logout"
+					type="medium"
 					iconURL="/icons/logout.svg"
 					alt="Logout"
 					handleClick={handleLogout}
@@ -58,7 +58,7 @@ export default function Header({ username, id, searchVal, active }) {
 					active={active === 'following'}
 				/>
 			</div>
-		</div>
+		</header>
 	)
 }
 

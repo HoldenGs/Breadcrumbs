@@ -1,3 +1,15 @@
 .profile {
-	background-color: var(--dough);
+	&__info {
+		& > .button {
+			margin-top: 0.5rem;
+		}
+	}
+
+	&__quarters {
+		padding-bottom: 1.5rem;
+
+		@media (min-width: 700px) {
+			padding-bottom: 3rem;
+		}
+	}
 }

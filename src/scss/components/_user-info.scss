@@ -1,0 +1,49 @@
+.user-info {
+	&__edit-grid {
+		display: grid;
+		grid-template: repeat(4, auto) / 1fr 1fr;
+		gap: 0.5rem;
+	}
+
+	&__edit-majors,
+	&__edit-minors {
+		grid-column: 1 / span 2;
+	}
+	&__name {
+		margin-bottom: 0;
+		font-size: 2rem;
+	}
+
+	&__flex {
+		display: flex;
+		gap: 1rem;
+	}
+
+	&__username,
+	&__year {
+		font-size: 1.25rem;
+	}
+
+	&__username {
+		font-weight: 700;
+	}
+
+	&__majors {
+		margin-top: 1.25rem;
+		font-weight: 700;
+	}
+
+	&__minors {
+		margin-top: 0.15rem;
+	}
+
+	&__buttons {
+		display: flex;
+		gap: 0.5rem;
+		margin-top: 1.25rem;
+
+		& .button {
+			height: 2.2rem;
+		}
+	}
+}

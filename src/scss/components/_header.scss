@@ -1,24 +1,17 @@
 .header {
-	display: flex;
-	flex-direction: column;
-	gap: 1.5rem;
-	padding-bottom: 1.5rem;
+	display: grid;
+	grid-template: auto auto / 1fr;
+	gap: 2rem;
 	background-color: var(--dough);
 
 	@media (min-width: 700px) {
-		flex-direction: row;
+		grid-template: auto / 1fr 2fr;
 		gap: 3rem;
-		padding-bottom: 0;
 	}
 
 	&__topbar {
 		display: flex;
 		gap: 1rem;
-		width: 100%;
-
-		@media (min-width: 700px) {
-			width: 30%;
-		}
 	}
 
 	&__icon {
@@ -29,9 +22,5 @@
 		display: flex;
 		justify-content: center;
 		gap: 1.5rem;
-
-		@media (min-width: 700px) {
-			width: calc(70% - 3rem);
-		}
 	}
 }

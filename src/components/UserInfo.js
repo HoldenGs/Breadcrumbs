@@ -1,9 +1,4 @@
 import React, { useState, useEffect } from 'react'
-import TextInput from './TextInput'
-import StyledSelect from './StyledSelect'
-import StyledMultiSelect from './StyledMultiSelect'
-import useAuth from '../components/AuthContext'
-import dataStore from '../helpers/dataStore'
 import { db } from '../firebase'
 import {
 	query,
@@ -15,6 +10,14 @@ import {
 	arrayRemove,
 	arrayUnion,
 } from 'firebase/firestore'
+
+import useAuth from '../components/AuthContext'
+import dataStore from '../helpers/dataStore'
+
+import TextInput from './TextInput'
+import StyledSelect from './StyledSelect'
+import StyledMultiSelect from './StyledMultiSelect'
+import Button from './Button'
 
 const YEARS = {
 	2023: '4th Year',
@@ -98,16 +101,6 @@ export default function UserInfo({
 		})
 	}
 
-	function follow() {
-		if (!currentUser || currentUser.uid === info.userId) return
-
-		return (
-			<button onClick={() => handleFollowButton()}>
-				{loggedInUserFollowing ? 'Unfollow' : 'Follow'}
-			</button>
-		)
-	}
-
 	function handleFollowButton() {
 		const ref = doc(db, 'user', info.docID)
 
@@ -136,32 +129,17 @@ export default function UserInfo({
 		})
 	}
 
-	function listMajors() {
-		if (!info.majors?.length) return
-
-		return <div className="user-info__name">{`${info.majors.join(', ')}`}</div>
-	}
-
-	function listMinors() {
-		if (!info.minors?.length) return
-
-		return (
-			<div className="user-info__name">{`Minor: ${info.minors.join(
-				', '
-			)}`}</div>
-		)
-	}
-
 	return (
 		<div className="user-info">
 			{editable ? (
-				<>
+				<div className="user-info__edit-grid">
 					<TextInput
 						type="firstName"
 						name="firstName"
 						placeholder="First Name"
 						value={info.firstName}
 						handleChange={setProperty}
+						color="dough"
 					/>
 					<TextInput
 						type="lastName"
@@ -169,6 +147,7 @@ export default function UserInfo({
 						placeholder="Last Name"
 						value={info.lastName}
 						handleChange={setProperty}
+						color="dough"
 					/>
 					<TextInput
 						type="username"
@@ -176,6 +155,7 @@ export default function UserInfo({
 						placeholder="username"
 						value={info.username}
 						handleChange={setProperty}
+						color="dough"
 					/>
 					<StyledSelect
 						name="year"
@@ -185,6 +165,7 @@ export default function UserInfo({
 						data={Object.keys(YEARS)}
 					/>
 					<StyledMultiSelect
+						className="user-info__edit-majors"
 						placeholder="Major"
 						searchable
 						nothingFound="Invalid Major"
@@ -195,6 +176,7 @@ export default function UserInfo({
 						maxSelectedValues={3}
 					/>
 					<StyledMultiSelect
+						className="user-info__edit-minors"
 						placeholder="Minor"
 						searchable
 						nothingFound="Invalid Minor"
@@ -204,24 +186,40 @@ export default function UserInfo({
 						required
 						maxSelectedValues={3}
 					/>
-				</>
+				</div>
 			) : (
 				<>
-					<div className="user-info__name">{`${info.firstName} ${info.lastName}`}</div>
-					<div className="user-info__name">{`@${info.username}`}</div>
-					{listMajors()}
-					{listMinors()}
-					<div className="user-info__year">{YEARS[info.gradYear]}</div>
-					<button
-						onClick={() => {
-							navigator.clipboard.writeText(
-								`${window.location.origin}/${username}`
-							)
-						}}
-					>
-						Share
-					</button>
-					{follow()}
+					<h1 className="user-info__name">{`${info.firstName} ${info.lastName}`}</h1>
+					<div className="user-info__flex">
+						<p className="user-info__username">{`@${info.username}`}</p>
+						<p className="user-info__year">{YEARS[info.gradYear]}</p>
+					</div>
+					{!!info.majors?.length && (
+						<p className="user-info__majors">{`${info.majors.join(', ')}`}</p>
+					)}
+					{!!info.minors?.length && (
+						<p className="user-info__minors">{`Minor${
+							info.minors.length > 1 ? 's' : ''
+						}: ${info.minors.join(', ')}`}</p>
+					)}
+					<div className="user-info__buttons">
+						{currentUser && currentUser.uid !== info.userId && (
+							<Button
+								text={loggedInUserFollowing ? 'Unfollow' : 'Follow'}
+								handleClick={() => handleFollowButton()}
+								color={loggedInUserFollowing ? 'dough' : 'tan'}
+							></Button>
+						)}
+						<Button
+							text="Share"
+							handleClick={() => {
+								navigator.clipboard.writeText(
+									`${window.location.origin}/${username}`
+								)
+							}}
+							color="dough"
+						/>
+					</div>
 				</>
 			)}
 		</div>

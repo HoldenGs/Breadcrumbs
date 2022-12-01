@@ -1,11 +1,14 @@
-import { React, useState, useEffect } from 'react'
-import PageContainer from '../components/PageContainer'
-import Header from '../components/Header'
-import ProfileCard from '../components/ProfileCard'
+import { useState, useEffect } from 'react'
 import { useNavigate, useLocation } from 'react-router-dom'
 import { db } from '../firebase'
 import { collection, getDocs, where, query } from 'firebase/firestore'
+
 import useAuth from '../components/AuthContext'
+
+import PageContainer from '../components/PageContainer'
+import ArticleContainer from '../components/ArticleContainer'
+import Header from '../components/Header'
+import ProfileCard from '../components/ProfileCard'
 
 export default function Following() {
 	const navigate = useNavigate()
@@ -64,10 +67,10 @@ export default function Following() {
 				id={currentUser ? currentUser.uid : null}
 				active={currentUser && currentUser.uid === id ? 'following' : ''}
 			/>
-			<article className="following__article">
+			<ArticleContainer type="dense" className="following__article">
 				<h1 className="following__heading">Following</h1>
 				<div className="following__cards">{followingCards()}</div>
-			</article>
+			</ArticleContainer>
 		</PageContainer>
 	)
 }

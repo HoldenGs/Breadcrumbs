@@ -99,7 +99,7 @@ export default function CourseCard({
 							})()}
 						/>
 						<IconButton
-							type="remove-course"
+							type="medium"
 							iconURL="/icons/icons8-close.svg"
 							alt="Remove Course"
 							handleClick={removeCourseCard}
