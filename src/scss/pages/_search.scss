@@ -2,4 +2,16 @@
 	&__heading {
 		font-size: 2rem;
 	}
+
+	&__profile-cards {
+		padding-bottom: 1.5rem;
+
+		@media (min-width: 700px) {
+			padding-bottom: 3rem;
+		}
+	}
+
+	&__profile-cards > .profile-card:not(:first-of-type) {
+		margin-top: 1rem;
+	}
 }
