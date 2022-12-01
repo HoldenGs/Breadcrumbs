@@ -28,7 +28,7 @@ export default function Quarter({
 				<div className="quarter__name">{name}</div>
 				<div className="quarter__reviews">
 					{reviews
-						.sort((a, b) => a.department < b.department)
+						.sort((a, b) => a.department.localeCompare(b.department))
 						.map((review) => (
 							<CourseCard
 								key={review.reviewID}

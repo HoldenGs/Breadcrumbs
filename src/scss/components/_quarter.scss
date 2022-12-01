@@ -1,8 +1,10 @@
 .quarter {
-	margin: 2rem auto;
-	width: 85%;
 	background-color: var(--dough);
 	color: var(--jet);
+
+	&:not(:first-of-type) {
+		margin-top: 2rem;
+	}
 
 	&__name {
 		margin-bottom: 0.75rem;

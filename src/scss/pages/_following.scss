@@ -1,21 +1,8 @@
 .following {
-	&__article {
-		display: flex;
-		gap: 1rem;
-		flex-direction: column;
-
-		@media (min-width: 700px) {
-			flex-direction: row;
-			gap: 3rem;
-			margin-top: 3rem;
-		}
-	}
-
 	&__heading {
 		font-size: 1.75rem;
 
 		@media (min-width: 700px) {
-			width: 30%;
 			font-size: 2rem;
 		}
 	}
@@ -24,7 +11,6 @@
 		padding-bottom: 1.5rem;
 
 		@media (min-width: 700px) {
-			width: calc(70% - 3rem);
 			padding-bottom: 3rem;
 		}
 

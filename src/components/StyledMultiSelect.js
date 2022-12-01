@@ -7,7 +7,7 @@ const SMultiSelect = styled(MultiSelect)`
 		padding-inline: 0.5rem;
 		background-color: ${(props) =>
 			props.dark ? 'var(--tan)' : 'var(--dough)'};
-		border: 0.15rem solid var(--jet);
+		border: 0.2rem solid var(--jet);
 		border-radius: 3px;
 		color: var(--jet);
 		font-family: 'Lexend', sans-serif;
@@ -34,7 +34,7 @@ const SMultiSelect = styled(MultiSelect)`
 	.mantine-MultiSelect-value {
 		color: var(--jet);
 		background-color: var(--dough);
-		border: 0.15rem solid var(--jet);
+		border: 0.2rem solid var(--jet);
 		border-radius: 3px;
 		transition: background-color 150ms ease;
 

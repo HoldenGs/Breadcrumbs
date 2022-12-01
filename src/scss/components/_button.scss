@@ -2,8 +2,9 @@
 	display: block;
 	height: 2.6rem;
 	width: 100%;
+	padding: 0;
 	background-color: var(--tan);
-	border: 0.15rem solid var(--jet);
+	border: 0.2rem solid var(--jet);
 	border-radius: 3px;
 	font-size: 1rem;
 	color: var(--jet);
@@ -33,6 +34,18 @@
 
 		&:active {
 			background-color: var(--jet-dark2);
+		}
+	}
+
+	&--dough {
+		background-color: var(--dough);
+
+		&:hover {
+			background-color: var(--dough-dark1);
+		}
+
+		&:active {
+			background-color: var(--dough-dark2);
 		}
 	}
 }

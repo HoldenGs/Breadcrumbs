@@ -1,13 +1,6 @@
 import { React, useState, useEffect } from 'react'
-import PageContainer from '../components/PageContainer'
-import Button from '../components/Button'
-import Header from '../components/Header'
-import Quarter from '../components/Quarter'
-import UserInfo from '../components/UserInfo'
 import { useNavigate, useLocation } from 'react-router-dom'
-import useAuth from '../components/AuthContext'
 import { db } from '../firebase'
-import dataStore from '../helpers/dataStore'
 import {
 	query,
 	getDocs,
@@ -19,6 +12,16 @@ import {
 	addDoc,
 	deleteDoc,
 } from 'firebase/firestore'
+
+import dataStore from '../helpers/dataStore'
+import useAuth from '../components/AuthContext'
+
+import PageContainer from '../components/PageContainer'
+import ArticleContainer from '../components/ArticleContainer'
+import Button from '../components/Button'
+import Header from '../components/Header'
+import Quarter from '../components/Quarter'
+import UserInfo from '../components/UserInfo'
 
 export default function Profile() {
 	const [editable, setEditable] = useState(false)
@@ -77,14 +80,6 @@ export default function Profile() {
 			)
 		})
 	}, [])
-
-	//can't edit another user's profile
-	function editProf() {
-		if (!currentUser || currentUser.uid !== id) return
-		return (
-			<Button text={editable ? 'Save' : 'Edit'} handleClick={handleEditProf} />
-		)
-	}
 
 	function handleEditProf() {
 		setEditable(!editable)
@@ -194,25 +189,34 @@ export default function Profile() {
 				id={currentUser ? currentUser.uid : null}
 				active={currentUser && currentUser.uid === id ? 'profile' : ''}
 			/>
-			<article className="profile__article">
-				<UserInfo
-					editable={editable}
-					username={username}
-					loggedInUserFollowing={loggedInUserFollowing}
-					setLoggedInUserFollowing={setLoggedInUserFollowing}
-				/>
-				{editProf()}
-				{quarters.map((quarter) => (
-					<Quarter
-						userID={id}
-						key={quarter}
-						name={quarter}
+			<ArticleContainer className="profile__article">
+				<div className="profile__info">
+					<UserInfo
 						editable={editable}
-						reviews={reviews.filter((review) => review.quarter === quarter)}
-						handleReviewChange={handleReviewChange}
+						username={username}
+						loggedInUserFollowing={loggedInUserFollowing}
+						setLoggedInUserFollowing={setLoggedInUserFollowing}
 					/>
-				))}
-			</article>
+					{currentUser && currentUser.uid === id && (
+						<Button
+							text={editable ? 'Save' : 'Edit'}
+							handleClick={handleEditProf}
+						/>
+					)}
+				</div>
+				<div className="profile__quarters">
+					{quarters.map((quarter) => (
+						<Quarter
+							userID={id}
+							key={quarter}
+							name={quarter}
+							editable={editable}
+							reviews={reviews.filter((review) => review.quarter === quarter)}
+							handleReviewChange={handleReviewChange}
+						/>
+					))}
+				</div>
+			</ArticleContainer>
 		</PageContainer>
 	)
 }
