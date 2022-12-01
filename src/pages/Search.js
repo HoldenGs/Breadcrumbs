@@ -3,6 +3,7 @@ import { useState, useEffect } from 'react'
 import { Loader } from '@mantine/core'
 
 import PageContainer from '../components/PageContainer'
+import ArticleContainer from '../components/ArticleContainer'
 import Header from '../components/Header'
 import ProfileCard from '../components/ProfileCard'
 import Button from '../components/Button'
@@ -105,24 +106,26 @@ export default function Search() {
 				<Loader size="lg" />
 			) : (
 				<>
-					<div className="search__profiles">
+					<ArticleContainer className="search__profiles">
 						<h2 className="search__heading">Profile Results</h2>
-						{profiles.length !== 0 ? (
-							profileCards
-						) : (
-							<p>
-								<i>No profile results found</i>
-							</p>
-						)}
-						{numProfiles < profiles.length && (
-							<Button
-								text="Show More"
-								handleClick={() =>
-									setNumProfiles((prevNumProfiles) => prevNumProfiles + 5)
-								}
-							/>
-						)}
-					</div>
+						<div className="search__profile-cards">
+							{profiles.length !== 0 ? (
+								profileCards
+							) : (
+								<p>
+									<i>No profile results found</i>
+								</p>
+							)}
+							{numProfiles < profiles.length && (
+								<Button
+									text="Show More"
+									handleClick={() =>
+										setNumProfiles((prevNumProfiles) => prevNumProfiles + 5)
+									}
+								/>
+							)}
+						</div>
+					</ArticleContainer>
 					<div hidden={true} className="search__courses">
 						<h2 className="search__heading">Course Results</h2>
 						{courseCards}
