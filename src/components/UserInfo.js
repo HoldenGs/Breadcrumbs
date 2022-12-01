@@ -101,16 +101,6 @@ export default function UserInfo({
 		})
 	}
 
-	function follow() {
-		if (!currentUser || currentUser.uid === info.userId) return
-
-		return (
-			<button onClick={() => handleFollowButton()}>
-				{loggedInUserFollowing ? 'Unfollow' : 'Follow'}
-			</button>
-		)
-	}
-
 	function handleFollowButton() {
 		const ref = doc(db, 'user', info.docID)
 
