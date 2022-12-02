@@ -27,16 +27,14 @@ export default function Quarter({
 			<div className="quarter" hidden={!editable && !reviews.length}>
 				<div className="quarter__name">{name}</div>
 				<div className="quarter__reviews">
-					{reviews
-						.sort((a, b) => a.department.localeCompare(b.department))
-						.map((review) => (
-							<CourseCard
-								key={review.reviewID}
-								editable={editable}
-								reviewInfo={review}
-								handleReviewChange={handleReviewChange}
-							/>
-						))}
+					{reviews.map((review) => (
+						<CourseCard
+							key={review.reviewID}
+							editable={editable}
+							reviewInfo={review}
+							handleReviewChange={handleReviewChange}
+						/>
+					))}
 					{editable && (
 						<button className="quarter__add-course" onClick={addCourseCard}>
 							Add course
