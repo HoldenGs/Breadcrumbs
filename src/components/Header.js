@@ -9,14 +9,14 @@ import NavButton from './NavButton'
 // username/id params are to pass through to profile/following pages
 export default function Header({ username, id, searchVal, active }) {
 	const [query, setQuery] = useState(searchVal)
-	const { logout } = useAuth()
+	const { currentUser, logout } = useAuth()
 	const navigate = useNavigate()
 
 	async function handleSearch(e) {
 		navigate(`/search/${encodeURIComponent(query)}`)
 	}
 
-	function handleLogout() {
+	function handleAuthChange() {
 		logout().finally(() => {
 			navigate('/')
 		})
@@ -39,9 +39,9 @@ export default function Header({ username, id, searchVal, active }) {
 				/>
 				<IconButton
 					type="medium"
-					iconURL="/icons/logout.svg"
-					alt="Logout"
-					handleClick={handleLogout}
+					iconURL={currentUser ? '/icons/logout.svg' : '/icons/login.svg'}
+					alt={currentUser ? 'Logout' : 'Login'}
+					handleClick={handleAuthChange}
 				/>
 			</div>
 			<div className="header__navbar">
