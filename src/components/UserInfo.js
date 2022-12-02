@@ -44,6 +44,7 @@ export default function UserInfo({
 		username: '',
 		docID: '',
 	})
+	const [share, setShare] = useState('Share')
 
 	const [majors, setMajors] = useState([])
 	const [minors, setMinors] = useState([])
@@ -129,6 +130,12 @@ export default function UserInfo({
 		})
 	}
 
+	function handleShare() {
+		navigator.clipboard.writeText(`${window.location.origin}/${username}`)
+		setShare('Copied!')
+		setTimeout(() => setShare('Share'), 2000)
+	}
+
 	return (
 		<div className="user-info">
 			{editable ? (
@@ -210,15 +217,7 @@ export default function UserInfo({
 								color={loggedInUserFollowing ? 'dough' : 'tan'}
 							></Button>
 						)}
-						<Button
-							text="Share"
-							handleClick={() => {
-								navigator.clipboard.writeText(
-									`${window.location.origin}/${username}`
-								)
-							}}
-							color="dough"
-						/>
+						<Button text={share} handleClick={handleShare} color="dough" />
 					</div>
 				</>
 			)}
