@@ -2,6 +2,8 @@
 
 A student-centric course recommendation platform.
 
+Find our hosted app [here:](https://breadcrumbs.wumpler.com/) https://breadcrumbs.wumpler.com/
+
 ## Installation
 
 It's fairly simple!
