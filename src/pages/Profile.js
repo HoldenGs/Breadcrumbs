@@ -63,7 +63,7 @@ export default function Profile() {
 				query(collection(db, 'Reviews'), where('username', '==', username))
 			)
 			querySnapshot.forEach((doc) => {
-				setReviews((arr) => [...arr, doc.data()])
+				setReviews((previous) => sortReviews([...previous, doc.data()]))
 			})
 		}
 		fetchReviews()
@@ -80,6 +80,10 @@ export default function Profile() {
 			)
 		})
 	}, [])
+
+	function sortReviews(array) {
+		return array.sort((a, b) => a.department.localeCompare(b.department))
+	}
 
 	function handleEditProf() {
 		setEditable(!editable)
@@ -135,8 +139,11 @@ export default function Profile() {
 					latestReview: review,
 				})
 			}
+
 			fetchDocs()
 		})
+
+		setReviews(sortReviews(reviews))
 	}
 
 	function handleReviewChange(changedReview, remove = false) {
